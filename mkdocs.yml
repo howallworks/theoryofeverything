@@ -2,6 +2,7 @@ site_name: Theory of everything
 
 theme:
     name: 'material'
+    custom_dir: overrides
     language: en
     palette:
 
