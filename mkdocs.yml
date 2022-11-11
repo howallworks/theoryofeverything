@@ -56,7 +56,10 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search
+  - search:
+      lang: 
+        - en
+        - ru
   - roamlinks 
   - mermaid2
 
