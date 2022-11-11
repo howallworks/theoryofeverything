@@ -2,6 +2,7 @@ site_name: Theory of everything
 
 theme:
     name: 'material'
+    language: en
     palette:
 
     # Light mode
