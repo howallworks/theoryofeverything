@@ -2,7 +2,7 @@ site_name: Theory of everything
 
 theme:
     name: 'material'
-    language: en
+    language: ru
     palette:
 
     # Light mode
@@ -26,10 +26,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /theoryofeverything/en/ 
+      link: /theoryofeverything/en/Теория всего/ 
       lang: en
     - name: Русский
-      link: /theoryofeverything/ru/
+      link: /theoryofeverything/ru/Теория всего/
       lang: ru
 
 # Extensions
