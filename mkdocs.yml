@@ -25,14 +25,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
         
-extra:
-  alternate:
-    - name: English
-      link: /theoryofeverything/en/Теория всего/ 
-      lang: en
-    - name: Русский
-      link: /theoryofeverything/ru/Теория всего/
-      lang: ru
+#extra:
+ # alternate:
+ #   - name: English
+ #     link: /theoryofeverything/en/Теория всего/ 
+  #    lang: en
+  #  - name: Русский
+  #    link: /theoryofeverything/ru/Теория всего/
+  #    lang: ru
 
 # Extensions
 markdown_extensions:
@@ -62,6 +62,15 @@ plugins:
         - ru
   - roamlinks 
   - mermaid2
+  - i18n:
+      default_language: ru
+      languages:
+        en:
+          name: English
+          build: true
+        ru:
+          name: Русский
+          build: true
 
 extra_javascript:
   - javascripts/mathjax.js
