@@ -68,9 +68,16 @@ plugins:
         en:
           name: English
           build: true
+          site_name: Theory of everything
         ru:
           name: Русский
           build: true
+          site_name: Теория всего
+      nav_translations:
+        en:
+          indax: Theory of everything
+        ru:
+          indax: Теория всего
 
 extra_javascript:
   - javascripts/mathjax.js
