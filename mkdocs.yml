@@ -74,10 +74,13 @@ plugins:
           build: true
           site_name: Теория всего
       nav_translations:
+        Home: Теория всего
         en:
           Index: Theory of everything
+          Home: Theory of everything
         ru:
-          Index.ru: Теория всего
+          Index: Теория всего
+          Home: Теория всего
 
 extra_javascript:
   - javascripts/mathjax.js
