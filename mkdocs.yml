@@ -75,9 +75,9 @@ plugins:
           site_name: Теория всего
       nav_translations:
         en:
-          indax: Theory of everything
+          index: Theory of everything
         ru:
-          indax: Теория всего
+          index: Теория всего
 
 extra_javascript:
   - javascripts/mathjax.js
