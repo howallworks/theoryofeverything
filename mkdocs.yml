@@ -25,14 +25,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
         
-#extra:
- # alternate:
- #   - name: English
- #     link: /theoryofeverything/en/Теория всего/ 
-  #    lang: en
-  #  - name: Русский
-  #    link: /theoryofeverything/ru/Теория всего/
-  #    lang: ru
+extra:
+  alternate:
+    - name: English
+      link: /theoryofeverything/en/ 
+      lang: en
+    - name: Русский
+      link: /theoryofeverything/ru/
+      lang: ru
 
 # Extensions
 markdown_extensions:
