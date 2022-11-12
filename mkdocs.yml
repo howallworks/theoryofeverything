@@ -75,9 +75,9 @@ plugins:
           site_name: Теория всего
       nav_translations:
         en:
-          Элементарные частицы: Theory of everything
+          Index: Theory of everything
         ru:
-          index.ru: Теория всего
+          Index.ru: Теория всего
 
 extra_javascript:
   - javascripts/mathjax.js
