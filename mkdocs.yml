@@ -2,7 +2,7 @@ site_name: Theory of everything
 
 theme:
     name: 'material'
-    language: ru
+    language: en
     features:
         - navigation.instant
     palette:
@@ -63,7 +63,7 @@ plugins:
   - roamlinks 
   - mermaid2
   - i18n:
-      default_language: ru
+      default_language: en
       languages:
         en:
           name: English
@@ -76,8 +76,14 @@ plugins:
       nav_translations:
         en:
           Index: Theory of everything
+          ElementaryParticles: Elementary particles
+          ParticlesOfStandardModel: Particles of Standard Model
+          TermsOrAbbreviationsAndTheirDetails: Terms or abbreviations and their details
         ru:
           Index: Теория всего
+          ElementaryParticles: Элементарные частицы
+          ParticlesOfStandardModel: Частицы Стандартной модели
+          TermsOrAbbreviationsAndTheirDetails: Термины, сокращения и их детализация
 
 extra_javascript:
   - javascripts/mathjax.js
