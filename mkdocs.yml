@@ -78,12 +78,12 @@ plugins:
           Index: Theory of everything
           ElementaryParticles: Elementary particles
           ParticlesOfStandardModel: Particles of Standard Model
-          TermsOrAbbreviationsAndTheirDetails: Terms or abbreviations and their details
+          TermsOrAbbreviations: Terms or abbreviations and their details
         ru:
           Index: Теория всего
           ElementaryParticles: Элементарные частицы
           ParticlesOfStandardModel: Частицы Стандартной модели
-          TermsOrAbbreviationsAndTheirDetails: Термины, сокращения и их детализация
+          TermsOrAbbreviations: Термины, сокращения и их детализация
 
 extra_javascript:
   - javascripts/mathjax.js
