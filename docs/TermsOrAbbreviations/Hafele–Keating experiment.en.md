@@ -1,0 +1,12 @@
+
+[**Hafele–Keating experiment**](https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment).This experiment is one of the tests of the theory of relativity, which directly demonstrated the reality of "time slowdown" for moving objects.
+
+In October 1971, Hafele and Keating flew around the world twice, first to the east, then to the west, with four sets of new atomic clocks, after which they compared the "traveling" clocks with the clocks left at the US Naval Observatory (US NAVY). The flights were carried out on conventional airliners by regular commercial flights.
+
+The eastbound flight began at 19:30 UTC on October 4, 1971 and ended at 12:55 UTC on October 7, 1971 (duration 65.42 hours); the route of the WMO USA — Washington — London — Frankfurt — Istanbul — Beirut — Tehran — New Delhi — Bangkok — Hong Kong — Tokyo — Honolulu — Los Angeles — Dallas — Washington — WMO USA. The average speed relative to the earth's surface was 243 m/s, the average altitude above sea level was 8.90 km, the average latitude along the route was 34 ° s.w.
+
+In the western direction, the flight was started at 19:40 UTC on October 13, 1971, ended after 80.33 hours at 04:00 UTC on October 17, 1971. Route: WMO USA — Washington — Los Angeles — Honolulu — Guam — Okinawa — Taipei — Hong Kong — Bangkok — Bombay — Tel Aviv — Athens — Rome — Paris — Shannon — Boston — Washington — WMO USA. In this direction, the average speed was 218 m/s, the average altitude was 9.36 km, the average latitude along the route was 31 ° s.w.
+
+During the flights, environmental conditions (temperature, humidity and air pressure) were monitored, as well as the magnetic field was measured. Later it was demonstrated that the change of these conditions in the laboratory does not affect, within the limits of errors, the course of the clocks used in the experiment. It was also checked whether the disconnection of one of the 4 used batteries does not affect the running of the clock (such a loss of one of the batteries occurred during a western flight). Navigation information about the parameters of each flight was provided by the pilots.
+
+Experimental evidence suggests that if the clock is not at rest, then it goes slower.
