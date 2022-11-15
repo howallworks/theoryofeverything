@@ -1,3 +1,3 @@
-**Quantum photon (q.ph.)** -  [[Элементарная частица.en|elementary particle]], a carrier of electromagnetic interaction. There is a quantum photon with positive [[Helicity.en|helicity ]]($q.ph.^+$) and a quantum photon with negative [[Helicity.en|helicity ]]($q.ph.^-$). 
+**Quantum photon (q.ph.)** -  [[Elementary particle.en|elementary particle]], a carrier of electromagnetic interaction. There is a quantum photon with positive [[Helicity.en|helicity ]]($q.ph.^+$) and a quantum photon with negative [[Helicity.en|helicity ]]($q.ph.^-$). 
 
 Quantum photons do not interact with each other. The quantum photon interacts only with [[Quantum graviton.en|quantum gravitons]].

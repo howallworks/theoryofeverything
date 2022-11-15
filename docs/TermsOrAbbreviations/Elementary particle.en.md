@@ -1,0 +1,1 @@
+**Elementary particle** is a fundamental particle that, based on current data, cannot be divided into components.
