@@ -31,12 +31,12 @@ As you know, [[Photon.en|photons]] are distinguished by their [[Helicity.en|heli
 
 To shorten , we will write $q.ph.^+$ (quantum photon with positive [[Helicity.en|helicity]]) and $q.ph.^-$ (quantum photon with negative [[Helicity.en|helicity]]).
 
-В итоге всё состоит из [[Quantum photon.en|quantum photons(q.ph.)]] и [[Quantum graviton.en|quantum gravitons(q.g.)]]. Все "превращения"/преобразования/распады частиц [[Standard Model.en|Standard Model]] и их производных есть ничто иное как перераспрееление квант фотонов и квант гравитонов. 
-Антиматерия по сути это просто другая комбинация обычной материи ([[Quantum photon.en|quantum photons]] в них имеют инвертированую [[Helicity.en|helicity]], то есть там где были $к.ф.^+$ расположены $к.ф.^-$, а где были $к.ф.^-$ расположены $к.ф.^+$).
-Протон фактически состоит из позитрона и нейтрального остатка. А нейтральный остаток содержит в себе равное количество квант фотонов с противоположной спиральностью (в среднем). 
+As a result, everything consists of [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]]. All the "transformations"/conversions/decays of particles [[Standard Model.en|Standard Model]] and their derivatives are nothing but the redistribution of quantum photons and quantum gravitons. 
+Antimatter is essentially just another combination of ordinary matter ([[Quantum photon.en|quantum photons]] in them have an inverted [[Helicity.en|helicity]], that is, where they were $q.ph.^+$ are located $q.ph.^-$, and where were $q.ph.^-$ are located $q.ph.^+$).
+A proton actually consists of a positron and a neutral charge residue. And the neutral charge residue contains an equal number of quantum photons with opposite helicity (on average). 
 
-Исходя из того, что всё вещество/материя/антиматерия Вселенной в целом электронейтрально, то это означает, что оно в среднем состоит из равного количества $к.ф.^+$ и $к.ф.^-$, а также некоторого количества к.г.
-Из-за того что галактики постоянно излучают $к.ф.^+$, $к.ф.^-$ и к.г. за свои условные границы и это происходит по внешнему периметру материи/антиматерии Вселенной, то в итоге со временем всё вещество/антивещество разделится на элементарные составляющие - $к.ф.^+$, $к.ф.^-$ и к.г.. Если система со временем теряет часть составляющих во "внешнее" простанство, то запас этих составляющих будет падать, что приведет в итоге к невозможности поддерживать стабильное состояние и разделению системы на элементарные составляющие.
+Based on the fact that all substance/matter/antimatter of the universe as a whole is electroneutral, this means that it consists on average of an equal amount of $q.ph.^+$ and $q.ph.^-$, as well as some quantity of $q.g.$
+Due to the fact that galaxies constantly emit $q.ph.^+$, $q.ph.^-$ and $q.g.$ beyond their conditional boundaries and this happens along the outer perimeter of the matter/antimatter of the universe, then eventually, over time, all matter/antimatter will be divided into elementary components - $q.ph.^+$, $q.ph.^-$ and $q.g.$. If the system with time loses some of its components to the "external" space, then the stock of these components will decrease, which will eventually lead to the inability to maintain a stable state and the separation of the system into elementary components.
 
 ### Позитроны и электроны
 
