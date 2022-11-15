@@ -86,7 +86,16 @@ plugins:
           TermsOrAbbreviations: Термины или сокращения 
           Quantum graviton: Квант гравитон 
           Quantum photon: Квант фотон 
+          Photon: Фотон 
+          Accretion disk: Аккрецио́нный диск 
+          Albert Einstein: Альбе́рт Эйнште́йн 
+          Blazar: Блаза́р 
+          Elementary particle: Элементарная частица 
           GTR: ОТО 
+          Helicity: Спиральность 
+          Relativistic jet: Релятиви́стская струя 
+          SMBH: СМЧД 
+          
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
