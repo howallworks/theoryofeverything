@@ -1,3 +1,3 @@
-**Квант фотон(к.ф.)** -  [[Элементарная частица.en|элементарная частица]], переносчик электромагнитного взаимодействия. Различается квант фотон с положительной [[Cпиральность.en|cпиральностью]]($к.ф.^+$) и квант фотон с отрицательной [[Cпиральность.en|cпиральностью]]($к.ф.^-$). 
+**Quantum photon (q.ph.)** -  [[Элементарная частица.en|elementary particle]], a carrier of electromagnetic interaction. There is a quantum photon with positive [[Helicity.en|helicity ]]($q.ph.^+$) and a quantum photon with negative [[Helicity.en|helicity ]]($q.ph.^-$). 
 
-Квант фотоны не взимодействуют между собой. Квант фотон взаимодействует только с [[Quantum graviton.en|квант гравитонами]].
+Quantum photons do not interact with each other. The quantum photon interacts only with [[Quantum graviton.en|quantum gravitons]].

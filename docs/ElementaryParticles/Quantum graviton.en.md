@@ -1,3 +1,3 @@
-**Гравитон (квант гравитон, к.г.)** - [[Элементарная частица.en|элементарная частица]], переносчик гравитационного взаимодействия. 
+**Graviton (quantum graviton, q.g.)** - [[Элементарная частица.en|elementary particle]], a carrier of gravitational interaction.
 
-Квант гравитоны не взимодействуют между собой. Квант гравитон взаимодействует только с [[Quantum photon.en|квант фотонами]].
+Quantum gravitons do not interact with each other. Quantum graviton interacts only with [[Quantum photon.en|quantum photons]].
