@@ -95,6 +95,10 @@ plugins:
           Helicity: Спиральность 
           Relativistic jet: Релятиви́стская струя 
           SMBH: СМЧД 
+          Standard Model: Стандартная модель 
+          Blandford–Znajek process: Процесс Блэнфорда — Знаека 
+          Penrose process: процесс Пенроуза 
+          Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
           
 extra_javascript:
   - javascripts/mathjax.js
