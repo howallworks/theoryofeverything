@@ -16,23 +16,23 @@ Then how does operate [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic j
 The whole point is that gravitons, like photons, can be emitted unevenly. SMBH with relativistic jets (Blazar) emits gravitons unevenly. The maximum of graviton radiation is in the plane of the galaxy, and the minimum is perpendicular to it. It turns out that the radiation in the minimum is so small that part of the matter from the SMBH flies out and forms jets (relativistic jets) of the blazar.
 Why is there such an uneven emission of gravitons for some SMBH? Apparently, the whole point is in the rotation of the SMBH around its own axis at relativistic speeds. Imagine a children's carousel spinning at high speed. If things, pebbles and even dust particles are lying on it, then they will scatter in a plane perpendicular to the axis of rotation. Apparently this is what happens with SMBH rotating at a speed approaching to the speed of light.
 
-### Все элементарные частицы = квант фотоны и квант гравитоны. Из чего состоят элементы Стандартной модели. Распад всего во Вселенной
+### All elementary particles = quantum photons and quantum gravitons. What the elements of the Standard Model consist of. The disintegration of everything in the universe
 
-Благодаря тому, что мы выделили [[Quantum graviton.ru|квант гравитон(к.г.)]] как обособленную элементарную частицу, теперь возможно ответить на вопрос из чего состоит вся Вселенная. Ответ простой - из [[Quantum photon.ru|квант фотонов(к.ф.)]] и [[Quantum graviton.ru|квант гравитонов(к.г.)]].
+Due to the fact that we have isolated [[Quantum graviton.en|quantum graviton(q.g.)]] as a separate elementary particle, it is now possible to answer the question of what the whole universe consists of. The answer is simple - from [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]].
 
-Все элементы [[Standard Model.ru|Стандартной модели]] состоят из [[Quantum photon.ru|квант фотонов(к.ф.)]] и/или [[Quantum graviton.ru|квант гравитонов(к.г.)]].
-Простейшим доказательством служат процессы аннигиляции, например, электрон-позитронной пары при этом образуются [[Photon.ru|фотоны]] и гравитоны, которые сложно детектировать.
-Фактически электрон и позитрон состоит из сгуска квант фотонов и квант гравитонов, но при взаимодействии/аннигиляции/"превращении" теряют стабильность и разлетаются на составляюшие части. Каждый "образующийся" из 2/3 [[Photon.ru|фотонов]] содержит в себе множество квант фотонов. 
-Все "превращения" частиц [[Standard Model.ru|Стандартной модели]] плюс квант гравитонов - есть ни что иное как изменение комбинаций групп [[Quantum photon.ru|квант фотонов(к.ф.)]] и [[Quantum graviton.ru|квант гравитонов(к.г.)]]. 
+All elements of [[Standard Model.en|Standard Model]] consist of [[Quantum photon.en|quantum photons(q.ph.)]] and/or [[Quantum graviton.en|quantum gravitons(q.g.)]].
+The simplest proof is the annihilation processes, for example, of an electron-positron pair, while are formed [[Photon.en|photons]] and gravitons, which are difficult to detect.
+In fact, an electron and a positron consist of a bunch of quantum photons and quantum gravitons, but during interaction/annihilation/"transformation" they lose stability and fly apart into their constituent parts. Each "formed" of 2/3 [[Photon.en|photons]] contains many of quantum photons.
+All the "transformations" of particles [[Standard Model.en|Standard Model]] plus a quantum gravitons - changing combinations of groups [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]]. 
 
-Стоит особо отметить, что такие стабильные частицы как, например, протон на самом деле не являются абсолютно стабильными, так как обладают массой и, соответственно, излучают [[Quantum graviton.ru|квант гравитоны]] и если не будет внешних источников для достаточного пополнения, то они будут распадаться. Также и с черными дырами.
+It is worth noting that such stable particles as, for example, a proton are not really absolutely stable, since they have mass and, accordingly, emit [[Quantum graviton.en|quantum gravitons]] and if there are no external sources for sufficient replenishment, they will decay. Also with black holes.
 
-Как известно [[Photon.ru|фотоны]] отличаются своей [[Helicity.ru|cпиральностью]](прекцией спина на свое движение). По всей видимости спиральность отвечает за положительность/отрицательность переносимого фотоном заряда/воздействия. То есть электрон и позитрон отличаются тем, что в их состав входят фотоны с разной спиральностью, а точнее [[Quantum photon.ru|квант фотоны]] с разной спиральностью. Это же верно и для всех других частиц и их античастиц. 
+As you know, [[Photon.en|photons]] are distinguished by their [[Helicity.en|helicity]] (projection of the spin on their movement). Apparently, helicity is responsible for the positivity/negativity of the charge/effect carried by the photon. That is, an electron and a positron differ in that they include photons with different helicity, or rather [[Quantum photon.en|quantum photons]] with different helicity. The same is true for all other particles and their antiparticles.
 
-Для сокращения будем писать $к.ф.^+$ (квант фотон с положительной [[Helicity.ru|cпиральностью]]) и $к.ф.^-$ (квант фотон с отрицательной [[Helicity.ru|cпиральностью]]).
+To shorten , we will write $q.ph.^+$ (quantum photon with positive [[Helicity.en|helicity]]) and $q.ph.^-$ (quantum photon with negative [[Helicity.en|helicity]]).
 
-В итоге всё состоит из [[Quantum photon.ru|квант фотонов(к.ф.)]] и [[Quantum graviton.ru|квант гравитонов(к.г.)]]. Все "превращения"/преобразования/распады частиц [[Standard Model.ru|Стандартной модели]] и их производных есть ничто иное как перераспрееление квант фотонов и квант гравитонов. 
-Антиматерия по сути это просто другая комбинация обычной материи ([[Quantum photon.ru|квант фотоны]] в них имеют инвертированую [[Helicity.ru|cпиральность]], то есть там где были $к.ф.^+$ расположены $к.ф.^-$, а где были $к.ф.^-$ расположены $к.ф.^+$).
+В итоге всё состоит из [[Quantum photon.en|quantum photons(q.ph.)]] и [[Quantum graviton.en|quantum gravitons(q.g.)]]. Все "превращения"/преобразования/распады частиц [[Standard Model.en|Standard Model]] и их производных есть ничто иное как перераспрееление квант фотонов и квант гравитонов. 
+Антиматерия по сути это просто другая комбинация обычной материи ([[Quantum photon.en|quantum photons]] в них имеют инвертированую [[Helicity.en|helicity]], то есть там где были $к.ф.^+$ расположены $к.ф.^-$, а где были $к.ф.^-$ расположены $к.ф.^+$).
 Протон фактически состоит из позитрона и нейтрального остатка. А нейтральный остаток содержит в себе равное количество квант фотонов с противоположной спиральностью (в среднем). 
 
 Исходя из того, что всё вещество/материя/антиматерия Вселенной в целом электронейтрально, то это означает, что оно в среднем состоит из равного количества $к.ф.^+$ и $к.ф.^-$, а также некоторого количества к.г.
@@ -40,8 +40,8 @@ Why is there such an uneven emission of gravitons for some SMBH? Apparently, the
 
 ### Позитроны и электроны
 
-Позитроны излучают/содержат исключительно [[Photon.ru|фотоны]] состоящие из $к.ф.^+$. 
-Электроны излучают/содержат исключительно [[Photon.ru|фотоны]] состоящие из $к.ф.^-$. 
+Позитроны излучают/содержат исключительно [[Photon.en|photons]] состоящие из $к.ф.^+$. 
+Электроны излучают/содержат исключительно [[Photon.en|photons]] состоящие из $к.ф.^-$. 
 
 Ниже приведены обоснования этих заключений.
 
