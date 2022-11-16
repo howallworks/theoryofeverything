@@ -31,7 +31,7 @@ As you know, [[Photon.en|photons]] are distinguished by their [[Helicity.en|heli
 
 To shorten , we will write $q.ph.^+$ (quantum photon with positive [[Helicity.en|helicity]]) and $q.ph.^-$ (quantum photon with negative [[Helicity.en|helicity]]).
 
-As a result, everything consists of [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]]. All the "transformations"/conversions/decays of particles [[Standard Model.en|Standard Model]] and their derivatives are nothing but the redistribution of quantum photons and quantum gravitons. 
+As a result, everything consists of [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]]. All the "conversions"/transformations/decays of particles [[Standard Model.en|Standard Model]] and their derivatives are nothing but the redistribution of quantum photons and quantum gravitons. 
 Antimatter is essentially just another combination of ordinary matter ([[Quantum photon.en|quantum photons]] in them have an inverted [[Helicity.en|helicity]], that is, where they were $q.ph.^+$ are located $q.ph.^-$, and where were $q.ph.^-$ are located $q.ph.^+$).
 A proton actually consists of a positron and a neutral charge residue. And the neutral charge residue contains an equal number of quantum photons with opposite helicity (on average). 
 
@@ -72,29 +72,29 @@ The observer effect is also easily explained by the fact that by "observing" we 
 So $q.ph.$ and $q.g.$ are elementary particles, and the presence of consciousness/passive observer does not affect to the systems even at the level of elementary particles. The laws of elementary particle dynamics are immutable and clearly defined. And this leads us to the fact that there are no random events. It's just that sometimes we don't know all the initial conditions and the exact laws of elementary particle dynamics ($q.ph .^+$, $q.ph .^-$ and $q.g.$).
 As a result, the dynamics of the elementary particles of the universe is predetermined. Every time I think about it, I get a feeling of discomfort, because it turns out that I have no choice and my whole life is fate. But these are the laws of our world. Nothing can be done about this fact. 
 
-### Стабильность частиц. Протон-протонный цикл. Распад нейтрона
+### Particle stability. Proton-proton cycle. Neutron decay
 
-Вернемся к мнимой стабильности частиц. Рассмотрим протон. Сейчас мы не можем создать идеальные условия изоляции при которых будет полностью перекрыт доступ подпитки $к.ф.^+$, $к.ф.^-$ и к.г.. Однако рассмотрим ядерные реакции в звездах. В частности протон-протонный цикл. 
+Let's return to the false stability of the particles. Consider a proton. Now we cannot create ideal isolation conditions under which the access of the recharge will be completely blocked $q.ph .^+$, $q.ph .^-$ and $q.g.$. However, consider nuclear reactions in stars. In particular, the proton-proton cycle. 
 $$ p + p → ^2H + e^+ + ν_e $$
-На уровне кварков: $u → d + e^+ + ν_e$.
-Итак два протона взаимодействуют и обмениваясь составляющими $к.ф.^+$, $к.ф.^-$ и к.г. преобразуются в ядро изотопа водорода дейтерия (дейтрон), позитрон и электронное нейтрино. Фактически один протон разделяется на нейтрон, позитрон и электронное нейтрино.
-Теперь ясно из чего состоит протон. В состав нейтрона входят к.г. и равное количество $к.ф.^+$ и $к.ф.^-$. Позитрон состоит из $к.ф.^+$ и к.г.. Электронное нейтрино хорошо описано своим названием - маленький нейтрон/нейтрончик. В состав нейтрино также входят к.г. и равное количество $к.ф.^+$ и $к.ф.^-$. 
-В итоге свободные протоны тоже будут распадаться по мере уменьшения подпитки $к.ф.^+$, $к.ф.^-$ и к.г.. 
+At the level of quarks: $u → d + e^+ + ν_e$.
+So two protons interact and exchange components $q.ph .^+$, $q.ph .^-$ and $q.g.$ are transformed into the nucleus of the hydrogen isotope deuterium (deuteron), positron and electron neutrino. In fact, one proton is divided into a neutron, a positron and an electron neutrino.
+Now it is clear what the proton consists of. The composition of the neutron includes $q.g.$ and an equal amount of $q.ph .^+$ and $q.ph .^-$. The positron consists of $q.ph .^+$ and $q.g.$. The electron neutrino is well described by its name - a small neutron. The neutrino composition also includes $q.g.$ and an equal amount of $q.ph .^+$ and $q.ph .^-$.
+As a result, free protons will also decay when recharge decreases $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
-Частицы и античастицы отличаются лишь [[Helicity.ru|cпиральностью]] к.ф.. Если, например, в частице преобладает $к.ф.^+$, то в античатице инверсия, то есть $к.ф.^-$
+Частицы и античастицы отличаются лишь [[Helicity.en|helicity]] $q.ph.$. Если, например, в частице преобладает $q.ph.^+$, то в античатице инверсия, то есть $q.ph.^-$
 
 Мы видели ранее как в ядерных реакциях звезд протон фактически распадается на позитрон, нейтрон и электронное нейтрино. А на что обычно распадается нейтрон. На протон, электрон и электронное антинейтрино.
 $$ p^+ → n + e^+ + ν_e \text{ (На уровне кварков: } u → d + e^+ + ν_e \text{ ) } $$
 $$ n → p^+ + e^- + \overline ν_e \text{ (На уровне кварков: } d → u + e^- + \overline ν_e \text{ ) } $$
 Красота в том когда эти два распада написать рядом. 
 Как видим частицы и античастицы входят в состав того, что считается обычными частицами материи.
-Электронейтральность Вселенной говорит о том, что количество $к.ф.^+$ и $к.ф.^-$ равно. 
-Интересно то, что в обоих распадах получаемые в итоге нейтрон и протон содержат в себе меньшее количество $к.ф.^+$, $к.ф.^-$ и к.г., чем исходные протон и нейтрон. Недостающая часть уходит на позитрон и электрон, электронные нейтрино и антинейтрино соответственно. Интересно будет ли в итоге цепочка распадов: нейтрон → протон → нейтрон → протон → и так далее с остатками в виде электронов, позитронов, нейтрино, антинейтрино длиться пока есть запас $к.ф.^+$, $к.ф.^-$ и к.г.? Возможно, но главное здесь не это. Сложив эти два распада:
-$$ p^+ + n → n + p^+ + e^+ + e^- + ν_e + \overline ν_e → n + p^+ + \gamma  + \text{ к.г.
+Электронейтральность Вселенной говорит о том, что количество $q.ph.^+$ и $q.ph.^-$ равно. 
+Интересно то, что в обоих распадах получаемые в итоге нейтрон и протон содержат в себе меньшее количество $q.ph .^+$, $q.ph .^-$ and $q.g.$, чем исходные протон и нейтрон. Недостающая часть уходит на позитрон и электрон, электронные нейтрино и антинейтрино соответственно. Интересно будет ли в итоге цепочка распадов: нейтрон → протон → нейтрон → протон → и так далее с остатками в виде электронов, позитронов, нейтрино, антинейтрино длиться пока есть запас $q.ph .^+$, $q.ph .^-$ and $q.g.$? Возможно, но главное здесь не это. Сложив эти два распада:
+$$ p^+ + n → n + p^+ + e^+ + e^- + ν_e + \overline ν_e → n + p^+ + \gamma  + \text{ q.g.
  } $$
 (квант гравитоны мы ещё не научились нормально детектировать)
-из протона и нейтрона получаем нейтрон и протон, а также в процессе аннигиляции пар позитрон-электрон, электронных нейтрино-антинейтрино получаем $к.ф.^+$, $к.ф.^-$ и к.г.
-В итоге снова приходим к тому, что всё состоит из $к.ф.^+$, $к.ф.^-$ и к.г..
+из протона и нейтрона получаем нейтрон и протон, а также в процессе аннигиляции пар позитрон-электрон, электронных нейтрино-антинейтрино получаем $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+В итоге снова приходим к тому, что всё состоит из $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
 ### Особенность структуры нейтрино. Структура фотона
 
