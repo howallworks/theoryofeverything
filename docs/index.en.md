@@ -112,11 +112,11 @@ So it is the structure of the particle packaging that so strongly influences the
 
 The structure of [[Photon.en|photon]] is also extremely interesting. A photon consists of a group $q.ph .$, which seems to form the shape of a disk or circle. It is because of this the light can be polarized, that is, certain spatial orientations of disks cannot be skipped.
 
-### НСО
+### IFR
 
-Неподвижные системы отсчета (НСО) – это системы отсчёта, в которых неподвижные объекты покоятся, а свободные фотоны, не взаимодействующие с окружающими частицами, движутся с одинаковой скоростью света. НСО равноправны и могут быть описаны общими законами. 
+**Immobile frame of reference (IFR)** are reference frames in which immovable objects are at rest, and free photons that do not interact with surrounding particles move at the same speed of light. IFR are equal and can be described by general laws.
 
-Cкорость произвольных часов относительно НСО равна, по всей видимости, скорости относительно [реликтового излучения](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)(исходя из дипольной анизотропии).
+The speed of an arbitrary clock relative to the IFR is apparently equal to the speed relative to [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the dipole anisotropy).
 
 ### Эффект запаздывания движущихся часов по сравнению с покоящимися в НСО
 
