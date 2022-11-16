@@ -116,11 +116,11 @@ The structure of [[Photon.en|photon]] is also extremely interesting. A photon co
 
 **Immobile frame of reference (IFR)** are reference frames in which immovable objects are at rest, and free photons that do not interact with surrounding particles move at the same speed of light. IFR are equal and can be described by general laws.
 
-The speed of an arbitrary clock relative to the IFR is apparently equal to the speed relative to [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the dipole anisotropy).
+The speed of an arbitrary clock relative to the IFR is apparently equal to the speed relative to [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
 
-### Эффект запаздывания движущихся часов по сравнению с покоящимися в НСО
+### Effect time dilation of a moving clock compared to a rest one in IFR
 
-Теперь рассмотрим эксперимент, в котором происходит запаздывание движущихся часов по сравнению с покоящимися – [[Hafele–Keating experiment.ru|эксперимент Хафеле-Китинга]]. Для простоты будем рассматривать световые часы. Согласно Теории относительности используется эффект «замедления времени», для того чтобы описать эффект запаздывания часов. Однако при использовании НСО это не требуется, так как в действительности эффекта «замедления времени» нет.
+Now let's consider an experiment in which a moving clock is delayed compared to a rest one  – [[Hafele–Keating experiment.en|Hafele–Keating experiment]]. For simplicity, we will consider a light clock. According to the Theory of Relativity, the effect of "time dilation" is used to describe the effect of the delay of the clock. However, when using IFR, this is not required, since in reality there is no "time dilation" effect.
 
 ![[pic1.png]]
 
