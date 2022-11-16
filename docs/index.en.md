@@ -96,21 +96,21 @@ $$ p^+ + n → n + p^+ + e^+ + e^- + ν_e + \overline ν_e → n + p^+ + \gamma 
 we get a neutron and a proton from a proton and a neutron, and also in the process of annihilation of positron-electron pairs, electron neutrinos-antineutrinos we get $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 In as a result, we again come to the conclusion that everything consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
-### Особенность структуры нейтрино. Структура фотона
+### Feature of the neutrino structure. Photon structure
 
-Очень специфическими частицами Стандартной модели являются нейтрино из-за слабого взаимодействия с вещиством. Нейтрино в этом плане похожи на [[Quantum graviton.ru|гравитоны]]. Однако возможные преобразования электрон-позитронной пары как в [[Photon.ru|фотоны]], так и в нейтрино-антинейтрино:
+Neutrinos are very specific particles of the Standard Model due to their weak interaction with matter. Neutrinos in this plan are similar to [[Quantum graviton.en|quantum gravitons]]. However, possible transformations of the electron-positron pair in both [[Photon.en|photons]] and neutrino-antineutrino:
 $$ e^+ e^- → 2 \gamma $$
 $$ e^+ e^- → ν \overline ν $$
-указывает на то, что они также состоят из $к.ф.^+$, $к.ф.^-$ и к.г..
-Также на это указывают многие прочие цепочки преобразований, например, аннигиляция электрон-позитронной пары при высоких энергиях. В этом случае вначале образуются промежуточне пи-мезоны, а затем из них образуются, в том числе, нейтрино:
+indicates that they also consist of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+This is also indicated by many other chains of transformations, for example, the annihilation of an electron-positron pair at high energies. In this case, intermediate pi mesons are formed first, and then neutrinos are formed from them, among other things:
 $$ e^+ e^- → π^+ π^- → μ^+ + μ^- + ν_μ + \overline ν_μ $$
-Уникальность нейтрино заключается в их структуре, по сравнению с прочими частицами стандартной модели. $К.ф.^+$, $к.ф.^-$ и к.г. в нейтрино очень компактно/плотно упакованы, что приводит к гораздо более редким столкновениям с веществом/антивеществом и, соответственно, колосальной длине свободного пробега. 
+The uniqueness of neutrinos lies in their structure, compared to other particles of the Standard Model. $Q.ph .^+$, $q.ph .^-$ and $q.g.$ in neutrinos are very compactly/densely packed, which leads to much rarer collisions with matter/antimatter and, respectively, the colossal mean free path.
 
 Как мы знаем из электрон-позитронной пары может получиться пара нейтрино-антинейтрино:
 $$ e^+ e^- → ν \overline ν $$
 А значит именно структура упаковки частицы так сильно влияет на взаимодействие/столкновения с другими частицами.
 
-Структура [[Photon.ru|фотона]] также крайне интересна. Фотон состоит из группы [[Quantum photon.ru|к.ф.]], которая похоже формирует форму диска или круга. Именно из-за этого свет можно поляризовать, то есть не пропускать определенные пространственные ориентации дисков.
+Структура [[Photon.en|photon]] также крайне интересна. Фотон состоит из группы $q.ph.$, которая похоже формирует форму диска или круга. Именно из-за этого свет можно поляризовать, то есть не пропускать определенные пространственные ориентации дисков.
 
 ### НСО
 
