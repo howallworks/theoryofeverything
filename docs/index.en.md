@@ -106,11 +106,11 @@ This is also indicated by many other chains of transformations, for example, the
 $$ e^+ e^- → π^+ π^- → μ^+ + μ^- + ν_μ + \overline ν_μ $$
 The uniqueness of neutrinos lies in their structure, compared to other particles of the Standard Model. $Q.ph .^+$, $q.ph .^-$ and $q.g.$ in neutrinos are very compactly/densely packed, which leads to much rarer collisions with matter/antimatter and, respectively, the colossal mean free path.
 
-Как мы знаем из электрон-позитронной пары может получиться пара нейтрино-антинейтрино:
+As we know, an electron-positron pair can transform into a neutrino-antineutrino pair:
 $$ e^+ e^- → ν \overline ν $$
-А значит именно структура упаковки частицы так сильно влияет на взаимодействие/столкновения с другими частицами.
+So it is the structure of the particle packaging that so strongly influences the interaction/collisions with other particles.
 
-Структура [[Photon.en|photon]] также крайне интересна. Фотон состоит из группы $q.ph.$, которая похоже формирует форму диска или круга. Именно из-за этого свет можно поляризовать, то есть не пропускать определенные пространственные ориентации дисков.
+The structure of [[Photon.en|photon]] is also extremely interesting. A photon consists of a group $q.ph .$, which seems to form the shape of a disk or circle. It is because of this the light can be polarized, that is, certain spatial orientations of disks cannot be skipped.
 
 ### НСО
 
