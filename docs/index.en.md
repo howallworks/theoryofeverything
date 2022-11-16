@@ -58,19 +58,19 @@ All this does not correspond to the observed dynamics of the electron, positron 
 As a result, we get that a quantum photon can change [[Helicity.en|helicity]] when interacting with [[Quantum graviton.en|quantum gravitons]].
 Positrons emit/contain exclusively [[Photon.en|photons]] consisting of $q.ph .^+$.
 Electrons emit/contain exclusively [[Photon.en|photons]] consisting of $q.ph .^-$.
-When absorbing/joining $q.ph .$ with the opposite [[Helicity.en|helicity]] to the positron/electron - helicity is inverted and the velocity vector is also inverted (more complex charged particles actually consist of a positron/electron and a neutral residue. For example, a proton consists of a positron and a neutral residue).
+When absorbing/joining $q.ph.$ with the opposite [[Helicity.en|helicity]] to the positron/electron - helicity is inverted and the velocity vector is also inverted (more complex charged particles actually consist of a positron/electron and a neutral residue. For example, a proton consists of a positron and a neutral residue).
 
-### Свойства квант фотона и квант гравитона. Дифракция. Эффект наблюдателя. Динамика элементарных частиц предопределена. Судьба
+### Properties of quantum photon and quantum graviton. Diffraction. Observer effect. Dynamics of elementary particles is predetermined. Fate
 
-Теперь необходимо разобраться со свойствами к.ф. и к.г.. 
-Это корпоскулы, а не волны. 
+Now you need to understand the properties of $q.ph .$ and $q.g.$.
+They are corpuscles, not waves. 
 
-Дифракция на щели и прочие эффекты легко объясняются тем, что фотоны/электроны или другие частицы сталкиваются с препятствием/щелью и переизлучаются частицами этого препятствия/щели. Это справедливо и для единичных фотонов/частиц из источника. 
+Slit diffraction and other effects are easily explained by the fact that photons/electrons or other particles collide with an obstacle/slit and are re-emitted by particles of this obstacle/slit. This is also true for single photons/particles from the source.
 
-Эффект наблюдателя также легко объясним тем что "наблюдая" мы оказываем воздействие на щель/препятствие и тем самым нарушаем естественный процесс переизлучения фотонов/частиц от источника системой частиц щели/препятствия. В итоге человеческий глаз хотя и является "наблюдателем", но не влияет на процессы переизлучения частиц, так как не оказывает активного влияния, а лишь фиксирует попадающие в него [[Photon.ru|фотоны]]. Напротив, если оказывать активное воздействие, то процесс переизлучения изменится. Влияем на систему - получаем другой результат динамики частиц. Никакого волшебства.
+The observer effect is also easily explained by the fact that by "observing" we influence the slit/obstacle and thereby disrupt the natural process of photon/particle re-emission from the source by the slit/obstacle particle system. As a result, although the human eye is an "observer", it does not affect the processes of re-emission of particles, since it does not have an active impact, but only fixes [[Photon.en|photons]] falling into it. On the contrary, if you exert an active influence, the process of re-emission will change. If we influence the system, we get a different result of particle dynamics. No magic.
 
-Итак к.ф. и к.г. - элементарные частицы, а наличие сознания/пассивного наблюдателя не влияет на системы даже на уровне элементарных частиц. Законы динамики элементарных частиц неизменны и четко определены. И это приводит нас к тому, что случайных событий не бывает. Просто иногда мы не знаем всех начальных условий и точные законы динамики элементарных частиц ($к.ф.^+$, $к.ф.^-$ и к.г.).
-В итоге динамика элементарных частиц Вселенной предопределена. Каждый раз думая об этом у меня появляется чувство дискомфорта, так как получается что у меня нет выбора и вся моя жизнь - судьба. Но таковы законы нашего мира. С этим фактом ничего не поделаешь. 
+So $q.ph.$ and $q.g.$ are elementary particles, and the presence of consciousness/passive observer does not affect to the systems even at the level of elementary particles. The laws of elementary particle dynamics are immutable and clearly defined. And this leads us to the fact that there are no random events. It's just that sometimes we don't know all the initial conditions and the exact laws of elementary particle dynamics ($q.ph .^+$, $q.ph .^-$ and $q.g.$).
+As a result, the dynamics of the elementary particles of the universe is predetermined. Every time I think about it, I get a feeling of discomfort, because it turns out that I have no choice and my whole life is fate. But these are the laws of our world. Nothing can be done about this fact. 
 
 ### Стабильность частиц. Протон-протонный цикл. Распад нейтрона
 
