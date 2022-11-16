@@ -81,20 +81,20 @@ So two protons interact and exchange components $q.ph .^+$, $q.ph .^-$ and $q.g.
 Now it is clear what the proton consists of. The composition of the neutron includes $q.g.$ and an equal amount of $q.ph .^+$ and $q.ph .^-$. The positron consists of $q.ph .^+$ and $q.g.$. The electron neutrino is well described by its name - a small neutron. The neutrino composition also includes $q.g.$ and an equal amount of $q.ph .^+$ and $q.ph .^-$.
 As a result, free protons will also decay when recharge decreases $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
-Частицы и античастицы отличаются лишь [[Helicity.en|helicity]] $q.ph.$. Если, например, в частице преобладает $q.ph.^+$, то в античатице инверсия, то есть $q.ph.^-$
+Particles and antiparticles differ only [[Helicity.en|helicity]] of $q.ph .$. If, for example, in the particle is dominated by $q.ph .^+$, then there is an inversion in the antiparticle, that is $q.ph.^-$
 
-Мы видели ранее как в ядерных реакциях звезд протон фактически распадается на позитрон, нейтрон и электронное нейтрино. А на что обычно распадается нейтрон. На протон, электрон и электронное антинейтрино.
-$$ p^+ → n + e^+ + ν_e \text{ (На уровне кварков: } u → d + e^+ + ν_e \text{ ) } $$
-$$ n → p^+ + e^- + \overline ν_e \text{ (На уровне кварков: } d → u + e^- + \overline ν_e \text{ ) } $$
-Красота в том когда эти два распада написать рядом. 
-Как видим частицы и античастицы входят в состав того, что считается обычными частицами материи.
-Электронейтральность Вселенной говорит о том, что количество $q.ph.^+$ и $q.ph.^-$ равно. 
-Интересно то, что в обоих распадах получаемые в итоге нейтрон и протон содержат в себе меньшее количество $q.ph .^+$, $q.ph .^-$ and $q.g.$, чем исходные протон и нейтрон. Недостающая часть уходит на позитрон и электрон, электронные нейтрино и антинейтрино соответственно. Интересно будет ли в итоге цепочка распадов: нейтрон → протон → нейтрон → протон → и так далее с остатками в виде электронов, позитронов, нейтрино, антинейтрино длиться пока есть запас $q.ph .^+$, $q.ph .^-$ and $q.g.$? Возможно, но главное здесь не это. Сложив эти два распада:
+We have seen earlier how in the nuclear reactions of stars, a proton actually decays into a positron, a neutron and an electron neutrino. And what a neutron usually decays into. On the proton, electron and electron antineutrino.
+$$ p^+ → n + e^+ + ν_e \text{ (At the level of quarks: } u → d + e^+ + ν_e \text{ ) } $$
+$$ n → p^+ + e^- + \overline ν_e \text{ (At the level of quarks: } d → u + e^- + \overline ν_e \text{ ) } $$
+The beauty is when these two decays are written side by side.
+As we can see, particles and antiparticles are part of what are considered ordinary particles of matter.
+The electroneutrality of the universe indicates that the amount of $q.ph .^+$ and $q.ph .^-$ is equals.
+Interestingly, in both decays, the resulting neutron and proton contain a smaller amount of $q.ph.^+$, $q.ph.^-$ and $q.g.$ than the original proton and neutron. The missing part goes to the positron and electron, electron neutrinos and antineutrinos, respectively. I wonder if in the end the chain of decays: neutron → proton → neutron → proton → and so on with residues in the form of electrons, positrons, neutrinos, antineutrinos will last as long as there is a reserve $q.ph.^+$, $q.ph.^-$ and $q.g.$? Maybe, but that's not the main thing here. Adding up these two decays:
 $$ p^+ + n → n + p^+ + e^+ + e^- + ν_e + \overline ν_e → n + p^+ + \gamma  + \text{ q.g.
  } $$
-(квант гравитоны мы ещё не научились нормально детектировать)
-из протона и нейтрона получаем нейтрон и протон, а также в процессе аннигиляции пар позитрон-электрон, электронных нейтрино-антинейтрино получаем $q.ph .^+$, $q.ph .^-$ and $q.g.$.
-В итоге снова приходим к тому, что всё состоит из $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+(we have not yet learned how to detect quantum gravitons normally)
+we get a neutron and a proton from a proton and a neutron, and also in the process of annihilation of positron-electron pairs, electron neutrinos-antineutrinos we get $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+In as a result, we again come to the conclusion that everything consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
 ### Особенность структуры нейтрино. Структура фотона
 
