@@ -151,25 +151,25 @@ However, on what basis is it considered that the period of electromagnetic radia
 
 An example of rational thoughts in this direction is the fact that clarifications have been added to the above definition of a second since 1997: at rest, at a temperature of 0 K and in the absence of external fields. However, these refinements are not applied in practice, since atomic clocks are not at a temperature of 0 K and are not at rest, since the Earth's surface is not even close to inertial frame of reference (IFR).
 
-Рассмотрим факт: 
+Consider the fact:
 
-Часы №1, движущиеся с большей скоростью относительно неподвижной системы отсчета (НСО) или ИСО, отсчитывают меньше периодов, чем часы №2, движущиеся с меньшей скоростью.
+Clock No. 1, moving at a higher speed relative to a immobile frame reference (ImFR) or IFR, counts fewer periods than clock No. 2, moving at a lower speed.
 
-Вывод (согласно ТО):
+Conclusion (according to [[GTR.en|GTR]]):
 
-1.  Чем выше скорость часов/объекта (относительно ИСО), тем сильнее замедление времени (деформация времени);
-2.  Время, затрачиваемое на период электромагнитного излучения (время полного периода), не меняется.
+1. When the speed of the clock/object higher (relative to IFR), then stronger the time dilation (time deformation);
+2. The time spent on the period of electromagnetic radiation (the time of the full period) does not change.
 
-Вывод (согласно моей концепции):
+Conclusion (according to my concept):
 
-1.  Чем выше скорость часов/объекта (относительно НСО), тем длительнее период электромагнитного излучения (время каждого периода увеличивается). Течение времени неизменно (постоянно);
-2.  Время, затрачиваемое на период электромагнитного излучения (время полного периода), меняется.
+1. When the speed of the clock/object higher (relative to the ImFR), then longer the period of electromagnetic radiation (the time of each period increases). The flow of time is invariable (constantly). There is no exist time dilation;
+2. The time spent on the period of electromagnetic radiation (the time of the full period) varies.
 
-Обе трактовки основаны на одном и том же факте, но полностью противоположны.
+Both interpretations are based on the same fact, but completely opposite.
 
-Описанная с точки зрения ТО трактовка является основополагающей, ключевой базой ТО, без которой невозможно ее существование.
+The interpretation described from the point of view of GTR is the fundamental, key basis of GTR, without which its existence is impossible.
 
-Описанная с моей точки зрения трактовка свидетельствует об абсолютной природе времени и Мира в целом.
+The interpretation described from my point of view testifies to the absolute nature of time and the world as a whole.
 
 #### Концепция времени
 
