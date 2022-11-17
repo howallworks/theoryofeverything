@@ -124,26 +124,26 @@ Now let's consider an experiment in which a moving clock is delayed compared to 
 
 ![[pic1.png]]
 
-a) часы покоятся; b) часы движутся со скоростью v, фотон движется по направлению движения часов; c) часы движутся со скоростью v, фотон движется по противоположному направлению движения часов. 
-**Рисунок 1 – Эффект запаздывания движущихся часов по сравнению с покоящимися в НСО** 
+a) the clock is at rest; b) the clock is moving at speed v, the photon is moving in the direction of movement of the clock; c) the clock is moving at speed v, the photon is moving in the opposite direction of movement of the clock.
+**Figure 1 – Effect time dilation of moving clocks compared to those at rest in the IFR**
 
-Часы покоятся (рисунок 1а). Для того чтобы фотон «прошел» путь от первой пластины до второй и обратно, необходимо время $T=\frac{2L}{c}$ – это период часов. По количеству периодов определяют сколько времени прошло, так как считают период неизменным
+The clock is resting (Figure 1a). In order for the photon to "pass" the path from the first plate to the second and back, it takes time $T=\frac{2L}{c}$ – this is the period of hours. By the number of periods, they determine how much time has passed, since they consider the period immutable
 
-Часы движутся со скоростью v (рисунок 1b, 1c). Тогда при движении фотона по направлению движения часов ему необходимо будет пройти расстояние больше L, так как часы по сравнению с НСО движутся со скоростью v. Расстояние будет равно $cT_1=vT_1+L$, откуда $T_1=\frac{L}{c-v}$. При движении фотона по противоположному направлению движения часов ему необходимо будет пройти расстояние меньше L. Расстояние будет равно $cT_2=L-vT_2$, откуда $T_2=\frac{L}{c+v}$.
+The clock moves at a speed of v (Figure 1b, 1c). Then, when the photon moves in the direction of the movement of the clock, it will need to pass a distance greater than L, since the clock moves at a speed v relative to the IFR.  The distance will be equal to $cT_1=vT_1+L$, from where $T_1=\frac{L}{c-v}$. When the photon moves in the opposite direction of the clock, it will need to travel a distance less than L. The distance will be $cT_2=L-vT_2$, from where $T_2=\frac{L}{c+v}$.
 
-Получаем, что время полного периода $T=T_1+T_2=\frac{L}{c-v}+\frac{L}{c+v}$ Тогда при нулевой скорости часов: $T=\frac{2L}{c}$, при скорости часов 0.5c: $T=\frac{2L}{c}+\frac{2L}{3c}=\frac{8L}{3c}$, а при скорости часов, стремящейся к скорости света: T→∞.
+We get that the time of the full period $T=T_1+T_2=\frac{L}{c-v}+\frac{L}{c+v}$ Then at zero clock speed: $T=\frac{2L}{c}$, at a clock speed of 0.5c: $T=\frac{2L}{c}+\frac{2L}{3c}=\frac{8L}{3c}$, and at the speed of the clock tending to the speed of light: T→∞.
 
-В итоге движущиеся часы отсчитывают меньше тактов «периодического» процесса, так как время, затрачиваемое на каждый такт, больше. Это приводит к тому, что движущиеся часы запаздывают по сравнению с покоящимися или движущимися с меньшей скоростью.
+As a result, the moving clock counts down fewer cycles of the "periodic" process, since the time spent on each cycle is longer. This leads to the fact that the moving clock is delayed compared to the rest or moving at a slower speed.
 
-Время – характеристика Мира, отражающая изменение местоположения элементарных частиц в пространстве.
+Time is a characteristic of the world, reflecting the change in the location of elementary particles in space.
 
-Время для всех объектов одинаково и течет непрерывно, линейно, а главное, ни от чего не зависит. Наиболее близкими к действительности являются понимания времени как «стрелы времени» и «оси времени», однако перемещаться по этой оси нет возможности, так как для этого необходимо иметь возможность управлять элементарными частицами и Мировыми законами, то есть Миром.
+Time is the same for all objects and flows continuously, linearly, and most importantly, does not depend on anything. The closest to reality are the understandings of time as the "arrow of time" and the "axis of time", but it is not possible to move along this axis, since for this it is necessary to be able to control elementary particles and world laws, that is, the world.
 
-"Замедление времени", прочие эффекты Теории относительности [[Albert Einstein.ru|Эйнштейна]] и сама теория берут начало из физически ошибочного определения термина "Время". Почему физически ошибочно давать соответствующее определение описано в разделе "Как дать определение термину «Время», чтобы создать теорию относительности".
+"Time dilation", other effects of the Theory of Relativity [[Albert Einstein.ru |Einstein]] and the theory itself originate from a physically erroneous definition of the term "Time". Why it is physically wrong to give an appropriate definition is described in the section "How to define the term "Time" in order to create a theory of relativity".
 
-### [Как дать определение термину «Время», чтобы создать теорию относительности](http://howallworks.github.io/blog/2015/08/kak-dat-opredelenie-terminu-vremia-chtoby-sozdat-teoriiu-otnositelnosti.html)
+### How to define the term "Time" in order to create a theory of relativity
 
-Дата изначальной публикации: 02.08.2015
+Дата изначальной публикации на русском: 02.08.2015
 
 С 1967 года международная система единиц СИ определяет секунду как 9 192 631 770 периодов электромагнитного излучения, возникающего при переходе между двумя сверхтонкими уровнями основного состояния атома цезия-133.
 
