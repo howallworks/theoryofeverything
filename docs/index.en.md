@@ -112,24 +112,24 @@ So it is the structure of the particle packaging that so strongly influences the
 
 The structure of [[Photon.en|photon]] is also extremely interesting. A photon consists of a group $q.ph .$, which seems to form the shape of a disk or circle. It is because of this the light can be polarized, that is, certain spatial orientations of disks cannot be skipped.
 
-### IFR
+### ImFR
 
-**Immobile frame of reference (IFR)** are reference frames in which immovable objects are at rest, and free photons that do not interact with surrounding particles move at the same speed of light. IFR are equal and can be described by general laws.
+**Immobile frame of reference (ImFR)** are reference frames in which immovable objects are at rest, and free photons that do not interact with surrounding particles move at the same speed of light. ImFR are equal and can be described by general laws.
 
-The speed of an arbitrary clock relative to the IFR is apparently equal to the speed relative to [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
+The speed of an arbitrary clock relative to the ImFR is apparently equal to the speed relative to [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
 
-### Effect time dilation of a moving clock compared to a rest one in IFR
+### Effect time dilation of a moving clock compared to a rest one in ImFR
 
-Now let's consider an experiment in which a moving clock is delayed compared to a rest one  – [[Hafele–Keating experiment.en|Hafele–Keating experiment]]. For simplicity, we will consider a light clock. According to the Theory of Relativity, the effect of "time dilation" is used to describe the effect of the delay of the clock. However, when using IFR, this is not required, since in reality there is no "time dilation" effect.
+Now let's consider an experiment in which a moving clock is delayed compared to a rest one  – [[Hafele–Keating experiment.en|Hafele–Keating experiment]]. For simplicity, we will consider a light clock. According to the Theory of Relativity, the effect of "time dilation" is used to describe the effect of the delay of the clock. However, when using ImFR, this is not required, since in reality there is no "time dilation" effect.
 
 ![[pic1.png]]
 
 a) the clock is at rest; b) the clock is moving at speed v, the photon is moving in the direction of movement of the clock; c) the clock is moving at speed v, the photon is moving in the opposite direction of movement of the clock.
-**Figure 1 – Effect time dilation of moving clocks compared to those at rest in the IFR**
+**Figure 1 – Effect time dilation of moving clocks compared to those at rest in the ImFR**
 
 The clock is resting (Figure 1a). In order for the photon to "pass" the path from the first plate to the second and back, it takes time $T=\frac{2L}{c}$ – this is the period of hours. By the number of periods, they determine how much time has passed, since they consider the period immutable
 
-The clock moves at a speed of v (Figure 1b, 1c). Then, when the photon moves in the direction of the movement of the clock, it will need to pass a distance greater than L, since the clock moves at a speed v relative to the IFR.  The distance will be equal to $cT_1=vT_1+L$, from where $T_1=\frac{L}{c-v}$. When the photon moves in the opposite direction of the clock, it will need to travel a distance less than L. The distance will be $cT_2=L-vT_2$, from where $T_2=\frac{L}{c+v}$.
+The clock moves at a speed of v (Figure 1b, 1c). Then, when the photon moves in the direction of the movement of the clock, it will need to pass a distance greater than L, since the clock moves at a speed v relative to the ImFR.  The distance will be equal to $cT_1=vT_1+L$, from where $T_1=\frac{L}{c-v}$. When the photon moves in the opposite direction of the clock, it will need to travel a distance less than L. The distance will be $cT_2=L-vT_2$, from where $T_2=\frac{L}{c+v}$.
 
 We get that the time of the full period $T=T_1+T_2=\frac{L}{c-v}+\frac{L}{c+v}$ Then at zero clock speed: $T=\frac{2L}{c}$, at a clock speed of 0.5c: $T=\frac{2L}{c}+\frac{2L}{3c}=\frac{8L}{3c}$, and at the speed of the clock tending to the speed of light: T→∞.
 
@@ -139,17 +139,17 @@ Time is a characteristic of the world, reflecting the change in the location of 
 
 Time is the same for all objects and flows continuously, linearly, and most importantly, does not depend on anything. The closest to reality are the understandings of time as the "arrow of time" and the "axis of time", but it is not possible to move along this axis, since for this it is necessary to be able to control elementary particles and world laws, that is, the world.
 
-"Time dilation", other effects of the Theory of Relativity [[Albert Einstein.ru |Einstein]] and the theory itself originate from a physically erroneous definition of the term "Time". Why it is physically wrong to give an appropriate definition is described in the section "How to define the term "Time" in order to create a theory of relativity".
+"Time dilation", other effects of the Theory of Relativity [[Albert Einstein.en |Einstein]] and the theory itself originate from a physically erroneous definition of the term "Time". Why it is physically wrong to give an appropriate definition is described in the section "How to define the term "Time" in order to create a theory of relativity".
 
 ### How to define the term "Time" in order to create a theory of relativity
 
-Дата изначальной публикации на русском: 02.08.2015
+Date of initial publication in Russian: 02.08.2015
 
-С 1967 года международная система единиц СИ определяет секунду как 9 192 631 770 периодов электромагнитного излучения, возникающего при переходе между двумя сверхтонкими уровнями основного состояния атома цезия-133.
+Since 1967, the international system of units ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)) has defined a second as 9 192 631 770 periods of electromagnetic radiation that occurs during the transition between two hyperfine levels of the ground state of the caesium-133 atom.
 
-Однако на каком основании считается, что период электромагнитного излучения ни от чего не зависит?
+However, on what basis is it considered that the period of electromagnetic radiation does not depend on anything?
 
-Примером рациональных мыслей в данном направлении является тот факт, что к выше описанному определению секунды с 1997 года были добавлены уточнения: в покое, при температуре в 0 К и отсутствии внешних полей. Однако эти уточнения не применяются на практике, так как атомные часы не находятся при температуре в 0 К и не находятся в покое, так как поверхность Земли даже близко не является ИСО.
+An example of rational thoughts in this direction is the fact that clarifications have been added to the above definition of a second since 1997: at rest, at a temperature of 0 K and in the absence of external fields. However, these refinements are not applied in practice, since atomic clocks are not at a temperature of 0 K and are not at rest, since the Earth's surface is not even close to inertial frame of reference (IFR).
 
 Рассмотрим факт: 
 
