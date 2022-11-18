@@ -205,45 +205,45 @@ According to GTR, a moving clock in any IFR should go slower than a rest one. Th
 
 According to the generally accepted definition of a second (9 192 631 770 periods of radiation of the caesium-133 atom), light will travel 299,792,458 m, but for clocks moving at different speeds (relative to ImFR), the distance traveled by light per second in ImFR (absolute time interval) will be different. This will indicate the different duration of the period in clocks.
 
-Получаем ключевой вопрос: как определить абсолютное время / абсолютный отрезок времени / время в ImFR?
+We get the key question: how to determine the absolute time / absolute time interval / time in ImFR?
 
-1.  Замерить время, за которое свет преодолеет расстояние в 299 792 458 м в ImFR. Весьма не простая задача.
-2.  Исходя из описания [[index.ru#^Эффект запаздывания движущихся часов по сравнению с покоящимися в НСО|эффекта запаздывания движущихся часов по сравнению с покоящимися в ImFR]], период часов, например световых, где v – скорость часов относительно ImFR, можно определить по формуле:
+1.  Measure the time it takes for light to travel a distance of 299,792,458 m in ImFR. A very difficult task.
+2.  Based on the description [[index.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Effect time dilation of a moving clock compared to a rest one in ImFR]], the period of the clock, for example light clocks, where $v$ is the speed of the clock relative to ImFR, can be determined by the formula:
     $\large{T = \frac{L}{c-v}+\frac{L}{c+v}}(1)$ 
     
-    Период часов в ImFR: 
-    $\large{T_{НСО} = \frac{2L}{c} (2) => L = \frac{cT_{НСО}}{2}}(3)$ 
+    Period of clocks in ImFR: 
+    $\large{T_{ImFR} = \frac{2L}{c} (2) => L = \frac{cT_{ImFR}}{2}}(3)$ 
     
-    Подставим (3) в (1):
-    $\large{T = \frac{cT_{НСО}}{2(c-v)}+\frac{cT_{НСО}}{2(c+v)} = \frac{cT_{НСО}(c+v)}{2(c-v)(c+v)}+\frac{cT_{НСО}(c-v)}{2(c-v)(c+v)} =}$  $\large{\frac{c^2T_{НСО}}{(c-v)(c+v)} (4)}$ $\large{=>}$ $\large{T_{НСО} = \frac{T(c-v)(c+v)}{c^2}}(5)$   
+    Substitute (3) in (1):
+    $\large{T = \frac{cT_{ImFR}}{2(c-v)}+\frac{cT_{ImFR}}{2(c+v)} = \frac{cT_{ImFR}(c+v)}{2(c-v)(c+v)}+\frac{cT_{ImFR}(c-v)}{2(c-v)(c+v)} =}$  $\large{\frac{c^2T_{ImFR}}{(c-v)(c+v)} (4)}$ $\large{=>}$ $\large{T_{ImFR} = \frac{T(c-v)(c+v)}{c^2}}(5)$   
 
-Теперь важно ответить на следующий вопрос. Что показывают любые часы? Время? Нет. Количество периодов, умноженное на константу.
+Now it is important to answer the following question. What does any clock show? Time? No. The number of periods multiplied by a constant.
 
-Период произвольных часов (T) зависит от всех внешних воздействий, температуры и главное от скорости движения часов относительно ImFR.
+The period of an arbitrary clock (T) depends on all external influences, temperature and, most importantly, on the speed movement of the clock relative to ImFR.
 
-При этом количество периодов для произвольных часов:
-$\large{M = \frac{t}{T} = t \frac{(c-v)(c+v)}{c^2T_{НСО}}}(6)$,
+At the same time, the number of periods for arbitrary clock:
+$\large{M = \frac{t}{T} = t \frac{(c-v)(c+v)}{c^2T_{ImFR}}}(6)$,
 
-откуда:
-$\large{T_{НСО} = t \frac{(c-v)(c+v)}{c^2M}}(7)$ 
+from where we get:
+$\large{T_{ImFR} = t \frac{(c-v)(c+v)}{c^2M}}(7)$ 
 
-При этом количество периодов в ImFR:
-$\large{N = \frac{t}{T_{НСО}}}(8)$.
+At the same time, the number of periods in the ImFR:
+$\large{N = \frac{t}{T_{ImFR}}}(8)$.
 
-Подставим (7) в (8) и получим количество периодов в ImFR, которое не зависит от скорости произвольных часов:
-$\LARGE{N = \frac{t}{T_{НСО}} = \frac{t}{t\frac{(c-v)(c+v)}{c^2M}} = \frac{c^2M}{(c-v)(c+v)}}(9)$.
+Substitute (7) into (8) and get the constant number of periods in the ImFR, which does not depend on the speed of an arbitrary clock:
+$\LARGE{N = \frac{t}{T_{ImFR}} = \frac{t}{t\frac{(c-v)(c+v)}{c^2M}} = \frac{c^2M}{(c-v)(c+v)}}(9)$.
 
-Фактически таким образом можно рассчитывать абсолютное время для произвольных часов. Однако стоит напомнить, что нужно учитывать зависимость хода часов от всех внешних воздействий и температуры, а также здесь мы рассматривали идеализированные световые часы, а не реальные атомные.
+In fact, in this way it is possible to calculate the absolute time for arbitrary clocks. However, it is worth remind that it is necessary to considered the dependence of the clock on all external influences and temperature, and also here we considered an idealized light clock, not a real atomic one.
 
-Стоит напомнить, что здесь v – скорость произвольных часов относительно ImFR.
+It is worth remind that here $v$ is the speed of an arbitrary clock relative to ImFR.
 
-По всей видимости v – скорость относительно [реликтового излучения](https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)(исходя из дипольной анизотропии).
+Apparently $v$ is the speed relative to  [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
 
-Итак, что если период электромагнитного излучения не константа и зависит от скорости движения часов относительно ImFR?
+So, what if the period of electromagnetic radiation is not a constant and depends on the speed of the clock relative to the ImFR?
 
-1.  Время (исходя из термина моей концепции) является абсолютной величиной, как и пространство и весь Мир в целом (включая элементарные частицы, их характеристики и системы, которые они составляют), а также все вытекающие отсюда следствия.
-2.  Не требуется производить преобразования при переходе между IFR. IFR вообще становятся не нужны. Каждый объект движется относительно единственной ImFR.
-3.  Нет никаких «замедлений времени», «сокращений длинны», «относительности одновременности» и GTR в целом.
+1.  Time (based on the term of my concept) is an absolute quantity, as is space and the whole world as a whole (including elementary particles, their characteristics and the systems they make up), as well as all the consequences that follow from this.
+2.  There is no need to make conversions when switching between IFR. IFR are no longer needed at all. Each object moves relative to a single ImFR.
+3.  There are no "time dilations", "length reductions", "relativity of simultaneity" and GTR in general.
 
 #### Итог
 
