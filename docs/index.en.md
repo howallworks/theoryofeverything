@@ -257,13 +257,13 @@ In the extreme case, when the speed relative to ImFR tends to the speed of light
 
 ### Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR 
 
-Скорость объекта сильно влияет на его динамику, так как период всех процессов стремится к бесконечности при приближении скорости (относительно ImFR) к скорости света. Период процессов увеличивается из-за того что векторы движения, у $к.ф.^+$, $к.ф.^-$ и к.г. в составе объекта, стремятся быть сонаправлены. И для того чтобы, например, к.г. долетел от одного $к.ф._1$ к другому $к.ф._2$ требуется очень много времени, так как проекция скорости к.г. на нужное направление крайне мала (стремится к нулю при стремлении скорости объекта (относительно ImFR) к скорости света):
+The speed of an object strongly affects its dynamics, since the period of all processes tends to infinity when the speed (relative to ImFR) tends to the speed of light. The period of the processes increases due to the fact that the speed vectors, $q.ph .^+$, $q.ph .^-$ and $q.g.$. as parts of an object, tend to be co-directed. And in order for, for example, $q.g.$ fly from one $q.ph._1$ to another $q.ph._2$, it takes a very long time, since the projection of the speed of $q.g.$ to the desired direction is extremely small (tends to zero when the speed of the object (relative to ImFR) tends to the speed of light):
 
-![[pic2.jpg]] 
+![[pic2.en.jpg]] 
 
-**Рисунок 2 – Взаимодействие двух квант фотонов с квант гравитоном при приближении скорости объекта (относительно ImFR) к скорости света**
+**Figure 2 – Interaction of two quantum photons with a quantum graviton when the object's speed (relative to ImFR) tends to the speed of light**
 
-При нулевой скорости объекта (отностиельно ImFR) период процессов минимальный. Отсюда мы и получаем что чем выше скорость объекта (отностительно ImFR), тем выше его время жизни (отностительно ImFR). Это собственно и подтверждается экспериментально. Чем ближе скорость нестабильной частицы/объекта к скорости света (отностительно ImFR), тем большее расстояние она/он проходит прежде чем распасться.  
+At zero object speed (relative to ImFR), the process period is minimal. Hence we get that when the speed of an object up (relative to ImFR), then up its lifetime (relative to ImFR). This is actually confirmed experimentally. When the speed of an unstable particle/object is closer to the speed of light (relative to ImFR), then greater the distance it pass before decaying.
 
 ### [Парадокс близнецов](http://howallworks.github.io/blog/2015/10/paradoks-bliznetsov.html)
 
