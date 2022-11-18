@@ -245,17 +245,17 @@ So, what if the period of electromagnetic radiation is not a constant and depend
 2.  There is no need to make conversions when switching between IFR. IFR are no longer needed at all. Each object moves relative to a single ImFR.
 3.  There are no "time dilations", "length reductions", "relativity of simultaneity" and GTR in general.
 
-#### Итог
+#### Result
 
-Или мы считаем, что период часов не зависит от скорости их движения относительно ImFR и одинаков во всех IFR, а знчит даем определение термина «время», базирующееся на фиксированном количестве периодов электромагнитного излучения атома цезия-133, и получаем GTR.
+Or we consider that the period of the clock does not depend on the speed of their movement relative to the ImFR and is the same in all IFRs, and then we define the term "time" based on a fixed number of periods of electromagnetic radiation of the caesium-133 atom, and we get GTR.
 
-Или соглашаемся с тем, что часы, движущиеся с разной скоростью относительно ImFR, показывают разное время из-за того, что период процессов в них различен, и получаем абсолютный Мир.
+Or we agree that clocks moving at different speeds relative to the ImFR show different times due to the fact that the period of processes in them is different, and we get an absolute world.
 
-Я считаю, что факты свидетельствуют о зависимости периода всех внутренних процессов (в частности периода электромагнитного излучения атома цезия-133) от скорости движения объекта/системы элементарных частиц относительно ImFR. 
-Фактически чем ближе скорость объекта/системы элементарных частиц к скорости света, тем меньше относительная скорость между её элементарными частицами и, соотвтетсвенно, больше времени тратится на все процессы. 
-В предельном случае, при стремлении скорости относительно ImFR к скорости света, любые элементарные частицы объекта/системы никогда не будут взаимодействовать (например, квант гравитон движущийся от одного квант фотона к другому никогда не долетит, так как проекция скорости на нужное направление будет стремится к нулю - [[index.ru#^Зависимость периода процессов в объекте от скорости движения объекта относительно НСО|зависимость периода процессов в объекте от скорости движения объекта относительно ImFR]]).
+I consider that the facts indicate the dependence of the period of all internal processes (in particular, the period of electromagnetic radiation of the caesium-133 atom) on the speed of the object/system of elementary particles relative to the ImFR.
+In fact, when the speed of an object/system of elementary particles is closer to the speed of light, then lower the relative speed between its elementary particles and, accordingly, more time is spent on all processes.
+In the extreme case, when the speed relative to ImFR tends to the speed of light, any elementary particles of the object/system will never interact (for example, a quantum graviton moving from one quantum photon to another will never reach it, since the projection of the speed in the desired direction will tend to zero - [[index.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]]).
 
-### Зависимость периода процессов в объекте от скорости движения объекта относительно ImFR 
+### Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR 
 
 Скорость объекта сильно влияет на его динамику, так как период всех процессов стремится к бесконечности при приближении скорости (относительно ImFR) к скорости света. Период процессов увеличивается из-за того что векторы движения, у $к.ф.^+$, $к.ф.^-$ и к.г. в составе объекта, стремятся быть сонаправлены. И для того чтобы, например, к.г. долетел от одного $к.ф._1$ к другому $к.ф._2$ требуется очень много времени, так как проекция скорости к.г. на нужное направление крайне мала (стремится к нулю при стремлении скорости объекта (относительно ImFR) к скорости света):
 
