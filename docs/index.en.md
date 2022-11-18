@@ -120,8 +120,6 @@ The speed of an arbitrary clock relative to the ImFR is apparently equal to the 
 
 ### Effect time dilation of a moving clock compared to a rest one in ImFR
 
-^9fcf98
-
 Now let's consider an experiment in which a moving clock is delayed compared to a rest one  – [[Hafele–Keating experiment.en|Hafele–Keating experiment]]. For simplicity, we will consider a light clock. According to the Theory of Relativity, the effect of "time dilation" is used to describe the effect of the delay of the clock. However, when using ImFR, this is not required, since in reality there is no "time dilation" effect.
 
 ![[pic1.png]]
@@ -179,7 +177,7 @@ Unit of time. In a time equal to the one second, a quantum of light (photon) tha
 
 Периодичность процессов в произвольных часах (объектах), в том числе атомных или световых зависит от скорости движения часов относительно ImFR. Чем выше скорость часов, тем больше времени тратиться на период электромагнитного излучения (например, атома цезия-133) или полный период световых часов.
 
-В предельном случае при скорости движения часов, стремящейся к скорости света, период электромагнитного излучения стремится к бесконечности (см. [[index.en#^9fcf98|Эффект запаздывания движущихся часов по сравнению с покоящимися в ImFR]]). [[index.en#Effect time dilation of a moving clock compared to a rest one in ImFR]]
+В предельном случае при скорости движения часов, стремящейся к скорости света, период электромагнитного излучения стремится к бесконечности (см. [[index.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Эффект запаздывания движущихся часов по сравнению с покоящимися в ImFR]]). 
 
 В результате при увеличении скорости объекта замедляется не время, а увеличивается время периода процессов в объекте (например, период электромагнитного излучения).
 
