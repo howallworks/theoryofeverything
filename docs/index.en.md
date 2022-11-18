@@ -265,103 +265,103 @@ The speed of an object strongly affects its dynamics, since the period of all pr
 
 At zero object speed (relative to ImFR), the process period is minimal. Hence we get that when the speed of an object up (relative to ImFR), then up its lifetime (relative to ImFR). This is actually confirmed experimentally. When the speed of an unstable particle/object is closer to the speed of light (relative to ImFR), then greater the distance it pass before decaying.
 
-### [Парадокс близнецов](http://howallworks.github.io/blog/2015/10/paradoks-bliznetsov.html)
+### [Twins paradox](https://en.wikipedia.org/wiki/Twin_paradox)
 
-Дата изначальной публикации: 31.10.2015
+Date of initial publication in Russian: 31.10.2015
 
-Рассмотрим эксперимент №1 согласно общей теории относительности, представленный на рисунке 3, относительно объекта 3 (о1) – $СО_{о1}$ (рисунок 3.1) и относительно объекта 2 (о2) – $СО_{о2}$ (рисунок 3.2).
+Consider experiment No. 1 according to the general theory of relativity ([[GTR.en|GTR]]), presented in Figure 3, relative to object 1 (o1) - $FR_{o1}$ (Figure 3.1) and relative to object 2 (o2) - $FR_{o2}$ (Figure 3.2).
 
 ![[pic3.png]] 
 
-**Рисунок 3 – Эксперимент №1**
+**Figure 3 – Experiment No. 1**
 
-В $СО_{о1}$: 
+In $FR_{o1}$: 
 
-- о1 всегда покоится 
-- фаза 1: о2 покоится 
-- фаза 2: о2 ускоряется (с ускорением a) 
-- фаза 3: о2 движется (со скоростью v) 
-- фаза 4: о2 тормозит (с ускорением -a) 
-- фаза 5: о2 ускоряется (с ускорением -a) 
-- фаза 6: о2 движется (со скоростью -v) 
-- фаза 7: о2 тормозит (с ускорением a) 
-- фаза 8: о2 покоится 
+- o1 always rests
+- phase 1: o2 is at rest
+- phase 2: o2 accelerates (with acceleration $a$)
+- phase 3: o2 is moving (at speed $v$)
+- phase 4: o2 is slowing down (with acceleration $-a$)
+- phase 5: o2 accelerates (with acceleration $-a$)
+- phase 6: o2 is moving (at speed $-v$)
+- phase 7: o2 is slowing down (with acceleration $a$)
+- phase 8: o2 is at rest
 
-В $СО_{о2}$: 
+In $FR_{o2}$: 
 
-- о2 всегда покоится 
-- фаза 1: о1 покоится 
-- фаза 2: о1 ускоряется (с ускорением -a)  
-- фаза 3: о1 движется (со скоростью -v) 
-- фаза 4: о1 тормозит (с ускорением a) 
-- фаза 5: о1 ускоряется (с ускорением a) 
-- фаза 6: о1 движется (со скоростью v) 
-- фаза 7: о1 тормозит (с ускорением -a) 
-- фаза 8: о1 покоится 
+- o2 always rests
+- phase 1: o1 is at rest
+- phase 2: o1 accelerates (with acceleration $-a$)
+- phase 3: o1 is moving (with velocity $-v$)
+- phase 4: o1 is slowing down (with acceleration $a$)
+- phase 5: o1 accelerates (with acceleration $a$)
+- phase 6: o1 is moving (at a speed of $v$)
+- phase 7: o1 is slowing down (with acceleration $-a$)
+- phase 8: o1 is at rest
 
-Получаем согласно общей теории относительности: 
+We get according to the general theory of relativity:
 
-- в $СО_{о1}$ будет наблюдаться замедление времени на часах о2 (в сравнении с часами о1);
-- в $СО_{о2}$ будет наблюдаться замедление времени на часах о1 (в сравнении с часами о2).
+- in $FR_{o1}$ there will be a time dilation on the o2 clock (compared to the o1 clock);
+- in $FR_{o2}$, there will be a time dilation on the o1 clock (compared to the o2 clock).
 
-В действительности: 
+In fact:
 
-На одних часах пройдет меньший интервал времени, чем на других (хотя возможен один случай, когда часы о1 и о2 покажут одно и тоже время). Фактически одни часы показывают меньшее время, чем другие для обоих наблюдателей (каждый наблюдатель неразрывно связан со своим объектом).
+A shorter time interval will pass on some clocks than on others (although there may be one case when o1 and o2 clocks will show the same time). In fact, one clock shows less time than the other for both observers (each observer is inextricably linked to its object).
 
-Возникает вопрос: 
+The question arises:
 
-Какие из часов будут показывать меньшее время (меньший интервал времени)?
+Which of the clocks will show a shorter time (shorter time interval)?
 
-Данный парадокс ученые пытаются объяснить разными способами, но такие домыслы не относятся к теории относительности и ее математическому представлению, а используют дополнительную информацию, не относящуюся к теории относительности. Ключевым моментом является тот факт, что теория относительности и ее математический аппарат являются самодостаточными и обязаны работать без дополнений для любых случаев, включая парадокс близнецов, чего не происходит.
+Scientists try to explain this paradox in various ways, but such conjectures do not relate to the theory of relativity and its mathematical representation, but use additional information that does not relate to the theory of relativity. The key point is the fact that the theory of relativity and its mathematical formalism are self-sufficient and must work without additions for any cases, including the twins paradox, which does not happen.
 
-Теперь рассмотрим другой эксперимент, представленный на рисунке 4, согласно общей теории относительности. Сразу нужно отметить, что время ускорений объектов много меньше времени движения объектов с постоянными скоростями (это условие необходимо для исключения спекуляций о влиянии ускорений объектов на результаты). В фазе 1 часы всех наблюдателей синхронизированы (показывают одно и тоже время). **dt** – промежуток времени, проведенный объектами в данной фазе по часам объекта с которым связана система отсчета.
+Now let's consider another experiment presented in Figure 4, according to the general theory of relativity. It should be noted right away that the acceleration time of objects is much less than the time of movement of objects with constant speeds (this condition is necessary to exclude speculation about the effect of object accelerations on the results). In phase 1, the clocks of all observers are synchronized (they show the same time). $dt$ – the period of time spent by objects in this phase by the clock of the object with which the reference frame is associated.
 
 ![[pic4.png]] 
 
-**Рисунок 4 – Эксперимент №2**
+**Figure 4 – Experiment No. 2**
 
-Очевидно, что в какой бы системе отсчета не находились наблюдатели (о1, о2, о3), при непосредственном наблюдении итоговых показаний приборов (фаза 7) все они увидят один и тот же результат (этот факт подтверждается всеми экспериментами). То есть каждый наблюдатель видит одни и те же показания на одних и тех же часах (один физический объект – часы, показывают одно и тоже время для всех).
+It is obvious that in whatever frame of reference the observers are (o1, o2, o3), when directly observing the final readings of the clocks (phase 7), they will all see the same result (this fact is confirmed by all experiments). That is, each observer sees the same readings on the same clock (one physical object, a clock, shows the same time for everyone).
 
-Однако согласно общей теории относительности это будет не так, каждый наблюдатель должен видеть разные показания на одних и тех же часах. 
-Что же именно должны видеть наблюдатели согласно общей теории относительности?
+However, according to the general theory of relativity, this will not be the case, each observer should see different readings on the same clock.
+What exactly should observers see according to the general theory of relativity?
 
-Наблюдатель о1: 
+Observer o1:
 
-- часы о1: $△T_{o1} = t + t + t + 1.5t = 4.5t$; 
-- часы о2: $△T_{o2} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
-- часы о3: $△T_{o3} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
+- clock o1: $△T_{o1} = t + t + t + 1.5t = 4.5t$; 
+- clock o2: $△T_{o2} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
+- clock o3: $△T_{o3} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
 
 $△T_{o1} > △T_{o2} > △T_{o3}$ 
 
-Наблюдатель о2: 
+Observer o2: 
 
-- часы о1: $△T_{o1} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
-- часы о2: $△T_{o2} = t + t + t + 1.5t = 4.5t$; 
-- часы о3: $△T_{o3} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
+- clock o1: $△T_{o1} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
+- clock o2: $△T_{o2} = t + t + t + 1.5t = 4.5t$; 
+- clock o3: $△T_{o3} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
 
 $△T_{o2} > △T_{o1} > △T_{o3}$ 
 
-Наблюдатель о3:  
+Observer o3:  
 
-- часы о1: $△T_{o1} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
-- часы о2: $△T_{o2} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
-- часы о3: $△T_{o3} = t + t + t + 1.5t = 4.5t$; 
+- clock o1: $△T_{o1} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
+- clock o2: $△T_{o2} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
+- clock o3: $△T_{o3} = t + t + t + 1.5t = 4.5t$; 
 
 $△T_{o3} > △T_{o2} > △T_{o1}$ 
 
-, где $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, а **△T** - фактически показывают сколько времени прошло между моментом расставания (фаза 1) и моментом встречи (фаза 7) согласно общей теории относительности.
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, and $△T$ - actually show how much time has passed between the moment of separation (phase 1) and the moment of meeting (phase 7) according to general relativity.
 
-Как видно согласно общей теории относительности они должны наблюдать абсолютно разные показания на одних и тех же часах, что противоречит действительности.
+As we can be seen, according to the general theory of relativity, they should observe completely different readings on the same clock, which contradicts reality.
 
-В результате согласно общей теории относительности, нельзя сказать какой из объектов в действительности двигался и, соответственно, какие из часов будут показывать меньшее время (качественный фактор).
+As a result, according to the general theory of relativity, it is impossible to say which of the objects actually moved and, accordingly, which of the clocks will show a shorter time (qualitative factor).
 
-Кроме того, согласно общей теории относительности нельзя также сказать насколько будут в действительности различаться показания часов (количественный фактор).
+In addition, according to the general theory of relativity, it is also impossible to say how much the clock readings will actually differ (a quantitative factor).
 
-Это означает, что теория относительности противоречит действительности.
+This means that the theory of relativity contradicts reality.
 
 ### [Общая теория относительности vs гравитационные маневры и черные дыры](http://howallworks.github.io/blog/2015/11/obshchaia-teoriia-otnositelnosti-vs-gravitatsionnye-manevry-i-chernye-dyry.html)
 
-Дата изначальной публикации: 22.11.2015
+Date of initial publication in Russian: 22.11.2015
 
 Гравитационный маневр (ГМ) – разгон, замедление, изменение направления полёта объекта под действием гравитационных полей других объектов, как правило, массивных (небесных тел).
 
@@ -379,7 +379,7 @@ _Согласно общей теории относительности (ОТО
 
 ### [Принцип эквивалентности сил гравитации и инерции (Лифт Эйнштейна)](http://howallworks.github.io/blog/2015/02/printsip-ekvivalentnosti-sil-gravitatsii-i-inertsii-lift-einshteina.html)
 
-Дата изначальной публикации: 24.02.2015
+Date of initial publication in Russian: 24.02.2015
 
 Описание принципа эквивалентности сил гравитации и инерции можно посмотреть, например, [в Википедии](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF_%D1%8D%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%81%D0%B8%D0%BB_%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8_%D0%B8%D0%BD%D0%B5%D1%80%D1%86%D0%B8%D0%B8).
 
