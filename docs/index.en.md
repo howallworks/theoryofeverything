@@ -403,7 +403,7 @@ As a result, the principle of equivalence of the forces of gravity and inertia i
 
 #### Дополнение (2015.12.19):
 
-Давайте возьмем формулировку принципа эквивалентности сил гравитации и инерции непосредственно самого Эйнштейна:
+Let's take the formulation of the principle of equivalence of the forces of gravity and inertia directly by Einstein himself:
 
 _"A little reflection will show that the law of the equality of the inertial and gravitational mass is equivalent to the assertion that the acceleration imparted to a body by a gravitational field is independent of the nature of the body. For Newton's equation of motion in a gravitational field, written out in full, it is:_
 
@@ -411,18 +411,17 @@ _(Inertial mass) * (Acceleration) = (Intensity of the gravitational field) * (Gr
 
 _It is only_ **when there is numerical equality between the inertial and gravitational mass that the acceleration is independent of the nature of the body**_."_
 
-Какие здесь ограничения на эксперимент? Здесь говориться, что сила гравитации и сила инерции оказывают одинаковое воздействие на объект (при равенстве гравитационной и инертной массы) и отличить это воздействие невозможно.
+What are the restriction on the experiment here? It says here that the force of gravity and the force of inertia have the same effect on the object (with the equality of gravitational and inertial mass) and it is impossible to distinguish this effect.
 
-Приведем эксперимент, в котором явно определяется какая из сил действует:
+Here is an experiment in which it is clearly determined which of the forces is acting:
 
-Первый случай. Корабль/«лифт Эйнштейна», на который действует только сила гравитации (например, под воздействием массивного объекта). Ускорение – есть, реакции опоры корабля на человека в нем – нет, деформационной нагрузки между атомами корабля/человека за счет ускорения – нет.
+The first case. A ship /"Einstein elevator", which is affected only by the force of gravity (for example, under the influence of a massive object). Acceleration is present, there is no reaction of the ship's support to the person in it, there is no deformation load between the atoms of the ship / person due to acceleration.
 
-Второй случай. Корабль/«лифт Эйнштейна» (находится на таком удалении от массивного объекта, что сила гравитации стремится к нулю), на который действует только сила инерции (например, под воздействием двигателя корабля). Ускорение – есть, реакция опоры корабля на человека в нем – есть, деформационная нагрузка между атомами корабля/человека за счет ускорения – есть.
+The second case. The ship /"Einstein elevator" (located at such a distance from a massive object that the force of gravity tends to zero), which is affected only by the force of inertia (for example, under the influence of the ship's engine). Acceleration is present, the reaction of the support of the ship to the person in it is present, the deformation load between the atoms of the ship / person due to acceleration is present.
 
-Особо отметим, что выше описанный эксперимент корректно проводить согласно формулировке принципа эквивалентности (сил гравитации и инерции) Эйнштейна.
+It should be especially noted that the above experiment is correctly carried out according to the formulation of the equivalence principle (forces of gravity and inertia) of Einstein.
 
-Фактически данный эксперимент противоречит принципу эквивалентности Эйнштейна, то есть согласно данному эксперименту принцип эквивалентности сил гравитации и инерции Эйнштейна – неверен.
-
+In fact, this experiment contradicts the Einstein equivalence principle, respectively, according to this experiment, the principle of equivalence of the forces of gravity and inertia of Einstein is incorrect.
 
 ### Активная и пассивная массы. 
 
