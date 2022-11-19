@@ -472,13 +472,13 @@ It is worth noting that the sum of randomness does not give a regularity (law) i
 
 All random variable are not random, since they have a law of their receive/the law of distribution of a random variable (for example, linear, exponential, normal, etc.).
 
-### Неопределенность Гейзенберга
+### Heisenberg's uncertainty principle
 
-Неопределенность Гейзенберга свидетельствует о том, что на текущем этапе развития науки и техники нет возможности одновременно определить координату и импульс квантового объекта, а не о том, что объект будет находиться в нескольких состояниях или его состояние не подчиняется законам и нельзя заранее сказать, каким оно будет. 
+Heisenberg's uncertainty indicates that at the current stage of the development of science and technology, it is not possible to simultaneously determine the coordinate and momentum of a quantum object, and not that the object will be in several states or its state does not obey laws and it is impossible to say in advance what it will be.
 
-Неопределенности / неоднозначности – нет. 
+There is no uncertainty/ambiguity.
 
-Нельзя точно измерить параметры объекта, не повлияв на него.
+It is impossible to accurately measure the parameters of an object without affecting it.
 
 ### Частицы
 
