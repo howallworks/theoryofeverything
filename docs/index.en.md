@@ -401,7 +401,7 @@ The reaction force of the support is, in fact, the influence of the support atom
 
 As a result, the principle of equivalence of the forces of gravity and inertia is incorrect.
 
-#### Дополнение (2015.12.19):
+#### Supplement (2015.12.19):
 
 Let's take the formulation of the principle of equivalence of the forces of gravity and inertia directly by Einstein himself:
 
@@ -423,20 +423,20 @@ It should be especially noted that the above experiment is correctly carried out
 
 In fact, this experiment contradicts the Einstein equivalence principle, respectively, according to this experiment, the principle of equivalence of the forces of gravity and inertia of Einstein is incorrect.
 
-### Активная и пассивная массы. 
+### Active and passive masses 
 
-Теперь исходя из того что всё в мире состоит из $к.ф.^+$, $к.ф.^-$ и к.г. необходимо обсудить понятия массы.
+Now based on the fact that everything in the world consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$ need to discuss the concepts of mass.
 
-Масса бывает активная и пассивная. 
-Активная масса - сколько к.г. излучает объект/система элементарных частиц в единицу времени.
-Пассивная масса - сколько к.г. взаимодействует с объектом/системой элементарных частиц в единицу времени при облучении единичным/одинаковым потоком к.г.
+The mass can be active and passive.
+The active mass - how much $q.g.$ an object/system of elementary particles emits per unit of time.
+Passive mass - how much $q.g.$ interacts with an object /system of elementary particles per unit of time when irradiated with a same/identical flow of $q.g.$
 
-Активная и пассивная массы сильно зависят от структуры объекта, скорости движения относительно НСО (неподвижной системы отсчета). Посмотрим как влияет структура объекта. Возьмем электрон плюс позитрон и сравним с нейтрино плюс антинейтрино при преобразовании:
+The active and passive masses strongly depend on the structure of the object, the speed of movement relative to the ImFR (immobile frame of reference). Let's see how the structure of the object affects. Let's take an electron plus a positron and compare it with a neutrino plus an antineutrino in the transformation:
 $$e^+ e^- → ν \overline ν $$
-Суммарное количество $к.ф.^+$, $к.ф.^-$ должно быть идентично. Количество к.г. мы, к сожалению, пока не можем определить. Однако для электрона и нейтрино активная и пассивная массы будут различаться из-за структурных различий. Нейтрино обладает меньшей активной массой и, скорее всего, меньшей пассивной тоже из-за более высокой плотности структуры. 
+Total amount of $q.ph .^+$, $q.ph .^-$ must be identical. Unfortunately, we cannot determine the amount of $q.g.$ yet. However, for an electron and a neutrino, the active and passive masses will differ due to structural differences. The neutrino has a lower active mass and, most likely, a lower passive mass, too, due to the higher density of the structure.
 
-Исходя из [[index.ru#^Зависимость периода процессов в объекте от скорости движения объекта относительно НСО|зависимости периода процессов в объекте от скорости движения объекта относительно НСО]] можно сделать ещё одно заключение.  
-Чем выше скорость объекта, тем меньше активная масса (излучение к.г.) и излучение фотонов тоже. Естественно это будет сильно заметно только на релятивистских скоростях (относительно НСО).
+Based on [[index.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]] one more conclusion can be drawn.  
+When the speed of the object is higher, then lower the active mass (radiation $q.g.$) and the radiation of photons, too. Naturally, this will be strongly noticeable only at relativistic speeds (relative to ImFR).
 
 ### Пространство
 
