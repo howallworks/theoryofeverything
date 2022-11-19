@@ -371,11 +371,11 @@ This is true for any frame of reference (FR), including inertial frame of refere
 
 According to the general theory of relativity (GTR), gravity is not a force, but a deformation of space-time, in which there are no forces, particles-carriers of interaction and, accordingly, the exchange/transfer of energy. However, as it was shown earlier, the energy of the target object changes due to gravity (in the absence of other forces) in the case of GM. This means that gravity exerts a force effect, as a result of which the energy of the target object changes. It also means that the representation of gravity in the form of a deformation of space-time according to GTR is erroneous, since in reality the energy of the target object changes during a gravitational maneuver.
 
-Некоторые важные следствия:
+Some important consequences:
 
-- гравитацию переносят частицы – гравитоны. Исходя из имеющих данных, скорость гравитонов равна скорости света;
-- черные дыры оказывают гравитационное воздействие, а соответственно излучаю гравитоны и теряют энергию. И в итоге будут рассыпаться, так как будут неспособны удерживать входящие в их состав частицы;
-- вся Вселенная в итоге рассыплется на элементарные частицы.
+- gravity is  transported by particles – gravitons. Based on the available data, the speed of gravitons is equal to the speed of light;
+- black holes have a gravitational effect, and accordingly emit gravitons and lose energy. And as a result, they will disintegrate, since they will be unable to hold the particles included in their structure;
+- the whole universe will eventually disintegrate into elementary particles.
 
 ### [Принцип эквивалентности сил гравитации и инерции (Лифт Эйнштейна)](http://howallworks.github.io/blog/2015/02/printsip-ekvivalentnosti-sil-gravitatsii-i-inertsii-lift-einshteina.html)
 
