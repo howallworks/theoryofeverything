@@ -271,7 +271,7 @@ Date of initial publication in Russian: 31.10.2015
 
 Consider experiment No. 1 according to the general theory of relativity ([[GTR.en|GTR]]), presented in Figure 3, relative to object 1 (o1) - $FR_{o1}$ (Figure 3.1) and relative to object 2 (o2) - $FR_{o2}$ (Figure 3.2).
 
-![[pic3.png]] 
+![[pic3.en.png]] 
 
 **Figure 3 – Experiment No. 1**
 
@@ -316,7 +316,7 @@ Scientists try to explain this paradox in various ways, but such conjectures do 
 
 Now let's consider another experiment presented in Figure 4, according to the general theory of relativity. It should be noted right away that the acceleration time of objects is much less than the time of movement of objects with constant speeds (this condition is necessary to exclude speculation about the effect of object accelerations on the results). In phase 1, the clocks of all observers are synchronized (they show the same time). $dt$ – the period of time spent by objects in this phase by the clock of the object with which the reference frame is associated.
 
-![[pic4.png]] 
+![[pic4.en.png]] 
 
 **Figure 4 – Experiment No. 2**
 
@@ -327,24 +327,24 @@ What exactly should observers see according to the general theory of relativity?
 
 Observer o1:
 
-- clock o1: $△T_{o1} = t + t + t + 1.5t = 4.5t$; 
-- clock o2: $△T_{o2} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
-- clock o3: $△T_{o3} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
+- clock o1: $△T_{o1} =$ $t + t + t + 1.5t = 4.5t$; 
+- clock o2: $△T_{o2} =$ $t + F(v)t + F(v)t + 1.5t =$ $2.5t + 2F(v)t$; 
+- clock o3: $△T_{o3} =$ $F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t =$ $F(\frac{v}{2})t + 3.5F(v)t$; 
 
 $△T_{o1} > △T_{o2} > △T_{o3}$ 
 
 Observer o2: 
 
-- clock o1: $△T_{o1} = t + F(v)t + F(v)t + 1.5t = 2.5t + 2F(v)t$; 
-- clock o2: $△T_{o2} = t + t + t + 1.5t = 4.5t$; 
-- clock o3: $△T_{o3} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
+- clock o1: $△T_{o1} =$ $t + F(v)t + F(v)t + 1.5t =$ $2.5t + 2F(v)t$; 
+- clock o2: $△T_{o2} =$ $t + t + t + 1.5t = 4.5t$; 
+- clock o3: $△T_{o3} =$ $F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t =$ $t + F(\frac{v}{2})t + 2.5F(v)t$; 
 
 $△T_{o2} > △T_{o1} > △T_{o3}$ 
 
 Observer o3:  
 
-- clock o1: $△T_{o1} = F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t = F(\frac{v}{2})t + 3.5F(v)t$; 
-- clock o2: $△T_{o2} = F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t = t + F(\frac{v}{2})t + 2.5F(v)t$; 
+- clock o1: $△T_{o1} =$ $F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t =$ $F(\frac{v}{2})t + 3.5F(v)t$; 
+- clock o2: $△T_{o2} =$ $F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t =$ $t + F(\frac{v}{2})t + 2.5F(v)t$; 
 - clock o3: $△T_{o3} = t + t + t + 1.5t = 4.5t$; 
 
 $△T_{o3} > △T_{o2} > △T_{o1}$ 
