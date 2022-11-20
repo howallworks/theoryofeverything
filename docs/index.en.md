@@ -508,11 +508,11 @@ The laws for all "levels" of matter (microcosm, macrocosm, megaworld) are the sa
 
 Energy is a characteristic of matter that does not exist without it.
 
-### Мир
+### World
 
-Мир – набор элементарных частиц, законов их взаимодействия и законов его начала и конца. Положение частиц изменяется с течением времени. Практическим доказательством всего этого является весь Мир, факты которого подтверждают данную теорию.
+The world is a set of elementary particles, the laws of their interaction and the laws of its beginning and end. The position of the particles changes over time. The practical proof of all this is the whole world, the facts of which confirm this theory.
 
-Внутренний, виртуальный мир, мир мыслей и идей «материальны», так как имеют материальные основы – они описываются материальными процессами в мозге или на компьютере. Без материальной деятельности мозга и хранения в мозге данных об этих мирах их бы не существовало. Поэтому хотя их (объектов Мира) в природе (вне человека) может и не существовать, но они «материальны», так как описываются поведением материи и хранятся в ней.
+The inner, virtual world, the world of thoughts and ideas are "material" because they have material foundations – they are described by material processes in the brain or on a computer. Without the material activity of the brain and the storage of data about these worlds in the brain, they would not exist. Therefore, although they (objects of the world) may not exist in nature (outside of human), but they are "material", since they are described by the behavior of matter and stored in it.
 
 ### Познаваемость Мира
 
