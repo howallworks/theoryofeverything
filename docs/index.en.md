@@ -541,9 +541,9 @@ Infinity is a purely mathematical concept. In the world, everything is determine
 
 The world is limited by the parameters, characteristics and properties of elementary particles, the laws of their interaction, as well as the laws of its origin. Accordingly, there are ultimate limits for all parameters, characteristics and properties of any objects.
 
-### «Матрица»
+### «Matrix»
 
-Существование «Матрицы» – иллюзорного или ненастоящего Мира (непервичного или неизначального Мира) – возможно, и любой «объект», находящийся в ней, не сможет доказать, что это «Матрица», если не будет внешних воздействий и «объект» не обладает информацией о внешнем Мире. Однако для организации такой «Матрицы» потребуется больше ресурсов, чем она обслуживает. Потенциально есть гарантированная возможность определить воздействие на наш Мир извне (описание смотрите в разделе «Душа» данной главы). Кроме того, нет оснований (фактов) считать наш Мир иллюзией.
+The existence of a "Matrix" – an illusory or unreal world (non–primary world) - is possible, and any "object" located in it will not be able to prove that it is a "Matrix" if there are no external influences and the "object" does not have information about the outside world. However, to organize such a "Matrix" will require more resources than it service. It is worth noting that numerical modeling allows you to control only discrete quantities, but our world is continuous. Accordingly, the "Matrix" should directly control elementary particles and the laws of their interaction. Based on this, there is a guaranteed opportunity to determine the impact on our world from the outside. In principle, suppose it is possible to control particles from the outside or add/remove particles, but this will lead to a violation of laws, and, accordingly, can be tracked from the inside. If laws are enforced in the world, then in order to control it from the outside, it is necessary to make changes in these laws, which, in turn, can be discovered in our world. As a result, due to the fact that there are no proven facts of interference in laws, this excludes the possibility of controlling the world/human from the outside. In addition, there are no grounds (facts) to consider our world an illusion.
 
 ### Система
 
