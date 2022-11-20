@@ -514,11 +514,11 @@ The world is a set of elementary particles, the laws of their interaction and th
 
 The inner, virtual world, the world of thoughts and ideas are "material" because they have material foundations – they are described by material processes in the brain or on a computer. Without the material activity of the brain and the storage of data about these worlds in the brain, they would not exist. Therefore, although they (objects of the world) may not exist in nature (outside of human), but they are "material", since they are described by the behavior of matter and stored in it.
 
-### Познаваемость Мира
+### Knowability of the world
 
-Мир познаваем полностью, то есть возможно определить субстанции материи и принцип (законы) их взаимодействия. Однако нет возможности полностью прогнозировать поведение Мира (нельзя предсказать будущее), так как для этого необходимо хранить и обрабатывать информацию обо всех частицах (объектах) Мира, а для этого не хватит ни объектов хранения, ни вычислительных мощностей.
+The world is fully knowable, that is, it is possible to determine the substances of matter and the principle (laws) of their interaction. However, it is not possible to fully predict the behavior of the world (it is impossible to predict the future), since for this it is necessary to store and process information about all particles (objects) of the world, and there will not be enough storage objects or computing power for this.
 
-Мир познаваем полностью, так как возможно определить все законы и элементарные объекты (частицы / субстанции). Если поведение модели, построенной на этих законах и элементарных объектах, полностью совпадет с поведением реальной системы в тех же условиях, то эти законы и элементарные объекты (в модели) являются законами и элементарными объектами Мира.
+The world is fully knowable, since it is possible to determine all laws and elementary objects (particles /substances). If the behavior of a model based on these laws and elementary objects completely coincides with the behavior of a real system under the same conditions, then these laws and elementary objects (in the model) are the laws and elementary objects of the world.
 
 ### Начало и конец нашего Мира
 
