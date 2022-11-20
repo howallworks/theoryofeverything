@@ -537,9 +537,9 @@ As a result, based on the available facts, we can conclude that Big scattering i
 
 Infinity is a purely mathematical concept. In the world, everything is determined by physics, in which all quantities are finite. Some of these quantities are not limited in principle, but always have finite values. Let's get back to the main question. Even if our world was cyclical, it would still have a beginning. And the time of its existence is a finite quantity. In fact, any world, including the primary one, has a beginning at the moment when elementary particles and laws and/or something else appear out of nowhere. And no matter how strange the appearance of something from nothing is, no World can exist (be formed) without it. As a result, the appearance of an ultra-high-density clot of elementary particles from nothing, which subsequently led to the Big Bang, is either a trivial beginning of our world, or a specialized law that organizes the cyclicity of the world. Due to the fact that the second option is largely far–fetched, then, apparently, the Big Bang is the beginning of our world.
 
-### Ограниченность Мира
+### The Limitations of the world
 
-Мир ограничен параметрами, характеристиками и свойствами элементарных частиц, законами их взаимодействия, а также законами его начала. Соответственно есть предельные ограничения для всех параметров, характеристик и свойств любых объектов.
+The world is limited by the parameters, characteristics and properties of elementary particles, the laws of their interaction, as well as the laws of its origin. Accordingly, there are ultimate limits for all parameters, characteristics and properties of any objects.
 
 ### «Матрица»
 
