@@ -492,21 +492,21 @@ The speed of elementary particles is constant, the condition is necessary in ord
 
 When considering all known types of interaction (gravitational, electromagnetic, strong and weak), the following should be noted. All the "transformations" of "elementary" particles of the Standard Model into each other are nothing more than the interaction and exchange of elementary particles - [[Quantum photon.en|quantum photons]] and [[Quantum graviton.en|quantum gravitons]].
 
-### Материя
+### Matter
 
-Материя не является порождением сознания, так как в случае обратного можно было бы менять материю и ее свойства силой разума. По сути, сознание является порождением материи.
+Matter is not a product of consciousness, since in the case of the opposite, it would be possible to change matter and its properties by the power of mind. In fact, consciousness is a product of matter.
 
-Материя состоит из частиц. Волн нет (элементарная частица не обладает волновыми свойствами), а поля – совокупность частиц.
+Matter consists of elementary particles. There are no waves (an elementary particle has no wave properties), and fields are a combination of particles.
 
-Взаимодействие между объектами (частицами) происходит посредством взаимодействия «частиц взаимодействия» с объектами. По этой причине присутствует эффект экранирования взаимодействия. 
+Interaction between objects (particles) occurs through the interaction of "interaction particles" with objects. For this reason, there is an interaction shielding effect.
 
-Эффекты интерференции и дифракции можно легко объяснить, если учитывать преизлучение частиц "барьером"(частицами поверхностей, щелей, пленок, линз и т.д.). 
+The effects of interference and diffraction can be easily explained if we take into account the re-emission of particles by a "barrier" (particles of surfaces, slits, membranes, lenses, etc.).
 
-Квантование энергии также объясняется тем, что материя состоит из частиц, количество которых ограничено.
+The quantization of energy is also explained by the fact that matter consists of particles, the number of which is limited.
 
-Законы для всех «уровней» материи (микромир, макромир, мегамир) одинаковы и вытекают из элементарных частиц и законов их взаимодействий.
+The laws for all "levels" of matter (microcosm, macrocosm, megaworld) are the same and follow from elementary particles and the laws of their interactions.
 
-Энергия – характеристика материи, которая не существует без нее.
+Energy is a characteristic of matter that does not exist without it.
 
 ### Мир
 
