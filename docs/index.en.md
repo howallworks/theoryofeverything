@@ -567,19 +567,19 @@ There is a law – there is unambiguity.
 As a result, we can initially tell whether the cat will be alive or dead at a particular time moment.
 The nucleus of an atom apparently decays when a certain threshold of energy (the number and directions of motion of elementary particles) is exceeded / insufficient, that is, if we know the energy threshold, the initial amount of energy and the incoming/decreasing amount of energy, then we will be able to say unequivocally when the nucleus will decay.
 
-### Теорема о запрете клонирования
+### No-cloning theorem
 
-Теорема заключается в утверждении квантовой теории о невозможности создания идеальной копии произвольного неизвестного квантового состояния, что имеет математическое доказательство.
+The [theorem](https://en.wikipedia.org/wiki/No-cloning_theorem) consists in the statement of quantum theory that it is impossible to create an ideal copy of an arbitrary unknown quantum state, which has a mathematical proof.
 
-Теорема актуальна только при текущем развитии науки и техники, но в Мире нет ограничения на создание идеальной копии (хотя это очень сложно – собрать всё по кусочкам и задать корректное начальное состояние).
+The theorem is relevant only with the current development of science and technology, but there is no restriction in the world on creating a perfect copy (although it is very difficult to put everything together piece by piece and set the correct initial state).
 
-Всё дело заключается в том, что физическое измерение состояния системы неминуемо приводит к изменению ее состояния. Это факт. Однако данный переход всегда обратим, то есть систему можно вернуть к первоначальному состоянию или любому требуемому при помощи серии специальных воздействий.
+The whole point is that the physical measurement of the state of the system inevitably leads to a change in its state. This is a fact. However, this transition is always reversible, that is, the system can be returned to its original state or any required by a series of special actions.
 
-По сути, для того чтобы физически измерить состояния элементарных частиц системы, необходимо произвести их взаимодействие с рядом элементарных частиц, по начальному и конечному состоянию которых можно определить соответствующие искомые состояния элементарных частиц системы. После чего необходимо исправить оказанное вмешательство в систему посредством воздействия еще ряда элементарных частиц с необходимыми состояниями. В итоге исследователи будут обладать исходной системой и знанием о состояниях всех элементарных частиц в ее составе, а, следовательно, можно синтезировать ее идеальные копии.
+In fact, in order to physically measure the states of the elementary particles of the system, it is necessary to interact with a number of elementary particles, according to the initial and final state of which it is possible to determine the corresponding desired states of the elementary particles of the system. After that, it is necessary to amend the intervention in the system by means of the influence of a number of elementary particles with the necessary states. As a result, researchers will have the initial system and knowledge about the states of all elementary particles in its composition, and, consequently, it is possible to synthesize its ideal copies.
 
-Единственная проблема в данном случае заключается в точности создания копии, что является проблемой технической, а не физической.
+The only problem in this case is the accuracy of creating a copy, which is a technical problem, not a physical one.
 
-Скорее всего, с развитием науки и техники клонирование и соответственно телепортация станет возможным.
+Most likely, with the development of science and technology, cloning and, accordingly, teleportation will become possible.
 
 ### Надбарьерное отражение
 
