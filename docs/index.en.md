@@ -581,11 +581,11 @@ The only problem in this case is the accuracy of creating a copy, which is a tec
 
 Most likely, with the development of science and technology, cloning and, accordingly, teleportation will become possible.
 
-### Надбарьерное отражение
+### Over-barrier reflection
 
-Надбарьерное отражение – отражение частицы от потенциального барьера, высота которого меньше полной энергии частицы. Данное явление невозможно с точки зрения классической физики.
+Over–barrier reflection is the reflection of a particle from a potential barrier whose height is less than the total energy of the particle. This phenomenon is impossible from the point of view of classical physics.
 
-Причиной этого эффекта является не вероятность или волновые свойства, а банальное взаимодействие между частицами и / или неточность измерения, то есть часть частиц, которые преодолевают барьер будут обладать различной энергией, но большей чем барьерная и в среднем больше средней энергии, а частицы, не преодолевшие барьер, имеют энергию меньше барьерной (часть полагающейся им энергии передалась другим частицам). Аналогично происходит и с температурой тела. Температура частей тела (в предельном случае элементарных частей) будет отличаться от средней температуры тела. Аналогично объясняется и эффект туннелирования частиц. Также стоит отметить, что сам барьер или туннель физически не являются четкой границей по пространственным координатам и, кроме того, меняются с течением времени.
+The reason for this effect is not the probability or wave properties, but the banal interaction between particles and /or measurement inaccuracy, that is, some of the particles that overcome the barrier will have different energy, but more than the barrier and on average more than the average energy, and the particles that do not overcome the barrier have energy less than the barrier (part of the energy they rely on energy was transferred to other particles). The same thing happens with body temperature. The temperature of the body parts (in the extreme case of elementary parts) will differ from the average body temperature. The effect of particle tunneling is similarly explained. It is also worth noting that the barrier or tunnel itself is not physically a clear boundary in spatial coordinates and, moreover, changes over time.
 
 ### Квантовый эффект Зенона
 
