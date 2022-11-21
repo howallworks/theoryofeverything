@@ -587,11 +587,11 @@ Over–barrier reflection is the reflection of a particle from a potential barri
 
 The reason for this effect is not the probability or wave properties, but the banal interaction between particles and /or measurement inaccuracy, that is, some of the particles that overcome the barrier will have different energy, but more than the barrier and on average more than the average energy, and the particles that do not overcome the barrier have energy less than the barrier (part of the energy they rely on energy was transferred to other particles). The same thing happens with body temperature. The temperature of the body parts (in the extreme case of elementary parts) will differ from the average body temperature. The effect of particle tunneling is similarly explained. It is also worth noting that the barrier or tunnel itself is not physically a clear boundary in spatial coordinates and, moreover, changes over time.
 
-### Квантовый эффект Зенона
+### The Quantum Zeno Effect
 
-Квантовый эффект Зенона (Квантовый парадокс Зенона) — парадокс квантовой механики, заключающийся в том, что время распада метастабильного квантового состояния некоторой системы с дискретным энергетическим спектром прямо зависит от частоты событий измерения её состояния. В предельном случае нестабильная частица в условиях частого наблюдения за ней никогда не может распасться.
+[The Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) (Zeno's Quantum Paradox) — the paradox of quantum mechanics, which consists in the fact that the decay time of a metastable quantum state of a system with a discrete energy spectrum directly depends on the frequency of events measuring its state. In the extreme case, an unstable particle under conditions of frequent observation of it can never decay.
 
-Эффект легко объясняется при энергетическом рассмотрении или с точки зрения элементарных частиц. При наблюдении мы забираем/передаем системе избыточную/недостающую энергию (точнее элементарные частицы), которая могла бы ее разрушить. Без наблюдения, естественным образом в процессе динамики, системе постепенно сообщается/поглощается энергия (точнее элементарные частицы), разрушающая ее.
+The effect is easily explained when viewed energetically or from the point of view of elementary particles. During observation, we take/give to the system excess/missing energy (more precisely, elementary particles), which could destroy it. Without observation, naturally in the process of dynamics, energy (more precisely, elementary particles) is gradually transmitted by/absorbed to the system, destroying it.
 
 ### Параллельные миры
 
