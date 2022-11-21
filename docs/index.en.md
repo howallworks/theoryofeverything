@@ -558,14 +558,14 @@ Synergetics in its current form is a pseudoscience, since in a world with fixed 
 
 On the other hand, the science of the general theory of systems has the right to life and development, since, although the system can be described at the level of elementary particles and modeling for comparison with the real one, the number of elements is so large that at the moment it is not possible to investigate large systems. To investigate large systems (systems consisting of a large number of elementary particles), it is necessary to neglect accuracy and, for example, construct a model from larger primitives. The key point is that there are no complex or simple systems, there are systems consisting of a relatively large or small number of elementary particles. The larger the number of elementary particles, the more difficult it is to accurately predict the behavior of the system. The complete prediction of behavior depends purely on the number of elementary particles entering the system. However, with the use of a certain level of abstraction (simplification), some characteristics can still be partially predicted for some even very large systems.
 
-### Кот Шредингера
+### Schrodinger's Cat
 
-Мысленный эксперимент. Кот заперт в стальной камере вместе с радиоактивным веществом, которое при распаде приводит к убийству кота специальным механизмом. Однако к моменту вскрытия камеры ядро может и не распасться. Это приведет к тому, что наблюдатель увидит, что кот жив. В результате до момента непосредственной проверки камеры наблюдатель не может сказать, жив кот или мертв, а, соответственно, кот находится одновременно в двух состояниях: жив и мертв. По сути, это приводит к неопределенности состояния кота
+A thought experiment. The cat is locked in a steel chamber together with a radioactive substance, which, when decay, leads to the killing of the cat by a special mechanism. However, by the time the chamber is opened, the radioactive substance may not decay. This will lead the observer to see that the cat is alive. As a result, until the moment of direct inspection of the camera, the observer cannot tell whether the cat is alive or dead, and, accordingly, the cat is in two conditions at the same time: alive and dead. In fact, this leads to uncertainty of the cat's condition.
 
-Вероятности существуют лишь для частичного (упрощенного) описания сложных систем. В реальном Мире вероятностей нет, так как в нем выполняются законы, а вероятность может существовать только при невыполнении законов. 
-Есть закон – есть однозначность. 
-В результате мы можем изначально сказать, будет кот жив или мертв в конкретный момент времени. 
-Ядро атома, видимо, распадается при превышении / недостатке определенного порога энергии (количества и направлений движения элементарных частиц), то есть если мы будем знать порог энергии, начальное количество энергии и поступающее / убывающее количество энергии, то мы сможем однозначно сказать, когда распадется ядро.
+Probabilities exist only for a partial (simplified) description of complex systems. There are no probabilities in the real world, because laws are fulfilled in it, and probability can exist only if laws are not fulfilled.
+There is a law – there is unambiguity.
+As a result, we can initially tell whether the cat will be alive or dead at a particular time moment.
+The nucleus of an atom apparently decays when a certain threshold of energy (the number and directions of motion of elementary particles) is exceeded / insufficient, that is, if we know the energy threshold, the initial amount of energy and the incoming/decreasing amount of energy, then we will be able to say unequivocally when the nucleus will decay.
 
 ### Теорема о запрете клонирования
 
