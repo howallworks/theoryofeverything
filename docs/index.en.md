@@ -591,7 +591,7 @@ The reason for this effect is not the probability or wave properties, but the ba
 
 [The Quantum Zeno Effect](https://en.wikipedia.org/wiki/Quantum_Zeno_effect) (Zeno's Quantum Paradox) — the paradox of quantum mechanics, which consists in the fact that the decay time of a metastable quantum state of a system with a discrete energy spectrum directly depends on the frequency of events measuring its state. In the extreme case, an unstable particle under conditions of frequent observation of it can never decay.
 
-The effect is easily explained when viewed energetically or from the point of view of elementary particles. During observation, we take/give to the system excess/missing energy (more precisely, elementary particles), which could destroy it. Without observation, naturally in the process of dynamics, energy (more precisely, elementary particles) is gradually transmitted by/absorbed to the system, destroying it.
+The effect is easily explained when viewed energetically or from the point of view of elementary particles. During observation, we transfer/take away the missing/excess energy (more precisely, elementary particles) to the system, the lack /excess of which could destroy it. Without observation, naturally in the process of dynamics, the system gradually emits/absorbs elementary particles, which leads to its destruction.
 
 ### Параллельные миры
 
