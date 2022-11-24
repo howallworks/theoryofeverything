@@ -16,7 +16,7 @@ According to [[GTR.en|GTR]], gravity is a deformation of space-time without ener
 And now the main thing. Let's assume that gravity is not a field created by mass (not a deformation of space-time from [[GTR.en|GTR]]), but elementary particles constantly emitted by objects that having mass ([[Quantum graviton.en|gravitons]]).
 In the case of merging black holes (detected by LIGO), there was a sharp change in the magnitude of gravitational radiation. In fact, a significant part of the gravitons, that make up these black holes, were emitted in a very short period of time (~0.2 seconds).
 
-What we have. Two black holes merging emitted a huge amount of [[Quantum graviton.en|gravitons]], which we recorded thanks to [[LIGO.en|LIGO]]. We also realized that the speed of propagation of gravitons is equal to the speed of light.
+What we have. Two black holes merging emitted a huge amount of [[Quantum graviton.en|gravitons]] in a short period of time, which we recorded thanks to [[LIGO.en|LIGO]]. We also realized that the speed of propagation of gravitons is equal to the speed of light.
 
 Then how does operate [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]]([[Blazar.en|Blazar]])? 
 The whole point is that gravitons, like photons, can be emitted unevenly. SMBH with relativistic jets (Blazar) emits gravitons unevenly. The maximum of graviton radiation is in the plane of the galaxy, and the minimum is perpendicular to it. It turns out that the radiation in the minimum is so small that part of the matter from the SMBH flies out and forms jets (relativistic jets) of the blazar.
@@ -100,6 +100,13 @@ $$ p^+ + n → n + p^+ + e^+ + e^- + ν_e + \overline ν_e → n + p^+ + \gamma 
  } $$
 (we have not yet learned how to detect quantum gravitons normally)
 we get a neutron and a proton from a proton and a neutron, and also in the process of annihilation of positron-electron pairs, electron neutrinos-antineutrinos we get $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+
+Consider the annihilation of proton and antiproton $p+ \overline p$ (I prefer the notation form: $p^++p^-$):
+$p^++p^- → 2π^+ + 2π^- + 3π^0 →$$2(μ^+ + ν_μ) + 2(μ^- + \overline ν_μ) + \gamma →$$2(e^+ + \overline ν_μ + ν_e + ν_μ) + 2(e^- + ν_μ + \overline ν_e + \overline ν_μ) + \gamma →$$2(e^+ + e^-) + 4(ν_μ + \overline ν_μ) + 2(ν_e + \overline ν_e) + \gamma →$$\gamma$
+
+We get a lot of photons as a result (in fact, we get a lot of $q.ph .^+$, $q.ph .^-$ and $q.g.$).
+
+As you can see, the proton is not an elementary particle (it consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$) and is unstable (additional explanations in the section «[[index.en#Stability of elementary particle systems|Stability of elementary particle systems]]»). 
 In as a result, we again come to the conclusion that everything consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
 ### Feature of the neutrino structure. Photon structure
@@ -709,7 +716,9 @@ As a result, all conversions/"transformations" of particles indicate that everyt
 
 Взаимодействия в любой системе элементарных частиц осуществляются посредством этих же элементарных частиц. Это означает, что для наличия стабильности системы обязательно наличие элементарных частиц – «курьеров», каждая из которых курсирует между элементарными частицами, осуществляя взаимодействие. При этом «курьер» никогда не должен покинуть эту систему (при отсутствии воздействий на систему) и тем самым нарушить стабильность. По причине того, что все элементарные частицы движутся с определенными постоянными скоростями, «курьер» должен заведомо определять траекторию элементарной частицы и лететь ей на перехват, что очень надуманно и, соответственно, вряд ли возможно.
 
-Стабильные системы ничего не излучают. 
+#### Стабильные системы ничего не излучают. 
+
+All objects of the universe (wich having mass) generate gravitational radiation, spend energy on it and exert a force effect on surrounding objects (details in section «[[index.en#Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets|Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets]]»)
 
 Возьмём все частицы Стандартной модели, кроме фотона и, возможно, глюона. Все они излучают [[Quantum graviton.ru|квант гравитоны]], то есть обладают активной массой. Следоваельно они не стабильны, так как запас [[Quantum graviton.ru|квант гравитонов]] ограничен в изолированной среде или в далекой перспективе при разлете материи/антиматерии во Вселенной. 
 
