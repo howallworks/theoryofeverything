@@ -706,31 +706,31 @@ We get an interference pattern in reflected and transmitted light, however, when
 
 ### Stability of elementary particle systems
 
-Стабильность системы элементарных частиц – отсутствие самопроизвольного (не вынужденного) распада системы элементарных частиц.
+The stability of the elementary particle system is the absence of spontaneous (not forced) decay of the elementary particle system.
 
-Рассмотрим, что будет, если все системы нестабильны. Нестабильные системы элементарных частиц в итоге распадаются на элементарные частицы. Доводы за – излучение звезд, черных дыр, а именно, излучение макротелами гравитонов, фотонов, атомов и прочих систем элементарных частиц. Мнимая стабильность возникает из-за наличия значительного запаса элементарных частиц и/или пополнения окружающими элементарными частицами.
+Consider what happens if all systems are unstable. Unstable systems of elementary particles eventually decay into elementary particles. The arguments are for this - the radiation of stars, black holes, namely, the emission of gravitons, photons, atoms and other systems of elementary particles by macrobodies. Imaginary stability arises due to the presence of a significant reserve of elementary particles and/or replenishment by surrounding elementary particles.
 
-Теперь рассмотрим, что будет, если существуют стабильные системы. Стабильные системы ничего не излучают. Доводы за – стабильность фотона, возможно протона, атома или даже макротела. Нестабильность возникает из-за непосредственного взаимодействия с окружающими системами элементарных частиц или отдельными элементарными частицами.
+Now let's consider what will happen if stable systems exist. Stable systems do not emit anything. The arguments for this are the stability of a photon, perhaps a proton, an atom, or even a macrobody. Instability occurs due to direct interaction with the surrounding systems of elementary particles or individual elementary particles.
 
-Наиболее полезна в данном случае информация, полученная от других звездных систем и галактик. Фиксируемые в приходящем от них излучении фотоны не свидетельствуют о стабильности систем. Космическое пространство наполнено множеством частиц, таких как фотоны, гравитоны и т.д., которые возможно стабилизируют состояния систем элементарных частиц.
+The information received from other star systems and galaxies is most useful in this case. The photons recorded in the radiation coming from them do not indicate the stability of the systems. Outer space is filled with many particles, such as photons, gravitons, etc., which possibly stabilize the states of elementary particle systems.
 
-Взаимодействия в любой системе элементарных частиц осуществляются посредством этих же элементарных частиц. Это означает, что для наличия стабильности системы обязательно наличие элементарных частиц – «курьеров», каждая из которых курсирует между элементарными частицами, осуществляя взаимодействие. При этом «курьер» никогда не должен покинуть эту систему (при отсутствии воздействий на систему) и тем самым нарушить стабильность. По причине того, что все элементарные частицы движутся с определенными постоянными скоростями, «курьер» должен заведомо определять траекторию элементарной частицы и лететь ей на перехват, что очень надуманно и, соответственно, вряд ли возможно.
+Interactions in any system of elementary particles are carried out by means of the same elementary particles. This means that for the stability of the system, it is necessary to have elementary particles – "couriers", each of which runs between elementary particles, carrying out interaction. At the same time, the "courier" should never leave this system (in the absence of impacts on the system) and thereby disrupt stability. Due to the fact that all elementary particles move at certain constant speeds, the "courier" must knowingly determine the trajectory of an elementary particle and fly to intercept it, which is very far-fetched and, accordingly, hardly possible.
 
-#### Стабильные системы ничего не излучают. 
+#### Stable systems do not emit anything. 
 
 All objects of the universe (wich having mass) generate gravitational radiation, spend energy on it and exert a force effect on surrounding objects (details in section «[[index.en#Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets|Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets]]»)
 
-Возьмём все частицы Стандартной модели, кроме фотона и, возможно, глюона. Все они излучают [[Quantum graviton.ru|квант гравитоны]], то есть обладают активной массой. Следоваельно они не стабильны, так как запас [[Quantum graviton.ru|квант гравитонов]] ограничен в изолированной среде или в далекой перспективе при разлете материи/антиматерии во Вселенной. 
+Let's take all the particles of the Standard Model, except the photon and, possibly, the gluon. All of them emit [[Quantum graviton.en|quantum gravitons]], that is, they have an active mass. Consequently, they are unstable, since the reserve of [[Quantum graviton.en|quantum gravitons]] is limited in an isolated environment or in the long term during the spread of matter/antimatter in the universe.
 
-Фотон фактически представляет из себя группу [[Quantum photon.ru|квант фотонов]]. И ничто не указывает на то что в эту группу входит ещё какая-то элементарная частица, чтобы двигаться как система элементарных частиц. Более того [[Photon.ru|фотоны]] не взаимодействуют с друг другом. Если была дополнительная элементарная частица, то она бы взаимодействовала с квант фотонами своих и других фотонов, что проявлялось бы во взаимодействии разных фотонов. Соответственно опять приходим к тому что фотон - группа [[Quantum photon.ru|квант фотонов]]. 
+A photon is actually a group of [[Quantum photon.en|quantum photons]]. And there is nothing to indicate that some other elementary particle is included in this group in order to move as a system of elementary particles. Moreover, [[Photon.en|photons]] do not interact with each other. If there was an additional elementary particle, it would interact with the quantum photons of its own and other photons, which would manifest itself in the interaction of different photons. Accordingly, again we come to the fact that the photon is a group [[Quantum photon.en|quantum photons]].
 
-Глюон крайне похож на фотон. Возможно глюон и фотон это одно и тоже. Свободных глюонов не зафиксиировано. О глюоне говорят по косвенным признакам, а именно по струе адронов формирующеся "из него". Вот, например, как считается первое прямое экспериментальное доказательство существования глюонов было получено в 1979 году, когда в экспериментах на электрон-позитронном коллайдере PETRA в исследовательском центре DESY (Гамбург, ФРГ) были обнаружены события с тремя адронными струями, две из которых порождались кварками и третья — глюоном. Однако почему источником третьей струи является глюон, а не фотон? Мне не понятно. 
+A gluon is extremely similar to a photon. Perhaps a gluon and a photon are the same thing. No free gluons were detected. The gluon is spoken about by indirect signs, namely by a jet of hadrons formed "from it". For example, the first direct experimental proof of the existence of gluons is believed to have been obtained in 1979, when experiments at the PETRA electron-positron collider at the DESY Research Center (Hamburg, Germany) revealed events with three hadron jets, two of which were generated by quarks and the third by a gluon. However, why is the source of the third jet a gluon and not a photon? I don't understand.
 
-Особо стоит отметить, что адроны могут сформироваться только при наличии квант фотонов и квант гравитонов. Это указывает на то что при формировании адронной струи квант гравитонов было достаточно. Ни фотон, ни гипотетический глюон не содержат квант гравитонов.
+It is particularly worth noting that hadrons can form only in the presence of a quantum photons and a quantum gravitons. This indicates that there were enough quantum gravitons during the formation of the hadron jet. Neither a photon nor a hypothetical gluon contain a quantum gravitons.
 
-Видимо в эксперименте фотон провзамиодействовал с большой группой квант гравитонов и произошло преборазование в адронную струю.
+Apparently, in the experiment, the photon interacted with a large group of quantum gravitons and was transformed into a hadron jet.
 
-В результате стабильность систем элементарных частиц отсутствует.
+As a result, there is no stability of elementary particle systems.
 
 ## Познание себя
 
