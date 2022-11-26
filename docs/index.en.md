@@ -1,3 +1,5 @@
+## Cognition of the surrounding universe
+
 ### Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets
 
 Suppose if the gravity of [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]]([[Blazar.en|Blazar]]) is uniform. According to [[Albert Einstein.en|Albert Einstein's]] theory, gravity is only a deformation of space-time, that is, it can be represented for a two-dimensional case in the form of a highly stretched trampoline with a heavy ball/cannonball in the center. In this case, of course, we can immediately say that the formation of  [[Relativistic jet.en|relativistic jets]] is impossible, but scientists, as usual, come up with "crutches" so as not to throw the [[GTR.en|general theory of relativity (GTR)]] into the trash.
@@ -732,29 +734,29 @@ Apparently, in the experiment, the photon interacted with a large group of quant
 
 As a result, there is no stability of elementary particle systems.
 
-## Познание себя
+## Self-knowledge
 
-### Сознание и «Я»
+### Consciousness and «I»
 
-У человека есть сознание для того, чтобы предсказывать последствия тех или иных действий и оптимизировать взаимодействия с окружающим Миром (по крайней мере, пытаться).
+A person has consciousness in order to predict the consequences of certain actions and optimize interactions with the surrounding world (at least try).
 
-Сознание – специальный оптимизатор мозга для организации взаимодействий с окружающим Миром, задачей которого является выборочный, но качественный анализ имеющейся и поступающей информации с целью прогнозирования последствий при совершении различных действий. Результатом работы сознания является выбор варианта действия, который принесет наилучшие последствия с точки зрения учета различных критериев – удовольствий (теория удовольствий).
+Consciousness is a special brain optimizer for organizing interactions with the surrounding world, whose task is a selective but qualitative analysis of available and incoming information in order to predict the consequences of various actions. The result of the work of consciousness is the choice of an action option that will bring the best consequences in terms of taking into consideration various criteria – pleasures (pleasure theory).
 
-Бессознательные действия – действия, совершаемые без контроля сознания, то есть автоматические действия, заложенные в человеке, или действия, доведенные до автоматизма, для которых контроль сознания обычно не требуется.
+Unconscious actions - actions performed without control of consciousness, that is, automatic actions inherent in a person, or actions brought to automatism, for which control of consciousness is usually not required.
 
-Проблема при совершении бессознательных действий заключается в том, что в некоторых ситуациях необходим контроль сознания, без которого последствия данного действия хуже.
+The problem with performing unconscious actions is that in some situations, control of consciousness is necessary, without which the consequences of this action are worse.
 
-«Я» – совокупность сознательной и бессознательной частей человека.
+"I" is the totality of the conscious and unconscious parts of a person.
 
-Истинно рациональный – основанный на истинно верных фактах, знаниях, логике, абсолютно основанный на реальности.
+Truly rational – based on true facts, knowledge, logic, absolutely based on reality.
 
-Истинно иррациональный – основанный на истинно неверных «фактах», убеждениях, абсолютно не имеющий отношение к реальности.
+Truly irrational – based on truly incorrect "facts", beliefs, absolutely unrelated to reality.
 
-Действия, совершаемые сознательно, могут быть в различной степени рациональными. Человек совершает иррациональные поступки, так как его знания и убеждения, необходимые для прогнозирования последствий, являются ошибочными, то есть построены на неверных «фактах», не имеющих отношение к реальности, однако даже в этом случае их цель – удовольствия. Например, прыжок с парашютом, езда с огромной скоростью, полет в космос, ограбление, поджог и т.д. хотя и обладают значительным риском для здоровья, но в результате они приносят удовольствие, к получению которого человек стремится. Однако не все стремятся совершать те или иные рациональные или иррациональные действия, так как их сознание оценивает риски и считает их неприемлемыми.
+Actions performed consciously can be rational to varying degrees. A person perform irrational acts, since his knowledge and beliefs necessary to predict the consequences are erroneous, that is, they are built on incorrect "facts" that are not related to reality, but even in this case their goal is pleasure. For example, skydiving, driving at high speed, flying into space, robbery, arson, etc. although they have a significant risk to health, but as a result they bring pleasure, which a person strives to obtain. However, not everyone strives to perform certain rational or irrational actions, since their consciousness assesses the risks and considers them unacceptable.
 
-Все животные (в том числе человек) обладают сознанием.
+All animals (including humans) have consciousness.
 
-Самосознание оценивает физические данные себя с той же целью, что и сознание. По сути, самосознание оценивает свои физические характеристики для оптимизации взаимодействий с окружающим Миром, а целью при этом является получение удовольствий. Самосознание не следует намеренно выделять в отдельную обособленную структуру, так как оно является частью сознания.
+Self-consciousness evaluates the physical data of itself for the same purpose as consciousness. In fact, self-consciousness evaluates its physical characteristics to optimize interactions with the surrounding world, and the goal is to get pleasure. Self-consciousness should not be intentionally isolated into a separate structure, since it is part of consciousness.
 
 ### Человек
 
