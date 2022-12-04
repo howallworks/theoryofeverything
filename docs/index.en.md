@@ -758,11 +758,11 @@ All animals (including humans) have consciousness.
 
 Self-consciousness evaluates the physical data of itself for the same purpose as consciousness. In fact, self-consciousness evaluates its physical characteristics to optimize interactions with the surrounding world, and the goal is to get pleasure. Self-consciousness should not be intentionally isolated into a separate structure, since it is part of consciousness.
 
-### Человек
+### Human
 
-Человек – набор элементарных частиц, которые подчиняются Мировым законам.
+A person is a set of elementary particles that obey the laws of the world.
 
-Человеку искусственно (нет в действительности) присваивается уникальность и превосходство над другими объектами / частицами / системами (набором частиц рассматриваемых совместно) с целью возвысить его над Миром и оправдать его существование и смысл жизни. В действительности человек «тождественен» камню, так как попросту является набором элементарных частиц. По сути, скопировав человека на уровне элементарных частиц, мы получим его идеальную копию, однако со временем решения, принимаемые копией, будут всё более и более отличаться от оригинала в одинаковых ситуациях, так как их восприятия (воспринимаемая информация) разнятся, а соответственно и знания будут становиться всё более и более различными.
+A person is artificially (no in reality) assigned uniqueness and superiority over other objects / particles / systems (a set of particles considered together) in order to elevate him above the world and justify his existence and the meaning of life. In fact, a person is "identical" to a stone, since he is simply a set of elementary particles. In fact, by copying a person at the level of elementary particles, we will get an ideal copy of him, but over time the decisions made by the copy will differ more and more from the original in the same situations, since their perceptions (perceived information) differ, and accordingly knowledge will become more and more different.
 
 ### Личность человека
 
