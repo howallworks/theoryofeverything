@@ -772,15 +772,15 @@ A person's personality is a society's point of view on a person's worldview and 
 
 Personality is predetermined at a particular time by particles and the laws of their interaction in the human brain, and throughout life – by the fate of a person.
 
-### Логика и интуиция
+### Logic and intuition
 
-Логика – рассмотрение сознанием причинно-следственных связей и формирование заключений и выводов.
+Logic is the consideration of cause–and-effect relationships by consciousness and the formation of conclusions and their results.
 
-Интуиция – рассмотрение причинно-следственных связей и формирование заключений и выводов бессознательно (без участия сознания).
+Intuition is the consideration of cause–and-effect relationships and the formation of conclusions and their results unconsciously (without the participation of consciousness).
 
-Мужчины считаются более логичными из-за более высокого уровня образования.
+Men are considered more logical because of a higher level of education.
 
-Телевидение, интернет и даже художественные книги среднестатистически вредят развитию человека, так как чем больше ими пользуется, тем меньше новой информации он получает. В результате человек тратит свое время «впустую». Однако истинно или даже частично научные средства получения информации в значительной степени являются полезными, так как способствуют накоплению знаний или, по крайней мере, информации к размышлению, которые могут быть использованы на практике в жизни. Но стоит напомнить, что необходимо критически относиться ко всему, не принимая на веру.
+Television, the Internet and even art books on average harm human development, since the more they use, the less new information he receive. As a result, a person spends his time "in vain". However, truly or even partially scientific means of obtaining information are largely useful, as they contribute to the accumulation of knowledge or, at least, information for reflection that can be used in practice in life. But it is worth recalling that it is necessary to be critical of everything without taking it for granted.
 
 ### Мир идей
 
