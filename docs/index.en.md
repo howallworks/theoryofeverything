@@ -782,17 +782,17 @@ Men are considered more logical because of a higher level of education.
 
 Television, the Internet and even art books on average harm human development, since the more they use, the less new information he receive. As a result, a person spends his time "in vain". However, truly or even partially scientific means of obtaining information are largely useful, as they contribute to the accumulation of knowledge or, at least, information for reflection that can be used in practice in life. But it is worth recalling that it is necessary to be critical of everything without taking it for granted.
 
-### Мир идей
+### World of ideas
 
-Мира идей не существует в качестве особой формы материи или дополнительного мира, так как идеи возникают в основном из знаний, но и частично из восприятия и особенностей физиологии.
+The world of ideas does not exist as a special form of matter or an additional world, since ideas arise mainly from knowledge, but also partly from perception and features of physiology.
 
-Наиболее корректным будет сказать, что идеи определяются элементарными частицами и законами их взаимодействия в мозге человека.
+It would be most correct to say that ideas are determined by elementary particles and the laws of their interaction in the human brain.
 
-### Цель жизни человека
+### Purpose of human life
 
-Деятельность, поступки, действия человека или любого другого животного направлены на удовлетворение собственных потребностей. Потребности у разных людей могут быть различными в силу физиологии, мировоззренческих установок, целей, этических и моральных норм и т.д. Человек стремится к тому, что принесет ему большее удовольствие в данный момент времени и в перспективе (теория удовольствий).
+The activities, actions of a person or any other animal are aimed at satisfying their own needs. The needs of different people may be different due to physiology, ideological attitudes, goals, ethical and moral norms, etc. A person strives for what will bring him more pleasure at a given time and in the future (pleasure theory).
 
-Разумная деятельность человека (любого животного) основана только на восприятии и собственных знаниях, а деятельность в целом – еще на физиологии.
+Rational human activity (of any animal) is based only on perception and one's own knowledge, and activity as a whole is also based on physiology.
 
 ### Смысл существования
 
