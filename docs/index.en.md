@@ -802,17 +802,17 @@ There is no meaning of existence. The meaning of all objects, systems and elemen
 
 Everyone sets values or criteria of pleasure "for himself" depending on what brings him more pleasure (satisfaction). They are determined by particles, the laws of their interaction (world laws), and in a simplified sense – knowledge, perception and physiology of a person or animal.
 
-### Действия человека и их последствия
+### Human actions and their consequences
 
-Действия человека предопределены и последствия этих действий также предопределены.
+Human actions are predetermined and the consequences of these actions are also predetermined.
 
-В «упрощенном» смысле человек принимает решения и вообще совершает любые действия исходя из собственных физических характеристик, а в еще более «упрощенном» виде – исходя из его знаний, накопленных в течение жизни, и особенностей физического строения мозга и тела.
+In a "simplified" sense, a human makes decisions and generally performs any actions based on his own physical characteristics, and in an even more "simplified" form – based on his knowledge accumulated during his life and the peculiarities of the physical structure of the brain and body.
 
-Однако в действительности действия определяются сугубо исходя из динамики элементарных частиц, из которых состоит человек.
+However, in reality, actions are determined purely based on the dynamics of the elementary particles that make up a human.
 
-### Динамика личности
+### Personality dynamics
 
-Человеческий мозг (личность) динамичен (меняется со временем). Всё, что он воспринимает, меняет его и соответственно меняет характер, цели, мировоззрение и принимаемые решения в целом (по большому счету, можно сказать, один человек в разные моменты времени – разные люди). Тоже самое можно сказать и о животных, так как их мозг устроен схожим образом и основан на тех же принципах.
+The human brain (personality) is dynamic (changes over time). Everything that he perceives changes him and, accordingly, changes his character, goals, worldview and decisions taken as a whole (by and large, we can say that one person at different times is different people). The same can be said about animals, since their brains are arranged in a similar way and are based on the same principles.
 
 ### Уникальность, превосходство и заслуга
 
