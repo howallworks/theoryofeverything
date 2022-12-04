@@ -794,13 +794,13 @@ The activities, actions of a person or any other animal are aimed at satisfying 
 
 Rational human activity (of any animal) is based only on perception and one's own knowledge, and activity as a whole is also based on physiology.
 
-### Смысл существования
+### The meaning of existence
 
-Нет никакого смысла существования. Смысл всех объектов, систем и элементарных частиц – исполнение законов Мира. Однако с точки зрения «законов» («целей»), заложенных в человеке, мы стремимся к максимальному (наилучшему варианту) удовлетворению своих потребностей (максимизация удовольствий). Однако это не оправдывает нашу деятельность по достижению удовольствий. По сути, система общественного договора хотя бы немного защищает нас от тотального хаоса из-за конфликта интересов.
+There is no meaning of existence. The meaning of all objects, systems and elementary particles is the fulfillment of the laws of the world. However, from the point of view of the "laws" ("goals") inherent in a person, we strive for the maximum (best choice) satisfaction of our needs (maximizing pleasures). However, this does not justify our activity to achieve pleasure. In fact, the social contract system protects us at least a little from total chaos due to a conflict of interests.
 
-### Ценности
+### Values
 
-Ценности или критерии удовольствий каждый «ставит себе сам» в зависимости от того, что приносит ему больше удовольствия (удовлетворения). Они определяются частицами, законами их взаимодействия (Мировыми законами), а в упрощенном смысле – знаниями, восприятием и физиологией человека или животного.
+Everyone sets values or criteria of pleasure "for himself" depending on what brings him more pleasure (satisfaction). They are determined by particles, the laws of their interaction (world laws), and in a simplified sense – knowledge, perception and physiology of a person or animal.
 
 ### Действия человека и их последствия
 
