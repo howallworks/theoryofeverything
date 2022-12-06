@@ -855,7 +855,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   the speed of elementary particles is the same and constant;
 -   the space of the world is three-dimensional;
 -   space and time are continuous;
--   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big bang that became a reflection of the dynamics of elementary particles;
+-   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big Bang that became a reflection of the dynamics of elementary particles;
 -   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
 -   the dynamics of elementary particles is predetermined by fixed laws => unambiguity of dynamics => fate;
 -   quantum photons interact only with quantum gravitons;
@@ -873,23 +873,23 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   Immobile frame of reference (ImFR) are equal and can be described by general laws;
 -   there is no wave-particle duality, and all the effects are purely corpuscular;
 -   active observation of elementary particles/systems changes their state, while passive observation does not. Interact an elementary particle/system with other elementary particles/systems => change the dynamics of an elementary particle/elementary particles entering the system. The so-called "quantum effects" are solely a consequence of intervention in/impact on the dynamics of elementary particle systems. Consciousness/passive observation does not affect the dynamics of elementary particle systems;
--   не существует стабильных систем элементарных частиц;
--   гравитоны могут не излучаться во все стороны трехмерного пространства равномерно, так, например, функционируют [[SMBH.ru|СМЧД]] с [[Relativistic jet.ru|релятивистскими струями]] - [[Blazar.ru|блазары]];
--   энергия определяется элементарными частицами системы/объекта;
--   человек – набор элементарных частиц;
--   материя не является порождением сознания;
--   цель жизни человека – удовлетворение собственных потребностей;
--   смысла существования – нет;
--   человеческий мозг (личность) динамичен (меняется со временем);
--   обособленного мира идей – нет;
--   жизнь – процесс от появления до распада системы;
--   любовь – «химия» мозга (совокупность физических факторов);
--   уникальности или превосходства – нет (в равной степени у всех объектов);
--   возможно создание искусственного интеллекта;
--   существования параллельных Миров – нет.
+-   there are no stable systems of elementary particles;
+-   quantum gravitons may be emit not uniformly to all sides of three-dimensional space, for example, functioning of [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]] - [[Blazar.en|blazars]];
+-   the energy is determined by the elementary particles of the system/object;
+-   human is a set of elementary particles;
+- matter is not a product of consciousness;
+- the purpose of a human's life is to satisfy his own needs;
+- there is no sense of existence;
+- the human brain (personality) is dynamic (changes over time);
+- there is no separate world of ideas;
+- life is a process from the appearance to the disintegration of the system;
+- love is the "chemistry" of the brain (a combination of physical factors);
+- there is no uniqueness or superiority (equally for all objects);
+- it is possible to create artificial intelligence;
+- there are no parallel worlds.
 
-Наш Мир полностью определяется элементарными частицами движущимися с одинаковой скоростью, законами их взаимодействия, трехмерным непрерывным пространством, а также общемировыми законами, определяющими его начало. 
+Our world is completely determined by elementary particles moving at the same speed, the laws of their interaction, three-dimensional continuous space, as well as global laws that determine its beginning.
 
-Все остальные выводы являются следствиями. 
+All other conclusions are consequences. 
 
-Например, непрерывная "стрела времени" является следствием движения элементарных частиц с одинаковой скоростью. "Стрела времени" была "выпущена" (берет начало) в момент появления элементарных частиц во Вселенной. Её "полёт" (процесс увеличения величины времени) отражает всю динамику движения элементарных частиц от Большого взрыва, образования/гибели галактик, звезд, планет до Большого замерзания и Большого рассеивания (хотя конец процесса Большого рассеивания потенциально не ограничен во времени).
+For example, a continuous "arrow of time" is a consequence of the movement of elementary particles at the same speed. The "arrow of time" was "released" (originates) at the moment of the appearance of elementary particles in the universe. Its "flight" (the process of increasing the value of time) reflects the entire dynamics of the movement of elementary particles from the Big Bang, the formation/death of galaxies, stars, planets to the Big freeze and Big scattering (although the end of the Big scattering process is potentially unlimited in time).
