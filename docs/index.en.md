@@ -849,30 +849,30 @@ It is possible to implement an AI system with the available resources, but the k
 Any system will not suit everyone, since everyone has their own goals that may contradict the goals of someone else. As a result, either a system with common goals is needed, which contradicts the essence of a human, or a system of social contract and lobbying of interests. The best way to organize management is a hierarchical system with the choice by professionals of their representatives. The higher the level in the hierarchy, the more general the problems of the area should be dealt with by the representative. Only a professional can really understand what is going on in his area, and, accordingly, competently defend the interests of his group. As a result, it is possible to create a hierarchical system of councils of professionals of region and groups of regions in order to solve common problems and issues.
 
 
-# Итоги
+# Results
 
--   всё в Мире состоит из элементарных частиц (квант фотонов и квант гравитонов). Их динамика предопределена законами взаимодействия;
--   скорость элементарных частиц одинакова и постоянна;
--   пространство Мира трехмерное;
--   пространство и время непрерывны;
--   элементарные частицы возникли из неоткуда в очень малом объеме трехмерного пространства Вселенной. После чего произошел Большой взрыв ставший отражением динамики элементарных частиц;
--   элементарные частицы и законы первичного Мира существуют изначально, но ограниченный промежуток времени;
--   динамика элементарных частиц предопределена фиксированными законами => однозначность динамики => судьба;
--   квант фотоны взаимодействуют исключительно с квант гравитонами;
--   квант фотоны не взаимодействуют между собой;
--   квант гравитоны не взаимодействуют между собой;
--   управления Миром – нет;
--   Мир познаваем полностью;
--   по имеющимся фактам наш Мир первичный;
--   существует гарантия определить воздействия на наш Мир извне;
--   свойства системы определяются свойствами ее частей;
--   появления новых или исчезновения/изменения имеющихся элементарных частиц и законов – нет;
--   есть перераспределение элементарных частиц между системами, а превращения одной системы в другую - нет;
--   Мир ограничен элементарными частицами и законами их взаимодействия;
--   полного прогноза будущего – нет;
--   неподвижные системы отсчета (НСО) равноправны и могут быть описаны общими законами;
--   корпускулярно-волнового дуализма – нет, а все эффекты сугубо корпускулярные;
--   активное наблюдение за элементарными частицами/системами меняет их состояние, а пассивное нет. Взаимодейтсвуем с элементарной частицей/системой другими элементарными частицами/системами => меняем динамику элементарной частицы/входящих в систему элементарных частиц. Так называемые "квантовые эффекты" являются исключительно следствием вмешательства в/воздействия на динамику систем элементарных частиц. Сознание/пассивное наблюдение не влияет на динамику систем элементарных частиц; 
+-   everything in the world consists of elementary particles (quantum photons and quantum gravitons). Their dynamics are predetermined by the laws of interaction;
+-   the speed of elementary particles is the same and constant;
+-   the space of the world is three-dimensional;
+-   space and time are continuous;
+-   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big bang that became a reflection of the dynamics of elementary particles;
+-   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
+-   the dynamics of elementary particles is predetermined by fixed laws => unambiguity of dynamics => fate;
+-   quantum photons interact only with quantum gravitons;
+-   quantum photons do not interact with each other;
+-   quantum gravitons do not interact with each other;
+-   there is no control over the world;
+-   the world is fully cognizable;
+-   according to the available facts, our world is primary;
+-   there is a guarantee to determine the impact on our world from the outside;
+-   the properties of a system are determined by the properties of its parts;
+-   there is no appearance of new or disappearance/change of existing elementary particles and laws;
+-   there is a redistribution of elementary particles between systems, but there is no transformation of one system into another;
+-   the world is limited by elementary particles and the laws of their interaction;
+-   there is no complete forecast of the future;
+-   Immobile frame of reference (ImFR) are equal and can be described by general laws;
+-   there is no wave-particle duality, and all the effects are purely corpuscular;
+-   active observation of elementary particles/systems changes their state, while passive observation does not. Interact an elementary particle/system with other elementary particles/systems => change the dynamics of an elementary particle/elementary particles entering the system. The so-called "quantum effects" are solely a consequence of intervention in/impact on the dynamics of elementary particle systems. Consciousness/passive observation does not affect the dynamics of elementary particle systems;
 -   не существует стабильных систем элементарных частиц;
 -   гравитоны могут не излучаться во все стороны трехмерного пространства равномерно, так, например, функционируют [[SMBH.ru|СМЧД]] с [[Relativistic jet.ru|релятивистскими струями]] - [[Blazar.ru|блазары]];
 -   энергия определяется элементарными частицами системы/объекта;
