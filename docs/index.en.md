@@ -824,13 +824,13 @@ The mind is not something unique. Animals are also have mind, but the peculiarit
 
 With the available knowledge, we can say that human most likely "appeared" in the process of evolution. It is worth noting that it is impossible to completely deny the possibility of interference by aliens, which, however, should have appeared in the process of evolution. Accordingly, it is more logical, based on the available data, to consider human as a consequence of evolution until the opposite is proved.
 
-### Жизнь
+### Life
 
-Жизнь – процесс от появления системы до ее распада (уничтожения / смерти / завершения функционирования). Соответственно жить может не только человек или живое существо, но и любая система элементарных частиц.
+Life is a process from the appearance of a system to its disintegration (destruction / death / completion of functioning). Accordingly, not only a human or a living creature can live, but also any system of elementary particles.
 
-### Живое
+### Alive
 
-Живое (жизнь) зародилось благодаря специфической комбинации частиц (объектов / молекул). Стоит отметить, что это вопрос терминологии, кого или что называть живым. В любом случае, живое появилось в ходе формирования специфической комбинации частиц или объектов (эволюции, мутации и т.д.). По моему мнению, выделять (отделять) живое из неживого можно, но только для классификации, а не потому, что что-то лучше или «совершеннее» чего-то. По сути, живое и неживое это «то же самое» (те же частицы и законы их взаимодействия), но в силу терминологии и классификации эти объекты занесли в разные классы.
+The alive (life) was born due to a specific combination of particles (objects /molecules). It is worth noting that this is a matter of terminology, who or what to call alive. In any case, the alive appeared during the formation of a specific combination of particles or objects (evolution, mutation, etc.). In my opinion, it is possible to isolate (separate) the alive from the lifeless, but only for classification, and not because something is better or "more perfect" than something else. In fact, the alive and the lifeless are "the same" (the same particles and the laws of their interaction), but due to terminology and classification, these objects were put into different classes.
 
 ### Любовь
 
