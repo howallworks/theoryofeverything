@@ -848,7 +848,6 @@ It is possible to implement an AI system with the available resources, but the k
 
 Any system will not suit everyone, since everyone has their own goals that may contradict the goals of someone else. As a result, either a system with common goals is needed, which contradicts the essence of a human, or a system of social contract and lobbying of interests. The best way to organize management is a hierarchical system with the choice by professionals of their representatives. The higher the level in the hierarchy, the more general the problems of the area should be dealt with by the representative. Only a professional can really understand what is going on in his area, and, accordingly, competently defend the interests of his group. As a result, it is possible to create a hierarchical system of councils of professionals of region and groups of regions in order to solve common problems and issues.
 
-
 # Results
 
 -   everything in the world consists of elementary particles (quantum photons and quantum gravitons). Their dynamics are predetermined by the laws of interaction;
