@@ -856,7 +856,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   space and time are continuous;
 -   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big Bang that became a reflection of the dynamics of elementary particles;
 -   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
--   the dynamics of elementary particles is predetermined by fixed laws => unambiguity of dynamics => fate;
+-   the dynamics of elementary particles is predetermined by fixed laws → unambiguity of dynamics → fate;
 -   quantum photons interact only with quantum gravitons;
 -   quantum photons do not interact with each other;
 -   quantum gravitons do not interact with each other;
@@ -871,7 +871,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   there is no complete forecast of the future;
 -   Immobile frame of reference (ImFR) are equal and can be described by general laws;
 -   there is no wave-particle duality, and all the effects are purely corpuscular;
--   active observation of elementary particles/systems changes their state, while passive observation does not. Interact an elementary particle/system with other elementary particles/systems => change the dynamics of an elementary particle/elementary particles entering the system. The so-called "quantum effects" are solely a consequence of intervention in/impact on the dynamics of elementary particle systems. Consciousness/passive observation does not affect the dynamics of elementary particle systems;
+-   active observation of elementary particles/systems changes their state, while passive observation does not. Interact an elementary particle/system with other elementary particles/systems → change the dynamics of an elementary particle/elementary particles entering the system. The so-called "quantum effects" are solely a consequence of intervention in/impact on the dynamics of elementary particle systems. Consciousness/passive observation does not affect the dynamics of elementary particle systems;
 -   there are no stable systems of elementary particles;
 -   quantum gravitons may be emit not uniformly to all sides of three-dimensional space, for example, functioning of [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]] - [[Blazar.en|blazars]];
 -   the energy is determined by the elementary particles of the system/object;
