@@ -856,7 +856,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   space and time are continuous;
 -   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big Bang that became a reflection of the dynamics of elementary particles;
 -   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
--   the dynamics of elementary particles is predetermined by fixed laws → unambiguity of dynamics → fate;
+-   the dynamics of elementary particles is predetermined by fixed laws of their interaction → unambiguity of dynamics → fate;
 -   quantum photons interact only with quantum gravitons;
 -   quantum photons do not interact with each other;
 -   quantum gravitons do not interact with each other;
