@@ -76,11 +76,13 @@ plugins:
       nav_translations:
         en:
           Index: Theory of everything
+          READMEFIRST: Foreword
           ElementaryParticles: Elementary particles
           ParticlesOfStandardModel: Particles of Standard Model
           TermsOrAbbreviations: Terms or abbreviations 
         ru:
           Index: Теория всего
+          READMEFIRST: Предисловие
           ElementaryParticles: Элементарные частицы
           ParticlesOfStandardModel: Частицы Стандартной модели
           TermsOrAbbreviations: Термины или сокращения 
