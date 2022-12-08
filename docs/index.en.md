@@ -892,3 +892,20 @@ Our world is completely determined by elementary particles moving at the same sp
 All other conclusions are consequences. 
 
 For example, a continuous "arrow of time" is a consequence of the movement of elementary particles at the same speed. The "arrow of time" was "released" (originates) at the moment of the appearance of elementary particles in the universe. Its "flight" (the process of increasing the value of time) reflects the entire dynamics of the movement of elementary particles from the Big Bang, the formation/death of galaxies, stars, planets to the Big freeze and Big scattering (although the end of the Big scattering process is potentially unlimited in time).
+
+## Foreword
+
+### Key distinguishing features of the theory of everything
+
+Each theory has a number of key distinctive features that form its basis and separate it from other theories.
+
+Let's describe the key distinctive features of the theory of everything:
+
+- the radiation period of the caesium-133 atom depends on the speed of motion relative to ImFR or IFR. In general, any processes for elementary particle systems depend on the speed of motion relative to the ImFR (from the lifetime of particles to atoms and macro objects). Here the peculiarity lies in the definition of the term "Time" different from the one that became the basis of [[GTR.en|GTR]]
+- a quantum graviton is an elementary particle, not a deformation of space-time by mass. Here the peculiarity is in understanding the source of gravity
+- the particles of the Standard Model do not transform, but there is a redistribution of the elementary particles of which they consist. The peculiarity is in the understanding that elementary particles are stable and cannot transform/emit/absorb
+- the dynamics of elementary particles is predetermined (fate). The peculiarity is in the understanding that probabilities are the consequences of errors in experimental conditions. And if there are laws in the world, then their consequences are unambiguous
+- the impact on elementary particles or systems changes their dynamics. Now all have begun to partially understand this feature as the cause of the "observer effect" and others
+- all elementary particles are corpuscles. Elementary particles have no wave properties. The peculiarity is in understanding the redistribution/re-emission of elementary particles in space, and not in the superposition of waves. For example, it is impossible to neutralize one photon beam with other (which are in opposite phase to each other), which is realistic from the point of view of wave theory
+
+As we can see, there are not so many key distinguishing features in the theory of everything. However, this allowed us to form a holistic physical theory describing everything in our universe/world.
