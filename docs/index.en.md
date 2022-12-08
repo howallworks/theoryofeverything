@@ -893,7 +893,7 @@ All other conclusions are consequences.
 
 For example, a continuous "arrow of time" is a consequence of the movement of elementary particles at the same speed. The "arrow of time" was "released" (originates) at the moment of the appearance of elementary particles in the universe. Its "flight" (the process of increasing the value of time) reflects the entire dynamics of the movement of elementary particles from the Big Bang, the formation/death of galaxies, stars, planets to the Big freeze and Big scattering (although the end of the Big scattering process is potentially unlimited in time).
 
-## Foreword
+## Afterword
 
 ### Key distinguishing features of the theory of everything
 
