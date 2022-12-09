@@ -108,7 +108,7 @@ $p^++p^- → 2π^+ + 2π^- + 3π^0 →$$2(μ^+ + ν_μ) + 2(μ^- + \overline ν_
 
 We get a lot of photons as a result (in fact, we get a lot of $q.ph .^+$, $q.ph .^-$ and $q.g.$).
 
-As you can see, the proton is not an elementary particle (it consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$) and is unstable (additional explanations in the section «[[index.en#Stability of elementary particle systems|Stability of elementary particle systems]]»). 
+As you can see, the proton is not an elementary particle (it consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$) and is unstable (additional explanations in the section «[[theoryofeverything.en#Stability of elementary particle systems|Stability of elementary particle systems]]»). 
 As a result, we again come to the conclusion that everything consists of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
 
 ### Feature of the neutrino structure. Photon structure
@@ -192,7 +192,7 @@ Unit of time. In a time equal to one second, a quantum of light (photon) that do
 
 The periodicity of processes in arbitrary clocks (objects), including atomic or light ones, depends on the speed of movement of the clock relative to the ImFR. When the movement speed of the clock is higher, then more time is spent on the period of electromagnetic radiation (for example, the caesium-133 atom) or the full period of the light clock.
 
-In the extreme case, with the movoment speed of the clock tending to the speed of light, the period of electromagnetic radiation tends to infinity (see [[index.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Effect time dilation of a moving clock compared to a rest one in ImFR]]). 
+In the extreme case, with the movoment speed of the clock tending to the speed of light, the period of electromagnetic radiation tends to infinity (see [[theoryofeverything.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Effect time dilation of a moving clock compared to a rest one in ImFR]]). 
 
 As a result, with an increase in the speed of the object, not time slows down/dilates, but the time of the period of processes in the object increases (for example, the period of electromagnetic radiation).
 
@@ -223,7 +223,7 @@ According to the generally accepted definition of a second (9 192 631 770 period
 We get the key question: how to determine the absolute time / absolute time interval / time in ImFR?
 
 1.  Measure the time it takes for light to travel a distance of 299,792,458 m in ImFR. A very difficult task.
-2.  Based on the description [[index.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Effect time dilation of a moving clock compared to a rest one in ImFR]], the period of the clock, for example light clocks, where $v$ is the speed of the clock relative to ImFR, can be determined by the formula:
+2.  Based on the description [[theoryofeverything.en#Effect time dilation of a moving clock compared to a rest one in ImFR|Effect time dilation of a moving clock compared to a rest one in ImFR]], the period of the clock, for example light clocks, where $v$ is the speed of the clock relative to ImFR, can be determined by the formula:
     $\large{T = \frac{L}{c-v}+\frac{L}{c+v}}(1)$ 
     
     Period of clocks in ImFR: 
@@ -268,7 +268,7 @@ Or we agree that clocks moving at different speeds relative to the ImFR show dif
 
 I consider that the facts indicate the dependence of the period of all internal processes (in particular, the period of electromagnetic radiation of the caesium-133 atom) on the speed of the object/system of elementary particles relative to the ImFR.
 In fact, when the speed of an object/system of elementary particles is closer to the speed of light, then lower the relative speed between its elementary particles and, accordingly, more time is spent on all processes.
-In the extreme case, when the speed relative to ImFR tends to the speed of light, any elementary particles of the object/system will never interact (for example, a quantum graviton moving from one quantum photon to another will never reach it, since the projection of the speed in the desired direction will tend to zero - [[index.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]]).
+In the extreme case, when the speed relative to ImFR tends to the speed of light, any elementary particles of the object/system will never interact (for example, a quantum graviton moving from one quantum photon to another will never reach it, since the projection of the speed in the desired direction will tend to zero - [[theoryofeverything.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]]).
 
 ### Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR 
 
@@ -450,12 +450,12 @@ The active and passive masses strongly depend on the structure of the object, th
 $$e^+ e^- → ν \overline ν $$
 Total amount of $q.ph .^+$, $q.ph .^-$ must be identical. Unfortunately, we cannot determine the amount of $q.g.$ yet. However, for an electron and a neutrino, the active and passive masses will differ due to structural differences. The neutrino has a lower active mass and, most likely, a lower passive mass, too, due to the higher density of the structure.
 
-Based on [[index.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]] one more conclusion can be drawn.  
+Based on [[theoryofeverything.en#Dependence of the period of processes in the object on the speed of movement of the object relative to ImFR|dependence of the period of processes in the object on the speed of movement of the object relative to ImFR]] one more conclusion can be drawn.  
 When the speed of the object is higher, then lower the active mass (radiation $q.g.$) and the radiation of photons, too. Naturally, this will be strongly noticeable only at relativistic speeds (relative to ImFR).
 
 ### Space
 
-The knowledge that humanity currently possesses allows us to confidently assert that the space of our world is three-dimensional and continuous (has no discreteness). The rationale for the continuity of space and time is described in the section  «[[index.en#Continuity of space and time|Continuity of space and time]]» .
+The knowledge that humanity currently possesses allows us to confidently assert that the space of our world is three-dimensional and continuous (has no discreteness). The rationale for the continuity of space and time is described in the section  «[[theoryofeverything.en#Continuity of space and time|Continuity of space and time]]» .
 
 To prove three-dimensionality, consider a simple thought experiment. Let's imagine a two–dimensional world with an infinite surface, and for even greater clarity - a sheet of paper. The three-dimensional world can be represented by an infinite set of infinite surfaces lying parallel to each other, and for a simplified representation – an infinite or even a finite stack of paper. If the world is three-dimensional, then objects of the three-dimensional world can eventually appear and disappear in two-dimensional out of nowhere and change their configuration. A good example can be obtained by pouring a bubble of ink on a stack of paper. At the initial moment, there were no ink particles in the two-dimensional world (on the sheet), but over time, ink particles appear out of nowhere and the spot begins to expand and penetrate into other two-dimensional worlds (on the sheets inside the stack). This example shows that if there is an object of a higher level of dimensionality (n+1-level) and it interacts with the lower world (n-level), then n+1-level objects from the point of view of the n-level are guaranteed to be observed (they are present in this world), and they appear in a fantastic way out of nowhere, they change inexplicably and disappear into nowhere. Due to the fact that this is not observed in our world, we can conclude based on the available knowledge that our world is three-dimensional.
 Of course, you can say as much as you like that our World has a dimension greater than three, but based on the proved above it follows that our world does not interact with other three-dimensional parts of the assumed four-dimensional space, that is, returning to the example with a stack of paper, its sheets do not interact, and therefore there is no point in complicating the representation by adding the dimensions of space that do not relate to us (to our world).
@@ -503,7 +503,7 @@ Black holes emit gravity ([[Quantum graviton.en|quantum gravitons]]), and accord
 
 The energy of an object is determined by the number of elementary particles that make up it and the direction of their velocity vector.
 
-The speed of elementary particles is constant, the condition is necessary in order to comply with the rules of the world (for example, quantization of energy). For more information, see the section «[[index.en#Immutability of the speed of elementary particles|Immutability of the speed of elementary particles]]».
+The speed of elementary particles is constant, the condition is necessary in order to comply with the rules of the world (for example, quantization of energy). For more information, see the section «[[theoryofeverything.en#Immutability of the speed of elementary particles|Immutability of the speed of elementary particles]]».
 
 When considering all known types of interaction (gravitational, electromagnetic, strong and weak), the following should be noted. All the "transformations" of "elementary" particles of the Standard Model into each other are nothing more than the interaction and exchange of elementary particles - [[Quantum photon.en|quantum photons]] and [[Quantum graviton.en|quantum gravitons]].
 
@@ -547,7 +547,7 @@ Any world, including the primary one, has a beginning at the moment when element
 
 Big freezing is the process of reducing the concentration of elementary particles that are part of each system of elementary particles and on which their temperature depends. A decrease in the concentration of these particles occurs due to the inability of the system itself to retain them. In fact, if you put any system in an absolutely empty space, then all the thermo particles will quickly leave it and the remains of the system will have a temperature of absolute zero, which is actually partially observed in outer space when an object is placed there that is not illuminated by the Sun or other photon sources. In this case, the object does not reach the temperature of absolute zero due to the presence of a significant concentration of photons in modern outer space. Due to the fact that elementary particles can change their trajectory only when interacting with other elementary particles, some particles of the edge of the filled part of the universe have such a direction of movement that they will never interact with others. This leads to the fact that the particles of the universe increase the size occupied by them and, accordingly, their concentration decreases. This, in turn, leads to the process of Big freezing. In practice, the process of developing particle dynamics in our universe is largely similar to the process of an explosion in a vacuum or a rupture over the entire surface of a gas bottle in an empty, unlimited space.
 
-Big scattering is the process of loss of stability of all systems of elementary particles, which eventually leads to the presence in the world of only isolated elementary particles that do not form linked systems. The issue of stability of elementary particle systems is considered in the section "[[index.en#Stability of elementary particle systems|Stability of elementary particle systems]]".
+Big scattering is the process of loss of stability of all systems of elementary particles, which eventually leads to the presence in the world of only isolated elementary particles that do not form linked systems. The issue of stability of elementary particle systems is considered in the section "[[theoryofeverything.en#Stability of elementary particle systems|Stability of elementary particle systems]]".
 As a result, based on the available facts, we can conclude that Big scattering is the future of our world.
 
 Infinity is a purely mathematical concept. In the world, everything is determined by physics, in which all quantities are finite. Some of these quantities are not limited in principle, but always have finite values. Let's get back to the main question. Even if our world was cyclical, it would still have a beginning. And the time of its existence is a finite quantity. In fact, any world, including the primary one, has a beginning at the moment when elementary particles and laws and/or something else appear out of nowhere. And no matter how strange the appearance of something from nothing is, no World can exist (be formed) without it. As a result, the appearance of an ultra-high-density clot of elementary particles from nothing, which subsequently led to the Big Bang, is either a trivial beginning of our world, or a specialized law that organizes the cyclicity of the world. Due to the fact that the second option is largely far–fetched, then, apparently, the Big Bang is the beginning of our world.
@@ -720,7 +720,7 @@ Interactions in any system of elementary particles are carried out by means of t
 
 #### Stable systems do not emit anything. 
 
-All objects of the universe (wich having mass) generate gravitational radiation, spend energy on it and exert a force effect on surrounding objects (details in section «[[index.en#Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets|Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets]]»)
+All objects of the universe (wich having mass) generate gravitational radiation, spend energy on it and exert a force effect on surrounding objects (details in section «[[theoryofeverything.en#Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets|Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets]]»)
 
 Let's take all the particles of the Standard Model, except the photon and, possibly, the gluon. All of them emit [[Quantum graviton.en|quantum gravitons]], that is, they have an active mass. Consequently, they are unstable, since the reserve of [[Quantum graviton.en|quantum gravitons]] is limited in an isolated environment or in the long term during the spread of matter/antimatter in the universe.
 
