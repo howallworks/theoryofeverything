@@ -75,14 +75,14 @@ plugins:
           site_name: Теория всего
       nav_translations:
         en:
-          Index: Theory of everything
-          READMEFIRST: Foreword
+          theoryofeverything: Theory of everything
+          README: Foreword
           ElementaryParticles: Elementary particles
           ParticlesOfStandardModel: Particles of Standard Model
           TermsOrAbbreviations: Terms or abbreviations 
         ru:
-          Index: Теория всего
-          READMEFIRST: Предисловие
+          theoryofeverything: Теория всего
+          README: Предисловие
           ElementaryParticles: Элементарные частицы
           ParticlesOfStandardModel: Частицы Стандартной модели
           TermsOrAbbreviations: Термины или сокращения 
