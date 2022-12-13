@@ -1,3 +1,5 @@
+Pdf версия of theory of everything: [Theory_of_everything.en(2022.12.13).pdf](Files/Theory_of_everything.en(2022.12.13).pdf)
+
 ## Cognition of the surrounding universe
 
 ### Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets
