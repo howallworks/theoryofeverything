@@ -7,23 +7,23 @@ theme:
         - navigation.instant
     palette:
 
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: orange
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Switch to light mode
 
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: orange
       accent: blue
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Switch to dark mode
         
 extra:
   alternate:
