@@ -1,5 +1,5 @@
 
-Pdf версия of theory of everything: [Theory_of_everything.en(2022.12.13).pdf](Files/Theory_of_everything.en(2022.12.13).pdf)
+Pdf версия of theory of everything: [Theory_of_everything.en(2022.12.20).pdf](Files/Theory_of_everything.en(2022.12.20).pdf)
 
 ## Cognition of the surrounding universe
 
