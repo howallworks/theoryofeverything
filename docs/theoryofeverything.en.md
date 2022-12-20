@@ -555,6 +555,22 @@ As a result, based on the available facts, we can conclude that Big scattering i
 
 Infinity is a purely mathematical concept. In the world, everything is determined by physics, in which all quantities are finite. Some of these quantities are not limited in principle, but always have finite values. Let's get back to the main question. Even if our world was cyclical, it would still have a beginning. And the time of its existence is a finite quantity. In fact, any world, including the primary one, has a beginning at the moment when elementary particles and laws and/or something else appear out of nowhere. And no matter how strange the appearance of something from nothing is, no World can exist (be formed) without it. As a result, the appearance of an ultra-high-density clot of elementary particles from nothing, which subsequently led to the Big Bang, is either a trivial beginning of our world, or a specialized law that organizes the cyclicity of the world. Due to the fact that the second option is largely far–fetched, then, apparently, the Big Bang is the beginning of our world.
 
+#### Time since the Big Bang
+
+Theoretically, for some time the universe could be an ultra-high-density black hole that emitted only gravitons. What happened after that?
+
+James Webb Space Telescope have been detected light from already a clearly formed isolated galaxy. We observe the light from it that has been travel to us for about 13.5 billion years. When the Universe was 2.3% its current age (about 13.8 billion years according to the Big Bang theory).
+If space really expanded at superluminal speed at the beginning (after Big Bang), then the density would be uniform and extremely low. It would take a huge amount of time for galaxies to form, since the forces acting on the particles would be almost balanced. Or would there be only quantum photons and quantum gravitons at all, whose velocity vectors would be directed "randomly" without any dedicated direction.
+Imagine a super elastic trampoline that has been stretched, for example, in billion billion billion times in every dimension. The trampoline particles will be at a large but approximately equal distance from each other. 
+As a result, the time it will take for galaxies to form will be incomparably more than 13.8 billion years, not to mention 320 million years.
+
+Suppose that our galaxy is moving at a speed about speed of light. But this is not the case, since there are no relativistic effects and the picture of the observed universe also does not correspond.
+
+Everything can be explained with a long time of particle dynamics at speeds lower than the speed of light after Big Bang.
+The data also tells us that the farther a galaxy is from the center of the universe, the higher its speed. This is typical precisely for the explosion of an ultra-high-density clot in a vacuum. But it doesn't look like the dynamics of particles after the superluminal stretching of space at all (because total speed of movement of forming galaxies would be about zero and, as a result, would tend to the center of the universe).
+
+The time that has passed since the Big Bang is summed. Time of the particles scattering, of forming and separating standalone galaxies - more than 13.5 billion years. And time for which light reaches us from the most distant galaxies is about 13.5 billion years. In total, more than 27 billion years.
+
 ### The Limitations of the world
 
 The world is limited by the parameters, characteristics and properties of elementary particles, the laws of their interaction, as well as the laws of its origin. Accordingly, there are ultimate limits for all parameters, characteristics and properties of any objects.
@@ -858,6 +874,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   the space of the world is three-dimensional;
 -   space and time are continuous;
 -   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big Bang that became a reflection of the dynamics of elementary particles;
+-   more than 27 billion years have passed since the beginning of the Big Bang;
 -   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
 -   the dynamics of elementary particles is predetermined by fixed laws of their interaction → unambiguity of dynamics → fate;
 -   quantum photons interact only with quantum gravitons;
