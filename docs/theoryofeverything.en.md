@@ -1,5 +1,5 @@
 
-Pdf version of theory of everything: [Theory_of_everything.en(2022.12.20).pdf](Files/Theory_of_everything.en(2022.12.20).pdf)
+Pdf version of theory of everything: [Theory_of_everything.en(2022.12.21).pdf](Files/Theory_of_everything.en(2022.12.21).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -35,6 +35,8 @@ All elements of [[Standard Model.en|Standard Model]] consist of [[Quantum photon
 The simplest proof is the annihilation processes, for example, of an electron-positron pair, while are formed [[Photon.en|photons]] and gravitons, which are difficult to detect.
 In fact, an electron and a positron consist of a bunch of quantum photons and quantum gravitons, but during interaction/annihilation/"transformation" they lose stability and fly apart into their constituent parts. Each "formed" of 2/3 [[Photon.en|photons]] contains many quantum photons.
 All the "transformations" of particles [[Standard Model.en|Standard Model]] plus a quantum gravitons - changing combinations of groups [[Quantum photon.en|quantum photons(q.ph.)]] and [[Quantum graviton.en|quantum gravitons(q.g.)]]. 
+
+Everything with mass contains and emits quantum gravitons. Everything that has a charge contains and emits quantum photons. Everything that has a neutral charge and a non-zero mass contains and emits on average an equal number of quantum photons with opposite helicity (they carry the opposite charge effect). As a result, everything consists of a quantum photons and a quantum gravitons.
 
 It is worth noting that such stable particles as, for example, a proton are not really absolutely stable, since they have mass and, accordingly, emit [[Quantum graviton.en|quantum gravitons]] and if there are no external sources for sufficient replenishment, they will decay. Also with black holes.
 
