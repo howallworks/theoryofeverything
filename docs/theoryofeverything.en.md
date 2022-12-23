@@ -1,5 +1,5 @@
 
-Pdf version of theory of everything: [Theory_of_everything.en(2022.12.21).pdf](Files/Theory_of_everything.en(2022.12.21).pdf)
+Pdf version of theory of everything: [Theory_of_everything.en(2022.12.23).pdf](Files/Theory_of_everything.en(2022.12.23).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -26,6 +26,16 @@ What we have. Two black holes merging emitted a huge amount of [[Quantum gravito
 Then how does operate [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]]([[Blazar.en|Blazar]])? 
 The whole point is that gravitons, like photons, can be emitted unevenly. SMBH with relativistic jets (Blazar) emits gravitons unevenly. The maximum amount of graviton radiation is in the plane of the galaxy, and the minimum is perpendicular to it. It turns out that the radiation in the minimum is so small that part of the matter from the SMBH flies out and forms jets (relativistic jets) of the blazar.
 Why is there such an uneven emission of gravitons for some SMBH? Apparently, the whole point is in the rotation of the SMBH around its own axis at relativistic speeds. Imagine a children's carousel spinning at high speed. If things, pebbles and even dust particles are lying on it, then they will scatter in a plane perpendicular to the axis of rotation. Apparently this is what happens with SMBH rotating at a speed approaching to the speed of light.
+
+#### Dark matter
+
+Does dark matter exist? 
+[[Blazar.en|Blazars]] and [[LIGO.en|LIGO]] indicate that the radiation of gravity may be uneven.
+The maximum amount of graviton radiation is in the plane of the galaxy, and the minimum is perpendicular to it. It turns out that the radiation in the minimum is so small that part of the matter from the supermassive black hole flies out and forms jets (relativistic jets) of the blazar. Why is there such an uneven emission of gravitons for some supermassive black hole? Apparently, the whole point is in the rotation of the supermassive black hole around its own axis at relativistic speeds.
+
+As a result, the density of gravitational radiation falls out of proportion to the square of the distance. The decrease of density of gravitational radiation is in the range from the proportion of the distance to the proportion of the square of the distance. More precisely, the dependence is determined by the redistribution of radiation from a rotating supermassive black hole in the center of the galaxy. To be more precise, the density of the gravitational stream is determined by the totality of uneven radiation from all objects of the galaxy.
+
+We get that there may be no need to add theoretical dark matter. Everything is explained by the uneven emission of gravitons.
 
 ### All elementary particles = quantum photons and quantum gravitons. What the elements of the Standard Model consist of. The disintegration of everything in the universe
 
