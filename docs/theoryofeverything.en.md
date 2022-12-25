@@ -1,5 +1,5 @@
 
-Pdf version of theory of everything: [Theory_of_everything.en(2022.12.23).pdf](Files/Theory_of_everything.en(2022.12.23).pdf)
+Latest Pdf version of theory of everything: [Theory_of_everything.en(2022.12.25).pdf](Files/Theory_of_everything.en(2022.12.25).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -576,10 +576,12 @@ If space really expanded at superluminal speed at the beginning (after Big Bang)
 Imagine a super elastic trampoline that has been stretched, for example, in billion billion billion times in every dimension. The trampoline particles will be at a large but approximately equal distance from each other. 
 As a result, the time it will take for galaxies to form will be incomparably more than 13.8 billion years, not to mention 320 million years.
 
+Assuming the most far-fetched case. The Big Bang begins. Then the particles of the outer edge are accelerated to speeds close to the speed of light due to the "pressure"/forces exerted by the inner layers of the ultra-high-density clot of particles (the velocity gradient from zero in the center of the clump of particles to the speed of light along the outer perimeter of the clot). Then there is a superluminal expansion of space. But even so, the final density would be uniform and extremely low. After that, the formation of galaxies would take even longer (than for the case with near-zero particle velocity). The particles of the outer edge would practically not interact with each other at speeds close to the speed of light, since their velocity vectors would not intersect. Which absolutely does not correspond to the observed data.
+
 Suppose that our galaxy is moving at a speed about speed of light. But this is not the case, since there are no relativistic effects and the picture of the observed universe also does not correspond.
 
 Everything can be explained with a long time of particle dynamics at speeds lower than the speed of light after Big Bang.
-The data also tells us that the farther a galaxy is from the center of the universe, the higher its speed. This is typical precisely for the explosion of an ultra-high-density clot in a vacuum. But it doesn't look like the dynamics of particles after the superluminal stretching of space at all (because total speed of movement of forming galaxies would be about zero and, as a result, would tend to the center of the universe).
+The data also tells us that the farther a galaxy is from the center of the universe, the higher its speed. This is typical precisely for the explosion of an ultra-high-density clot in a vacuum. But it doesn't look like the dynamics of particles after the superluminal stretching of space at all (because total speed of movement of forming galaxies would be about zero and, as a result, would tend to the center of the universe. Or galaxies would have formed incomparably much longer than the specified time frame).
 
 The time that has passed since the Big Bang is summed. Time of the particles scattering, of forming and separating standalone galaxies - more than 13.5 billion years. And time for which light reaches us from the most distant galaxies is about 13.5 billion years. In total, more than 27 billion years.
 
