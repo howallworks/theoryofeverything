@@ -1,5 +1,5 @@
 
-Latest Pdf version of theory of everything: [Theory_of_everything.en(2022.12.25).pdf](Files/Theory_of_everything.en(2022.12.25).pdf)
+Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.15).pdf](Files/Theory_of_everything.en(2023.01.15).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -767,6 +767,39 @@ Apparently, in the experiment, the photon interacted with a large group of quant
 
 As a result, there is no stability of elementary particle systems.
 
+### What does the violation of Bell's inequality actually indicate
+
+Bell in his theorem compares a certain "classical" interpretation of particles with the interpretation of quantum mechanics. And concludes that the "classical" interpretation does not correspond to the experimental results. Which I generally agree with regarding the violation of Bell's inequality. Why was the "classical" interpretation wrong? Firstly, because, as explained earlier, the particles of the Standard Model are not elementary and consist of quantum photons and quantum gravitons. Secondly, the "classical" interpretation of spin does not correspond to reality, if only because the studied particles are not elementary and consist of clusters of elementary particles with little-understood structure and dynamics. Thirdly, a photon is not a single particle, but a group of quantum photons forming a shape similar to the shape of a disk.
+
+On the other hand, the conclusions of quantum mechanics about the nonlocality and probabilistic nature of the universe do not follow from the incorrectness of the "classical" interpretation. Such conclusions are simply a misunderstanding of what is happening in reality.
+
+As a result, it is important to understand that the experimental violation of Bell's inequality indicates to us exclusively that the "classical" interpretation of particles is incorrect.
+
+In fact, a proton is a clot of $q.ph .^+$ (quantum photon with positive helicity), $q.ph.^-$ (quantum photon with negative helicity) and $q.g.$ (quantum graviton), which has a neutrally charged residue on average will produce an equal amount of $q.ph .^+$ and $q.ph .^-$, and there is also a positive charged excess containing $q.ph .^+$ and $q.g.$. What, then, do we measure as its "spin"? Does it make sense in this case to talk about the projections of the "spin" in some direction?
+
+[[Photon.en|Photon]] generally consists exclusively of a group $q.ph .^+$, or exclusively from the group $q.ph .^-$. The passage of a polarizer is also an effect on a photon (a group of quantum photons) and re-emission, which in fact takes place for the entire vacuum-free space.
+
+It should also be well understood that particles whose spin is considered zero (for example, π-mesons and the Higgs boson) actually have an internal structure and consist of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
+
+The Stern-Gerlach experiment shows that particles with a spatial charge structure can be affected by an inhomogeneous magnetic field (for example, by a Stern-Gerlach device) and because of this their spin will not be considered zero. I would like to emphasize that it is the impact that gives the resulting experimental picture, and not a mythical probability.
+It is important to understand that physically the impact of an electric and magnetic field is, in fact, the impact of photons with a predominance of positive or negative helicity. Accordingly, spin shows how the internal spatial charge structure of the particle reacts to the external impact with photons with a predominance $q.ph .^+$ or $q.ph .^-$. This again indicates that many even electron-neutral particles, which were considered elementary, have a structure containing zones with different charges, that is, consisting of quantum photons with different helicity. In fact, they consist of clots $q.ph .^+$, $q.g.$ and clots $q.ph .^-$, $q.g.$. The shape of the clots is currently unclear, since it is extremely difficult to obtain experimental data at the level of the internal structure of the particles of the Standard Model. We get that the modern term spin is a very strong simplification that poorly reflects the real dynamics of the internal structure of particles. Moreover, in the term spin, there is no clear understanding at all that the reason for the behavior of different particles is that they contain clots with different charges (different helicities of quantum photons). It is the clots of quantum photons with different charges/different helicity (some clots contain exclusively $q.ph .^+$, $q.g.$, and other clots contain exclusively $q.ph .^-$, $q.g.$) determine different spin behavior of particles.
+
+Once again, I note that spin reflects not just the rotational features of the particle, but the charge dynamics inside the particle.
+
+Let's move on to polarizing photon filters. If you put two polarizing filters at an angle of ninety degrees, it is assumed that the light does not pass because the first one blocks one direction of the wave, and the second one is perpendicular, that is, everything else. And because of this, photons do not pass. If we take three filters $0^o$, $45^o$, $90^o$, then the light partially passes. Why? The point is the wrong interpretation of the photon and the mechanism of action of the polarizer.
+
+What's going on? The first filter blocks part of the photons, that is, part of them hits the atomic structure of the filter and is absorbed or reflected back, and the other part passes on. If you imagine a photon in the form of a disk, and a polarizer in the form of slots, then it becomes clear which disks pass and which do not. What happens next? If there is a $90^o$ filter, then all the remaining disks simply hit the atomic structure of the filter and are absorbed or reflected back. However, if the second filter is set to $45^o$, then part of the photon disks can simply pass without interacting with the atomic structure of the filter, part will collide and be absorbed /reflected, and part will collide and be re-emitted by the atoms of the filter structure further along the course of the initial movement of photons. It is this last part that is interesting to us. We have already observed the same thing when describing the processes of re-emission during interference/diffraction of light, for example, in an experiment with a pair of slits or in Newton's rings. It is the re-emission that changes the orientation of the plane of the photonic disks and allows part of them to pass through the third filter by $90^o$. This leads to the fact that as a result, part of the photons passes through all three filters $0^o$, $45^o$, $90^o$.
+
+The most interesting thing is that in quantum mechanics and in the results of experiments, it is emphasized that photons that have passed through the second filter seem to "not know" that they passed through the first filter, that is, when passing between the second and third filters, they behave as if they did not pass through the first filter.
+
+All this indicates that, in fact, all photons that have passed through the filter are re-emitted and change the orientation of the plane of the photonic disks.
+
+As a result, the whole thing lies in the structure of a photon (a group of quantum photons) in the form of a disk and in specific of the re-emission of photons by each polarizer.
+
+Let's return to the violation of Bell's inequality. As we can see, the violation of inequality can easily be explained without waves, probabilities, lack of realism and lack of locality. Just when photons are represented by a group of quantum photons in the form of a disk, as well as a polarizer, which, when photons pass through it, re-emits them. 
+
+Interference, diffraction, and polarization are also easily explained by the peculiarity of the re-emission of particles by barriers as previously explained.
+
 ## Self-knowledge
 
 ### Consciousness and «I»
@@ -880,39 +913,6 @@ It is possible to implement an AI system with the available resources, but the k
 ### Organization of the management and resource allocation system
 
 Any system will not suit everyone, since everyone has their own goals that may contradict the goals of someone else. As a result, either a system with common goals is needed, which contradicts the essence of a human, or a system of social contract and lobbying of interests. The best way to organize management is a hierarchical system with the choice by professionals of their representatives. The higher the level in the hierarchy, the more general the problems of the area should be dealt with by the representative. Only a professional can really understand what is going on in his area, and, accordingly, competently defend the interests of his group. As a result, it is possible to create a hierarchical system of councils of professionals of region and groups of regions in order to solve common problems and issues.
-
-### What does the violation of Bell's inequality actually indicate
-
-Bell in his theorem compares a certain "classical" interpretation of particles with the interpretation of quantum mechanics. And concludes that the "classical" interpretation does not correspond to the experimental results. Which I generally agree with regarding the violation of Bell's inequality. Why was the "classical" interpretation wrong? Firstly, because, as explained earlier, the particles of the Standard Model are not elementary and consist of quantum photons and quantum gravitons. Secondly, the "classical" interpretation of spin does not correspond to reality, if only because the studied particles are not elementary and consist of clusters of elementary particles with little-understood structure and dynamics. Thirdly, a photon is not a single particle, but a group of quantum photons forming a shape similar to the shape of a disk.
-
-On the other hand, the conclusions of quantum mechanics about the nonlocality and probabilistic nature of the universe do not follow from the incorrectness of the "classical" interpretation. Such conclusions are simply a misunderstanding of what is happening in reality.
-
-As a result, it is important to understand that the experimental violation of Bell's inequality indicates to us exclusively that the "classical" interpretation of particles is incorrect.
-
-In fact, a proton is a clot of $q.ph .^+$ (quantum photon with positive helicity), $q.ph.^-$ (quantum photon with negative helicity) and $q.g.$ (quantum graviton), which has a neutrally charged residue on average will produce an equal amount of $q.ph .^+$ and $q.ph .^-$, and there is also a positive charged excess containing $q.ph .^+$ and $q.g.$. What, then, do we measure as its "spin"? Does it make sense in this case to talk about the projections of the "spin" in some direction?
-
-[[Photon.en|Photon]] generally consists exclusively of a group $q.ph .^+$, or exclusively from the group $q.ph .^-$. The passage of a polarizer is also an effect on a photon (a group of quantum photons) and re-emission, which in fact takes place for the entire vacuum-free space.
-
-It should also be well understood that particles whose spin is considered zero (for example, π-mesons and the Higgs boson) actually have an internal structure and consist of $q.ph .^+$, $q.ph .^-$ and $q.g.$.
-
-The Stern-Gerlach experiment shows that particles with a spatial charge structure can be affected by an inhomogeneous magnetic field (for example, by a Stern-Gerlach device) and because of this their spin will not be considered zero. I would like to emphasize that it is the impact that gives the resulting experimental picture, and not a mythical probability.
-It is important to understand that physically the impact of an electric and magnetic field is, in fact, the impact of photons with a predominance of positive or negative helicity. Accordingly, spin shows how the internal spatial charge structure of the particle reacts to the external impact with photons with a predominance $q.ph .^+$ or $q.ph .^-$. This again indicates that many even electron-neutral particles, which were considered elementary, have a structure containing zones with different charges, that is, consisting of quantum photons with different helicity. In fact, they consist of clots $q.ph .^+$, $q.g.$ and clots $q.ph .^-$, $q.g.$. The shape of the clots is currently unclear, since it is extremely difficult to obtain experimental data at the level of the internal structure of the particles of the Standard Model. We get that the modern term spin is a very strong simplification that poorly reflects the real dynamics of the internal structure of particles. Moreover, in the term spin, there is no clear understanding at all that the reason for the behavior of different particles is that they contain clots with different charges (different helicities of quantum photons). It is the clots of quantum photons with different charges/different helicity (some clots contain exclusively $q.ph .^+$, $q.g.$, and other clots contain exclusively $q.ph .^-$, $q.g.$) determine different spin behavior of particles.
-
-Once again, I note that spin reflects not just the rotational features of the particle, but the charge dynamics inside the particle.
-
-Let's move on to polarizing photon filters. If you put two polarizing filters at an angle of ninety degrees, it is assumed that the light does not pass because the first one blocks one direction of the wave, and the second one is perpendicular, that is, everything else. And because of this, photons do not pass. If we take three filters $0^o$, $45^o$, $90^o$, then the light partially passes. Why? The point is the wrong interpretation of the photon and the mechanism of action of the polarizer.
-
-What's going on? The first filter blocks part of the photons, that is, part of them hits the atomic structure of the filter and is absorbed or reflected back, and the other part passes on. If you imagine a photon in the form of a disk, and a polarizer in the form of slots, then it becomes clear which disks pass and which do not. What happens next? If there is a $90^o$ filter, then all the remaining disks simply hit the atomic structure of the filter and are absorbed or reflected back. However, if the second filter is set to $45^o$, then part of the photon disks can simply pass without interacting with the atomic structure of the filter, part will collide and be absorbed /reflected, and part will collide and be re-emitted by the atoms of the filter structure further along the course of the initial movement of photons. It is this last part that is interesting to us. We have already observed the same thing when describing the processes of re-emission during interference/diffraction of light, for example, in an experiment with a pair of slits or in Newton's rings. It is the re-emission that changes the orientation of the plane of the photonic disks and allows part of them to pass through the third filter by $90^o$. This leads to the fact that as a result, part of the photons passes through all three filters $0^o$, $45^o$, $90^o$.
-
-The most interesting thing is that in quantum mechanics and in the results of experiments, it is emphasized that photons that have passed through the second filter seem to "not know" that they passed through the first filter, that is, when passing between the second and third filters, they behave as if they did not pass through the first filter.
-
-All this indicates that, in fact, all photons that have passed through the filter are re-emitted and change the orientation of the plane of the photonic disks.
-
-As a result, the whole thing lies in the structure of a photon (a group of quantum photons) in the form of a disk and in specific of the re-emission of photons by each polarizer.
-
-Let's return to the violation of Bell's inequality. As we can see, the violation of inequality can easily be explained without waves, probabilities, lack of realism and lack of locality. Just when photons are represented by a group of quantum photons in the form of a disk, as well as a polarizer, which, when photons pass through it, re-emits them. 
-
-Interference, diffraction, and polarization are also easily explained by the peculiarity of the re-emission of particles by barriers as previously explained.
 
 # Results
 
