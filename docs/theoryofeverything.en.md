@@ -792,7 +792,8 @@ What's going on? The first filter blocks part of the photons, that is, part of t
 
 The most interesting thing is that in quantum mechanics and in the results of experiments, it is emphasized that photons that have passed through the second filter seem to "not know" that they passed through the first filter, that is, when passing between the second and third filters, they behave as if they did not pass through the first filter.
 
-All this indicates that, in fact, all photons that have passed through the filter are re-emitted and change the orientation of the plane of the photonic disks.
+All this indicates that, in fact, all photons that have passed through the filter are re-emitted and change the orientation of the plane of the photonic disks. 
+The distribution of orientations of photonic disks after passing each polarizer is not linear and will be proportional to $cos^2(x)$ when photons pass between neighboring polarizers, where $x ≤ 90^o$ is the angle between the main axes of a pair of neighboring linear polarizers. Then all the results will coincide with the experimental ones. It turns out that the smaller the angle between a pair of polarizers, the fewer photonic disks will be reflected by the last polarizer. We get that through a dozen polarizers deflected at small angles, much more photons will pass than through a pair deflected at a large angle. This is observed experimentally.
 
 As a result, the whole thing lies in the structure of a photon (a group of quantum photons) in the form of a disk and in specific of the re-emission of photons by each polarizer.
 
