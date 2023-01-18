@@ -1,5 +1,7 @@
 
-Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.15).pdf](Files/Theory_of_everything.en(2023.01.15).pdf)
+It is noticed that formulas are not displayed correctly in the Twitter browser. Use the full-featured version to view or read a pdf.
+
+Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.18).pdf](Files/Theory_of_everything.en(2023.01.18).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -295,7 +297,7 @@ The speed of an object strongly affects its dynamics, since the period of all pr
 
 At zero object speed (relative to ImFR), the process period is minimal. Hence we get that when the speed of an object increases (relative to ImFR), then increase its lifetime (relative to ImFR). This is actually confirmed experimentally. When the speed of an unstable particle/object is closer to the speed of light (relative to ImFR), then greater the distance it passes before decaying.
 
-### [Twins paradox](https://en.wikipedia.org/wiki/Twin_paradox)
+### [Twin paradox](https://en.wikipedia.org/wiki/Twin_paradox)
 
 Date of initial publication in Russian: 31.10.2015
 
@@ -388,6 +390,54 @@ As a result, according to the general theory of relativity, it is impossible to 
 In addition, according to the general theory of relativity, it is also impossible to say how much the clock readings will actually differ (a quantitative factor).
 
 This means that the theory of relativity contradicts reality.
+
+#### Twin paradox. Additional experiment variations 
+
+After Einstein formulated the special theory of relativity (STR), was came up a thought experiment in which it is not clear which object is experiencing "time dilation" - the Twin paradox. However, although this does not follow from the special theory of relativity, then scientists who consider STR to be correct pointed out that there is no paradox, since a twin experiencing acceleration will experience time dilation (although this also does not completely solve the case of experiment No. 2).
+
+Here is thought experiment No. 3.
+Two twins are flying in rockets docked to each other. The first and second get into their rockets, accelerate with the same acceleration in different directions, fly for a long time, brake with the same acceleration, accelerate in the opposite direction with the same acceleration, fly for a long time, brake with the same acceleration, dock and meet in the rocket.
+
+And now the predictions of my theory of everything.
+
+Do you think that in experiment #3 both twins will have the same age?
+Only in one basic case out of all. When the initial velocity of the rockets relative to the ImFR or vacuum or relative to the relic radiation was zero. For all other cases (there was an initial velocity relative to the vacuum or relative to the relic radiation), the twins will have different ages (a different number of periods of all processes in their bodies will pass).
+
+Younger will be the twin whose speed was closer and longer to the speed of light relative to vacuum or relative to relic radiation. In fact, the time dilation formula is correctly applicable only with respect to ImFR /vacuum /relic radiation / with an error relative to the Earth. I would like to emphasize that although the formula is applicable, it does not reflect the physics of the process, since it is not time that slows down, but the duration of all processes in the object increases.
+
+Experiment No. 3 with a specific variant of velocity values.
+Two twins are flying in rockets docked to each other (0.2c relative to ImFR/vacuum/relict radiation/**with an error** relative to the Earth). The first and second get into their rockets, accelerate with the same acceleration in different directions, fly for a long time (~ c, ~ -0.6c), brake with the same acceleration (0.2c), accelerate in the opposite direction with the same acceleration, fly for a long time (0.19c, 0.21c), brake with the same acceleration (0.2c), dock and meet in the rocket.
+As a result, for this particular case, the first twin will be younger than the second. However, for other cases there will be other options for age ratios.
+
+Such experiments are not difficult to conduct. One of the simplest options is to use short-lived particles that decay rapidly at speeds significantly lower than the speed of light. Another much more complex, but visual option is still to use rockets with atomic clocks. 
+
+The easiest way to check is to take two short-lived particles obtained at the same time and conduct two versions of experiments.
+
+The classic Twin paradox will look like this.
+
+Variant #1 - accelerated to the same speed close to zero relative to ImFR/vacuum/relic radiation/Earth. From the point of view of each of them, they rest.
+Let's note this moment as the beginning of the experiment. Accelerate the first particle so that it moves faster relative to ImFR /vacuum/relic radiation/Earth (preferably almost to the speed of light), wait a considerable time $t$, and then accelerate in the opposite direction to the initial speed (about 0). As a result, the second (resting/moving without acceleration) particle will decay faster than the first.
+
+The reverse version of the Twin paradox will look like this.
+
+Variant #2 - accelerated to the same speed close to the speed of light relative to ImFR/vacuum/relic radiation/Earth. From the point of view of each of them, they rest.
+Let's note this moment as the beginning of the experiment. Accelerate the first particle so that it moves slower relative to the ImFR/vacuum/relic radiation/Earth (preferably to almost zero speed), wait a considerable time $t$, and then accelerate in the opposite direction to the initial speed (close to the speed of light. The same as the second particle). As a result, the first particle will decay faster than the second. Although from the point of view of the special theory of relativity (supplemented by the understanding of who accelerated and who did not), the second (resting/moving without acceleration) should first disintegrate, and then the first.
+
+It is possible to conduct this experiment with rockets, but it will be more difficult to implement.
+
+In fact, variant #2 is the same experiment from the Twin paradox. But if there the initial velocity relative to ImFR/vacuum/relic radiation/Earth was close to zero, then here it will be close to the speed of light. From the point of view of the theory of relativity, this does not change anything, since it is their speed relative to each other that is important to us and understanding which of them accelerated and who did not.
+
+You can come up with many more great options for checking.
+
+***Here is one of the best experiments.*** 
+
+***Let's take two short-lived particles obtained at the same time, let their initial velocity be 0 relative to ImFR/vacuum/relic radiation/Earth and note the beginning of the experiment. Let's speed them up to $0.5c$. We will accelerate the first to a speed close to the speed of light, and the second to 0. We will wait a considerable time $t$. Let's speed both back up to $0.5c$. Let's speed them both up to 0. Let's speed them both up to $-0.5c$. We will accelerate the first to a speed close to $-c$, and the second to 0. We will wait for a considerable time $t$. Let's speed them both up to $-0.5c$. Let's speed them both up to 0.*** 
+
+***From the point of view of each of the particles (you can also check with ships), they moved and accelerated the same relative to each other, and this is the true version of the Twin paradox. From the point of view of each of the particles, the other was moving faster, and the accelerations were the same. And here the special theory of relativity is powerless without the introduction of outside observers, even taking into account accelerations. Moreover, if an outside observer moves at a speed close to the speed of light relative to ImFR/vacuum/relic radiation/Earth, he will make an erroneous assumption about which particle will decay first.***
+
+In fact, it's not about accelerations, but about the velocity relative to the vacuum or relative to the relic radiation. Those objects that will move at a speed closer to the speed of light relative to the ImFR or vacuum or relative to the relic radiation will "live" longer, but not because of the "time dilation", but because of the increase in the duration of all processes in the object. The details of the increase in the duration of all processes in the object at speeds close to the speed of light were discussed earlier, for example, in the section "Effect time dilation of a moving clock compared to a rest one in ImFR".
+
+As a result, we can again see and verify the experimental inconsistency of Einstein's special theory of relativity with reality. Again, I repeat that the whole problem is in the term second, which depends on the speed of movement relative to ImFR/vacuum/relic radiation/Earth. Details were given in the section "How to define the term "Time" in order to create a theory of relativity".
 
 ### [General theory of relativity vs gravitational maneuvers and black holes](http://howallworks.github.io/blog/2015/11/obshchaia-teoriia-otnositelnosti-vs-gravitatsionnye-manevry-i-chernye-dyry.html)
 
