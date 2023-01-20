@@ -1,5 +1,5 @@
 
-Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.18).pdf](Files/Theory_of_everything.en(2023.01.18).pdf)
+Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.20).pdf](Files/Theory_of_everything.en(2023.01.20).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -848,6 +848,36 @@ As a result, the whole thing lies in the structure of a photon (a group of quant
 Let's return to the violation of Bell's inequality. As we can see, the violation of inequality can easily be explained without waves, probabilities, lack of realism and lack of locality. Just when photons are represented by a group of quantum photons in the form of a disk, as well as a polarizer, which, when photons pass through it, re-emits them. 
 
 Interference, diffraction, and polarization are also easily explained by the peculiarity of the re-emission of particles by barriers as previously explained.
+
+### Quantum graviton versus space-time deformation of Einstein's general theory of relativity
+
+This is a generalizing section of heterogeneous data, experiments, observations and conclusions described earlier, as well as the addition of new ones.
+
+All impacts in our universe are carried by particles. At least this is the easiest way to describe the dynamics of our universe and it turns out an excellent agreement with real observations / experiments. Then why is the gravitational effect special? Can't gravity also be described by particles?
+
+It is possible to describe by quantum gravitons. And at the same time, a much better correspondence to reality is obtained.
+
+Why are objects of low mass, such as atoms and smaller ones, able to hold photons inside themselves like black holes? From the point of view of general relativity, this does not work well, since the deformation of space-time in this case is either too small, or should absorb everything that comes across as micro black holes. But this is not happening.
+However, if we describe the atom and other particles in the form of clusters of quantum photons and quantum gravitons, then everything works correctly. This not only makes it possible to understand the cause of the emissions of both gravitons and photons, but also makes it possible to understand the mystical transformations of all the particles of the Standard Model into each other. It also indicates the incompleteness of the Standard Model due to the absence of gravitons in it, although almost all of its particles have an active mass.
+
+Earlier in the section "General theory of relativity vs gravitational maneuvers and black holes" gravity maneuvers were considered. It turns out that for all real cases when there are several massive bodies moving relative to each other (due to which a gravitational maneuver is performed), the object inevitably acquires /loses speed and, consequently, energy relative to any of the massive bodies. Which does not correspond to the concept of the absence of force in [[GTR.en|GTR]].
+
+However, in this case, the concept of quantum gravitons works fine again, since there is a force effect on the object and the transfer of momentum/energy to it. Although, in fact, there is a transfer of particles - quantum gravitons, followed by absorption and re-emission.
+
+But then why don't we notice that objects/atoms/particles emit quantum gravitons and there are fewer of them inside? It's just that there are a lot of them and the radiated amount is extremely small compared to the available reserves. In addition, there are almost always external sources that constantly replenish reserves. All surrounding objects emitting quantum gravitons somehow make up for the shortcomings in the neighboring ones. But then comes the right thought. But what about the edge of galaxies or, even more so, the edge of the universe? Indeed, what radiates from the outer edge of the universe and will no longer interact with other particles will be lost forever.
+
+Now we can better understand the reason for the decay of unstable particles/atoms. They simply lack quantum photons and quantum gravitons to maintain stability. It is also clear why they do not decay all at once, since there is a temporary replenishment of quantum photons and quantum gravitons from those that have just decayed. In this regard, quantum gravitons again describe reality better than GTR. This also indicates that when the particles/atoms that are currently unstable disintegrate, it will be the turn of the particles/atoms that now have imaginary stability due to replenishment from external sources to disintegrate.
+
+Let's move on to the data from [[LIGO.en|LIGO]]. There was a slight change in mass (about 3 times the mass of the Sun) at a colossal distance of 1.3 billion light years and we were able to record this considering the fact that this effect was significantly greater than the level of other gravitational noise. What does this mean? From the point of view of GTR, this is a very small change in mass at a colossal distance. Moreover, the effect of this event decreases proportionally to the square of the distance. In addition, at distances many powers of magnitude smaller than this, significant events also constantly occur with a large change in masses. Why did we manage to record such a distant event with a small change in mass? GTR can't explain it correctly. However, if we imagine gravity in the form of quantum gravitons, then everything falls into place. The change in mass is not as important as the change in the number of quantum gravitons emitted during this event in a very short period of time (~0.2 seconds). Imagine our Sun. It has been emitting quantum gravitons for billions of years, holding our entire Solar system. Now imagine what happens if it emits them all in 0.2 seconds. A colossal gravitational explosion. It is because of such a colossal change in the gravitational flow that we were able to record such a distant event.
+
+supermassive black holes emitting relativistic jets of particles is another important argument in favor of quantum gravitons. The mass of the blazar practically does not change and, accordingly, from the point of view of GTR, the deformation of space-time should be stable and have the same amount of curvature in all directions from it. Which does not allow us to understand how particles can fly away from the blazar at relativistic speeds.
+
+However, everything falls into place in the case of the representation of the gravitational radiation of the blazar by an uneven flow of quantum gravitons. The maximum of the radiation is quantum gravitons in the plane of the galaxy, and the minimum is perpendicular to it. It turns out that the radiation in the minimum is so small that part of the matter from [[SMBH.en|SMBH]] flies out and forms jets (relativistic jets) of the blazar.
+Why is there such an uneven emission of quantum gravitons for some SMBH? Apparently the whole point is in the rotation of the SMBH around its own axis at relativistic speeds.
+
+This also explains why we can't find hypothetical dark matter. SMBH in the centers of galaxies emit quantum gravitons mainly in the plane of the galaxy and because of this, the density of gravitons does not fall as fast as the distance from the source increases. This turns out to be enough to keep the galaxy in the desired configuration without introducing additional masses. Additional details are also given in the section "Irregularity of gravity. Quantum graviton. Blazar - SMBH with relativistic jets"
+
+As a result, the representation of gravity in the form of particles - quantum gravitons best corresponds to reality and perfectly complements the general unified concept of the theory of everything.
 
 ## Self-knowledge
 
