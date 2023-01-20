@@ -1,6 +1,4 @@
 
-It is noticed that formulas are not displayed correctly in the Twitter browser. Use the full-featured version to view or read a pdf.
-
 Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.18).pdf](Files/Theory_of_everything.en(2023.01.18).pdf)
 
 ## Cognition of the surrounding universe
