@@ -76,6 +76,7 @@ plugins:
       nav_translations:
         en:
           Theoryofeverything: Theory of everything
+          TheoryofeverythingPracticalConsequences: Theory of everything. Practical Consequences
           Index: Foreword
           README: Foreword
           ElementaryParticles: Elementary particles
@@ -83,6 +84,7 @@ plugins:
           TermsOrAbbreviations: Terms or abbreviations 
         ru:
           Theoryofeverything: Теория всего
+          TheoryofeverythingPracticalConsequences: Теория всего. Практические последствия
           Index: Предисловие
           README: Предисловие
           ElementaryParticles: Элементарные частицы
