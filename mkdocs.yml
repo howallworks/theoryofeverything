@@ -25,7 +25,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
         
-
+extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Русский
+      link: /ru/
+      lang: ru
 
 # Extensions
 markdown_extensions:
