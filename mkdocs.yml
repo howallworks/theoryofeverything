@@ -1,9 +1,9 @@
 site_name: Theory of everything
-site_url: https://howallworks.github.io/theoryofeverything/
+#site_url: https://howallworks.github.io/theoryofeverything/
 
 theme:
     name: 'material'
-    language: ru
+    language: en
     features:
         - navigation.instant
     palette:
@@ -29,10 +29,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /theoryofeverything/theoryofeverything/ 
+      link: /theoryofeverything/ 
       lang: en
     - name: Русский
-      link: /theoryofeverything/ru/theoryofeverything/
+      link: /theoryofeverything/ru/
       lang: ru
     
     
@@ -67,7 +67,7 @@ plugins:
   - roamlinks 
   - mermaid2
   - i18n:
-      default_language: ru
+      default_language: en
       languages:
         en:
           name: English
