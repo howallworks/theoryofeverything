@@ -80,7 +80,7 @@ plugins:
       nav_translations:
         en:
           Theoryofeverything: Theory of everything
-          TheoryofeverythingPracticalC: Theory of everything. Practical Consequences
+          theoryofeverythingPracticalC: Theory of everything. Practical Consequences
           Home: Foreword
           Index: Foreword
           README: Foreword
@@ -89,7 +89,7 @@ plugins:
           TermsOrAbbreviations: Terms or abbreviations 
         ru:
           Theoryofeverything: Теория всего
-          TheoryofeverythingPracticalC: Теория всего. Практические последствия
+          theoryofeverythingPracticalC: Теория всего. Практические последствия
           Home: Предисловие
           Index: Предисловие
           README: Предисловие
