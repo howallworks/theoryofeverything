@@ -28,10 +28,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /en/ 
+      link: /theoryofeverything/ 
       lang: en
     - name: Русский
-      link: /ru/
+      link: /theoryofeverything/ru/
       lang: ru
 
 # Extensions
