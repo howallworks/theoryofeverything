@@ -76,7 +76,7 @@ plugins:
       nav_translations:
         en:
           Theoryofeverything: Theory of everything
-          TheoryofeverythingPracticalConsequences: Theory of everything. Practical Consequences
+          TheoryofeverythingPracticalC: Theory of everything. Practical Consequences
           Index: Foreword
           README: Foreword
           ElementaryParticles: Elementary particles
@@ -84,7 +84,7 @@ plugins:
           TermsOrAbbreviations: Terms or abbreviations 
         ru:
           Theoryofeverything: Теория всего
-          TheoryofeverythingPracticalConsequences: Теория всего. Практические последствия
+          TheoryofeverythingPracticalC: Теория всего. Практические последствия
           Index: Предисловие
           README: Предисловие
           ElementaryParticles: Элементарные частицы
@@ -107,7 +107,7 @@ plugins:
           Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
           
 extra_javascript:
-  - javascripts/mathjax.js
+  #- javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
