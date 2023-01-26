@@ -58,8 +58,8 @@ markdown_extensions:
 
 plugins:
   - search:
-      lang: 
-        en
+      lang: en
+      #lang:
         #- en
         #- ru
   - roamlinks 
