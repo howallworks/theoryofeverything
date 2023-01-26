@@ -27,12 +27,13 @@ theme:
         
 extra:
   alternate:
+  - name: Русский
+      link: /theoryofeverything/ru/theoryofeverything/
+      lang: ru
     - name: English
       link: /theoryofeverything/theoryofeverything/ 
       lang: en
-    - name: Русский
-      link: /theoryofeverything/ru/theoryofeverything/
-      lang: ru
+    
 
 # Extensions
 markdown_extensions:
@@ -59,7 +60,7 @@ plugins:
   - search:
       lang: 
         - en
-        - ru
+        #- ru
   - roamlinks 
   - mermaid2
   - i18n:
@@ -77,6 +78,7 @@ plugins:
         en:
           Theoryofeverything: Theory of everything
           TheoryofeverythingPracticalC: Theory of everything. Practical Consequences
+          Home: Foreword
           Index: Foreword
           README: Foreword
           ElementaryParticles: Elementary particles
@@ -85,6 +87,7 @@ plugins:
         ru:
           Theoryofeverything: Теория всего
           TheoryofeverythingPracticalC: Теория всего. Практические последствия
+          Home: Предисловие
           Index: Предисловие
           README: Предисловие
           ElementaryParticles: Элементарные частицы
