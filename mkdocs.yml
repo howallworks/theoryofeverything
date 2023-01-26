@@ -59,9 +59,6 @@ markdown_extensions:
 plugins:
   - search:
       lang: en
-      #lang:
-        #- en
-        #- ru
   - roamlinks 
   - mermaid2
   - i18n:
