@@ -16,7 +16,7 @@ Generally speaking, mathematics allows us to obtain an absolutely correct quanti
 
 For a correct description of the world, it is necessary to describe its physics (a qualitative representation of the world), and only then, if necessary, it is possible to quantitatively describe the resulting physical structure by means of mathematics and in no case vice versa.
 
-Physics of the universe → Representation of the physics of the universe → Numerical mathematical description of the representation of the physics of the universe
+Physics of the universe $→$ Representation of the physics of the universe $→$ Numerical mathematical description of the representation of the physics of the universe
 
 In the [[theoryofeverything.en|theory of everything]], I describe exactly the representation of the physics of the universe/world (elementary particles, their systems and the laws of interaction of elementary particles and systems, as well as the consequences arising from all this).
 
