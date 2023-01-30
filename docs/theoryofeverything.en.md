@@ -1,5 +1,7 @@
 
-Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.20).pdf](Files/Theory_of_everything.en(2023.01.20).pdf)
+ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
+
+Latest Pdf version of theory of everything: [Theory_of_everything.en(2023.01.30).pdf](Files/Theory_of_everything.en(2023.01.30).pdf)
 
 ## Cognition of the surrounding universe
 
