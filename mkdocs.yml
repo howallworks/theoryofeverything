@@ -66,51 +66,51 @@ plugins:
         #- ru
   - roamlinks 
   - mermaid2
-  - i18n:
-      default_language: en
-      languages:
-        en:
-          name: English
-          build: true
-          site_name: Theory of everything
-        ru:
-          name: Русский
-          build: true
-          site_name: Теория всего
-      nav_translations:
-        en:
-          Theoryofeverything: Theory of everything
-          theoryofeverythingPracticalC: Theory of everything. Practical Consequences
-          Home: Foreword
-          Index: Foreword
-          README: Foreword
-          ElementaryParticles: Elementary particles
-          ParticlesOfStandardModel: Particles of Standard Model
-          TermsOrAbbreviations: Terms or abbreviations 
-        ru:
-          Theoryofeverything: Теория всего
-          theoryofeverythingPracticalC: Теория всего. Практические последствия
-          Home: Предисловие
-          Index: Предисловие
-          README: Предисловие
-          ElementaryParticles: Элементарные частицы
-          ParticlesOfStandardModel: Частицы Стандартной модели
-          TermsOrAbbreviations: Термины или сокращения 
-          Quantum graviton: Квант гравитон 
-          Quantum photon: Квант фотон 
-          Photon: Фотон 
-          Accretion disk: Аккрецио́нный диск 
-          Albert Einstein: Альбе́рт Эйнште́йн 
-          Blazar: Блаза́р 
-          Elementary particle: Элементарная частица 
-          GTR: ОТО 
-          Helicity: Спиральность 
-          Relativistic jet: Релятиви́стская струя 
-          SMBH: СМЧД 
-          Standard Model: Стандартная модель 
-          Blandford–Znajek process: Процесс Блэнфорда — Знаека 
-          Penrose process: процесс Пенроуза 
-          Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
+  #- i18n:
+  #    default_language: en
+  #    languages:
+  #      en:
+  #        name: English
+  #        build: true
+  #        site_name: Theory of everything
+  #      ru:
+  #        name: Русский
+  #        build: true
+  #        site_name: Теория всего
+  #    nav_translations:
+  #      en:
+  #        Theoryofeverything: Theory of everything
+  #        theoryofeverythingPracticalC: Theory of everything. Practical Consequences
+  #        Home: Foreword
+  #        Index: Foreword
+  #        README: Foreword
+  #        ElementaryParticles: Elementary particles
+  #        ParticlesOfStandardModel: Particles of Standard Model
+  #        TermsOrAbbreviations: Terms or abbreviations 
+  #      ru:
+  #        Theoryofeverything: Теория всего
+  #        theoryofeverythingPracticalC: Теория всего. Практические последствия
+  #        Home: Предисловие
+  #        Index: Предисловие
+  #        README: Предисловие
+  #        ElementaryParticles: Элементарные частицы
+  #        ParticlesOfStandardModel: Частицы Стандартной модели
+  #        TermsOrAbbreviations: Термины или сокращения 
+  #        Quantum graviton: Квант гравитон 
+  #        Quantum photon: Квант фотон 
+  #        Photon: Фотон 
+  #        Accretion disk: Аккрецио́нный диск 
+  #        Albert Einstein: Альбе́рт Эйнште́йн 
+  #        Blazar: Блаза́р 
+  #        Elementary particle: Элементарная частица 
+  #        GTR: ОТО 
+  #        Helicity: Спиральность 
+  #        Relativistic jet: Релятиви́стская струя 
+  #        SMBH: СМЧД 
+  #        Standard Model: Стандартная модель 
+  #        Blandford–Znajek process: Процесс Блэнфорда — Знаека 
+  #        Penrose process: процесс Пенроуза 
+  #        Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
           
 extra_javascript:
   #- javascripts/mathjax.js
