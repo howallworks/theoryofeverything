@@ -441,17 +441,17 @@ You can come up with many more great options for checking.
 
 ***They fly together. Let $v=0.5c$. Let's accelerate the first one to 0, and the second one to $c$. Let's wait a considerable time $t$. Let's accelerate both back up to $0.5c$. We will accelerate the first to $0.6c$, and the second to $0.4c$. Let's wait a considerable time $5t$. Let's accelerate them both up to $0.5c$. They fly together. For each of the two objects in this case, from the point of view of the theory of relativity, the velocities and accelerations were the same, which means the same amount of time should pass.***
 
-***However, in reality this is not the case:***
-$t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$
-$t_2=F(c)t+F(0.4c)(5t)=0+4.58t=4.58t$
-, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$
+***However, in reality this is not the case:*** 
+$t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
+$t_2=F(c)t+F(0.4c)(5t)=0+4.58t=4.58t$; 
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
 ***They fly together. Let $v=-0.5c$. Let's accelerate the first one to $-c$, and the second one to 0. Let's wait a considerable time $t$. Let's accelerate both back up to $-0.5c$. We will accelerate the first to $-0.4c$, and the second to $-0.6c$. Let's wait a considerable time $5t$. Let's accelerate them both up to $-0.5c$. They fly together. For each of the two objects in this case, from the point of view of the theory of relativity, the velocities and accelerations were the same, which means the same amount of time should pass.***
 
-***However, in reality this is not the case:***
-$t_1=F(-c)t+F(-0.4c)(5t)=0+4.58t=4.58t$
-$t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$
-, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$
+***However, in reality this is not the case:*** 
+$t_1=F(-c)t+F(-0.4c)(5t)=0+4.58t=4.58t$; 
+$t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$; 
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
 ***For the last two cases, exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR/vacuum/relic radiation/Earth, the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference.***
 
