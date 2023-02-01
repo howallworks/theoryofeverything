@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.01.30).pdf](Files/Theory_of_everything.en(2023.01.30).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.01).pdf](Files/Theory_of_everything.en(2023.02.01).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -431,9 +431,31 @@ You can come up with many more great options for checking.
 
 ***Here is one of the best experiments.*** 
 
-***Let's take two short-lived particles obtained at the same time, let their initial velocity be 0 relative to ImFR/vacuum/relic radiation/Earth and note the beginning of the experiment. Let's speed them up to $0.5c$. We will accelerate the first to a speed close to the speed of light, and the second to 0. We will wait a considerable time $t$. Let's speed both back up to $0.5c$. Let's speed them both up to 0. Let's speed them both up to $-0.5c$. We will accelerate the first to a speed close to $-c$, and the second to 0. We will wait for a considerable time $t$. Let's speed them both up to $-0.5c$. Let's speed them both up to 0.*** 
+***Let's take two short-lived particles obtained at the same time, let their initial velocity be $v$ relative to ImFR/vacuum/relic radiation/Earth and note the beginning of the experiment.*** 
+
+***They fly together. Let $v=0$. Let's speed them up to $0.5c$. We will accelerate the first to a speed close to the speed of light, and the second to 0. We will wait a considerable time $t$. Let's speed both back up to $0.5c$. Let's speed them both up to 0. Let's speed them both up to $-0.5c$. We will accelerate the first to a speed close to $-c$, and the second to 0. We will wait for a considerable time $t$. Let's speed them both up to $-0.5c$. Let's speed them both up to 0. They fly together.*** 
 
 ***From the point of view of each of the particles (you can also check with ships), they moved and accelerated the same relative to each other, and this is the true version of the Twin paradox. From the point of view of each of the particles, the other was moving faster, and the accelerations were the same. And here the special theory of relativity is powerless without the introduction of outside observers, even taking into account accelerations. Moreover, if an outside observer moves at a speed close to the speed of light relative to ImFR/vacuum/relic radiation/Earth, he will make an erroneous assumption about which particle will decay first.***
+
+***Suppose that then you will argue that the second particle, although accelerated, also then slowed down and only then moved for a long time $t$. Because of this, its "clock" will show a longer time and it will decay first. Let's show that this is generally a misconception.***
+
+***They fly together. Let $v=0.5c$. Let's accelerate the first one to 0, and the second one to $c$. Let's wait a considerable time $t$. Let's accelerate both back up to $0.5c$. We will accelerate the first to $0.6c$, and the second to $0.4c$. Let's wait a considerable time $5t$. Let's accelerate them both up to $0.5c$. They fly together. For each of the two objects in this case, from the point of view of the theory of relativity, the velocities and accelerations were the same, which means the same amount of time should pass.***
+
+***However, in reality this is not the case:***
+$t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$
+$t_2=F(c)t+F(0.4c)(5t)=0+4.58t=4.58t$
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$
+
+***They fly together. Let $v=-0.5c$. Let's accelerate the first one to $-c$, and the second one to 0. Let's wait a considerable time $t$. Let's accelerate both back up to $-0.5c$. We will accelerate the first to $-0.4c$, and the second to $-0.6c$. Let's wait a considerable time $5t$. Let's accelerate them both up to $-0.5c$. They fly together. For each of the two objects in this case, from the point of view of the theory of relativity, the velocities and accelerations were the same, which means the same amount of time should pass.***
+
+***However, in reality this is not the case:***
+$t_1=F(-c)t+F(-0.4c)(5t)=0+4.58t=4.58t$
+$t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$
+
+***For the last two cases, exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR/vacuum/relic radiation/Earth, the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference.***
+
+With other initial velocities relative to the ImFR/vacuum/relic radiation/Earth and variations in accelerations, other variants of the results will be obtained, but the essence is the same - Einstein's theory of relativity cannot correctly solve the Twin Paradox.
 
 In fact, it's not about accelerations, but about the velocity relative to the vacuum or relative to the relic radiation. Those objects that will move at a speed closer to the speed of light relative to the ImFR or vacuum or relative to the relic radiation will "live" longer, but not because of the "time dilation", but because of the increase in the duration of all processes in the object. The details of the increase in the duration of all processes in the object at speeds close to the speed of light were discussed earlier, for example, in the section "Effect time dilation of a moving clock compared to a rest one in ImFR".
 
