@@ -26,14 +26,14 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
         
-extra:
-  alternate:
-    - name: English
-      link: /theoryofeverything/theoryofeverything/ 
-      lang: en
-    - name: Русский
-      link: /theoryofeverything/ru/theoryofeverything/
-      lang: ru
+#extra:
+#  alternate:
+#    - name: English
+#      link: /theoryofeverything/theoryofeverything/ 
+#      lang: en
+#    - name: Русский
+#      link: /theoryofeverything/ru/theoryofeverything/
+#      lang: ru
     
     
 
