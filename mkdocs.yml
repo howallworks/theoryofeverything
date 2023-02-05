@@ -69,7 +69,7 @@ plugins:
   - i18n:
       default_language: en
       ######
-      default_language_only: true
+      default_language_only: false
       ######
       languages:
         en:
