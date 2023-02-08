@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.01).pdf](Files/Theory_of_everything.en(2023.02.01).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.08).pdf](Files/Theory_of_everything.en(2023.02.08).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -13,11 +13,13 @@ They make another assumption that the substance surrounding [[SMBH.en|SMBH]] doe
 But let's still make the assumption that [[SMBH.en|SMBH]] does not have time to absorb the surrounding substance. Then the substance all arrives, and SMBH absorbs a small part of it. Substances near SMBH are increasing and it is layered on SMBH to form an outer shell. In this case, I would say that the shell should have such a density and gravity in the sum whit SMBH that light could not leave it. In fact, this would be a new SMBH layer.
 However, scientists suggest the formation of an [[Accretion disk.en|accretion disk]] with a strong magnetic field, which, because of the [[Blandford–Znajek process.en|Blandford–Znajek process]] or [[Penrose process.en|Penrose process]], extracts energy from [[SMBH.en|SMBH]] and uses it to form [[Relativistic jet.en|relativistic jets]]. I'm sorry, what?! According to [[GTR.en|GTR]] , nothing can leave SMBH. So let's break the GTR and say it's possible. But energy is inseparable from matter. In fact, energy is a characteristic of matter. It is impossible to transfer energy without transferring particles and, as I will show later, gravity/[[Quantum graviton.ru|quantum gravitons]] is no exclusion either.
 
------------------
+In fact, scientists assume the presence of [[Accretion disk.en|accretion disk]], which somehow forms a relativistic jet using the energy of [[SMBH.en|SMBH]]. And this is now the main explanation of what is happening with [[Blazar.en|blazar]].
 
-In fact, scientists claim that [[Accretion disk.en|accretion disk]] absorbs particles [[SMBH.en|SMBH]] and using them somehow forms a relativistic jet. And this is now the main explanation of what is happening with [[Blazar.en|blazar]]. And again imagine how the accretion disk breaks off a piece of SMBH, that is, in their opinion, the accretion disk is stronger than SMBH. There are no words...
+It is assumed that the relativistic jet consists of plasma and magnetic fields act on it.
 
------------------------------
+***Where do the particles of a relativistic jet come from? The only possible source candidates are SMBH and accretion disk. Suppose that the particles are taken not from SMBH, but from an accretion disk. What forces are acting on them? SMBH gravity, as well as gravity and assumed magnetic field of the accretion disk. Scientists assume the presence of a very strong magnetic field by the accretion disk. In this case, the accretion disk is actually similar in effect to a ring with a current with a well-known magnetic field structure. Accordingly, this means that there is no force capable of accelerate the particles of the accretion disk along the axis of flight of relativistic jets. In addition, up to speeds close to the speed of light. Moreover, with strong magnetic fields, the accretion disk should have a defocusing effect on the plasma of relativistic jets.***
+
+***As a result of the influence by SMBH and by accretion disk, according to GTR, it cannot lead to the formation of relativistic jets. Moreover, the total force/influence pulls the particles into the SMBH.***
 
 ***And now let's figure out how it really works.***
 
