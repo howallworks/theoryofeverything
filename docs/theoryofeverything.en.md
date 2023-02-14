@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.08).pdf](Files/Theory_of_everything.en(2023.02.08).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.14).pdf](Files/Theory_of_everything.en(2023.02.14).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -17,7 +17,13 @@ In fact, scientists assume the presence of [[Accretion disk.en|accretion disk]],
 
 It is assumed that the relativistic jet consists of plasma and magnetic fields act on it.
 
-***Where do the particles of a relativistic jet come from? The only possible source candidates are SMBH and accretion disk. Suppose that the particles are taken not from SMBH, but from an accretion disk. What forces are acting on them? SMBH gravity, as well as gravity and assumed magnetic field of the accretion disk. Scientists assume the presence of a very strong magnetic field by the accretion disk. In this case, the accretion disk is actually similar in effect to a ring with a current with a well-known magnetic field structure. Accordingly, this means that there is no force capable of accelerate the particles of the accretion disk along the axis of flight of relativistic jets. In addition, up to speeds close to the speed of light. Moreover, with strong magnetic fields, the accretion disk should have a defocusing effect on the plasma of relativistic jets.***
+***Where do the particles of a relativistic jet come from? The only possible source candidates are SMBH and accretion disk. Suppose that the particles are taken not from SMBH, but from an accretion disk. What forces are acting on them? SMBH gravity, as well as gravity and assumed magnetic field of the accretion disk. Scientists assume the presence of a very strong magnetic field by the accretion disk. In this case, the accretion disk is actually similar in effect to a ring with a current with a well-known magnetic field structure (figure 1).*** 
+
+![[pic7.jpg]] 
+
+**Figure 1 – The structure of the magnetic field of a ring with a current**
+
+***Accordingly, this means that there is no force capable of accelerate the particles of the accretion disk along the axis of flight of relativistic jets. In addition, up to speeds close to the speed of light. Moreover, with strong magnetic fields, the accretion disk should have a defocusing effect on the plasma of relativistic jets, what is not observed in reality.***
 
 ***As a result of the influence by SMBH and by accretion disk, according to GTR, it cannot lead to the formation of relativistic jets. Moreover, the total force/influence pulls the particles into the SMBH.***
 
@@ -164,11 +170,11 @@ Now let's consider an experiment in which a moving clock is delayed compared to 
 ![[pic1.png]]
 
 a) the clock is at rest; b) the clock is moving at speed v, the photon is moving in the direction of movement of the clock; c) the clock is moving at speed v, the photon is moving in the opposite direction of movement of the clock.
-**Figure 1 – Effect time dilation of moving clocks compared to those at rest in the ImFR**
+**Figure 2 – Effect time dilation of moving clocks compared to those at rest in the ImFR**
 
-The clock is resting (Figure 1a). In order for the photon to "pass" the path from the first plate to the second and back, it takes time $T=\frac{2L}{c}$ – this is the period of hours. By the number of periods, they determine how much time has passed, since they consider the period immutable
+The clock is resting (Figure 2a). In order for the photon to "pass" the path from the first plate to the second and back, it takes time $T=\frac{2L}{c}$ – this is the period of hours. By the number of periods, they determine how much time has passed, since they consider the period immutable
 
-The clock moves at a speed of v (Figure 1b, 1c). Then, when the photon moves in the direction of the movement of the clock, it will need to pass a distance greater than L, since the clock moves at a speed v relative to the ImFR.  The distance will be equal to $cT_1=vT_1+L$, from where $T_1=\frac{L}{c-v}$. When the photon moves in the opposite direction of the clock, it will need to travel a distance less than L. The distance will be $cT_2=L-vT_2$, from where $T_2=\frac{L}{c+v}$.
+The clock moves at a speed of v (Figure 2b, 2c). Then, when the photon moves in the direction of the movement of the clock, it will need to pass a distance greater than L, since the clock moves at a speed v relative to the ImFR.  The distance will be equal to $cT_1=vT_1+L$, from where $T_1=\frac{L}{c-v}$. When the photon moves in the opposite direction of the clock, it will need to travel a distance less than L. The distance will be $cT_2=L-vT_2$, from where $T_2=\frac{L}{c+v}$.
 
 We get that the time of the full period $T=T_1+T_2=\frac{L}{c-v}+\frac{L}{c+v}$ Then at zero clock speed: $T=\frac{2L}{c}$, at a clock speed of 0.5c: $T=\frac{2L}{c}+\frac{2L}{3c}=\frac{8L}{3c}$, and at the speed of the clock tending to the speed of light: T→∞.
 
@@ -300,7 +306,7 @@ The speed of an object strongly affects its dynamics, since the period of all pr
 
 ![[pic2.en.jpg]] 
 
-**Figure 2 – Interaction of two quantum photons with a quantum graviton when the object's speed (relative to ImFR) tends to the speed of light**
+**Figure 3 – Interaction of two quantum photons with a quantum graviton when the object's speed (relative to ImFR) tends to the speed of light**
 
 At zero object speed (relative to ImFR), the process period is minimal. Hence we get that when the speed of an object increases (relative to ImFR), then increase its lifetime (relative to ImFR). This is actually confirmed experimentally. When the speed of an unstable particle/object is closer to the speed of light (relative to ImFR), then greater the distance it passes before decaying.
 
@@ -308,11 +314,11 @@ At zero object speed (relative to ImFR), the process period is minimal. Hence we
 
 Date of initial publication in Russian: 31.10.2015
 
-Consider experiment No. 1 according to the general theory of relativity ([[GTR.en|GTR]]), presented in Figure 3, relative to object 1 (o1) - $FR_{o1}$ (Figure 3.1) and relative to object 2 (o2) - $FR_{o2}$ (Figure 3.2).
+Consider experiment No. 1 according to the general theory of relativity ([[GTR.en|GTR]]), presented in Figure 4, relative to object 1 (o1) - $FR_{o1}$ (Figure 4.1) and relative to object 2 (o2) - $FR_{o2}$ (Figure 4.2).
 
 ![[pic3.en.png]] 
 
-**Figure 3 – Experiment No. 1**
+**Figure 4 – Experiment No. 1**
 
 In $FR_{o1}$: 
 
@@ -353,11 +359,11 @@ Which of the clocks will show a shorter time (shorter time interval)?
 
 Scientists try to explain this paradox in various ways, but such conjectures do not relate to the theory of relativity and its mathematical representation, but use additional information that does not relate to the theory of relativity. The key point is the fact that the theory of relativity and its mathematical formalism are self-sufficient and must work without additions for any cases, including the twins paradox, which does not happen.
 
-Now let's consider another experiment presented in Figure 4, according to the general theory of relativity. It should be noted right away that the acceleration time of objects is much less than the time of movement of objects with constant speeds (this condition is necessary to exclude speculation about the effect of object accelerations on the results). In phase 1, the clocks of all observers are synchronized (they show the same time). $dt$ – the period of time spent by objects in this phase by the clock of the object with which the reference frame is associated.
+Now let's consider another experiment presented in Figure 5, according to the general theory of relativity. It should be noted right away that the acceleration time of objects is much less than the time of movement of objects with constant speeds (this condition is necessary to exclude speculation about the effect of object accelerations on the results). In phase 1, the clocks of all observers are synchronized (they show the same time). $dt$ – the period of time spent by objects in this phase by the clock of the object with which the reference frame is associated.
 
 ![[pic4.en.png]] 
 
-**Figure 4 – Experiment No. 2**
+**Figure 5 – Experiment No. 2**
 
 It is obvious that in whatever frame of reference the observers are (o1, o2, o3), when directly observing the final readings of the clocks (phase 7), they will all see the same result (this fact is confirmed by all experiments). That is, each observer sees the same readings on the same clock (one physical object, a clock, shows the same time for everyone).
 
@@ -778,21 +784,21 @@ Suppose that space is quantized and time is continuous. Then a specific particle
 
 Assume that space is continuous and time is quantized. In this case, objects or elementary particles will interact differently each time. For example, the force of interaction between a pair of electrons in an absolutely identical situation, with the exclusion of the initial time quantization mark, will be different, and the pulses will also be different in each individual situation from a number of identical situations. This will happen due to the fact that the distances between the electrons when quantizing the time serifs will be different for each individual case. As a result, the positions, total forces, impulses or energy transfer of interaction for any objects or particles will be different, and therefore, for example, the law of energy quantization will not be fulfilled and interacting elementary particles flying along intersecting trajectories will sometimes pass through each other, which, according to the available facts, contradicts reality.
 
-Now consider the case of quantization of space and time. In this case, a specific particle or its specific point is located at a certain quantum point in space (Figure 5), and in addition, time has discrete values at certain intervals.
+Now consider the case of quantization of space and time. In this case, a specific particle or its specific point is located at a certain quantum point in space (Figure 6), and in addition, time has discrete values at certain intervals.
 
 ![[pic5.png ]]
 
-**Figure 5 – An elementary particle or a specific point belonging to it in a quantized space**
+**Figure 6 – An elementary particle or a specific point belonging to it in a quantized space**
 
 If the speed of elementary particles vary in a certain interval, then in the same time step they will travel different distances and almost all will not fall into quantum dots. In this case, even if we assume that each elementary particle will be in the quantum point of space closest to it, then there will be a lot of rounding errors that will be considered later. If we assume that the speed of elementary particles is constant, then if the velocity vector of the particle coincides with the x axis, the system will function correctly, however, if there is an angle α, the particle will not reach a single quantum dot or, with a large value of dt, it will almost always not fall into a specific quantum dot. This again leads to the fact that each elementary particle will be in the quantum point of space closest to it and, accordingly, rounding errors.
 
-Let's look at rounding errors in more detail. If an elementary particle can only be in the quantum dots of space (according to the quantization of space), then at small angles α, the elementary particle will move purely along the x axis, since each subsequent quantum dot is no different from the previous one (Figure 6). We get that the vector of motion of any elementary particle in space is limited to a certain finite set of directions, which is not in reality. As a result, we will call this error – the error of a limited set of angles.
+Let's look at rounding errors in more detail. If an elementary particle can only be in the quantum dots of space (according to the quantization of space), then at small angles α, the elementary particle will move purely along the x axis, since each subsequent quantum dot is no different from the previous one (Figure 7). We get that the vector of motion of any elementary particle in space is limited to a certain finite set of directions, which is not in reality. As a result, we will call this error – the error of a limited set of angles.
 
 ![[pic6.png ]]
 
-**Figure 6 – Interaction of elementary particles in quantized space**
+**Figure 7 – Interaction of elementary particles in quantized space**
 
-It is particularly worth noting that in the case presented in Figure 6 (at small angles α and β), either a "frontal" collision of elementary particles will occur, or elementary particles will pass through each other, which does not correspond to real facts. Moreover, with the discreteness of space and time, all the results of the interaction of elementary particles at different but small angles α and β will be exactly the same, which does not correspond to the observed facts.
+It is particularly worth noting that in the case presented in Figure 7 (at small angles α and β), either a "frontal" collision of elementary particles will occur, or elementary particles will pass through each other, which does not correspond to real facts. Moreover, with the discreteness of space and time, all the results of the interaction of elementary particles at different but small angles α and β will be exactly the same, which does not correspond to the observed facts.
 
 When passing the direction of flight of an elementary particle through a quantum dot of space, but not hitting it in a time step, another rounding error occurs, namely, the error of violating the constancy of the speed of an elementary particle, since it is necessary to either accelerate or slow down the elementary particle to accurately hit the quantum dot. Accordingly, in this case, not only the laws of conservation of momentum and energy are violated, but in general the sequence of interaction between elementary particles can be changed. This leads to a violation of the laws of interaction and their various consequences depending on the directions of the vectors of elementary particles, which does not correspond to the available scientific facts.
 
