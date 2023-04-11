@@ -92,6 +92,8 @@ plugins:
           ElementaryParticles: Elementary particles
           ParticlesOfStandardModel: Particles of Standard Model
           TermsOrAbbreviations: Terms or abbreviations 
+          Papers: Papers
+          UnsolvedTwinParadox: Unsolved Twin Paradox
         ru:
           Theoryofeverything: Теория всего
           theoryofeverythingPracticalC: Теория всего. Практические последствия
@@ -116,6 +118,8 @@ plugins:
           Blandford–Znajek process: Процесс Блэнфорда — Знаека 
           Penrose process: процесс Пенроуза 
           Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
+          Papers: Научные статьи
+          UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
           
 extra_javascript:
   #- javascripts/mathjax.js
