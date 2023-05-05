@@ -17,7 +17,7 @@ In fact, scientists assume the presence of [[Accretion disk.en|accretion disk]],
 
 It is assumed that the relativistic jet consists of plasma and magnetic fields act on it.
 
-***Where do the particles of a relativistic jet come from? The only possible source candidates are SMBH and accretion disk. Suppose that the particles are taken not from SMBH, but from an accretion disk. What forces are acting on them? SMBH gravity, as well as gravity and assumed magnetic field of the accretion disk. Scientists assume the presence of a very strong magnetic field by the accretion disk. In this case, the accretion disk is actually similar in effect to a ring with a current with a well-known magnetic field structure (figure 1).*** 
+***Where do the particles of a relativistic jet come from? The only possible source candidates are SMBH and accretion disk. Suppose that the particles are taken not from SMBH, but from an accretion disk. What forces are acting on them? SMBH gravity, as well as gravity and assumed magnetic field of the accretion disk. Scientists assume the presence of a very strong magnetic field by the accretion disk. In this case, the accretion disk is actually similar in effect to a ring with a current with a well-known magnetic field structure (figure 1).***  
 
 ![[pic7.jpg]] 
 
