@@ -218,7 +218,7 @@ The interpretation described from my point of view testifies to the absolute nat
 
 #### The concept of time
 
-Unit of time. In a time equal to one second, a quantum of light (photon) that does not interact with anything passes a distance of 299,792,458 m relative to the ImFR.
+Unit of time. In a time equal to one second, a quantum of light (photon) that does not interact with anything passes a distance of 299,792,458 m.
 
 The periodicity of processes in arbitrary clocks (objects), including atomic or light ones, depends on the speed of movement of the clock relative to the ImFR. When the movement speed of the clock is higher, then more time is spent on the period of electromagnetic radiation (for example, the caesium-133 atom) or the full period of the light clock.
 
@@ -282,7 +282,7 @@ In fact, in this way it is possible to calculate the absolute time for arbitrary
 
 It is worth remembering that here $v$ is the speed of an arbitrary clock relative to ImFR.
 
-Apparently $v$ is the speed relative to  [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(based on the [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
+Apparently $v$ is the speed relative to zero shift of the [relic radiation](https://en.wikipedia.org/wiki/Cosmic_microwave_background)(zero [dipole anisotropy](https://en.wikipedia.org/wiki/Dipole_anisotropy)).
 
 So, what if the period of electromagnetic radiation is not constant and depends on the speed of the clock relative to the ImFR?
 
