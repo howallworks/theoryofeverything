@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.02.14).pdf](Files/Theory_of_everything.en(2023.02.14).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.05.25).pdf](Files/Theory_of_everything.en(2023.05.25).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -1086,7 +1086,7 @@ Each theory has a number of key distinctive features that form its basis and sep
 
 Let's describe the key distinctive features of the theory of everything:
 
-- the radiation period of the caesium-133 atom depends on the speed of motion relative to ImFR or IFR. In general, any processes for elementary particle systems depend on the speed of motion relative to the ImFR (from the lifetime of particles to atoms and macro objects). Here the peculiarity lies in the definition of the term "Time" different from the one that became the basis of [[GTR.en|GTR]]
+- the radiation period of the caesium-133 atom depends on the speed of motion relative to ImFR/IFR/zero shift of the relic radiation(zero dipole anisotropy). In general, any processes for elementary particle systems depend on the speed of motion relative to the ImFR (from the lifetime of particles to atoms and macro objects). Here the peculiarity lies in the definition of the term "Time" different from the one that became the basis of [[GTR.en|GTR]]
 - a quantum graviton is an elementary particle, not a deformation of space-time by mass. Here the peculiarity is in understanding the source of gravity
 - the particles of the Standard Model do not transform, but there is a redistribution of the elementary particles of which they consist. The peculiarity is in the understanding that elementary particles are stable and cannot transform/emit/absorb
 - the dynamics of elementary particles is predetermined (fate). The peculiarity is in the understanding that probabilities are the consequences of errors in experimental conditions. And if there are laws in the world, then their consequences are unambiguous
