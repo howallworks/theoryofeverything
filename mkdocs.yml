@@ -58,6 +58,32 @@ markdown_extensions:
   - toc:
       permalink: true
 
+nav:
+  - Theoryofeverything: theoryofeverything.md
+  - theoryofeverythingPracticalC: theoryofeverythingPracticalC.md
+  - Home: README.md
+  - Index: README.md
+  - README: README.md
+  - ElementaryParticles: Элементарные частицы
+  - ParticlesOfStandardModel: Частицы Стандартной модели
+  - TermsOrAbbreviations: Термины или сокращения 
+  - Quantum graviton: ElementaryParticles/Quantum graviton.md 
+  - Quantum photon: ElementaryParticles/Quantum photon.md 
+  - Photon: ParticlesOfStandardModel/Photon.md 
+  - Accretion disk: TermsOrAbbreviations/Accretion disk.md 
+  - Albert Einstein: TermsOrAbbreviations/Albert Einstein.md 
+  - Blazar: TermsOrAbbreviations/Blazar.md 
+  - Elementary particle: TermsOrAbbreviations/Elementary particle.md 
+  - GTR: TermsOrAbbreviations/GTR.md 
+  - Helicity: TermsOrAbbreviations/Helicity.md 
+  - Relativistic jet: TermsOrAbbreviations/Relativistic jet.md 
+  - SMBH: TermsOrAbbreviations/SMBH.md 
+  - Standard Model: TermsOrAbbreviations/Standard Model.md 
+  - Blandford–Znajek process: TermsOrAbbreviations/Blandford–Znajek process.md 
+  - Penrose process: TermsOrAbbreviations/Penrose process.md 
+  - Hafele–Keating experiment: TermsOrAbbreviations/Hafele–Keating experiment.md
+  - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
+
 plugins:
   - search:
       lang: en
