@@ -59,14 +59,12 @@ markdown_extensions:
       permalink: true
 
 nav:
+  - README: README.md
   - Theoryofeverything: theoryofeverything.md
   - theoryofeverythingPracticalC: theoryofeverythingPracticalC.md
-  - Home: README.md
-  - Index: README.md
-  - README: README.md
-  - ElementaryParticles: Элементарные частицы
-  - ParticlesOfStandardModel: Частицы Стандартной модели
-  - TermsOrAbbreviations: Термины или сокращения 
+  - ElementaryParticles: ElementaryParticles/
+  - ParticlesOfStandardModel: ParticlesOfStandardModel/
+  - TermsOrAbbreviations: TermsOrAbbreviations/ 
   - Quantum graviton: ElementaryParticles/Quantum graviton.md 
   - Quantum photon: ElementaryParticles/Quantum photon.md 
   - Photon: ParticlesOfStandardModel/Photon.md 
@@ -82,6 +80,7 @@ nav:
   - Blandford–Znajek process: TermsOrAbbreviations/Blandford–Znajek process.md 
   - Penrose process: TermsOrAbbreviations/Penrose process.md 
   - Hafele–Keating experiment: TermsOrAbbreviations/Hafele–Keating experiment.md
+  - Papers: Papers/
   - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
 
 plugins:
@@ -106,8 +105,6 @@ plugins:
           nav_translations:
               Theoryofeverything: Theory of everything
               theoryofeverythingPracticalC: Theory of everything. Practical Consequences
-              Home: Foreword
-              Index: Foreword
               README: Foreword
               ElementaryParticles: Elementary particles
               ParticlesOfStandardModel: Particles of Standard Model
@@ -123,8 +120,6 @@ plugins:
           nav_translations:
               Theoryofeverything: Теория всего
               theoryofeverythingPracticalC: Теория всего. Практические последствия
-              Home: Предисловие
-              Index: Предисловие
               README: Предисловие
               ElementaryParticles: Элементарные частицы
               ParticlesOfStandardModel: Частицы Стандартной модели
