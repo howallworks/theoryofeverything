@@ -4,8 +4,8 @@ site_name: Theory of everything
 theme:
     name: 'material'
     language: en
-    features:
-        - navigation.instant
+    ###features:
+    ###    - navigation.instant
     palette:
 
     # Dark mode
