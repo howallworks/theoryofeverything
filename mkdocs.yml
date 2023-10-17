@@ -62,26 +62,26 @@ nav:
   - README: README.md
   - Theoryofeverything: theoryofeverything.md
   - theoryofeverythingPracticalC: theoryofeverythingPracticalC.md
-  - ElementaryParticles: ElementaryParticles/
-  - ParticlesOfStandardModel: ParticlesOfStandardModel/
-  - TermsOrAbbreviations: TermsOrAbbreviations/ 
-  - Quantum graviton: ElementaryParticles/Quantum graviton.md 
-  - Quantum photon: ElementaryParticles/Quantum photon.md 
-  - Photon: ParticlesOfStandardModel/Photon.md 
-  - Accretion disk: TermsOrAbbreviations/Accretion disk.md 
-  - Albert Einstein: TermsOrAbbreviations/Albert Einstein.md 
-  - Blazar: TermsOrAbbreviations/Blazar.md 
-  - Elementary particle: TermsOrAbbreviations/Elementary particle.md 
-  - GTR: TermsOrAbbreviations/GTR.md 
-  - Helicity: TermsOrAbbreviations/Helicity.md 
-  - Relativistic jet: TermsOrAbbreviations/Relativistic jet.md 
-  - SMBH: TermsOrAbbreviations/SMBH.md 
-  - Standard Model: TermsOrAbbreviations/Standard Model.md 
-  - Blandford–Znajek process: TermsOrAbbreviations/Blandford–Znajek process.md 
-  - Penrose process: TermsOrAbbreviations/Penrose process.md 
-  - Hafele–Keating experiment: TermsOrAbbreviations/Hafele–Keating experiment.md
-  - Papers: Papers/
-  - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
+  - ElementaryParticles: 
+      - Quantum graviton: ElementaryParticles/Quantum graviton.md 
+      - Quantum photon: ElementaryParticles/Quantum photon.md
+  - ParticlesOfStandardModel: 
+      - Photon: ParticlesOfStandardModel/Photon.md 
+  - TermsOrAbbreviations:      
+      - Accretion disk: TermsOrAbbreviations/Accretion disk.md 
+      - Albert Einstein: TermsOrAbbreviations/Albert Einstein.md 
+      - Blazar: TermsOrAbbreviations/Blazar.md 
+      - Elementary particle: TermsOrAbbreviations/Elementary particle.md 
+      - GTR: TermsOrAbbreviations/GTR.md 
+      - Helicity: TermsOrAbbreviations/Helicity.md 
+      - Relativistic jet: TermsOrAbbreviations/Relativistic jet.md 
+      - SMBH: TermsOrAbbreviations/SMBH.md 
+      - Standard Model: TermsOrAbbreviations/Standard Model.md 
+      - Blandford–Znajek process: TermsOrAbbreviations/Blandford–Znajek process.md 
+      - Penrose process: TermsOrAbbreviations/Penrose process.md 
+      - Hafele–Keating experiment: TermsOrAbbreviations/Hafele–Keating experiment.md
+  - Papers:   
+      - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
 
 plugins:
   - search:
