@@ -72,11 +72,11 @@ plugins:
       default_language_only: false
       ######
       languages:
-        en:
+        - locale: en
           name: English
           build: true
           site_name: Theory of everything
-        ru:
+        - locale: ru
           name: Русский
           ######
           build: true
