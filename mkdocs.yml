@@ -72,13 +72,12 @@ plugins:
       default_language_only: false
       ######
       languages:
-        
         - locale: en
           name: English
           default: true
           build: true
           site_name: Theory of everything
-      nav_translations:
+          nav_translations:
           Theoryofeverything: Theory of everything
           theoryofeverythingPracticalC: Theory of everything. Practical Consequences
           Home: Foreword
@@ -89,14 +88,13 @@ plugins:
           TermsOrAbbreviations: Terms or abbreviations 
           Papers: Papers
           UnsolvedTwinParadox: Unsolved Twin Paradox
-        
         - locale: ru
           name: Русский
           ######
           build: true
           ######
           site_name: Теория всего
-      nav_translations:
+          nav_translations:
           Theoryofeverything: Теория всего
           theoryofeverythingPracticalC: Теория всего. Практические последствия
           Home: Предисловие
