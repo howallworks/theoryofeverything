@@ -38,11 +38,13 @@ From the point of view of each of the pair of particles/spaceships, it was at re
 
 In fact, for the last two cases (experiments 2a and 2b), exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR/vacuum/zero shift of the relic radiation (zero dipole anisotropy)/with an error relative to the Earth, the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference. The theory of relativity for these experiments cannot say which clock will show the shorter time and exactly how much the clock will show.
 
-### Conclusion
-
 With other initial velocities relative to the ImFR/vacuum/zero shift of the relic radiation (zero dipole anisotropy)/with an error relative to the Earth and acceleration variations, other variants of the results will be obtained, but the essence is the same - Einstein's theory of relativity cannot correctly solve the twin paradox.
 
+### Conclusion
+
 Einstein's theory of relativity does not use and does not give an understanding about of the absolute characteristics, namely, the initial velocities of the studied pair of particles/starships, in addition, it also does not give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That's the whole point of this theory. However, it is the velocity relative to the ImFR/vacuum/zero shift of the relic radiation (zero dipole anisotropy)/with an error relative to the Earth that is the key parameter determining how much time the clock will show.
+
+Einstein's theory of relativity cannot solve a whole range of variants of the twin paradox, and therefore the concept of reality using it is erroneous and should be replaced in the future by a theory devoid of such shortcomings.
 
 ### References
 
