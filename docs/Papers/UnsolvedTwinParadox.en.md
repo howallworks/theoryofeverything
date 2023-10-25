@@ -22,14 +22,14 @@ The beginning of the experiment 2a. They are flying together. Let $v=0.5c$. Let'
 In fact, the results will be obtained (the reference frame is associated with the ImFR/vacuum/zero shift of cosmic microwave background radiation (zero dipole anisotropy)/with an error relative to the Earth): 
 
 - object 1: $t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
-- object 2: $t_2=F(c)t+F(0.4c)(5t)=0+4.58t=4.58t$; 
+- object 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 , where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
 The beginning of the experiment 2b. They are flying together. Let $v=-0.5c$. Let's accelerate the first one to $-c$, and the second one to 0. Let's wait a significant amount of time $t$. Let's accelerate both back up to $-0.5c$. We will accelerate the first to $-0.4c$, and the second to $-0.6c$. Let's wait a significant amount of time for $5t$.  Let's accelerate them both up to $-0.5c$. They are flying together. The end of the experiment. 
 
 In fact, the results will be obtained (the reference frame is associated with the ImFR/vacuum/zero shift of cosmic microwave background radiation (zero dipole anisotropy)/with an error relative to the Earth): 
 
-- object 1: $t_1=F(-c)t+F(-0.4c)(5t)=0+4.58t=4.58t$; 
+- object 1: $t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 - object 2: $t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$; 
 , where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
