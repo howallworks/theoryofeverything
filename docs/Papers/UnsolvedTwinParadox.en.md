@@ -42,9 +42,8 @@ With other initial velocities relative to the ImFR(or point of vacuum or zero sh
 
 ### Conclusion
 
-Einstein's theory of relativity does not use and does not give an understanding about of the absolute characteristics, namely, the initial velocities of the studied pair of particles/starships. In addition, it also does not give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. However, it is the speed relative to the ImFR(or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or with an error relative to the Earth) that is the key parameter determining how much time the clock will show.
-
-Einstein's theory of relativity cannot solve a whole range of variants of the twin paradox. Consequently, the concept of reality based on it is erroneous and should be replaced in the future by a theory devoid of such shortcomings.
+Einstein's theory of relativity does not use and does not give an understanding about of the absolute characteristics, namely, the initial velocities of the studied pair of particles/starships. In addition, it also does not give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
+As a result, the twin paradox points to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe. This leads to the absoluteness of the nature of the universe. Apparently, it is an object with zero shift of cosmic microwave background radiation (zero dipole anisotropy) this is the ImFR. This is the basis for building an absolute concept of the universe. Based on this, it is the speed relative to the ImFR(or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or with an error relative to the Earth) that is the key parameter determining how much time the clock will show.
 
 ### References
 
