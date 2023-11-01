@@ -9,7 +9,7 @@ The twin paradox is the thought experiment which was invented after Einstein for
 
 ### Thought experiments of the twin paradox, unsolvable within the framework of Einstein's special theory of relativity
 
-For all thought experiments, let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to an immobile frame of reference (ImFR) (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error).
+For all thought experiments, let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to an immobile frame of reference (ImFR) (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error). The time spent on acceleration is considered negligible.
 
 Experiment 1 description:
 
