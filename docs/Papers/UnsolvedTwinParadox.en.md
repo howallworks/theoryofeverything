@@ -9,7 +9,7 @@ The twin paradox is the thought experiment which was invented after Einstein for
 
 ### Thought experiments of the twin paradox, unsolvable within the framework of Einstein's special theory of relativity
 
-Let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their initial velocity relative to an immobile frame of reference (ImFR) (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error).
+Let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their initial velocity relative to an immobile frame of reference (ImFR) (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error).
 
 Experiment 1 description:
 
@@ -27,7 +27,7 @@ Experiment 1 description:
 12. End of the experiment with both objects flying together.
 
 Analysis of Experiment 1 from the point of view of Einstein's theory of relativity.
-The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with starships). This is the essence of the true twin paradox. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. And here the special theory of relativity is powerless to solve the problem by its own methods (without the introduction of outside observers). Moreover, if an external observer moves at a speed close to the speed of light relative to the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), he will make an erroneous assumption about which particle will decay first.
+The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with starships). This is the essence of the true twin paradox. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. And here the special theory of relativity is powerless to solve the problem by its own methods (without the introduction of outside observers). Moreover, if an external observer moves at a speed close to the speed of light relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), he will make an erroneous assumption about which particle will decay first.
 
 Suppose that then you will argue that the second particle, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its "clock" will show a greater amount of time and it will decay first. Let's show that this is in general a misconception.
 
@@ -42,7 +42,7 @@ Experiment 2a description:
 7. Let's accelerate them both up to $0.5c$. 
 8. End of the experiment with both objects flying together.
 
-In fact, the following results will be obtained (the reference frame is associated with the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
+In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
 
 - object 1: $t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
 - object 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$; 
@@ -59,7 +59,7 @@ Experiment 2b description:
 7. Let's accelerate them both up to $-0.5c$. 
 8. End of the experiment with both objects flying together. 
 
-In fact, the following results will be obtained (the reference frame is associated with the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
+In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
 
 - object 1: $t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 - object 2: $t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$; 
@@ -68,14 +68,14 @@ In fact, the following results will be obtained (the reference frame is associat
 The analysis of both experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
 From the point of view of each particle/spacecraft, it was at rest. The other particle/spacecraft first rested, then moved, then rested. The accelerations of each particle/spacecraft in the pair were the same in magnitude. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another particle. We get an unsolvable twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another particle/spacecraft.
 
-In fact, for the last two cases (experiments 2a and 2b), exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference. The theory of relativity for these experiments can't answer which clock will show the shorter time and exactly how much the clock will show.
+In fact, for the last two cases (experiments 2a and 2b), exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference. The theory of relativity for these experiments can't answer which clock will show the shorter time and exactly how much the clock will show.
 
-With other initial velocities relative to the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) and acceleration variations, other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve the twin paradox.
+With other initial velocities relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) and acceleration variations, other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve the twin paradox.
 
 ### Conclusion
 
 Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/starships. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
-As a result, the twin paradox points to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe. This leads to an understanding of the absoluteness of the structure of the universe. Apparently, it is the object with zero shift in cosmic microwave background radiation (zero dipole anisotropy) that is ImFR. This is the basis for building an absolute concept of the universe. Based on this, it is the speed relative to the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) is the key parameter determining how much time the clock will show.
+As a result, the twin paradox points to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe. This leads to an understanding of the absoluteness of the structure of the universe. Apparently, it is the object with zero shift in cosmic microwave background radiation (zero dipole anisotropy) that is ImFR. This is the basis for building an absolute concept of the universe. Based on this, it is the speed relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) is the key parameter determining how much time the clock will show.
 
 ### References
 
