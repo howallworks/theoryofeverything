@@ -11,14 +11,36 @@ The twin paradox is the thought experiment which was invented after Einstein for
 
 Let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their initial velocity relative to an immobile frame of reference (ImFR) (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error).
 
-The beginning of the experiment 1. They are flying together. Let $v=0$. Let's accelerate them up to $0.5c$. Accelerate the first one to a velocity close to the speed of light, and the second one to 0. Wait for a significant amount of time $t$. Accelerate both of them back to $0.5c$. Accelerate both of them to 0. Accelerate both of them to $-0.5c$. Accelerate the first one to a velocity close to $-c$, and the second one to 0. Wait for a significant amount of time $t$. Accelerate both of them to $-0.5c$. Accelerate both of them to 0. They are flying together. The end of the experiment.
+Experiment 1 description:
+
+1. Begin with both objects flying together at velocity $v=0$. 
+2. Let's accelerate them up to $0.5c$. 
+3. Accelerate the first one to a velocity close to the speed of light, and the second one to 0. 
+4. Wait for a significant amount of time $t$. 
+5. Accelerate both of them back to $0.5c$. 
+6. Accelerate both of them to 0. 
+7. Accelerate both of them to $-0.5c$. 
+8. Accelerate the first one to a velocity close to $-c$, and the second one to 0. 
+9. Wait for a significant amount of time $t$. 
+10. Accelerate both of them to $-0.5c$. 
+11. Accelerate both of them to 0. 
+12. End of the experiment with both objects flying together.
 
 Analysis of Experiment 1 from the point of view of Einstein's theory of relativity.
 The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with starships). This is the essence of the true twin paradox. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. And here the special theory of relativity is powerless to solve the problem by its own methods (without the introduction of outside observers). Moreover, if an external observer moves at a speed close to the speed of light relative to the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), he will make an erroneous assumption about which particle will decay first.
 
 Suppose that then you will argue that the second particle, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its "clock" will show a greater amount of time and it will decay first. Let's show that this is in general a misconception.
 
-The beginning of the experiment 2a. They are flying together. Let $v=0.5c$. Let's accelerate the first one to 0, and the second one to $c$. Let's wait a significant amount of time $t$. Let's accelerate both back up to $0.5c$. Then accelerate the first to $0.6c$, and the second to $0.4c$. Let's wait a significant amount of time for $5t$. Let's accelerate them both up to $0.5c$. They are flying together. The end of the experiment.
+Experiment 2a description:
+
+1. Begin with both objects flying together at velocity $v=0.5c$. 
+2. Let's accelerate the first one to 0, and the second one to $c$. 
+3. Let's wait a significant amount of time $t$. 
+4. Let's accelerate both back up to $0.5c$. 
+5. Then accelerate the first to $0.6c$, and the second to $0.4c$. 
+6. Let's wait a significant amount of time for $5t$. 
+7. Let's accelerate them both up to $0.5c$. 
+8. End of the experiment with both objects flying together.
 
 In fact, the following results will be obtained (the reference frame is associated with the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
 
@@ -26,7 +48,16 @@ In fact, the following results will be obtained (the reference frame is associat
 - object 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 , where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
-The beginning of the experiment 2b. They are flying together. Let $v=-0.5c$. Let's accelerate the first one to $-c$, and the second one to 0. Let's wait a significant amount of time $t$. Let's accelerate both back up to $-0.5c$. Then accelerate the first to $-0.4c$, and the second to $-0.6c$. Let's wait a significant amount of time for $5t$.  Let's accelerate them both up to $-0.5c$. They are flying together. The end of the experiment. 
+Experiment 2b description:
+
+1. Begin with both objects flying together at velocity $v=-0.5c$. 
+2. Let's accelerate the first one to $-c$, and the second one to 0. 
+3. Let's wait a significant amount of time $t$. 
+4. Let's accelerate both back up to $-0.5c$. 
+5. Then accelerate the first to $-0.4c$, and the second to $-0.6c$. 
+6. Let's wait a significant amount of time for $5t$.  
+7. Let's accelerate them both up to $-0.5c$. 
+8. End of the experiment with both objects flying together. 
 
 In fact, the following results will be obtained (the reference frame is associated with the ImFR (or point of vacuum or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
 
