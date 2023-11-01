@@ -1,6 +1,7 @@
 
 ### Annotation
 
+At the moment, it is considered that the twin paradox contains only apparent contradictions within the framework of Einstein's special theory of relativity. Several methods have been created to explain what is happening in this thought experiment (although these methods use additional means unrelated to special relativity).
 The paper reveals that Einstein's theory of relativity does not allow solving all variants of the twin paradox using exclusively its own methods and mathematical framework. Moreover, it demonstrates that it is possible to conduct a series of experiments between which there will be no difference qualitatively and quantitatively from the point of view of the theory of relativity. However, different results will be obtained for these experiments in reality.
 As a result, the inability to solve the twin paradox within the framework of Einstein's theory of relativity confirms its fallacy and mistaken of concept of relativity of the universe as a whole. This indicates the absolute structure of the universe.
 ### Introduction
