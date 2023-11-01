@@ -2,7 +2,7 @@
 ### Annotation
 
 The paper reveals that Einstein's theory of relativity does not allow solving all variants of the twin paradox using exclusively its own methods and mathematical framework. Moreover, it demonstrates that it is possible to conduct a series of experiments between which there will be no difference qualitatively and quantitatively from the point of view of the theory of relativity. However, different results will be obtained for these experiments in reality.
-As a result, the inability to solve the twin paradox within the framework of Einstein's theory of relativity confirms its fallacy and mistaken of concept of relativity of the universe as a whole. This indicates the absoluteness of the structure of the universe.
+As a result, the inability to solve the twin paradox within the framework of Einstein's theory of relativity confirms its fallacy and mistaken of concept of relativity of the universe as a whole. This indicates the absolute structure of the universe.
 ### Introduction
 
 The twin paradox is the thought experiment which was invented after Einstein formulated the special theory of relativity (STR). In this experiment, it is not clear which object is experiencing time dilation [1,2,3,4,5,6,7]. Then scientists who consider STR to be correct pointed out that there is no paradox. They have come up with a several methods to explain what is happening in this thought experiment (although these methods use additional framework not related to special relativity) [8,9,10,11,12,13]. However, the proposed solutions actually consisted in fitting to a previously known answer and using additional information unrelated to the STR. If we consider solutions exclusively within the framework of Einstein's special theory of relativity, then they are valid only for a narrow range of cases and in general incorrect. Let's conduct a thought experiment to prove it.
@@ -35,11 +35,11 @@ Experiment 2a description:
 
 1. Begin with both objects flying together at velocity $v=0.5c$. 
 2. Let's accelerate the first one to 0, and the second one to $c$. 
-3. Let's wait a significant amount of time $t$. 
-4. Let's accelerate both back up to $0.5c$. 
+3. Wait a significant amount of time $t$. 
+4. Accelerate both back up to $0.5c$. 
 5. Then accelerate the first to $0.6c$, and the second to $0.4c$. 
-6. Let's wait a significant amount of time for $5t$. 
-7. Let's accelerate them both up to $0.5c$. 
+6. Wait a significant amount of time for $5t$. 
+7. Accelerate them both up to $0.5c$. 
 8. End of the experiment with both objects flying together.
 
 In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
@@ -52,11 +52,11 @@ Experiment 2b description:
 
 1. Begin with both objects flying together at velocity $v=-0.5c$. 
 2. Let's accelerate the first one to $-c$, and the second one to 0. 
-3. Let's wait a significant amount of time $t$. 
-4. Let's accelerate both back up to $-0.5c$. 
+3. Wait a significant amount of time $t$. 
+4. Accelerate both back up to $-0.5c$. 
 5. Then accelerate the first to $-0.4c$, and the second to $-0.6c$. 
-6. Let's wait a significant amount of time for $5t$.  
-7. Let's accelerate them both up to $-0.5c$. 
+6. Wait a significant amount of time for $5t$.  
+7. Accelerate them both up to $-0.5c$. 
 8. End of the experiment with both objects flying together. 
 
 In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): 
