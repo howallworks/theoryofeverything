@@ -75,6 +75,7 @@ With other initial velocities relative to the ImFR (or zero shift of cosmic micr
 ### Conclusion
 
 Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/starships. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
+
 As a result, the twin paradox points to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe. This leads to an understanding of the absoluteness of the structure of the universe. Apparently, it is the object with zero shift in cosmic microwave background radiation (zero dipole anisotropy) that is ImFR. This is the basis for building an absolute concept of the universe. Based on this, it is the speed relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) is the key parameter determining how much time the clock will show.
 
 ### References
