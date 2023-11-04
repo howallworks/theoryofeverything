@@ -82,6 +82,7 @@ nav:
       - Hafele–Keating experiment: TermsOrAbbreviations/Hafele–Keating experiment.md
   - Papers:   
       - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
+      - TermTime: Papers/TermTime.md
 
 plugins:
   - search:
@@ -111,6 +112,7 @@ plugins:
               TermsOrAbbreviations: Terms or abbreviations 
               Papers: Papers
               UnsolvedTwinParadox: Unsolved Twin Paradox
+              TermTime: Term Time
         - locale: ru
           name: Русский
           ######
@@ -141,6 +143,7 @@ plugins:
               Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
               Papers: Научные статьи
               UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
+              TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени
           
 extra_javascript:
   #- javascripts/mathjax.js
