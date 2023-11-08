@@ -73,47 +73,47 @@ To reduce the error of the correction factor, it is necessary to calculate it no
 
 As a result, according to the concept of absolute time, we get that the periodicity of all processes in all objects depends on the speed of their movement relative to the ImFR. For example, in clocks (including atomic ones). The higher the speed of the clock, the more time is spent on the period of electromagnetic radiation (for example, the caesium-133 atom). In the extreme case, with the speed of movement of the clock tending to the speed of light, the period of electromagnetic radiation tends to infinity.
 
-Время для всех элементарных частиц и их систем (всех объектов вселенной) течет одинаково, то есть оно абсолютно.
+Time flows the same for all elementary particles and their systems (all objects of the universe), that is, it is absolutely.
 
-Концепция абсолютного времени использует абсолютные скорости (измеряются относительно единственной НСО), что приводит к концепции абсолютной вселенной. Динамика всех элементарных частиц зависит исключительно от процессов взаимодействия с другими элементарными частицами.
+The concept of absolute time uses absolute speeds (measured relative to a single ImFR), which leads to the concept of an absolute universe. The dynamics of all elementary particles depends solely on the processes of interaction with other elementary particles.
 
-В целом для измерения времени можно полностью отказаться от концепции основанной на периодических процессах, однако сложно найти альтернативу, которую будет легко получать и использовать. 
+In general, it is possible to completely abandon the concept based on periodic processes for measuring time, but it is difficult to find an alternative that will be easy to obtain and apply.
 
-Итак, что мы получаем исходя из термина «Секунда» концепции абсолютного времени?
+So, what do we get based on the term "Second" of the concept of absolute time?
 
-1.  Время является абсолютной величиной, как и пространство и вся вселенная в целом (включая элементарные частицы, их характеристики и системы, которые они составляют). Также получаем все вытекающие отсюда следствия.
-2.  Не требуется производить преобразования при переходе между ИСО. ИСО вообще становятся не нужны. Каждый объект движется относительно единственной НСО.
-3.  Нет никаких «замедлений времени», «сокращений длинны», «относительности одновременности» и теории относительности в целом.
+1. Time is an absolute quantity, as is space and the entire universe as a whole (including elementary particles, their characteristics and the systems they make up). We also get all the consequences that follow from this.
+2. There is no need to make conversions when switching between IFR. IFR is no longer needed at all. Each object moves relative to a single ImFR.
+3. There are no "time dilations", "length contractions", "relativity of simultaneity" and the theory of relativity in general.
 
-### Термин «Секунда». Теория относительности или теория абсолютной вселенной
+### The term "Second". The theory of relativity or the theory of the absolute universe
 
-Как можно проверить нарушение стабильности периода электромагнитного излучения атома цезия-133 (термина «Секунда») от скорости движения относительно НСО (концепцию абсолютного времени и, как следствие, теорию абсолютной вселенной)?
+How can we check the violation of the stability of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
 
-Фактически термины «Секунда» для теории относительности и для теории абсолютной вселенной (концепция абсолютного времени) отличаются лишь тем что теория относительности позволяет использовать любую ИСО, а теория абсолютной вселенной - НСО (единственный специализированный вариант ИСО).
+In fact, the terms "Second" for the theory of relativity and for the theory of the absolute universe (the concept of absolute time) differ only in that the theory of relativity allows you to use any IFR, and the theory of the absolute universe - ImFR (the only specialized version of IFR).
 
-Это различие можно проверить.
+This difference can be verified.
 
-Согласно теории относительности движущиеся часы в любой ИСО должны идти медленнее покоящихся. При этом можно получить, что в определенных случаях часы будут идти быстрее, а именно, когда они будут двигаться медленнее в НСО. 
+According to the theory of relativity, a moving clock in any IFR should go slower than a rested one. At the same time, it can be obtained that in certain cases the clock will go faster, namely, when it will move slower in the ImFR.
 
-В этом случае мы связываем "покоящиеся" часы с ИСО быстро двигающейся относительно НСО, а "движущиеся" часы связываем с НСО. Если "движущиеся" часы связанные с НСО будут идти быстрее то это подтвердит концепцию абсолютного времени и вселенной в целом.
+In this case, we associate the "resting" clock with the IFR which moving rapidly relative to the ImFR, and we associate the "moving" clock with the ImFR. If the "moving" clock associated with the ImFR will go faster, then this will confirm the concept of absolute time and the universe as a whole.
 
-На мой взгляд, имеющиеся результаты всех экспериментов подтверждают концепцию абсолютного времени и вселенной в целом. Однако можно провести специализированные эксперименты (описанные выше) для проверки этого предположения.
+In my opinion, the available results of all experiments confirm the concept of absolute time and the universe as a whole. However, it is possible to conduct specialized experiments (described above) to test this assumption.
 
 ### Conclusion
 
-В результате мы стоим перед иллюзией выбора.
+As a result, we are faced with the illusion of choice.
 
-Или мы считаем, что период часов не зависит от скорости их движения относительно НСО и одинаков во всех ИСО и получаем теорию относительности.
+Or we consider that the period of the clock does not depend on the speed of their movement relative to the ImFR and is the same in all IFR and we get the theory of relativity.
 
-Или соглашаемся с тем, что часы, движущиеся с разной скоростью относительно НСО, показывают разное время из-за того, что период процессов в них различен, и получаем абсолютную структуру вселенной.
+Or we agree that clocks moving at different speeds relative to the ImFR show different times due to the fact that the period of processes in them is different, and we get the absolute structure of the universe.
 
-Однако наука это область оперирования фактами, их последующий анализ и интерпретация. Всё это делается с целью создать теории и соответствующий практический математический аппарат для наилучшего соответствия с реальностью. 
+However, science is the field of operating with facts, their subsequent analysis and interpretation. All this is done in order to create theories and appropriate practical mathematical framework for the best correspondence with reality.
 
-Я считаю, что факты свидетельствуют о зависимости периода всех процессов внутри объектов от скорости движения объекта/системы элементарных частиц относительно НСО. 
-Фактически чем ближе скорость объекта/системы элементарных частиц к скорости света, тем меньше относительная скорость между её элементарными частицами и, соответственно, больше времени тратится на все процессы. 
-В предельном случае, при стремлении скорости относительно НСО к скорости света, любые элементарные частицы объекта/системы никогда не будут взаимодействовать (например, квант гравитон движущийся от одного квант фотона к другому никогда не долетит, так как проекция скорости на нужное направление будет стремится к нулю).
+I think that the facts indicate the dependence of the period of all processes inside objects on the speed of the object/system of elementary particles relative to the ImFR.
+In fact, the closer the speed of an object/system of elementary particles is to the speed of light, the lower the relative speed between its elementary particles and, accordingly, more time is spent on all processes.
+In the extreme case, when the speed relative to the ImFR tends to the speed of light, any elementary particles of the object /system will never interact (for example, a quantum graviton moving from one quantum photon to another will never reach it, since the projection of the velocity in the desired direction will tend to zero).
 
-Данная работа это маленький шаг по созданию теории для наилучшего соответствия с реальностью, которая является альтернативой для теории относительности Эйнштейна.
+This paper is a small step towards creating the theory that will be best correspondence with reality, and which is an alternative to Einstein's theory of relativity.
 
 
 ### References
