@@ -112,7 +112,7 @@ plugins:
               TermsOrAbbreviations: Terms or abbreviations 
               Papers: Papers
               UnsolvedTwinParadox: Unsolved Twin Paradox
-              TermTime: Term Time
+              TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
         - locale: ru
           name: Русский
           ######
@@ -143,7 +143,7 @@ plugins:
               Hafele–Keating experiment: Эксперимент Хафеле — Китинга 
               Papers: Научные статьи
               UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
-              TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени
+              TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
           
 extra_javascript:
   #- javascripts/mathjax.js
