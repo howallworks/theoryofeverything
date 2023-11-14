@@ -2,11 +2,14 @@
 ### Annotation
 
 The paper presents several new advanced thought experiments of the twin paradox and the results of their analysis.
+
 It is shown that it is possible to conduct a couple of thought experiments in which all the accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized third-party observer, which can be confirmed experimentally. In addition, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality.
+
 As a result, it is demonstrated that Einstein's theory of relativity does not allow solving all variants of the twin paradox using exclusively its own methods and mathematical framework.
 ### Introduction
 
 The twin paradox is the thought experiment which was invented after Einstein formulated the special theory of relativity (STR). In this experiment, it is not clear which object is experiencing time dilation [1,2,3,4,5,6,7]. Then several scientists pointed out that there is no paradox. They have come up with a number of methods to explain what is happening in this thought experiment [8,9,10,11,12,13]. However, these methods use additional means that are not related to the special theory of relativity.
+
 If we consider solutions exclusively within the framework of Einstein's special theory of relativity, then they are valid only for a narrow range of cases and are in general incorrect. Let's conduct a thought experiments to prove it.
 
 ### New advanced versions of the twin paradox thought experiments
@@ -73,7 +76,9 @@ Results will be obtained in the ImFR:
 , where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
 
 The qualitative analysis of both thought experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
+
 The accelerations of each particle/spacecraft were the same in magnitude, and the time spent on this is negligible.
+
 From the point of view of each particle/spacecraft, it was at rest. The other particle/spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another particle. We get an unsolvable twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another particle/spacecraft in reality.
 
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with objects, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. However, the theory of relativity for these thought experiments can't answer which clock will show the shorter time and exactly how much the clock will show in reality.
