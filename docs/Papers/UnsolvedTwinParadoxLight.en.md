@@ -19,7 +19,7 @@ For further description, it is necessary to introduce a new term.
 
 An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) associated with an object characterized by zero shift of cosmic microwave background radiation (zero dipole anisotropy). The ImFR can be associated with different objects, but their relative speed is zero.
 
-For all thought experiments, let's take two short-lived particles obtained at the same time (spaceships with synchronized clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on acceleration is considered negligible.
+For all thought experiments, let's take two short-lived particles obtained at the same time (spacecrafts with synchronized clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible.
 
 Thought experiment 1 description:
 
