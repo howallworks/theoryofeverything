@@ -83,6 +83,7 @@ nav:
   - Papers:   
       - UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
       - TermTime: Papers/TermTime.md
+      - UnsolvedTwinParadoxLight: Papers/UnsolvedTwinParadoxLight.md
 
 plugins:
   - search:
@@ -113,6 +114,7 @@ plugins:
               Papers: Papers
               UnsolvedTwinParadox: Unsolved Twin Paradox
               TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
+              UnsolvedTwinParadoxLight: New advanced thought experiments similar to the twin paradox
         - locale: ru
           name: Русский
           ######
@@ -144,6 +146,7 @@ plugins:
               Papers: Научные статьи
               UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
               TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
+              UnsolvedTwinParadoxLight: Новые продвинутые мысленные эксперименты схожие с парадоксом близнецов
           
 extra_javascript:
   #- javascripts/mathjax.js
