@@ -83,7 +83,7 @@ From the point of view of each particle/spacecraft, it was at rest. The other pa
 
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with objects, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. However, the theory of relativity for these thought experiments can't answer which clock will show the shorter time and exactly how much the clock will show in reality.
 
-With other initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox.
+With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox.
 
 ### Conclusion
 
