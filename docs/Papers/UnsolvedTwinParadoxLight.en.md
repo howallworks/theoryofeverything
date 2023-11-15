@@ -37,7 +37,7 @@ Thought experiment 1 description:
 12. End of the thought experiment with both objects flying together.
 
 Let's analyze thought experiment 1 from the point of view of Einstein's theory of relativity.
-The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with starships). This is the essence of the true twin paradox version. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. As a result, it is unclear how much time will pass for each of the particles in reality.
+The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with spacecrafts). This is the essence of the true twin paradox version. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. As a result, it is unclear how much time will pass for each of the particles in reality.
 
 Suppose that then you will argue that the second particle, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its "clock" will show a greater amount of time and it will decay first. Let's show that this is in general a misconception.
 
@@ -87,7 +87,7 @@ With different initial velocities relative to the ImFR and acceleration variatio
 
 ### Conclusion
 
-Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/starships. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
+Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/spacecrafts. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
 
 As a result, new advanced versions of thought experiments similar to the twin paradox point to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe.
 
