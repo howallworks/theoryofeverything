@@ -3,7 +3,9 @@
 
 The paper presents several new advanced thought experiments similar to the twin paradox and the results of their analysis.
 
-It is shown that it is possible to conduct a couple of thought experiments in which all the accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized third-party observer, which can be confirmed experimentally. In addition, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality.
+It is shown that it is possible to conduct a couple of thought experiments in which all the accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized outside observer, which can be confirmed experimentally. Moreover, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
+
+In addition, a description of a thought experiment is given in which objects move at a speed tending to infinity, which contradicts the theory of relativity.
 
 As a result, it is demonstrated that Einstein's theory of relativity does not allow solving all variants of thought experiments similar to the twin paradox using exclusively its own methods and mathematical framework.
 ### Introduction
@@ -14,12 +16,11 @@ If we consider solutions exclusively within the framework of Einstein's special 
 
 ### New advanced versions of thought experiments similar to the twin paradox
 
-
 For further description, it is necessary to introduce a new term.
 
 An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) associated with an object characterized by zero shift of cosmic microwave background radiation (zero dipole anisotropy). The ImFR can be associated with different objects, but their relative speed is zero.
 
-For all thought experiments, let's take two short-lived particles obtained at the same time (spacecrafts with synchronized clocks will also work). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible.
+For all thought experiments, let's take two spacecraft with synchronized clocks (or two short-lived particles obtained at the same time). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible.
 
 Thought experiment 1 description:
 
@@ -37,9 +38,9 @@ Thought experiment 1 description:
 12. End of the thought experiment with both objects flying together.
 
 Let's analyze thought experiment 1 from the point of view of Einstein's theory of relativity.
-The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with spacecrafts). This is the essence of the true twin paradox version. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. As a result, it is unclear how much time will pass for each of the particles in reality.
+The measured speeds are the same relative to each other from the point of view of each of the spacecrafts. This is the essence of the true twin paradox version. Another spacecraft was moving faster from the point of view of each of the spacecraft. As a result, it is unclear how much time will pass for each of the spacecrafts in reality.
 
-Suppose that then you will argue that the second particle, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its "clock" will show a greater amount of time and it will decay first. Let's show that this is in general a misconception.
+Suppose that then you will argue that the second spacecraft, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its clock will show a greater amount of time. Let's show that this is in general a misconception.
 
 Thought experiment 2a description:
 
@@ -77,17 +78,52 @@ Results will be obtained in the ImFR:
 
 The qualitative analysis of both thought experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
 
-The accelerations of each particle/spacecraft were the same in magnitude, and the time spent on this is negligible.
+From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another spacecraft in reality.
 
-From the point of view of each particle/spacecraft, it was at rest. The other particle/spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another particle. We get an unsolvable twin paradox version. As a result, it is unknown qualitatively and quantitatively what time will pass for another particle/spacecraft in reality.
-
-In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with objects, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. However, the theory of relativity for these thought experiments can't answer which clock will show the shorter time and exactly how much the clock will show in reality.
+In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. However, the theory of relativity for these thought experiments can't answer which clock will show the shorter time and exactly how much the clock will show in reality.
 
 With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox.
 
+Now let's look at another interesting version of the thought experiment.
+
+Thought experiment 3 description:
+
+1. Begin with both objects flying together at velocity $v=0$. The first one always rests. 
+2. Let's accelerate the second one to $c$. 
+3. Wait a significant amount of time $0.5t$. 
+4. Accelerate the second one to $-c$. 
+5. Wait a significant amount of time $0.5t$. 
+6. Accelerate the second one to $0$. 
+7. End of the thought experiment with both objects flying together. 
+
+Results will be obtained in the ImFR:  
+
+- object 1: $t_1=F(0)(0.5t)+F(0)(0.5t)=0.5t+0.5t=t$; 
+- object 2: $t_2=F(c)(0.5t)+F(-c)(0.5t)\approx0$; 
+, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$. 
+
+Let $t$ be equal to a billion years. A typical pattern is observed in the ImFR and should coincide with the results of real experiments.
+
+Now let's see what will be observed from the point of view of each of the spacecraft according to the theory of relativity.
+
+The results of the first spacecraft will be identical to the results in the ImFR, since the reference frame is the same.
+
+For the second spacecraft, the change in its own time recorded on the clock will be almost zero (it should coincide with the results of real experiments). However, colossal changes will be recorded in the structure of the universe during this time. Objects whose speed tends to the speed of light in the ImFR will travel a distance of almost a billion light years. This means that their speed relative to the second spacecraft should have been tending to infinity (a billion light-years divided by time tending to zero). However, this is impossible according to the theory of relativity, since the limiting speed must be equal to the speed of light.
+
+We get a contradiction: 
+
+- or the speed of objects can tend to infinity with almost zero time change on the clock of the second spacecraft. This indicates the fallacy of the theory of relativity, but corresponds to reality.
+- or on the clock of the second spacecraft, the same amount of time must pass as for the first spacecraft (a billion years) in order to preserve the limit speed of light for the objects of the universe. This fits into the concept of relativity theory, but contradicts reality.
+
+In fact, we get that the universe has changed by a billion years, but the time for the second spacecraft has almost unchanged.
+
+This is confirmed by experimental data, for example, for short-lived particles accelerated to speeds close to the speed of light. In fact, for these cases, the universe has time to change for a time by several orders of magnitude greater than the particle's own lifetime (such particles decay by several orders of magnitude faster when rested in ImFR). Of course, the Lorentz factor is not as high as in the thought experiment, but this is a purely technical problem.
+
+Again, we see that the theory of relativity cannot explain what happened using its own means.
+
 ### Conclusion
 
-Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/spacecrafts. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
+Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of objects. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
 
 As a result, new advanced versions of thought experiments similar to the twin paradox point to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe.
 
