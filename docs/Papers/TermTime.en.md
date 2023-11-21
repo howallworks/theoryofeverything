@@ -69,7 +69,7 @@ In total, the difference accumulates in about 24 seconds per year.
 
 Such a small difference well explains why the theory of relativity works well when the reference point is the Earth. Although with some errors, but the Earth is very close to the ImFR. And when calculations concern relativistic speeds, a small error is obtained.
 
-To reduce the error of the correction factor, it is necessary to calculate it not for the Sun, but for the Earth.
+To reduce the error of the correction factor, it is necessary to calculate it not for the Sun, but for the Earth and take into account the effects of gravity.
 
 As a result, according to the concept of absolute time, we get that the periodicity of all processes in all objects depends on the speed of their movement relative to the ImFR. For example, in clocks (including atomic ones). The higher the speed of the clock, the more time is spent on the period of electromagnetic radiation (for example, the caesium-133 atom). In the extreme case, with the speed of movement of the clock tending to the speed of light, the period of electromagnetic radiation tends to infinity.
 
