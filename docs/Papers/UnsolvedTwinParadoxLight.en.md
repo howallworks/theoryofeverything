@@ -3,7 +3,7 @@
 
 The paper presents several new advanced thought experiments similar to the twin paradox and the results of their analysis.
 
-It is shown that it is possible to conduct a couple of thought experiments in which all the accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized outside observer, which can be confirmed experimentally. Moreover, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
+It is shown that it is possible to conduct a couple of thought experiments in which all relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized outside observer, which can be confirmed experimentally. Moreover, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
 
 In addition, a description of a thought experiment is given in which objects move at a speed tending to infinity, which contradicts the theory of relativity.
 
@@ -117,7 +117,7 @@ We get a contradiction:
 
 In fact, we get that the universe has changed by a billion years, but the time for the second spacecraft has almost unchanged.
 
-This is confirmed by experimental data, for example, for short-lived particles accelerated to speeds close to the speed of light. In fact, for these cases, the universe has time to change for a time by several orders of magnitude greater than the particle's own lifetime (such particles decay by several orders of magnitude faster when rested in ImFR). Of course, the Lorentz factor is not as high as in the thought experiment, but this is a purely technical problem.
+This is confirmed by experimental data, for example, for short-lived particles accelerated to speeds close to the speed of light. In fact, for these cases the universe has changed for a time that is orders of magnitude greater than the particle’s own lifetime (such particles decay by several orders of magnitude faster when rested in ImFR). Of course, the Lorentz factor is not as high as in the thought experiment, but this is a purely technical problem.
 
 Again, we see that the theory of relativity cannot explain what happened using its own means.
 
