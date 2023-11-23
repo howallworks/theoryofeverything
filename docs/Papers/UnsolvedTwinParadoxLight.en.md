@@ -3,7 +3,7 @@
 
 The paper presents several new advanced thought experiments similar to the twin paradox and the results of their analysis.
 
-It is shown that it is possible to conduct a couple of thought experiments in which all relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized outside observer, which can be confirmed experimentally. Moreover, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
+It is shown that it is possible to conduct a couple of thought experiments in which all accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However, opposite results will be obtained from a specialized outside observer, which can be confirmed experimentally. Moreover, according to the theory of relativity, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
 
 In addition, a description of a thought experiment is given in which objects move at a speed tending to infinity, which contradicts the theory of relativity.
 
@@ -83,6 +83,8 @@ From the point of view of each spacecraft, it was at rest. The another spacecraf
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. However, the theory of relativity for these thought experiments can't answer which clock will show the shorter time and exactly how much the clock will show in reality.
 
 With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox.
+
+Suppose that you try to argue that the time spent on acceleration is small, but still not equal to zero. Then, based on the magnitude of the accelerations, you can get some hints. Acceleration is the ratio of a change in velocity to a change in time. The velocity changes are fixed and we can get them from the point of view of the theory of relativity for each spacecraft. We can choose the time changes in such a way that the acceleration values will be the same. Accordingly, we will not receive any additional useful information within the framework of relativity theory to try to find a solution. Moreover, it is possible to select the acceleration values in order to mislead the solution within the framework of relativity theory.
 
 Now let's look at another interesting version of the thought experiment.
 
