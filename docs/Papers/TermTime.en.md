@@ -87,7 +87,7 @@ So, what do we get based on the term "Second" of the concept of absolute time?
 
 ### The term "Second". The theory of relativity or the theory of the absolute universe
 
-How can we check the violation of the stability of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
+How can we check the dependence of the violation of the stability of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
 
 In fact, the terms "Second" for the theory of relativity and for the theory of the absolute universe (the concept of absolute time) differ only in that the theory of relativity allows you to use any IFR, and the theory of the absolute universe - ImFR (the only specialized version of IFR).
 
