@@ -31,14 +31,16 @@ Consider the fact:
 
 Object/clock No. 1, moving at a higher speed relative to the ImFR, counts fewer periods than object/clock No. 2, moving at a lower speed.
 
+And now let's look at the various interpretations obtained based on this fact.
+
 Conclusion according to the theory of relativity:
 
-1. The higher the speed of the object / clock, the stronger the time dilation (time deformation).
+1. The higher speed of the object/clock, the stronger time dilation (time deformation).
 2. The time spent on the period of electromagnetic radiation (the time of the full period) does not change.
 
 Conclusion according to the concept of absolute time:
 
-1. The higher the speed of the object / clock, the longer the period of electromagnetic radiation (the time of each period increases). The flow of time is invariable (constant).
+1. The higher speed of the object/clock, the longer period of electromagnetic radiation (the time of each period increases). The flow of time is invariable (constant).
 2. The time spent on the period of electromagnetic radiation (the time of the full period) is changing.
 
 Both interpretations are based on the same fact, but completely opposite.
@@ -62,12 +64,12 @@ But it is easier to calculate the speed relative to the ImFR and use the formula
 Let's estimate the correction factor: 
 $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, where $v\approx\text{370 km/s}$ (the speed of the Sun relative to the zero shift of cosmic microwave background radiation (zero dipole anisotropy)). Then $F\approx\text{0.99999923838}$
 
-That is, for example, the approximate difference between the year on Earth and in the ImFR with the same external conditions:
-$\text{1 year on Earth in seconds}=365 ⋅ 24 ⋅ 60 ⋅ 60=31536000$ and $\text{1 year in ImFR in seconds}\approx365 ⋅ 24 ⋅ 60 ⋅ 60/0.99999923838\approx31536000/0.99999923838 \approx 31536024.0185$
+That is, for example, the approximate difference between the year on Sun and in the ImFR with the same external conditions:
+$\text{1 year on Sun in seconds}=365 ⋅ 24 ⋅ 60 ⋅ 60=31536000$ and $\text{1 year in ImFR in seconds}\approx365 ⋅ 24 ⋅ 60 ⋅ 60/0.99999923838\approx31536000/0.99999923838 \approx 31536024.0185$
 
 In total, the difference accumulates in about 24 seconds per year.
 
-Such a small difference well explains why the theory of relativity works well when the reference point is the Earth. Although with some errors, but the Earth is very close to the ImFR. And when calculations concern relativistic speeds, a small error is obtained.
+Such a small difference well explains why the theory of relativity works well when the reference frame is the Earth. Although with some errors, but the Earth is very close to the ImFR. And when calculations concern relativistic speeds, a small error is obtained.
 
 To reduce the error of the correction factor, it is necessary to calculate it not for the Sun, but for the Earth and take into account the effects of gravity.
 
@@ -87,7 +89,7 @@ So, what do we get based on the term "Second" of the concept of absolute time?
 
 ### The term "Second". The theory of relativity or the theory of the absolute universe
 
-How can we check the dependence of the violation of the stability of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
+How can we check the dependence of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement precisely relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
 
 In fact, the terms "Second" for the theory of relativity and for the theory of the absolute universe (the concept of absolute time) differ only in that the theory of relativity allows you to use any IFR, and the theory of the absolute universe - ImFR (the only specialized version of IFR).
 
