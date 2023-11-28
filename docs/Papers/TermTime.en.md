@@ -91,7 +91,7 @@ So, what do we get based on the term "Second" of the concept of absolute time?
 
 How can we check the dependence of the period of electromagnetic radiation of the caesium-133 atom (the term "Second") from the speed of movement precisely relative to the ImFR (the concept of absolute time and, as a consequence, the theory of the absolute universe)?
 
-In fact, the terms "Second" for the theory of relativity and for the theory of the absolute universe (the concept of absolute time) differ only in that the theory of relativity allows you to use any IFR, and the theory of the absolute universe - ImFR (the only specialized version of IFR).
+In fact, the terms "Second" for the theory of relativity and for the theory of the absolute universe (a consequence of the concept of absolute time) differ only in that the theory of relativity allows you to use any IFR, and the theory of the absolute universe - ImFR (the only specialized version of IFR).
 
 This difference can be verified.
 
