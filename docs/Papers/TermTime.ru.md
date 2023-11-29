@@ -10,9 +10,9 @@
 
 ### Введение
 
-Теория относительности дает широкий спектр ответов хорошо согласующихся с реальностью. Однако эта теория не может объяснить всего во вселенной, что указывает как минимум на ее ограниченность определенными рамками, а как максимум она в корне ошибочна.
+Теория относительности дает широкий спектр ответов хорошо согласующихся с реальностью [1-28]. Однако эта теория не может объяснить всего во вселенной [29-35], что указывает как минимум на ее ограниченность определенными рамками, а как максимум она в корне ошибочна.
 
-Рассмотрим ключевую причину по которой от теории относительности практически невозможно отказаться. Более того, именно эта причина порождает теорию относительности Эйнштейна. Причина этого - текущее определение термина секунда. 
+Рассмотрим ключевую причину по которой от теории относительности практически невозможно отказаться. Более того, именно эта причина порождает теорию относительности Эйнштейна. Причина этого - текущее определение термина секунда [36,37]. 
 ### Определение термина секунда
 
 С 1967 года международная система единиц СИ определяет секунду как 9 192 631 770 периодов электромагнитного излучения, возникающего при переходе между двумя сверхтонкими уровнями основного состояния атома цезия-133.
@@ -118,4 +118,40 @@ $\text{1 год на Солнце в секундах}=365 ⋅ 24 ⋅ 60 ⋅ 60=
 
 ### Список литературы
 
-.
+1.  Einstein, A.: Relativity: The Special and General Theory. Brian Westland (1916)
+2.  Einstein, A.: Time, space, and gravitation. The Times (28 November) (1919) https://doi.org/10.1126/science.51.1305.8
+3. Hey, T., Hey, A.J.G., Walters, P.: Einstein’s Mirror. Cambridge University Press, Cambridge (1997)
+4. Taylor, E.F., Archibald, W.J.: Spacetime Physics: Introduction to Special Relativity, pp. 84–88. W.H. Freeman, New York (1992)
+5. Ashby, N.: Relativity in the global positioning system. Living Reviews in Relativity 6(1) (2003) https://doi.org/10.12942/lrr-2003-1
+6. Francis, S., Ramsey, B., Stein, S., Leitner, J., Moreau, M., Burns, R., Nelson, R., Bartholomew, T., Gifford, A.: Timekeeping and Time Dissemination in a Distributed Space-based Clock Ensemble. 34th Annual Precise Time and Time Interval Mtg., Reston, VA (2003)
+7. Castelvecchi, D., Witze, A.: Einstein’s gravitational waves found at last. Nature (2016) https://doi.org/10.1038/nature.2016.19361  
+8. Wald, R.M.: General Relativity. University of Chicago Press, Chicago (1984).  https://doi.org/10.7208/chicago/9780226870373.001.0001  
+9. Ashtekar, A., Magnon-Ashtekar, A.: Energy-momentum in general relativity. Phys. Rev. Lett. 43, 181–184 (1979) https://doi.org/10.1103/PhysRevLett.43.  
+10.  Bardeen, J.M., Carter, B., Hawking, S.W.: The four laws of black hole mechanics. Communications in Mathematical Physic 31, 161–170 (1973) https://doi.org/10.1007/BF01645742  
+11. Bardeen, J.M., Press, W.H., Teukolsky, S.A.: Rotating black holes: Locally nonrotating frames, energy extraction, and scalar synchrotron radiation. Astrophysical Journal 178, 347–370 (1972) https://doi.org/10.1086/151796  
+12. Abbott, B.P., et al. (LIGO Scientific Collaboration and Virgo Collaboration): Observation of gravitational waves from a binary black hole merger. Phys. Rev. Lett. 116, 061102 (2016) https://doi.org/10.1103/PhysRevLett.116.061102  
+13. Kennefick, D.: Astronomers test general relativity: Light-bending and the solar redshift. in Albert Einstein, Chief Engineer of the Universe: One Hundred Authors for Einstein ed., Juergen Renn, 178–181 (2005)  
+14. Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. W. W. Norton and  Company, - (1994)  
+15. Shapiro, S.S., Davis, J.L., Lebach, D.E., Gregory, J.S.: Measurement of the solar gravitational deflection of radio waves using geodetic very-long-baseline interferometry data, 1979–1999. Phys. Rev. Lett. 92, 121101 (2004) https://doi.org/10.1103/PhysRevLett.92.121101  
+16. Rindler, W.: Relativity. Special, General and Cosmological. Oxford University Press (2001)  
+17. Misner, C.W., Thorne, K.S., Wheeler, J.A.: Gravitation. W. H. Freeman, 41 Madison Avenue, New York (1973)  
+18. Schutz, B.F.: Gravity from the Ground Up. Cambridge University Press, Cambridge (2003)  
+19. Narayan, R., Bartelmann, M.: Lectures on Gravitational Lensing (1997). https://doi.org/10.48550/arXiv.astro-ph/9606001  
+20. Celotti, A., Miller, J.C., Sciama, D.W.: Astrophysical evidence for the existence of black holes. Classical and Quantum Gravity 16(12A), 3 (1999) https://doi.org/10.1088/0264-9381/16/12A/301
+21. Sch¨odel, R., Ott, T., Genzel, R., Eckart, Mouawad, N., Alexander, T.: Stellar dynamics in the central arcsecond of our galaxy. The Astrophysical Journal 596(2), 1015 (2003) https://doi.org/10.1086/378122
+22. Remillard, R.A., Lin, D., Cooper, R.L., Narayan, R.: The rates of type i x-ray bursts from transients observed with rxte: Evidence for black hole event horizons. The Astrophysical Journal 646(1), 407 (2006) https://doi.org/10.1086/504862
+23. Narayan, R.: Black holes in astrophysics. New Journal of Physics 7(1), 199 (2005) https://doi.org/10.1088/1367-2630/7/1/199
+24. Falcke, H., Melia, F., Agol, E.: Viewing the shadow of the black hole at the galactic center. The Astrophysical Journal 528(1), 13 (1999) https://doi.org/10.1086/312423
+25. Springel, V., White, S.D.M., Jenkins, A., Frenk, C.S., Yoshida, N., Gao, L., Navarro, J., Thacker, R., Croton, D., Helly, J., Peacock, J.A., Cole, S., Thomas, P., Couchman, H., Evrard, A., Colberg, J., Pearce, F.: Simulations of the formation, evolution and clustering of galaxies and quasars. Nature 435, 629–636 (2005) https://doi.org/10.1038/nature03597
+26. Peebles, P.J.E., Schramm, D.N., Turner, E.L., Kron, R.G.: The case for the relativistic hot big bang cosmology. Nature 352, 769–776 (1991) https://doi.org/10.1038/352769a0
+27. Bennett, C.L., Halpern, M., Hinshaw, G., Jarosik, N., Kogut, A., Limon, M., Meyer, S.S., Page, L., Spergel, D.N., Tucker, G.S., Wollack, E., Wright, E.L., Barnes, C., Greason, M.R., Hill, R.S., Komatsu, E., Nolta, M.R., Odegard, N., Peiris, H.V., Verde, L., Weiland, J.L.: First-year wilkinson microwave anisotropy probe (wmap)* observations: Preliminary maps and basic results. The Astrophysical Journal Supplement Series 148(1), 1 (2003) https://doi.org/10.1086/377253
+28. Seljak, U.b.u., Zaldarriaga, M.: Signature of gravity waves in the polarization of the microwave background. Phys. Rev. Lett. 78, 2054–2057 (1997) https://doi.org/10.1103/PhysRevLett.78.2054
+29. Carroll, S.M.: The cosmological constant. Living Reviews in Relativity 4 (2001) https://doi.org/10.12942/lrr-2001-1
+30. Caldwell, R.R.: Dark energy. Physics World 17(5), 37 (2004) https://doi.org/10.1088/2058-7058/17/5/36
+31. Mannheim, P.D.: Alternatives to dark matter and dark energy. Progress in Particle and Nuclear Physics 56(2), 340–445 (2006) https://doi.org/10.1016/j.ppnp.2005.08.001
+32. Buchert, T.: Dark energy from structure: a status report. General Relativity and Gravitation 40, 467–527 (2008) https://doi.org/10.1007/s10714-007-0554-8
+33. Hamber, H.W.: Quantum Gravitation – The Feynman Path Integral Approach. Springer, Springer Berlin, Heidelberg (2009). https://doi.org/10.1007/978-3-540-85293-3
+34. Schutz, B.: Gravity from the Ground Up - An Introductory Guide to Gravity and General Relativity. Cambridge University Press, Cambridge (2003). https://doi.org/10.1017/CBO9780511807800
+35. Penrose, R.: The Road To Reality (A Complete Guide To The Laws Of The Universe). Jonathan Cape, London (2004)
+36. Newell, D., Tiesinga, E.: The International System of Units (SI), 2019 Edition. Special Publication (NIST SP), National Institute of Standards and Technology, Gaithersburg, MD (2019). https://doi.org/10.6028/NIST.SP.330-2019
+37. McCarthy, D.D., Seidelmann, K.P.: Time: From Earth Rotation to Atomic Physics. Wiley, Weinheim (2009). https://doi.org/10.1002/9783527627943
