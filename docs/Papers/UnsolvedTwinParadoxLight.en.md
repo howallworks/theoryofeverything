@@ -117,6 +117,8 @@ We get a contradiction:
 - or the speed of objects can tend to infinity with almost zero time change on the clock of the second spacecraft. This indicates the fallacy of the theory of relativity, but corresponds to reality.
 - or on the clock of the second spacecraft, the same amount of time must pass as for the first spacecraft (a billion years) in order to preserve the limit speed of light for the objects of the universe. This fits into the concept of relativity theory, but contradicts reality.
 
+It is worth noting that what is happening cannot be explained by the Lorentz contraction of length, at least because it does not affect the plane perpendicular to the axis of motion. There, objects whose speed tends to the speed of light in the ImFR will travel a distance of almost a billion light years.
+
 In fact, we get that the universe has changed by a billion years, but the time for the second spacecraft has almost unchanged.
 
 This is confirmed by experimental data, for example, for short-lived particles accelerated to speeds close to the speed of light. In fact, for these cases the universe has changed for a time that is orders of magnitude greater than the particle’s own lifetime (such particles decay by several orders of magnitude faster when rested in ImFR). Of course, the Lorentz factor is not as high as in the thought experiment, but this is a purely technical problem.
