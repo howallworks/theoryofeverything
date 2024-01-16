@@ -31,7 +31,7 @@ Thought experiment 1 description:
 5. Accelerate both of them back to $0.5c$. 
 6. Accelerate both of them to 0. 
 7. Accelerate both of them to $-0.5c$. 
-8. Accelerate the first one to a velocity close to $-c$, and the second one to 0. 
+8. Accelerate the first one to a velocity tending to $-c$, and the second one to 0. 
 9. Wait for a significant amount of time $t$. 
 10. Accelerate both of them to $-0.5c$. 
 11. Accelerate both of them to 0. 
@@ -45,7 +45,7 @@ Suppose that then you will argue that the second spacecraft, although accelerate
 Thought experiment 2a description:
 
 1. Begin with both objects flying together at velocity $v=0.5c$. 
-2. Let's accelerate the first one to 0, and the second one to $c$. 
+2. Let's accelerate the first one to 0, and the second one to a velocity tending to $c$. 
 3. Wait a significant amount of time $t$. 
 4. Accelerate both back up to $0.5c$. 
 5. Then accelerate the first to $0.6c$, and the second to $0.4c$. 
@@ -62,7 +62,7 @@ Results will be obtained in the ImFR:
 Thought experiment 2b description:
 
 1. Begin with both objects flying together at velocity $v=-0.5c$. 
-2. Let's accelerate the first one to $-c$, and the second one to 0. 
+2. Let's accelerate the first one to a velocity tending to $-c$, and the second one to 0. 
 3. Wait a significant amount of time $t$. 
 4. Accelerate both back up to $-0.5c$. 
 5. Then accelerate the first to $-0.4c$, and the second to $-0.6c$. 
@@ -91,9 +91,9 @@ Now let's look at another interesting version of the thought experiment.
 Thought experiment 3 description:
 
 1. Begin with both objects flying together at velocity $v=0$. The first one always rests. 
-2. Let's accelerate the second one to $c$. 
+2. Let's accelerate the second one to a velocity tending to $c$. 
 3. Wait a significant amount of time $0.5t$. 
-4. Accelerate the second one to $-c$. 
+4. Accelerate the second one to a velocity tending to $-c$. 
 5. Wait a significant amount of time $0.5t$. 
 6. Accelerate the second one to $0$. 
 7. End of the thought experiment with both objects flying together. 
