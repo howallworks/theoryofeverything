@@ -74,7 +74,7 @@ Thought experiment 2a description:
 7. Accelerate them both up to $0.5c$. 
 8. End of the thought experiment with both objects flying together.
 
-Results will be obtained in the ImFR using the formula: 
+Results will be obtained in the ImFR using the formula (1): 
 
 - spacecraft 1: $t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
 - spacecraft 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$. 
@@ -100,7 +100,7 @@ Thought experiment 2b description:
 7. Accelerate them both up to $-0.5c$. 
 8. End of the thought experiment with both objects flying together. 
 
-Results will be obtained in the ImFR using the formula: 
+Results will be obtained in the ImFR using the formula (1): 
 
 - spacecraft 1: $t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 - spacecraft 2: $t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$. 
@@ -137,7 +137,7 @@ Thought experiment 3 description:
 6. Accelerate the second one to $0$. 
 7. End of the thought experiment with both objects flying together. 
 
-Results will be obtained in the ImFR:  
+Results will be obtained in the ImFR using the formula (1):  
 
 - spacecraft 1: $t_1=F(0)(0.5t)+F(0)(0.5t)=0.5t+0.5t=t$; 
 - spacecraft 2: $t_2=F(c)(0.5t)+F(-c)(0.5t)\to0$.
