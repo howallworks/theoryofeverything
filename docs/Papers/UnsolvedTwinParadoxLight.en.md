@@ -23,10 +23,12 @@ An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) as
 For all thought experiments, let's take two spacecraft with synchronized clocks (or two short-lived particles obtained at the same time). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible.
 
 Time dilation factor:
-$F(v) = \sqrt{1 - \frac{v^2}{c^2}}$ (1)
+$F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (1)
+where $v$ is the velocity of the object relative to IFR or ImFR.
 
 Recalculating the speed when changing the IFR:
-$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$ (2)
+$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (2)
+where $v$ is the velocity of $IFR'$ relative to the base IFR, $u_x$ is the velocity of the object relative to the base IFR, $u_x'$ is the velocity of the object relative to $IFR'$.
 
 Thought experiment 1 description:
 
