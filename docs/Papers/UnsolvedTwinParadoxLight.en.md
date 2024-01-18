@@ -24,10 +24,12 @@ For all thought experiments, let's take two spacecraft with synchronized clocks 
 
 Time dilation factor:
 $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (1)
+
 where $v$ is the velocity of the object relative to IFR or ImFR.
 
 Recalculating the speed when changing the IFR:
 $\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (2)
+
 where $v$ is the velocity of $IFR'$ relative to the base IFR, $u_x$ is the velocity of the object relative to the base IFR, $u_x'$ is the velocity of the object relative to $IFR'$.
 
 Thought experiment 1 description:
