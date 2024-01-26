@@ -121,7 +121,9 @@ The results in the IFR related to the second spacecraft using the formula (2):
 
 The qualitative analysis of both thought experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
 
-From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another spacecraft in reality.
+Analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another spacecraft in reality.
+
+The analysis of thought experiment 2b is similar.
 
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. 
 
