@@ -127,7 +127,9 @@ The analysis of thought experiment 2b is similar.
 
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. 
 
-With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox. The results obtained also prove that different IFRs are unequal and cannot be described by general laws.
+With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox. 
+
+The results obtained also prove that different IFRs are unequal and cannot be described by general laws.
 
 Suppose that you try to argue that the time spent on acceleration is small, but still not equal to zero. Then, based on the magnitude of the accelerations, you can get some hints. Acceleration is the ratio of a change in velocity to a change in time. The velocity changes are fixed and we have obtained them from the point of view of the theory of relativity for each spacecraft. We can choose the time changes in such a way that the acceleration values will be the same. Accordingly, we will not receive any additional useful information within the framework of relativity theory to try to find a solution. Moreover, it is possible to select the acceleration values in order to mislead the solution within the framework of relativity theory.
 
