@@ -119,17 +119,50 @@ The results in the IFR related to the second spacecraft using the formula (2):
 - stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to -c; v=0)$; 
 - stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=-0.4c; v=-0.6c)$.
 
-The qualitative analysis of both thought experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
+Qualitative analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively what time will pass for another spacecraft in reality.
 
-Analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another spacecraft in reality.
+Qualitative analysis of the thought experiment 2b is identical.
 
-The analysis of thought experiment 2b is similar.
+To carry out a quantitative analysis, it is necessary to make an assumption that the proper time on the clocks installed on the spacecraft will coincide with the calculations regarding the ImFR.
+This assumption is made based on the fact that the time shown on a particular clock has the same readings for everyone who looks at it at the beginning of the experiment or similarly at the end of the experiment (which corresponds to all real experiments). 
 
-In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. 
+Quantitative analysis of experiment 2a.
 
-With different initial velocities relative to the ImFR and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve thought experiments similar to the twin paradox. 
+Time is relative to the ImFR:
 
-The results obtained also prove that different IFRs are unequal and cannot be described by general laws.
+$t_{ImFR}=6t$; $t_{spacecraft1}=5t$; $t_{spacecraft2}\approx4.58t$.
+
+The time is relative to the IFR associated with the first spacecraft using the formula (1):
+
+$t_{spacecraft1}=5t$; $t_{spacecraft2}=F(c)t+F(-\frac{c}{3.8})(4t)\approx3.859t$.
+
+The time is relative to the IFR associated with the second spacecraft using the formula (1):
+
+$t_{spacecraft1}\approx F(-c)0+F(\frac{c}{3.8})(4.58t)\approx4.419t$; $t_{spacecraft2}\approx4.58t$.
+
+Quantitative analysis of experiment 2b. 
+
+Time is relative to the ImFR:
+
+$t_{ImFR}=6t$; $t_{spacecraft1}\approx4.58t$; $t_{spacecraft2}=5t$.
+
+The time is relative to the IFR associated with the first spacecraft using the formula (1):
+
+$t_{spacecraft1}\approx4.58t$; $t_{spacecraft2}\approx F(c)0+F(-\frac{c}{3.8})(4.58t)\approx4.419t$.
+
+The time is relative to the IFR associated with the second spacecraft using the formula (1):
+
+$t_{spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$; $t_{spacecraft2}=5t$.
+
+As we can see, as a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
+
+It should be noted that if we do not take the ImFR as a basis, but choose any other IFR, then we will also get results that contradict each other. The reason for this is that in the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. 
+
+In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
+
+In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. This also indicates the fallacy of the concept of relativity.
+
+With different initial velocities relative to the ImFR, acceleration and velocities variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve this kind of problem.
 
 Suppose that you try to argue that the time spent on acceleration is small, but still not equal to zero. Then, based on the magnitude of the accelerations, you can get some hints. Acceleration is the ratio of a change in velocity to a change in time. The velocity changes are fixed and we have obtained them from the point of view of the theory of relativity for each spacecraft. We can choose the time changes in such a way that the acceleration values will be the same. Accordingly, we will not receive any additional useful information within the framework of relativity theory to try to find a solution. Moreover, it is possible to select the acceleration values in order to mislead the solution within the framework of relativity theory.
 
@@ -173,11 +206,11 @@ Again, we see that the theory of relativity cannot explain what happened using i
 
 ### Conclusion
 
-Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of objects. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. 
+Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of objects. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. And it is this concept of relativity that makes the theory of relativity erroneous in the general case.
 
-Of course, the assumption that the ImFR is an inertial reference frame relative to which everything in the universe is correctly calculated requires careful verification. However, based on the analysis of the above-described thought experiments, it can be argued that Einstein's theory of relativity and the concept of relativity of the universe are erroneous, since in a wide range of cases they do not correctly describe the behavior of objects qualitatively and quantitatively. Also have been obtained results proving that different IFRs are unequal and cannot be described by general laws.
+Of course, the assumption that the ImFR is an inertial reference frame relative to which everything in the universe is correctly calculated requires careful verification. However, based on the analysis of the above-described thought experiments, it can be argued that Einstein's theory of relativity and the concept of relativity of the universe are erroneous, since in a wide range of cases they do not correctly describe the behavior of objects qualitatively and quantitatively. 
 
-This leads to an understanding of the absolute structure of the universe. In fact, it is assumed that the ImFR is at rest within the framework of the concept of the absolute universe. This is the basis for building the concept of the absolute universe. Based on this, it is the speed relative to the ImFR that is the key parameter determining how much time the clock will show.
+Also have been obtained results proving that different IFRs are unequal and cannot be described by general laws. This leads to an understanding of the absolute structure of the universe. In fact, it is assumed that the ImFR is at rest within the framework of the concept of the absolute universe. This is the basis for building the concept of the absolute universe. Based on this, it is the speed relative to the ImFR that is the key parameter determining how much time the clock will show.
 
 ### References
 
