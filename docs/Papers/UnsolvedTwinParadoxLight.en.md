@@ -119,7 +119,7 @@ The results in the IFR related to the second spacecraft using the formula (2):
 - stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to -c; v=0)$; 
 - stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=-0.4c; v=-0.6c)$.
 
-Qualitative analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft. We get unsolvable thought experiments similar to the twin paradox. As a result, it is unknown qualitatively what time will pass for another spacecraft in reality.
+Qualitative analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds between spacecrafts are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft (For the second from the point of view of the first. For the first from the point of view of the second). We see that the results obtained by different observers (on each of the spacecraft) contradict each other according to the theory of relativity. As a result, it is unknown qualitatively what time will pass for another spacecraft in reality.
 
 Qualitative analysis of the thought experiment 2b is identical.
 
@@ -130,29 +130,29 @@ Quantitative analysis of experiment 2a.
 
 Time is relative to the ImFR:
 
-$t_{ImFR}=6t$; $t_{spacecraft1}=5t$; $t_{spacecraft2}\approx4.58t$.
+$t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}=5t$; $t_{ImFR\_target\_spacecraft2}\approx4.58t$.
 
 The time is relative to the IFR associated with the first spacecraft using the formula (1):
 
-$t_{spacecraft1}=5t$; $t_{spacecraft2}=F(c)t+F(-\frac{c}{3.8})(4t)\approx3.859t$.
+$t_{spacecraft1}=5t$; $t_{spacecraft1\_target\_spacecraft2}=F(c)t+F(-\frac{c}{3.8})(4t)\approx3.859t$.
 
 The time is relative to the IFR associated with the second spacecraft using the formula (1):
 
-$t_{spacecraft1}\approx F(-c)0+F(\frac{c}{3.8})(4.58t)\approx4.419t$; $t_{spacecraft2}\approx4.58t$.
+$t_{spacecraft2\_target\_spacecraft1}\approx F(-c)0+F(\frac{c}{3.8})(4.58t)\approx4.419t$; $t_{spacecraft2}\approx4.58t$.
 
 Quantitative analysis of experiment 2b. 
 
 Time is relative to the ImFR:
 
-$t_{ImFR}=6t$; $t_{spacecraft1}\approx4.58t$; $t_{spacecraft2}=5t$.
+$t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}\approx4.58t$; $t_{ImFR\_target\_spacecraft2}=5t$.
 
 The time is relative to the IFR associated with the first spacecraft using the formula (1):
 
-$t_{spacecraft1}\approx4.58t$; $t_{spacecraft2}\approx F(c)0+F(-\frac{c}{3.8})(4.58t)\approx4.419t$.
+$t_{spacecraft1}\approx4.58t$; $t_{spacecraft1\_target\_spacecraft2}\approx F(c)0+F(-\frac{c}{3.8})(4.58t)\approx4.419t$.
 
 The time is relative to the IFR associated with the second spacecraft using the formula (1):
 
-$t_{spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$; $t_{spacecraft2}=5t$.
+$t_{spacecraft2\_target\_spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$; $t_{spacecraft2}=5t$.
 
 As we can see, as a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
 
