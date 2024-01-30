@@ -1,13 +1,16 @@
 
 ### Annotation
 
-The paper presents several new advanced thought experiments similar to the twin paradox and the results of their analysis.
+The paper presents several types of new advanced thought experiments similar to the twin paradox and the results of their analysis.
 
-It is shown that it is possible to conduct a couple of thought experiments in which all accelerations and relative speeds of the objects of investigation will be identical from the point of view of relativity theory. However for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the “twins” in reality.
+The peculiarity of these types of thought experiments is that it is impossible to obtain results that do not contradict each other by means of the theory of relativity. These contradictions cannot be eliminated by means of the theory of relativity.
+In fact, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the "twins" in reality.
 
-In addition, a description of a thought experiment is given in which objects move at a speed tending to infinity, which contradicts the theory of relativity.
+In addition, a description of a thought experiment is given in which, when calculated using the theory of relativity, objects move at a speed tending to infinity, which contradicts the theory of relativity.
 
-Based on the analysis of the thought experiments, it can be argued that Einstein's theory of relativity and the concept of relativity of the universe are erroneous, since in a wide range of cases they do not correctly describe the behavior of objects qualitatively and quantitatively. Results have also been obtained proving that different inertial frames of reference are unequal and cannot be described by general laws.
+Based on the analysis of thought experiments, it can be argued that Einstein's theory of relativity and the concept of relativity of the universe are erroneous, since in a wide range of cases theory of relativity incorrectly describe the behavior of objects qualitatively and quantitatively. The results also prove that different inertial reference frames are unequal and cannot be described by general laws.
+
+To eliminate these problems, a special inertial reference frame has been proposed with respect to which calculations can be performed and results consistent with reality can be obtained.
 ### Introduction
 
 The twin paradox is the thought experiment which was invented after Einstein formulated the special theory of relativity (STR). In this experiment, it is not clear which object is experiencing time dilation [1,2,3,4,5,6,7]. Then several scientists pointed out that there is no paradox. They have come up with a number of methods to explain what is happening in this thought experiment [8,9,10,11,12,13]. However, these methods use additional means that are not related to the special theory of relativity.
