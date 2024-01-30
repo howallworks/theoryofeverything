@@ -156,13 +156,11 @@ $t_{spacecraft2\_target\_spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$;
 
 As we can see, as a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
 
-It should be noted that if we do not take the ImFR as a basis, but choose any other IFR, then we will also get results that contradict each other. The reason for this is that in the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. 
-
-In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
+It should be noted that if we do not take the ImFR as a basis, but choose any other IFR, then we will also get results that contradict each other. The reason for this is that in the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
 
 In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. This also indicates the fallacy of the concept of relativity.
 
-With different initial velocities relative to the ImFR, acceleration and velocities variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve this kind of problem.
+With different initial velocities relative to the ImFR, accelerations and velocities variations other variants of the results will be obtained. But the essence is the same - according to the framework of Einstein's theory of relativity, contradictory results will be obtained.
 
 Suppose that you try to argue that the time spent on acceleration is small, but still not equal to zero. Then, based on the magnitude of the accelerations, you can get some hints. Acceleration is the ratio of a change in velocity to a change in time. The velocity changes are fixed and we have obtained them from the point of view of the theory of relativity for each spacecraft. We can choose the time changes in such a way that the acceleration values will be the same. Accordingly, we will not receive any additional useful information within the framework of relativity theory to try to find a solution. Moreover, it is possible to select the acceleration values in order to mislead the solution within the framework of relativity theory.
 
