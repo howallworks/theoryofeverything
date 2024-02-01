@@ -23,15 +23,22 @@ For further description, it is necessary to introduce a new term.
 
 An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) associated with an object characterized by zero shift of cosmic microwave background radiation (zero dipole anisotropy). The ImFR can be associated with different objects, but their relative speed is zero.
 
-For all thought experiments, let's take two spacecraft with synchronized clocks (or two short-lived particles obtained at the same time). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible.
+For all thought experiments, let's take two spacecraft with synchronized clocks (or two short-lived particles obtained at the same time). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible. 
+
+Time dilation for an accelerating object:
+$\Delta t_{0}=\int \limits _{t_{1}}^{t_{2}}{\sqrt {1-\mathbf {v} ^{2}(\tau )/c^{2}}}\,d\tau$, (1)
+
+where $\Delta t_{0}$ is the time according to the clock associated with a spacecraft moving at variable speed $v(t)$ relative to the base ImFR/IFR.
+
+Accordingly, applying the formula (1) for a negligibly small time spent on acceleration in ImFR, we obtain that the spacecraft's own time spent on any acceleration of a thought experiment will be negligible, or rather less than in ImFR.
 
 Time dilation factor:
-$F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (1)
+$F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (2)
 
 where $v$ is the velocity of the object relative to IFR or ImFR.
 
 Recalculating the speed when changing the IFR:
-$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (2)
+$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (3)
 
 where $v$ is the velocity of $IFR'$ relative to the base IFR, $u_x$ is the velocity of the object relative to the base IFR, $u_x'$ is the velocity of the object relative to $IFR'$.
 
@@ -50,17 +57,17 @@ Thought experiment 1 description:
 11. Accelerate both of them to 0. 
 12. End of the thought experiment with both objects flying together.
 
-Results will be obtained in the ImFR using the formula (1): 
+Results will be obtained in the ImFR using the formula (2): 
 
 - spacecraft 1: $t_1=F(c)t+F(-c)(t)\to0$; 
 - spacecraft 2: $t_2=F(0)t+F(0)(t)=2t$. 
 
-The results in the IFR related to the first spacecraft using the formula (2):
+The results in the IFR related to the first spacecraft using the formula (3):
 
 - stage 4. The velocity of the second spacecraft: $u_x'\to-c\ (u_x=0; v\to c)$; 
 - stage 9. The velocity of the second spacecraft: $u_x'\to c\ (u_x=0; v\to-c)$. 
 
-The results in the IFR related to the second spacecraft using the formula (2):
+The results in the IFR related to the second spacecraft using the formula (3):
 
 - stage 4. The velocity of the first spacecraft: $u_x'\to c\ (u_x\to c; v=0)$; 
 - stage 9. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to-c; v=0)$. 
@@ -81,17 +88,17 @@ Thought experiment 2a description:
 7. Accelerate them both up to $0.5c$. 
 8. End of the thought experiment with both objects flying together.
 
-Results will be obtained in the ImFR using the formula (1): 
+Results will be obtained in the ImFR using the formula (2): 
 
 - spacecraft 1: $t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
 - spacecraft 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$. 
 
-The results in the IFR related to the first spacecraft using the formula (2):
+The results in the IFR related to the first spacecraft using the formula (3):
 
 - stage 3. The velocity of the second spacecraft: $u_x'\to c\ (u_x\to с; v= 0)$; 
 - stage 6. The velocity of the second spacecraft: $u_x'= -\frac{c}{3.8}\ (u_x=0.4c; v=0.6c)$. 
 
-The results in the IFR related to the second spacecraft using the formula (2):
+The results in the IFR related to the second spacecraft using the formula (3):
 
 - stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x=0; v\to c)$; 
 - stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=0.6c; v=0.4c)$.
@@ -107,17 +114,17 @@ Thought experiment 2b description:
 7. Accelerate them both up to $-0.5c$. 
 8. End of the thought experiment with both objects flying together. 
 
-Results will be obtained in the ImFR using the formula (1): 
+Results will be obtained in the ImFR using the formula (2): 
 
 - spacecraft 1: $t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t$; 
 - spacecraft 2: $t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$. 
 
-The results in the IFR related to the first spacecraft using the formula (2):
+The results in the IFR related to the first spacecraft using the formula (3):
 
 - stage 3. The velocity of the second spacecraft: $u_x'\to c\ (u_x=0; v\to -c)$; 
 - stage 6. The velocity of the second spacecraft: $u_x'= -\frac{c}{3.8}\ (u_x=-0.6c; v=-0.4c)$. 
 
-The results in the IFR related to the second spacecraft using the formula (2):
+The results in the IFR related to the second spacecraft using the formula (3):
 
 - stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to -c; v=0)$; 
 - stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=-0.4c; v=-0.6c)$.
@@ -135,11 +142,11 @@ Time is relative to the ImFR:
 
 $t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}=5t$; $t_{ImFR\_target\_spacecraft2}\approx4.58t$.
 
-The time is relative to the IFR associated with the first spacecraft using the formula (1):
+The time is relative to the IFR associated with the first spacecraft using the formula (2):
 
 $t_{spacecraft1}=5t$; $t_{spacecraft1\_target\_spacecraft2}=F(c)t+F(-\frac{c}{3.8})(4t)\approx3.859t$.
 
-The time is relative to the IFR associated with the second spacecraft using the formula (1):
+The time is relative to the IFR associated with the second spacecraft using the formula (2):
 
 $t_{spacecraft2\_target\_spacecraft1}\approx F(-c)0+F(\frac{c}{3.8})(4.58t)\approx4.419t$; $t_{spacecraft2}\approx4.58t$.
 
@@ -149,15 +156,16 @@ Time is relative to the ImFR:
 
 $t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}\approx4.58t$; $t_{ImFR\_target\_spacecraft2}=5t$.
 
-The time is relative to the IFR associated with the first spacecraft using the formula (1):
+The time is relative to the IFR associated with the first spacecraft using the formula (2):
 
 $t_{spacecraft1}\approx4.58t$; $t_{spacecraft1\_target\_spacecraft2}\approx F(c)0+F(-\frac{c}{3.8})(4.58t)\approx4.419t$.
 
-The time is relative to the IFR associated with the second spacecraft using the formula (1):
+The time is relative to the IFR associated with the second spacecraft using the formula (2):
 
 $t_{spacecraft2\_target\_spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$; $t_{spacecraft2}=5t$.
 
-As we can see, as a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
+As we can see  $t_{spacecraft1} \neq t_{spacecraft2\_target\_spacecraft1}$ and $t_{spacecraft2} \neq t_{spacecraft1\_target\_spacecraft2}$. 
+As a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
 
 It should be noted that if we do not take the ImFR as a basis, but choose any other IFR, then we will also get results that contradict each other. The reason for this is that in the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
 
@@ -179,7 +187,7 @@ Thought experiment 3 description:
 6. Accelerate the second one to $0$. 
 7. End of the thought experiment with both objects flying together. 
 
-Results will be obtained in the ImFR using the formula (1):  
+Results will be obtained in the ImFR using the formula (2):  
 
 - spacecraft 1: $t_1=F(0)(0.5t)+F(0)(0.5t)=0.5t+0.5t=t$; 
 - spacecraft 2: $t_2=F(c)(0.5t)+F(-c)(0.5t)\to0$.
