@@ -3,12 +3,9 @@
 
 The paper presents several types of new advanced thought experiments similar to the twin paradox and the results of their analysis.
 
-The peculiarity of these types of thought experiments is that it is impossible to obtain results that do not contradict each other by means of the theory of relativity. These contradictions cannot be eliminated by means of the theory of relativity.
-In fact, for each of these thought experiments, the results calculated by one of the "twin" will contradict the results calculated by the other "twin", which is impossible in reality. As a result, it is impossible to calculate how much time will pass for the "twins" in reality.
+A description of a thought experiment is presented in which, when calculated using the theory of relativity, objects move at a speed tending to infinity, which contradicts the theory of relativity.
 
-In addition, a description of a thought experiment is given in which, when calculated using the theory of relativity, objects move at a speed tending to infinity, which contradicts the theory of relativity.
-
-Based on the analysis of thought experiments, it can be argued that Einstein's theory of relativity and the concept of relativity of the universe are erroneous, since in a wide range of cases theory of relativity incorrectly describe the behavior of objects qualitatively and quantitatively. The results also prove that different inertial reference frames are unequal and cannot be described by general laws.
+The results  prove that different inertial reference frames are unequal and cannot be described by general laws.
 
 To eliminate these problems, a special inertial reference frame has been proposed with respect to which calculations can be performed and results consistent with reality can be obtained.
 ### Introduction
@@ -25,159 +22,7 @@ An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) as
 
 For all thought experiments, let's take two spacecraft with synchronized clocks (or two short-lived particles obtained at the same time). They move only along one coordinate axis for simplicity. Let $v$ is their velocity relative to the ImFR (or with an error relative to the Earth). The time spent on accelerations is considered negligible. 
 
-Time dilation for an accelerating object:
-$\Delta t_{0}=\int \limits _{t_{1}}^{t_{2}}{\sqrt {1-\mathbf {v} ^{2}(\tau )/c^{2}}}\,d\tau$, (1)
-
-where $\Delta t_{0}$ is the time according to the clock associated with a spacecraft moving at variable speed $v(t)$ relative to the base ImFR/IFR.
-
-Accordingly, applying the formula (1) for a negligibly small time spent on acceleration in ImFR, we obtain that the spacecraft's own time spent on any acceleration of a thought experiment will be negligible, or rather less than in ImFR.
-
-Time dilation factor:
-$F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (2)
-
-where $v$ is the velocity of the object relative to IFR or ImFR.
-
-Recalculating the speed when changing the IFR:
-$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (3)
-
-where $v$ is the velocity of $IFR'$ relative to the base IFR, $u_x$ is the velocity of the object relative to the base IFR, $u_x'$ is the velocity of the object relative to $IFR'$.
-
 Thought experiment 1 description:
-
-1. Begin with both objects flying together at velocity $v=0$. 
-2. Let's accelerate them up to $0.5c$. 
-3. Accelerate the first one to a velocity close to the speed of light, and the second one to 0. 
-4. Wait for a significant amount of time $t$. 
-5. Accelerate both of them back to $0.5c$. 
-6. Accelerate both of them to 0. 
-7. Accelerate both of them to $-0.5c$. 
-8. Accelerate the first one to a velocity tending to $-c$, and the second one to 0. 
-9. Wait for a significant amount of time $t$. 
-10. Accelerate both of them to $-0.5c$. 
-11. Accelerate both of them to 0. 
-12. End of the thought experiment with both objects flying together.
-
-Results will be obtained in the ImFR using the formula (2): 
-
-- spacecraft 1: $t_1=F(c)t+F(-c)(t)\to0$; 
-- spacecraft 2: $t_2=F(0)t+F(0)(t)=2t$. 
-
-The results in the IFR related to the first spacecraft using the formula (3):
-
-- stage 4. The velocity of the second spacecraft: $u_x'\to-c\ (u_x=0; v\to c)$; 
-- stage 9. The velocity of the second spacecraft: $u_x'\to c\ (u_x=0; v\to-c)$. 
-
-The results in the IFR related to the second spacecraft using the formula (3):
-
-- stage 4. The velocity of the first spacecraft: $u_x'\to c\ (u_x\to c; v=0)$; 
-- stage 9. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to-c; v=0)$. 
-
-Let's analyze thought experiment 1 from the point of view of Einstein's theory of relativity.
-As you can see, the measured speeds are the same relative to each other from the point of view of each of the spacecrafts. This is the essence of the true twin paradox version. Another spacecraft was moving faster from the point of view of each of the spacecraft. As a result, it is unclear how much time will pass for each of the spacecrafts in reality.
-
-Suppose that then you will argue that the second spacecraft, although accelerated as well, but then slowed down and only then moved for a long time $t$. And therefore its clock will show a greater amount of time. Let's show that this is in general does not allow us to get a correct result.
-
-Thought experiment 2a description:
-
-1. Begin with both objects flying together at velocity $v=0.5c$. 
-2. Let's accelerate the first one to 0, and the second one to a velocity tending to $c$. 
-3. Wait a significant amount of time $t$. 
-4. Accelerate both back up to $0.5c$. 
-5. Then accelerate the first to $0.6c$, and the second to $0.4c$. 
-6. Wait a significant amount of time for $5t$. 
-7. Accelerate them both up to $0.5c$. 
-8. End of the thought experiment with both objects flying together.
-
-Results will be obtained in the ImFR using the formula (2): 
-
-- spacecraft 1: $t_1=F(0)t+F(0.6c)(5t)=t+4t=5t$; 
-- spacecraft 2: $t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t$. 
-
-The results in the IFR related to the first spacecraft using the formula (3):
-
-- stage 3. The velocity of the second spacecraft: $u_x'\to c\ (u_x\to с; v= 0)$; 
-- stage 6. The velocity of the second spacecraft: $u_x'= -\frac{c}{3.8}\ (u_x=0.4c; v=0.6c)$. 
-
-The results in the IFR related to the second spacecraft using the formula (3):
-
-- stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x=0; v\to c)$; 
-- stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=0.6c; v=0.4c)$.
-
-Thought experiment 2b description:
-
-1. Begin with both objects flying together at velocity $v=-0.5c$. 
-2. Let's accelerate the first one to a velocity tending to $-c$, and the second one to 0. 
-3. Wait a significant amount of time $t$. 
-4. Accelerate both back up to $-0.5c$. 
-5. Then accelerate the first to $-0.4c$, and the second to $-0.6c$. 
-6. Wait a significant amount of time for $5t$.  
-7. Accelerate them both up to $-0.5c$. 
-8. End of the thought experiment with both objects flying together. 
-
-Results will be obtained in the ImFR using the formula (2): 
-
-- spacecraft 1: $t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t$; 
-- spacecraft 2: $t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t$. 
-
-The results in the IFR related to the first spacecraft using the formula (3):
-
-- stage 3. The velocity of the second spacecraft: $u_x'\to c\ (u_x=0; v\to -c)$; 
-- stage 6. The velocity of the second spacecraft: $u_x'= -\frac{c}{3.8}\ (u_x=-0.6c; v=-0.4c)$. 
-
-The results in the IFR related to the second spacecraft using the formula (3):
-
-- stage 3. The velocity of the first spacecraft: $u_x'\to -c\ (u_x\to -c; v=0)$; 
-- stage 6. The velocity of the first spacecraft: $u_x'= \frac{c}{3.8}\ (u_x=-0.4c; v=-0.6c)$.
-
-Qualitative analysis of the thought experiment 2a. From the point of view of each spacecraft, it was at rest. The another spacecraft first rested, then moved, then rested. The relative speeds between spacecrafts are identical. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another spacecraft (For the second from the point of view of the first. For the first from the point of view of the second). We see that the results obtained by different observers (on each of the spacecraft) contradict each other according to the theory of relativity. As a result, it is unknown qualitatively what time will pass for another spacecraft in reality.
-
-Qualitative analysis of the thought experiment 2b is identical.
-
-To carry out a quantitative analysis, it is necessary to make an assumption that the proper time on the clocks installed on the spacecraft will coincide with the calculations regarding the ImFR.
-This assumption is made based on the fact that the time shown on a particular clock has the same readings for everyone who looks at it at the beginning of the experiment or similarly at the end of the experiment (which corresponds to all real experiments). 
-
-Quantitative analysis of experiment 2a.
-
-Time is relative to the ImFR:
-
-$t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}=5t$; $t_{ImFR\_target\_spacecraft2}\approx4.58t$.
-
-The time is relative to the IFR associated with the first spacecraft using the formula (2):
-
-$t_{spacecraft1}=5t$; $t_{spacecraft1\_target\_spacecraft2}=F(c)t+F(-\frac{c}{3.8})(4t)\approx3.859t$.
-
-The time is relative to the IFR associated with the second spacecraft using the formula (2):
-
-$t_{spacecraft2\_target\_spacecraft1}\approx F(-c)0+F(\frac{c}{3.8})(4.58t)\approx4.419t$; $t_{spacecraft2}\approx4.58t$.
-
-Quantitative analysis of experiment 2b. 
-
-Time is relative to the ImFR:
-
-$t_{ImFR}=6t$; $t_{ImFR\_target\_spacecraft1}\approx4.58t$; $t_{ImFR\_target\_spacecraft2}=5t$.
-
-The time is relative to the IFR associated with the first spacecraft using the formula (2):
-
-$t_{spacecraft1}\approx4.58t$; $t_{spacecraft1\_target\_spacecraft2}\approx F(c)0+F(-\frac{c}{3.8})(4.58t)\approx4.419t$.
-
-The time is relative to the IFR associated with the second spacecraft using the formula (2):
-
-$t_{spacecraft2\_target\_spacecraft1}=F(-c)t+F(\frac{c}{3.8})(4t)\approx3.859t$; $t_{spacecraft2}=5t$.
-
-As we can see  $t_{spacecraft1} \neq t_{spacecraft2\_target\_spacecraft1}$ and $t_{spacecraft2} \neq t_{spacecraft1\_target\_spacecraft2}$. 
-As a result, it is unknown qualitatively and quantitatively what time will pass in reality for a spacecraft, the clock readings of which we do not observe directly, but calculate using the means of relativity theory. To be more precise, according to the theory of relativity, contradictory results are obtained, which is not observed in reality.
-
-It should be noted that if we do not take the ImFR as a basis, but choose any other IFR, then we will also get results that contradict each other. The reason for this is that in the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
-
-In the ImFR, for the last two cases (thought experiments 2a and 2b), exactly the same thing happened with spacecrafts, but due to of the different initial velocity relative to the ImFR, opposite results were obtained. This also indicates the fallacy of the concept of relativity.
-
-With different initial velocities relative to the ImFR, accelerations and velocities variations other variants of the results will be obtained. But the essence is the same - according to the framework of Einstein's theory of relativity, contradictory results will be obtained.
-
-Suppose that you try to argue that the time spent on acceleration is small, but still not equal to zero. Then, based on the magnitude of the accelerations, you can get some hints. Acceleration is the ratio of a change in velocity to a change in time. The velocity changes are fixed and we have obtained them from the point of view of the theory of relativity for each spacecraft. We can choose the time changes in such a way that the acceleration values will be the same. Accordingly, we will not receive any additional useful information within the framework of relativity theory to try to find a solution. Moreover, it is possible to select the acceleration values in order to mislead the solution within the framework of relativity theory.
-
-Now let's look at another interesting version of the thought experiment.
-
-Thought experiment 3 description:
 
 1. Begin with both objects flying together at velocity $v=0$. The first one always rests. 
 2. Let's accelerate the second one to a velocity tending to $c$. 
@@ -211,7 +56,7 @@ In fact, we get that the universe has changed by a billion years, but the time f
 
 This is confirmed by experimental data, for example, for short-lived particles accelerated to speeds close to the speed of light. In fact, for these cases the universe has changed for a time that is orders of magnitude greater than the particle’s own lifetime (such particles decay by several orders of magnitude faster when rested in ImFR). Of course, the Lorentz factor is not as high as in the thought experiment, but this is a purely technical problem.
 
-Again, we see that the theory of relativity cannot explain what happened using its own means.
+In the theory of relativity, time always slows down for moving objects relative to IFR. However, in reality, in a wide range of cases, in order to get the right result, time must accelerate. In fact is that all IFRs are unequal and cannot be described by general laws, the concept of relativity is erroneous and our universe is absolute. 
 
 ### Conclusion
 
