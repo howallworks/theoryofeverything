@@ -28,6 +28,12 @@ $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, (1)
 
 where $v$ is the velocity of the object relative to IFR or ImFR.
 
+Recalculating the speed when changing the IFR:\newline
+
+$\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}$, (2)
+
+where $v$ is the velocity of $IFR'$ relative to the base IFR, $u_x$ is the velocity of the object relative to the base IFR, $u_x'$ is the velocity of the object relative to $IFR'$.
+
 Thought experiment 1 description:
 
 1. Begin with both objects flying together at velocity $v=0$. The first one always rests. 
