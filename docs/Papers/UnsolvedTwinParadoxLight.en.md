@@ -80,7 +80,7 @@ Let's take a few spacecrafts. For simplicity, they move only along one coordinat
 
 Let IFR be associated with object 3 ($IFR_{o3}$) in Figure 1a.
 
-![[2_1_black.jpg]]
+![[2_1_black.en.jpg]]
 **Figure 1a – Objects in** $IFR_{o3}$
 
 In Figure 1a, the distances between space objects are selected as follows:
@@ -92,14 +92,14 @@ The beginning of a thought experiment. At this moment, the spacecraft emits a pu
 
 We get the picture shown in Figure 1b.
 
-![[2_1b_black.jpg]]
+![[2_1b_black.en.jpg]]
 **Figure 1b – Objects in** $IFR_{o3}$ **at a time equal to** $t$
 
 At this moment, the spacecraft emits a pulse of light. Then it moves for a time equal to $t$ by the clock $IFR_{o3}$. Then the spacecraft accelerates to a speed equal to zero in a time tending to zero.
 
 The end of the thought experiment. We get the picture shown in Figure 1с.
 
-![[2_1c_black.jpg]]
+![[2_1c_black.en.jpg]]
 **Figure 1с – Objects in** $IFR_{o3}$ **at a time equal to** $2t$
 
 Now let's see what we will observe relative to another $IFR_{v+}$ associated with another spacecraft moving with a velocity vector $v$ relative to the original $IFR_{o3}$.
@@ -128,19 +128,19 @@ $\tau=\frac{l'}{v}=\frac{F(v)l}{v}=\frac{F(v)vt}{v}=F(0.999c)t\approx0.044710177
 
 Figure 2a shows what should be observed in $IFR_{v+}$ at the beginning of a thought experiment according to the theory of relativity.
 
-![[2_2_black.jpg]]
+![[2_2_black.en.jpg]]
 **Figure 2a – Objects in** $IFR_{v+}$ **at the beginning of a thought experiment according to the theory of relativity**
 
 Figure 2b shows what should be observed in $IFR_{v+}$ after the time $\tau$ after the start of the thought experiment according to the theory of relativity.
 
-![[2_2b_black.jpg]]
+![[2_2b_black.en.jpg]]
 **Figure 2b – Objects in** $IFR_{v+}$ **after the time** $\tau$ **after starting a thought experiment according to the theory of relativity**
 
 According to the theory of relativity, the propagation of a flash of light in any IFR will be a sphere of a certain radius, since according to the second postulate in any IFR, the speed of light is $c$. It does not matter at what speed the radiating object is moving.
 
 Let's see for clarity what will be observed after adittional time interval $\tau$. Figure 2c shows what should be observed in $IFR_{v+}$ after the time $2\tau$ after the start of the thought experiment according to the theory of relativity.
 
-![[2_2c_black.jpg]]
+![[2_2c_black.en.jpg]]
 **Figure 2c – Objects in** $IFR_{v+}$ **after the time** $2\tau$ **after starting a thought experiment according to the theory of relativity**
 
 Now let's calculate when the spacecraft will reach object 3. To do this, we need to find the speed difference between the spacecraft and object 3:
@@ -155,17 +155,17 @@ Then the spacecraft accelerates to a speed equal to $-v$ in a time tending to ze
 
 The end of the thought experiment. We get the picture shown in the 2d figure.
 
-![[2_2d_black.jpg]]
+![[2_2d_black.en.jpg]]
 **Figure 2d – Objects in** $IFR_{v+}$ **after the time** $1000.5\tau$ **after starting a thought experiment according to the theory of relativity**
 
 We get the radii of the light spheres in $IFR_{v+}$:
 
-$R_{1v+}\approx1000.5\tau c$
+$R_{1v+}\approx1000.5\tau c$;
 $R_{2v+}\approx999.5\tau c$
 
 At the same time, in $IFR_{o3}$, the radii of the light spheres are:
 
-$R_{1o3}\approx2t c\approx44.733\tau c$
+$R_{1o3}\approx2t c\approx44.733\tau c$;
 $R_{2o3}\approx t c\approx22.366\tau c$
 
 In order to compare the results, it is necessary either to accelerate the object with which $IFR_{o3}$ was associated to the speed of $IFR_{v+}$, or to accelerate the object with which $IFR_{v+}$ was associated to the speed of $IFR_{o3}$. Then the observers will be in the same place and time in the same IFR.
