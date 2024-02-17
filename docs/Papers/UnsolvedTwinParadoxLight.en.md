@@ -149,7 +149,7 @@ $\Delta v=u_{43}'-v_{o3}\approx-0.999999499c+0.999c\approx-0.000999499c$
 
 Based on this, we can find the travel time of the spacecraft in $IFR_{v+}$ in the second stage:
 
-$\large{t_{43}=\left|\frac{l'}{\Delta v}\right|=\left|\frac{v\tau}{\Delta v}\right|\approx\frac{0.999c\tau}{-0.000999499c}\approx999.5\tau}$
+$\large{t_{43}'=\left|\frac{l'}{\Delta v}\right|=\left|\frac{v\tau}{\Delta v}\right|\approx\frac{0.999c\tau}{-0.000999499c}\approx999.5\tau}$
 
 Then the spacecraft accelerates to a speed equal to $-v$ in a time tending to zero and will move along with object 3.
 

@@ -149,7 +149,7 @@ $\Delta v=u_{43}'-v_{о3}\approx-0.999999499c+0.999c\approx-0.000999499c$
 
 Исходя из этого мы можем найти время путешествия космического корабля в $ИСО_{v+}$ на втором этапе: 
 
-$\large{t_{43}=\left|\frac{l'}{\Delta v}\right|=\left|\frac{v\tau}{\Delta v}\right|\approx\frac{0.999c\tau}{-0.000999499c}\approx999.5\tau}$
+$\large{t_{43}'=\left|\frac{l'}{\Delta v}\right|=\left|\frac{v\tau}{\Delta v}\right|\approx\frac{0.999c\tau}{-0.000999499c}\approx999.5\tau}$
 
 Затем космический корабль ускоряется до скорости равной $-v$ за время стремящееся к нулю и будет двигаться вместе с объектом 3. 
 
