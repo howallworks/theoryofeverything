@@ -170,7 +170,7 @@ $R_{2o3}\approx t c\approx22.366\tau c$
 
 In order to compare the results, it is necessary either to accelerate the object with which $IFR_{o3}$ was associated to the speed of $IFR_{v+}$, or to accelerate the object with which $IFR_{v+}$ was associated to the speed of $IFR_{o3}$. Then the observers will be in the same place and time in the same IFR.
 
-Accelerating the object with which $IFR_{o3}$ was associated to the speed of $IFR_{v+}$ in a time tending to zero. We get that it is necessary to take into account the Lorentz contraction. The entire space, including the light spheres, will shrink along the $x$ axis by the amount of $F(v)=F(0.999c)\approx0.0447101778$. As a result, we will get ellipsoids that are similar to the one shown in Figure 3.
+Accelerating the object with which $IFR_{o3}$ was associated to the speed of $IFR_{v+}$ in a time tending to zero. We get that it is necessary to take into account the Lorentz contraction. The entire space, including the light spheres, will shrink along the $x$ axis. Compression factor $F(v)=F(0.999c)\approx0.0447101778$. As a result, we will get ellipsoids that are similar to the one shown in Figure 3.
 
 ![[ellipsoid.jpg]]
 **Figure 3 – Ellipsoid**
@@ -183,7 +183,12 @@ Parameters of the surface of the light ellipsoid for the second light flash in $
 
 $b=c=R_{2o3}\approx22.366\tau c$; $a=0.0447101778R_{2o3}\approx\tau c$
 
-Accelerating the object with which $IFR_{v+}$ was associated to the speed of $IFR_{o3}$ in a time tending to zero. We get that it is necessary to take into account the Lorentz contraction. The entire space, including the light spheres, will expand along the $x$ axis by the amount of $1/F(v)=1/F(0.999c)\approx22.366$. As a result, we will get ellipsoids that are similar to the one shown in Figure 3.
+Figure 4a shows white curves of light spheres according to the calculations of the observer in $IFR_{v+}$, and red curves show light ellipsoids from the point of view of the observer on the spacecraft with which $IFR_{o3}$ was associated before the end of the thought experiment (after the end of the thought experiment, this spacecraft was accelerated to the speed of $IFR_{v+}$ for the time tending to zero).
+
+![[2_4a_black.en.jpg]]
+**Figure 4a – Objects in** $IFR_{v+}$ **after the time** $1000.5\tau$ **after starting a thought experiment according to the theory of relativity for different observers**
+
+Accelerating the object with which $IFR_{v+}$ was associated to the speed of $IFR_{o3}$ in a time tending to zero. We get that it is necessary to take into account the Lorentz contraction. The entire space, including the light spheres, will expand along the $x$ axis. The factor of stretching $1/F(v)=1/F(0.999c)\approx22.366$. As a result, we will get ellipsoids that are similar to the one shown in Figure 3.
 
 Parameters of the surface of the light ellipsoid for the first light flash in $IFR_{o3}$:
 
@@ -192,6 +197,11 @@ $b=c=R_{1v+}\approx1000.5\tau c$; $a=22.366R_{1v+}\approx22377\tau c$
 Parameters of the surface of the light ellipsoid for the second light flash in $IFR_{o3}$:
 
 $b=c=R_{2v+}\approx999.5\tau c$; $a=22.366R_{2v+}\approx22355\tau c$
+
+Figure 4b shows white curves of light spheres according to the calculations of the observer in $IFR_{o3}$, and red curves show light ellipsoids from the point of view of the observer on the spacecraft with which $IFR_{v+}$ was associated before the end of the thought experiment (after the end of the thought experiment, this spacecraft was accelerated to the speed of $IFR_{o3}$ for the time tending to zero).
+
+![[2_4b_black.en.jpg]]
+**Figure 4b – Objects in** $IFR_{o3}$ **after the time** $2t$ **after starting a thought experiment according to the theory of relativity for different observers**
 
 It turns out that no matter what IFR we are in, one observer will say that we will see spheres, and another observer will say that we will see ellipsoids. As you can see, the parameters of spheres and ellipsoids observed by different observers are completely different in a specific place and time in a specific IFR. Moreover, their centers also have different locations in space. At the same time, in all available real experiments, observers always see the same thing if they are in the same place and time in the same IFR - objective reality.
 
