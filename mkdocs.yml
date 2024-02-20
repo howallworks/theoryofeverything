@@ -114,7 +114,7 @@ plugins:
               Papers: Papers
               #UnsolvedTwinParadox: Unsolved Twin Paradox
               TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
-              UnsolvedTwinParadoxLight: New advanced thought experiments proving the fallacy of relativity of the universe
+              UnsolvedTwinParadoxLight: The inequality of inertial reference frames of the universe
         - locale: ru
           name: Русский
           ######
@@ -146,7 +146,7 @@ plugins:
               Papers: Научные статьи
               #UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
               TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
-              UnsolvedTwinParadoxLight: Новые продвинутые мысленные эксперименты доказывающие ошибочность относительности вселенной
+              UnsolvedTwinParadoxLight: Неравноправие инерциальных систем отсчета вселенной
           
 extra_javascript:
   #- javascripts/mathjax.js
