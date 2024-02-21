@@ -108,17 +108,17 @@ Once again, we note that the spacecraft, $IFR_{o3}$ and $IFR_{v+}$ move exclusiv
 
 To improve the quality of understanding of what is happening, we detail a specific quantitative description. Let $v=0.999c$. Then, due to the Lorentz contraction, the entire space along the $x$ axis will shrink.
 
-Let's find the compression ratio of the space along the $x$ axis according to the formula 1:
+Let's find the compression ratio of the space along the $x$ axis according to the formula (1):
 
 $F(v)=F(0.999c)\approx0.0447101778$
 
 That is, in $IFR_{v+}$: $l'=l_{12}'=l_{23}'=l_{34}'=l_{45}'=F(0.999c)l\approx0.0447101778l$ and $l=l_{67}'=l_{73}'=l_{38}'=l_{89}'$
 
-Using formula 2, we calculate the speeds of the spacecraft at each stage:
+Using formula (2), we calculate the speeds of the spacecraft at each stage:
 
 $\large{u_{34}'=0}$; $\large{u_{43}' = \frac{-v-v}{1+\frac{v^2}{c^2}}= \frac{-0.999c-0.999c}{1+\frac{{(0.999c)}^2}{c^2}}\approx-0.999999499c}$
 
-The time taken by the spacecraft to travel from object 3 to object 4 can be found either through the time dilation factor according to formula 1:
+The time taken by the spacecraft to travel from object 3 to object 4 can be found either through the time dilation factor according to formula (1):
 
 $\tau=F(v)t=F(0.999c)t\approx0.0447101778t$ 
 
