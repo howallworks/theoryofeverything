@@ -3,7 +3,7 @@
 
 The paper presents several types of new advanced thought experiments considered in the framework of the special theory of relativity and the results of their analysis.
 
-Description of the thought experiment is presented in which objects move at a speed tending to infinity, which contradicts the limiting speed of light according to the theory of relativity.
+The description of the thought experiment is presented in which objects move at a speed tending to infinity, which contradicts the limiting speed of light according to the theory of relativity.
 
 Another thought experiment with flashes of light is also described. It is shown that the resulting shape of the light surfaces, the location of the radiation and the dimensions may differ fundamentally for different observers according to the theory of relativity. The observers see these light surfaces together, being at the end of the thought experiment in the same place and moment of time in a common inertial frame of reference. This contradicts all real experimental data.
 
