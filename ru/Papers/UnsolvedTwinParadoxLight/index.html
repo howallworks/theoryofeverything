@@ -1,0 +1,622 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../TermTime/" rel="prev"/>
+<link href="../../../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.5.3, mkdocs-material-9.5.14" name="generator"/>
+<title>Неравноправие инерциальных систем отсчета вселенной - Теория всего</title>
+<link href="../../../assets/stylesheets/main.10ba22f1.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.06af60db.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="orange" data-md-color-scheme="slate" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#_1">
+          Перейти к содержанию
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Верхний колонтитул" class="md-header__inner md-grid">
+<a aria-label="Теория всего" class="md-header__button md-logo" data-md-component="logo" href="../../" title="Теория всего">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Теория всего
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Неравноправие инерциальных систем отсчета вселенной
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="orange" data-md-color-scheme="slate" id="__palette_0" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"></path></svg>
+</label>
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="orange" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"></path></svg>
+</label>
+</form>
+<script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Выберите язык" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Papers/UnsolvedTwinParadoxLight/" hreflang="en">
+              English
+            </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="ru">
+              Русский
+            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Поиск" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Поиск" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Поиск" class="md-search__options">
+<button aria-label="Очистить" class="md-search__icon md-icon" tabindex="-1" title="Очистить" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Инициализация поиска
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Навигация" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Теория всего" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="Теория всего">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"></path></svg>
+</a>
+    Теория всего
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+<span class="md-ellipsis">
+    Предисловие
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverything/">
+<span class="md-ellipsis">
+    Теория всего
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverythingPracticalC/">
+<span class="md-ellipsis">
+    Теория всего. Практические последствия
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+<span class="md-ellipsis">
+    Элементарные частицы
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_4_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+            Элементарные частицы
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20graviton/">
+<span class="md-ellipsis">
+    Квант гравитон
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20photon/">
+<span class="md-ellipsis">
+    Квант фотон
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+<span class="md-ellipsis">
+    Частицы Стандартной модели
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_5_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_5">
+<span class="md-nav__icon md-icon"></span>
+            Частицы Стандартной модели
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ParticlesOfStandardModel/Photon/">
+<span class="md-ellipsis">
+    Фотон
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+<span class="md-ellipsis">
+    Термины или сокращения
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+            Термины или сокращения
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Accretion%20disk/">
+<span class="md-ellipsis">
+    Аккрецио́нный диск
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Albert%20Einstein/">
+<span class="md-ellipsis">
+    Альбе́рт Эйнште́йн
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blazar/">
+<span class="md-ellipsis">
+    Блаза́р
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Elementary%20particle/">
+<span class="md-ellipsis">
+    Элементарная частица
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/GTR/">
+<span class="md-ellipsis">
+    ОТО
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Helicity/">
+<span class="md-ellipsis">
+    Спиральность
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Relativistic%20jet/">
+<span class="md-ellipsis">
+    Релятиви́стская струя
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/SMBH/">
+<span class="md-ellipsis">
+    СМЧД
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Standard%20Model/">
+<span class="md-ellipsis">
+    Стандартная модель
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blandford%E2%80%93Znajek%20process/">
+<span class="md-ellipsis">
+    Процесс Блэнфорда — Знаека
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Penrose%20process/">
+<span class="md-ellipsis">
+    процесс Пенроуза
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Hafele%E2%80%93Keating%20experiment/">
+<span class="md-ellipsis">
+    Эксперимент Хафеле — Китинга
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+<span class="md-ellipsis">
+    Научные статьи
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+            Научные статьи
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermTime/">
+<span class="md-ellipsis">
+    Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+<span class="md-ellipsis">
+    Неравноправие инерциальных систем отсчета вселенной
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+<span class="md-ellipsis">
+    Неравноправие инерциальных систем отсчета вселенной
+  </span>
+</a>
+<nav aria-label="Содержание" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_1">
+<span class="md-ellipsis">
+      Аннотация
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+<span class="md-ellipsis">
+      Введение
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+<span class="md-ellipsis">
+      Мысленные эксперименты доказывающие неравноправность инерциальных систем отсчета
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+<span class="md-ellipsis">
+      Заключение
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+<span class="md-ellipsis">
+      Список литературы
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Содержание" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_1">
+<span class="md-ellipsis">
+      Аннотация
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+<span class="md-ellipsis">
+      Введение
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+<span class="md-ellipsis">
+      Мысленные эксперименты доказывающие неравноправность инерциальных систем отсчета
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+<span class="md-ellipsis">
+      Заключение
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+<span class="md-ellipsis">
+      Список литературы
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>Неравноправие инерциальных систем отсчета вселенной</h1>
+<h3 id="_1">Аннотация<a class="headerlink" href="#_1" title="Permanent link">¶</a></h3>
+<p>В работе приведены несколько типов новых продвинутых мысленных экспериментов рассмотренные в рамках специальной теории относительности и результаты их анализа.</p>
+<p>Представлено описание мысленного эксперимента, в котором происходит движение объектов со скоростью стремящейся к бесконечности, что противоречит предельной скорости света согласно теории относительности.</p>
+<p>Также описан другой мысленный эксперимент со вспышками света. Показано, что результирующая форма световых поверхностей, место излучения и размеры могут фундаментально отличаться для разных наблюдателей согласно теории относительности. Наблюдатели вместе следят за этими световыми поверхностями, находясь в конце мысленного эксперимента в одном и том же месте и моменте времени в общей инерциальной системе отсчета. Это противоречит всем реальным экспериментальным данным.</p>
+<p>Полученные результаты доказывают, что разные инерциальные системы отсчета, двигающиеся относительно друг друга, неравноправны и не могут быть описаны общими законами.</p>
+<p>Для устранения этих проблем предложена специальная инерциальная система отсчета, относительно которой можно проводить расчеты и получать результаты совпадающие с реальностью. </p>
+<h3 id="_2">Введение<a class="headerlink" href="#_2" title="Permanent link">¶</a></h3>
+<p>После того, как Эйнштейн сформулировал специальную теорию относительности (СТО) придумали мысленный эксперимент. В этом эксперименте не понятно какой объект испытывает замедление времени - парадокс близнецов [1,2,3,4,5,6,7]. Затем несколько ученых указали, что никакого парадокса нет. Они придумали ряд методов объясняющих происходящее в этом мысленном эксперименте [8,9,10,11,12,13]. Однако эти методы используют дополнительные средства, не относящиеся к специальной теории относительности. При этом сам мысленный эксперимент максимально упрощен и не показывает полноты проблемы использования теории относительности.</p>
+<p>Если же рассматривать решения исключительно в рамках специальной теории относительности Эйнштейна, то они дают малое отклонение от реальности лишь для узкого спектра случаев в привилегированной системе отсчета и в целом неверны. Проведем несколько мысленных экспериментов чтобы это доказать.</p>
+<h3 id="_3">Мысленные эксперименты доказывающие неравноправность инерциальных систем отсчета<a class="headerlink" href="#_3" title="Permanent link">¶</a></h3>
+<p>Для дальнейшего описание необходимо ввести новое понятие. </p>
+<p>Неподвижная система отсчета (НСО) - это инерциальная система отсчета (ИСО) связанная с объектом характеризующимся нулевым сдвигом реликтового излучения (нулевой дипольной анизотропией). НСО может быть связана с разными объектами, но их относительная скорость равна нулю. Необходимо особо отметить, что НСО отличается от системы отсчета связанной с Землей всего на несколько сот километров в секунду. Это основная причина по которой большинство вычислений согласно теории относительности близки к реальным результатам в экспериментах.</p>
+<p>Коэффициент замедления времени или сжатия пространства:</p>
+<p><span class="arithmatex">\(F(v) = \sqrt{1 - \frac{v^2}{c^2}}\)</span>, (1)</p>
+<p>где <span class="arithmatex">\(v\)</span> это скорость объекта относительно ИСО или НСО.</p>
+<p>Перерасчет скорости при смене ИСО:</p>
+<p><span class="arithmatex">\(\large{u_x' = \frac{u_x-v}{1-\frac{u_x v}{c^2}}}\)</span>, (2)</p>
+<p>где <span class="arithmatex">\(v\)</span> - скорость <span class="arithmatex">\(ИСО'\)</span> относительно базовой ИСО, <span class="arithmatex">\(u_x\)</span> - скорость объекта относительно базовой ИСО, <span class="arithmatex">\(u_x'\)</span> - скорость объекта относительно <span class="arithmatex">\(ИСО'\)</span>.</p>
+<p>Описание мысленного эксперимента 1:</p>
+<p>Возьмем два космических корабля с синхронизированными часами (или две короткоживущие частицы полученные в одно и тоже время). Для простоты они двигаются только по одной оси координат - <span class="arithmatex">\(x\)</span>. Время затрачиваемое на ускорения считается пренебрежительно малым.</p>
+<p>Пусть <span class="arithmatex">\(v\)</span> - скорость космических кораблей относительно НСО (или с погрешностью относительно Земли). </p>
+<ol>
+<li>Начало. Они летят вместе. Пусть <span class="arithmatex">\(v=0\)</span>. Первый всегда покоится. </li>
+<li>Второй ускорим до скорости стремящейся к <span class="arithmatex">\(c\)</span>. </li>
+<li>Подождем значительное время <span class="arithmatex">\(0.5t\)</span>. </li>
+<li>Ускорим второй до скорости стремящейся к <span class="arithmatex">\(-c\)</span>. </li>
+<li>Подождем значительное время <span class="arithmatex">\(0.5t\)</span>. </li>
+<li>Ускорим второй до <span class="arithmatex">\(0\)</span>. </li>
+<li>Они летят вместе. Конец мысленного эксперимента. </li>
+</ol>
+<p>Результаты в НСО используя формулу (1):  </p>
+<ul>
+<li>космический корабль 1: <span class="arithmatex">\(t_1=F(0)(0.5t)+F(0)(0.5t)=0.5t+0.5t=t\)</span>; </li>
+<li>космический корабль 2: <span class="arithmatex">\(t_2=F(c)(0.5t)+F(-c)(0.5t)\to0\)</span>.</li>
+</ul>
+<p>Пусть <span class="arithmatex">\(t\)</span> равно миллиарду лет. В НСО ничего интересного не наблюдается и должно совпадать с результатами реальных экспериментов.</p>
+<p>Теперь посмотрим, что же будет наблюдаться с точки зрения каждого из космических кораблей согласно теории относительности. </p>
+<p>Результаты первого космического корабля будут идентичны результатам в НСО, так как система отсчета совпадает.</p>
+<p>Для второго космического корабля изменение собственного времени зафиксированное на часах будет стремится к нулю (должно совпасть с результатами реальных экспериментов). Однако в структуре вселенной за это время будут зафиксированы колоссальные изменения. Объекты, скорость которых стремится к скорости света в НСО пройдут расстояние практически в миллиард световых лет. Это значит что их скорость относительно второго космического корабля должна была стремится к бесконечности (миллиард световых лет делим на время стремящееся к нулю). Однако это невозможно согласно теории относительности, так как предельная скорость должна быть равна скорости света. </p>
+<p>Получаем противоречие: </p>
+<ul>
+<li>либо скорость объектов может стремиться к бесконечности с практически нулевым изменением времени на часах второго космического корабля. Это указывает на ошибочность теории относительности, но соответствует реальности.</li>
+<li>либо на часах второго космического корабля должно пройти столько же времени сколько и для первого космического корабля (миллиард лет), чтобы сохранить для объектов вселенной предельную скорость света. Это укладывается в концепцию теории относительности, но противоречит реальности.</li>
+</ul>
+<p>Стоит отметить, что происходящее нельзя объяснить Лоренцевым сокращением длины хотя бы потому, что оно не влияет на плоскость перпендикулярную оси движения. Там объекты, скорость которых стремится к скорости света в НСО, пройдут расстояние практически в миллиард световых лет.</p>
+<p>Фактически мы получаем, что вселенная изменилась на миллиард лет, но время для второго космического корабля практически не изменилось.</p>
+<p>Это подтверждается экспериментальными данными, например, для короткоживущих частиц ускоренных до скоростей близких к скорости света. Фактически для этих случаев вселенная успевает изменяется на время на порядки превышающее собственное время жизни частицы (в НСО такие частицы распадаются на порядки быстрее). Конечно лоренц-фактор не такой высокий как в мысленном эксперименте, но это сугубо техническая проблема.</p>
+<p>Рассмотрим ещё один мысленный эксперимент показывающий насколько велико может быть расхождение теории относительности с реальностью. </p>
+<p>Описание мысленного эксперимента 2:</p>
+<p>Возьмем несколько космических кораблей. Для простоты они двигаются только по одной оси координат - <span class="arithmatex">\(x\)</span> и имеют нулевые координаты по осям <span class="arithmatex">\(y\)</span> и <span class="arithmatex">\(z\)</span>. Все прочие объекты расположены в плоскости <span class="arithmatex">\(xz\)</span>. Время затрачиваемое на ускорения считается пренебрежительно малым.</p>
+<p>Пусть ИСО связана с объектом 3 (<span class="arithmatex">\(ИСО_{o3}\)</span>) на рисунке 1а.</p>
+<p><img alt="2_1_black.ru.jpg" src="../../PhotosAndDrawings/2_1_black.jpg"/>
+<strong>Рисунок 1а – Объекты в</strong> <span class="arithmatex">\(ИСО_{o3}\)</span></p>
+<p>На рисунке 1а расстояния между объектами пространства выбраны следующим образом:
+<span class="arithmatex">\(l=l_{12}=l_{ИСО_{v+}2}=l_{23}=l_{34}=l_{45}=l_{67}=l_{73}=l_{38}=l_{89}\)</span></p>
+<p>С объекта 3 стартует космический корабль по оси <span class="arithmatex">\(x\)</span> и за время стремящееся к нулю приобретает вектор скорости <span class="arithmatex">\(v\)</span>. </p>
+<p>Начало мысленного эксперимента. В этот момент космический корабль испускает импульс света. Затем движется время равное <span class="arithmatex">\(t\)</span> по часам <span class="arithmatex">\(ИСО_{o3}\)</span>. <span class="arithmatex">\(l\)</span> выбрано таким образом что <span class="arithmatex">\(l=vt\)</span>. Затем космический корабль ускоряется и за время стремящееся к нулю приобретает вектор скорости <span class="arithmatex">\(-v\)</span>.</p>
+<p>Получаем картину представленную на рисунке 1б.</p>
+<p><img alt="2_1b_black.ru.jpg" src="../../PhotosAndDrawings/2_1b_black.jpg"/>
+<strong>Рисунок 1б – Объекты в</strong> <span class="arithmatex">\(ИСО_{o3}\)</span> <strong>спустя время</strong> <span class="arithmatex">\(t\)</span></p>
+<p>В этот момент космический корабль испускает импульс света. Затем движется время равное <span class="arithmatex">\(t\)</span> по часам <span class="arithmatex">\(ИСО_{o3}\)</span>. Затем космический корабль ускоряется до скорости равной нулю за время стремящееся к нулю. </p>
+<p>Конец мысленного эксперимента. Получаем картину представленную на рисунке 1в.</p>
+<p><img alt="2_1c_black.ru.jpg" src="../../PhotosAndDrawings/2_1c_black.jpg"/>
+<strong>Рисунок 1в – Объекты в</strong> <span class="arithmatex">\(ИСО_{o3}\)</span> <strong>спустя время</strong> <span class="arithmatex">\(2t\)</span></p>
+<p>Теперь посмотрим что же мы будем наблюдать относительно другой <span class="arithmatex">\(ИСО_{v+}\)</span> связанной с другим космическим кораблем двигающимся с вектором скорости <span class="arithmatex">\(v\)</span> относительно изначальной <span class="arithmatex">\(ИСО_{o3}\)</span>.  </p>
+<p>Ещё раз отметим, что космический корабль, <span class="arithmatex">\(ИСО_{o3}\)</span> и <span class="arithmatex">\(ИСО_{v+}\)</span> двигаются исключительно по одной оси <span class="arithmatex">\(x\)</span> и имеют нулевые координаты по осям <span class="arithmatex">\(y\)</span> и <span class="arithmatex">\(z\)</span>.</p>
+<p>Для повышения качества понимания происходящего детализируем конкретное количественное описание. Пусть <span class="arithmatex">\(v=0.999c\)</span>. Тогда из-за сокращения Лоренца всё пространство по оси <span class="arithmatex">\(x\)</span> сожмется. </p>
+<p>Найдем коэффициент сжатия пространства по оси <span class="arithmatex">\(x\)</span> по формуле (1):</p>
+<p><span class="arithmatex">\(F(v)=F(0.999c)\approx0.0447101778\)</span></p>
+<p>То есть в <span class="arithmatex">\(ИСО_{v+}\)</span>: <span class="arithmatex">\(l'=l_{12}'=l_{23}'=l_{34}'=l_{45}'=F(0.999c)l\approx0.0447101778l\)</span> и <span class="arithmatex">\(l=l_{67}'=l_{73}'=l_{38}'=l_{89}'\)</span></p>
+<p>По формуле (2) вычислим скорости космического корабля на каждом этапе:</p>
+<p><span class="arithmatex">\(\large{u_{34}'=0}\)</span>; <span class="arithmatex">\(\large{u_{43}' = \frac{-v-v}{1+\frac{v^2}{c^2}}= \frac{-0.999c-0.999c}{1+\frac{{(0.999c)}^2}{c^2}}\approx-0.999999499c}\)</span></p>
+<p>Время затраченное космическим кораблем на путешествие от объекта 3 до объекта 4 можно найти либо через коэффициент замедления времени по формуле (1): </p>
+<p><span class="arithmatex">\(\tau=F(v)t=F(0.999c)t\approx0.0447101778t\)</span> </p>
+<p>либо разделить расстояние на скорость в <span class="arithmatex">\(ИСО_{v+}\)</span>:</p>
+<p><span class="arithmatex">\(\tau=\frac{l'}{v}=\frac{F(v)l}{v}=\frac{F(v)vt}{v}=F(0.999c)t\approx0.0447101778t\)</span></p>
+<p>На рисунке 2а показано, что должно наблюдаться в <span class="arithmatex">\(ИСО_{v+}\)</span> в начале мысленного эксперимента согласно теории относительности.</p>
+<p><img alt="2_2_black.ru.jpg" src="../../PhotosAndDrawings/2_2_black.jpg"/>
+<strong>Рисунок 2а – Объекты в</strong> <span class="arithmatex">\(ИСО_{v+}\)</span> <strong>в начале мысленного эксперимента согласно теории относительности</strong></p>
+<p>На рисунке 2б показано, что должно наблюдаться в <span class="arithmatex">\(ИСО_{v+}\)</span> через время <span class="arithmatex">\(\tau\)</span> после начала мысленного эксперимента согласно теории относительности.</p>
+<p><img alt="2_2b_black.ru.jpg" src="../../PhotosAndDrawings/2_2b_black.jpg"/>
+<strong>Рисунок 2б – Объекты в</strong> <span class="arithmatex">\(ИСО_{v+}\)</span> <strong>через время</strong> <span class="arithmatex">\(\tau\)</span> <strong>после начала мысленного эксперимента согласно теории относительности</strong></p>
+<p>Согласно теории относительности распространение вспышки света в любой ИСО будет представлять из себя сферу определенного радиуса, так как согласно второму постулату в любой ИСО скорость света равна <span class="arithmatex">\(c\)</span>. При этом не важно с какой скоростью движется излучающий объект.</p>
+<p>Давайте для наглядности посмотрим, что будет наблюдаться спустя еще один интервал времени <span class="arithmatex">\(\tau\)</span>. На рисунке 2в показано, что должно наблюдаться в <span class="arithmatex">\(ИСО_{v+}\)</span> через время <span class="arithmatex">\(2\tau\)</span> после начала мысленного эксперимента согласно теории относительности.</p>
+<p><img alt="2_2c_black.ru.jpg" src="../../PhotosAndDrawings/2_2c_black.jpg"/>
+<strong>Рисунок 2в – Объекты в</strong> <span class="arithmatex">\(ИСО_{v+}\)</span> <strong>через время</strong> <span class="arithmatex">\(2\tau\)</span> <strong>после начала мысленного эксперимента согласно теории относительности</strong></p>
+<p>Теперь давайте рассчитаем, когда космический корабль долетит до объекта 3. Для этого нам нужно найти разность скоростей между космическим кораблем и объектом 3:</p>
+<p><span class="arithmatex">\(\Delta v=u_{43}'-v_{о3}\approx-0.999999499c+0.999c\approx-0.000999499c\)</span></p>
+<p>Исходя из этого мы можем найти время путешествия космического корабля в <span class="arithmatex">\(ИСО_{v+}\)</span> на втором этапе: </p>
+<p><span class="arithmatex">\(\large{t_{43}'=\left|\frac{l'}{\Delta v}\right|=\left|\frac{v\tau}{\Delta v}\right|\approx\frac{0.999c\tau}{-0.000999499c}\approx999.5\tau}\)</span></p>
+<p>Затем космический корабль ускоряется до скорости равной <span class="arithmatex">\(-v\)</span> за время стремящееся к нулю и будет двигаться вместе с объектом 3. </p>
+<p>Конец мысленного эксперимента. Получаем картину представленную на рисунке 2г.</p>
+<p><img alt="2_2d_black.ru.jpg" src="../../PhotosAndDrawings/2_2d_black.jpg"/>
+<strong>Рисунок 2г – Объекты в</strong> <span class="arithmatex">\(ИСО_{v+}\)</span> <strong>через время</strong> <span class="arithmatex">\(1000.5\tau\)</span> <strong>после начала мысленного эксперимента согласно теории относительности</strong></p>
+<p>Получаем в <span class="arithmatex">\(ИСО_{v+}\)</span> радиусы световых сфер:</p>
+<p><span class="arithmatex">\(R_{1v+}\approx1000.5\tau c\)</span>;
+<span class="arithmatex">\(R_{2v+}\approx999.5\tau c\)</span></p>
+<p>При этом в <span class="arithmatex">\(ИСО_{o3}\)</span> радиусы световых сфер:</p>
+<p><span class="arithmatex">\(R_{1o3}\approx2t c\approx44.733\tau c\)</span>;
+<span class="arithmatex">\(R_{2o3}\approx t c\approx22.366\tau c\)</span></p>
+<p>Для того чтобы сравнить результаты необходимо либо ускорить объект с которым была связана <span class="arithmatex">\(ИСО_{o3}\)</span> до скорости <span class="arithmatex">\(ИСО_{v+}\)</span>, либо ускорить объект с которым была связана <span class="arithmatex">\(ИСО_{v+}\)</span>  до скорости <span class="arithmatex">\(ИСО_{o3}\)</span>. Тогда наблюдатели будут в одном и том же месте и времени в одной и той же ИСО.</p>
+<p>Ускорив объект с которым была связана <span class="arithmatex">\(ИСО_{o3}\)</span> до скорости <span class="arithmatex">\(ИСО_{v+}\)</span> за время стремящееся к нулю. Получим, что необходимо учесть сокращение Лоренца. Все пространство включая световые сферы сожмётся по оси <span class="arithmatex">\(x\)</span>. Коэффициент сжатия <span class="arithmatex">\(F(v)=F(0.999c)\approx0.0447101778\)</span>. В результате мы получим эллипсоиды, которые аналогичны представленному на рисунке 3.</p>
+<p><img alt="ellipsoid.jpg" src="../../../PhotosAndDrawings/ellipsoid.jpg"/>
+<strong>Рисунок 3 – Эллипсоид</strong></p>
+<p>Параметры поверхности светового эллипсоида для первой световой вспышки в <span class="arithmatex">\(ИСО_{v+}\)</span>:</p>
+<p><span class="arithmatex">\(b=c=R_{1o3}\approx44.733\tau c\)</span>; <span class="arithmatex">\(a=0.0447101778R_{1o3}\approx2\tau c\)</span></p>
+<p>Параметры поверхности светового эллипсоида для второй световой вспышки в <span class="arithmatex">\(ИСО_{v+}\)</span>:</p>
+<p><span class="arithmatex">\(b=c=R_{2o3}\approx22.366\tau c\)</span>; <span class="arithmatex">\(a=0.0447101778R_{2o3}\approx\tau c\)</span></p>
+<p>На рисунке 4а показаны белыми кривыми световые сферы согласно расчетам наблюдателя в <span class="arithmatex">\(ИСО_{v+}\)</span>, а красными - световые эллипсоиды с точки зрения наблюдателя на космическом корабле с которым была связана <span class="arithmatex">\(ИСО_{o3}\)</span> до окончания мысленного эксперимента (после окончания мысленного эксперимента ускорили этот космический корабль до скорости <span class="arithmatex">\(ИСО_{v+}\)</span> за время стремящееся к нулю).</p>
+<p><img alt="2_4a_black.ru.jpg" src="../../PhotosAndDrawings/2_4a_black.jpg"/>
+<strong>Рисунок 4а – Объекты в</strong> <span class="arithmatex">\(ИСО_{v+}\)</span> <strong>через время</strong> <span class="arithmatex">\(1000.5\tau\)</span> <strong>после начала мысленного эксперимента согласно теории относительности для разных наблюдателей</strong></p>
+<p>Ускорив объект с которым была связана <span class="arithmatex">\(ИСО_{v+}\)</span>  до скорости <span class="arithmatex">\(ИСО_{o3}\)</span> за время стремящееся к нулю. Получим, что необходимо учесть сокращение Лоренца. Все пространство включая световые сферы разожмется по оси <span class="arithmatex">\(x\)</span>. Коэффициент растяжения <span class="arithmatex">\(1/F(v)=1/F(0.999c)\approx22.366\)</span>. В результате мы получим эллипсоиды, которые аналогичны представленному на рисунке 3.</p>
+<p>Параметры поверхности светового эллипсоида для первой световой вспышки в <span class="arithmatex">\(ИСО_{o3}\)</span>:</p>
+<p><span class="arithmatex">\(b=c=R_{1v+}\approx1000.5\tau c\)</span>; <span class="arithmatex">\(a=22.366R_{1v+}\approx22377\tau c\)</span></p>
+<p>Параметры поверхности светового эллипсоида для второй световой вспышки в <span class="arithmatex">\(ИСО_{o3}\)</span>:</p>
+<p><span class="arithmatex">\(b=c=R_{2v+}\approx999.5\tau c\)</span>; <span class="arithmatex">\(a=22.366R_{2v+}\approx22355\tau c\)</span></p>
+<p>На рисунке 4б показаны белыми кривыми световые сферы согласно расчетам наблюдателя в <span class="arithmatex">\(ИСО_{o3}\)</span>, а красными - световые эллипсоиды с точки зрения наблюдателя на космическом корабле с которым была связана <span class="arithmatex">\(ИСО_{v+}\)</span> до окончания мысленного эксперимента (после окончания мысленного эксперимента ускорили этот космический корабль до скорости <span class="arithmatex">\(ИСО_{o3}\)</span> за время стремящееся к нулю).</p>
+<p><img alt="2_4b_black.ru.jpg" src="../../PhotosAndDrawings/2_4b_black.jpg"/>
+<strong>Рисунок 4б – Объекты в</strong> <span class="arithmatex">\(ИСО_{o3}\)</span> <strong>через время</strong> <span class="arithmatex">\(2t\)</span> <strong>после начала мысленного эксперимента согласно теории относительности для разных наблюдателей</strong></p>
+<p>Получается, что в какой бы ИСО мы не находились, один наблюдатель скажет что мы будем видеть сферы, а другой наблюдатель скажет что мы будем видеть эллипсоиды. Как видим параметры сфер и эллипсоидов наблюдаемые разными наблюдателями абсолютно разные в конкретном месте и времени в конкретной ИСО. Более того их центры также имеют разное расположение в пространстве. При этом во всех имеющихся реальных экспериментах наблюдатели всегда видят одно и тоже, если находятся в одном и том же месте и времени в одной и той же ИСО - объективная реальность.</p>
+<p>Для повышения качества понимания происходящего предположим, что все пространство наполнено мелкой пылью неподвижной в <span class="arithmatex">\(ИСО_{o3}\)</span>. Тогда становится понятно, что вспышки света достигнут все пылинки в зоне рассчитанных ранее сфер и эллипсоидов. Получается что согласно теории относительности разные наблюдатели после их перехода в одну общую ИСО будут фиксировать разные области пространства с пылью, которая была подсвечена. Это противоречит реальности, так как по факту наблюдатели зафиксируют одну и ту же картину для них обоих. </p>
+<p>Необходимо сказать, что для любых других ИСО, движущихся относительно друг друга, проблема будет сохраняться. Отличие будет только в степени разницы между сферами и эллипсоидами. </p>
+<p>Исходя из того, что любые составные объекты движутся медленнее скорости света, то они обязаны согласно теории относительности находиться внутри описанных выше сфер и эллипсоидов, если были запущены с того же космического корабля не ранее момента вспышки света. Это дополнительно указывает на несоответствие теории относительности и реальности. </p>
+<p>Есть ещё один вариант объяснения результатов полученных разными наблюдателями. Можно предположить, что при переходе наблюдателя из одной инерциальной системы отсчета в другую все объекты меняют соответственно свое местоположение и состояние в пространстве. Например, если взять наблюдателя из <span class="arithmatex">\(ИСО_{o3}\)</span> и ускорить его за время стремящееся к нулю до скорости <span class="arithmatex">\(v\)</span>, то он перейдет в <span class="arithmatex">\(ИСО_{v+}\)</span>. При этом состояние объектов сменится с картины представленной на рисунке 1в на картину представленную на рисунке 2г. Фактически произойдет телепортация объектов и их состояний. Переход наблюдателя из <span class="arithmatex">\(ИСО_{v+}\)</span> в <span class="arithmatex">\(ИСО_{o3}\)</span> аналогичен - картина рисунка 2г сменится на картину рисунка 1в. </p>
+<p>Это хорошее объяснение, но и здесь есть фундаментальная проблема. Для того чтобы наглядно показать эту проблему добавим деталь в данный мысленный эксперимент. При попадании света на объект 1 он ускоряется до скорости <span class="arithmatex">\(v\)</span> за время стремящееся к нулю и переходит из <span class="arithmatex">\(ИСО_{o3}\)</span> в <span class="arithmatex">\(ИСО_{v+}\)</span>.  Получается, что в <span class="arithmatex">\(ИСО_{o3}\)</span> световой импульс попадет на объект 1 ещё до того как космический корабль вернется обратно к объекту 3 (до конца мысленного эксперимента). После этого объект 1 ускоряется до скорости <span class="arithmatex">\(v\)</span> за время стремящееся к нулю и переходит из <span class="arithmatex">\(ИСО_{o3}\)</span> в <span class="arithmatex">\(ИСО_{v+}\)</span>. И мы должны увидеть картину, которая будет раньше чем картина представленная на рисунке 2г. А значит в этой ИСО световой импульс ещё не попал на объект 1 и он не мог ускорится и перейти в <span class="arithmatex">\(ИСО_{v+}\)</span>. Получаем парадоксальное поведение невозможное в реальности.</p>
+<p>В итоге мы получили результаты доказывающие, что разные ИСО неравноправны и не могут быть описаны общими законами, концепция относительности ошибочна и наша вселенная абсолютна. Также необходимо ещё раз особо отметить, что причина хорошего соответствия теории относительности экспериментальным данным в том, что НСО отличается от системы отсчета связанной с Землей всего на несколько сот километров в секунду и это дает минимальную погрешность.</p>
+<h3 id="_4">Заключение<a class="headerlink" href="#_4" title="Permanent link">¶</a></h3>
+<p>Теория относительности Эйнштейна не использует и не дает понимание об абсолютных характеристиках, а именно, о начальных скоростях исследуемой пары объектов. Кроме того, также не дает понимания о том происходит ускорение или торможение объекта, так как в ней важны лишь относительные скорости и ускорения между объектами. В этом вся суть этой теории. И именно эта концепция относительности делает теорию относительности ошибочной в общем случае.</p>
+<p>Безусловно требует тщательной проверки предположение о том, что именно НСО является инерциальной системой отсчета относительно которой корректно рассчитывать все во вселенной. Однако исходя из анализа вышеописанных мысленных экспериментов можно утверждать, что теория относительности Эйнштейна и концепция относительности вселенной ошибочны, так как в широком спектре случаев не позволяют корректно описывать поведение объектов вселенной качественно и количественно. </p>
+<p>Также полученные результаты доказывают, что различные ИСО неравноправны и не могут быть описаны общими законами. Это приводит к пониманию абсолютности структуры вселенной. Фактически предполагается, что НСО является покоящейся в рамках концепции абсолютной вселенной. Это основа для построения концепции абсолютной вселенной. Исходя из этого именно скорость относительно НСО является ключевым параметром определяющим сколько времени будут показывать часы.</p>
+<h3 id="_5">Список литературы<a class="headerlink" href="#_5" title="Permanent link">¶</a></h3>
+<ol>
+<li>Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) https://doi.org/10.1002/andp.19053221004.</li>
+<li>Einstein, A.: Die relativit¨ats-theorie. Vierteljahrsschrift der Naturforschenden Gesellschaft in Z¨urich 56, 1–14 (1911).</li>
+<li>Resnick, R.: Supplementary Topic B: The Twin Paradox, pp. 201–209. John Wiley and Sons, Inc., New York (1968).</li>
+<li>Crowell, B.: The Twin Paradox, pp. 23–24. Light and Matter, Fullerton, California (2000).</li>
+<li>Serway, R.A., Moses, C.J., Moyer, C.A.: Modern Physics, pp. 21–22. Thomson Learning, Inc., 10 Davis Drive Belmont, CA 94002 (2004).</li>
+<li>D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). https://doi.org/10.1007/978-3-319-22014-7.</li>
+<li>Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). https://doi.org/10.1017/CBO9781139003391.</li>
+<li>Hawley, J.F., Holcomb, K.A.: Foundations of Modern Cosmology, pp. 203–205. Oxford University Press, Great Clarendon St, Oxford (2005).</li>
+<li>Laue, M.: The principle of relativity. Yearbooks of Philosophy 1, 99–128 (1913).</li>
+<li>Einstein, A.: Dialog about objections against the theory of relativity. Die Naturwissenschaften 48, 697–702 (1918).</li>
+<li>Ohanian, H.: Special Relativity: a Modern Introduction. Physics Curriculum and Instruction, Lakeville, MN (2001).</li>
+<li>Harris, R.: Modern Physics. Pearson Addison-Wesley, San Francisco, CA (2008).</li>
+<li>Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).</li>
+</ol>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u0431\u0443\u0444\u0435\u0440", "clipboard.copy": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u0443\u0444\u0435\u0440", "search.result.more.one": "\u0415\u0449\u0451 1 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.more.other": "\u0415\u0449\u0451 # \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.none": "\u0421\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e", "search.result.one": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e 1 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435", "search.result.other": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439: #", "search.result.placeholder": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430", "search.result.term.missing": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442", "select.version": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0432\u0435\u0440\u0441\u0438\u044e"}}</script>
+<script src="../../../assets/javascripts/bundle.bd41221c.min.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</body>
+</html>
