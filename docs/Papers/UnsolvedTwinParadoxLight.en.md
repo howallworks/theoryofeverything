@@ -299,8 +299,6 @@ Even if we take a small-sized light clock or an ordinary atomic clock with cesiu
 
 As a result, if the time of the experiment in any IFR is longer than the time of the existence of the universe according to any real clock, then this proves the inequality of IFRs and the inability to describe them by general laws, that is, it proves a violation of the first postulate of the theory of relativity. At the same time, the lifetime of the universe is a finite quantity, and, as we have shown above, the time of the experiment in certain IFRs can tend to infinity. All this proves the fallacy of the concept of relativity theory.
 
-In fact, in order for the theory of relativity to function correctly, it is necessary that when changing the IFR, not only spatial coordinates, but also time on the same real clock, are teleported (changed abruptly). This is contradict to reality.
-
 ### Conclusion
 
 The theory of relativity is mathematically beautiful and consistent. However, it is possible to describe many variants in which the solution of the problem by its means will be real experimentally in one inertial frame of reference, but impossible in practice in another inertial frame of reference. The reason for this is that different IFRs are unequal and do not reflect reality when trying to describe by the general laws.
