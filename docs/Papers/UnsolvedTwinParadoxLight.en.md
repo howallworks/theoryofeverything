@@ -286,6 +286,17 @@ It is worth noting that even with a larger value of $F(v)$, the above problem wi
 
 For many variants of real experiments, the problem described above will also be relevant, since it occurs for many variants of thought experiments having a large $t$ and a small coefficient of $F(v)$. For example, if we take thought experiment 2 and assume $t$ equal to five billion years, then in $IFR_{v+}$ the clock will have to measure time much longer than the time of the universe's existence. At the same time, if the coefficient $F(v)$ is even smaller, then the problem will further worsen.
 
+Thought experiment 4 description:
+
+Let's take a light clock. For simplicity, clock move only along one coordinate axis - $x$ and are located on the same $x$ axis. The photon between the plates of the clock travels only along the $x$ axis. 
+
+In $IFR_{0}$, where the clock is immobile, the full period will be: $T=\frac{2l}{c}$.
+In $IFR_{v+}$, the full period will be: $T'=\frac{l'}{c+v}+\frac{l'}{c-v}=\frac{2cF(v)l}{(c+v)(c-v)}$.
+
+Let $l=10^{9}$ light-years and $F(v)=10^{-3}$ ($v\approx0.9999995c$), then $T=2\cdot10^9$ years, $T'\approx\frac{2\cdot10^{-3}\cdot10^9}{(1+0.9999995)(1-0.9999995)}\approx2\cdot10^{12}$ years.
+
+Even if we take a small-sized light clock or an ordinary atomic clock with cesium-133 or mechanical or quartz, then, according to the theory of relativity, at $F(v)\to0$ in $IFR_{v+}$, not a single complete period of $T'$ will occur for them during the existence of the universe. This is contrary to reality.
+
 As a result, if the time of the experiment in any IFR is longer than the time of the existence of the universe according to any real clock, then this proves the inequality of IFRS and the inability to describe them by general laws, that is, it proves a violation of the first postulate of the theory of relativity. At the same time, the lifetime of the universe is a finite quantity, and, as we have shown above, the time of the experiment in certain IFRs can tend to infinity. All this proves the fallacy of the concept of relativity theory.
 
 In fact, in order for the theory of relativity to function correctly, it is necessary that when changing the IFR, not only spatial coordinates, but also time on the same real clock, are teleported (changed abruptly). This is contradict to reality.
