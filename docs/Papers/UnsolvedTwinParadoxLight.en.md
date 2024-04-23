@@ -93,7 +93,7 @@ Let's consider another thought experiment showing how big the discrepancy betwee
 
 Thought experiment 2 description:
 
-Let's take a few spacecrafts. For simplicity, they move only along one coordinate axis - $x$ and have zero coordinates along the $y$ and $z$ axes. All other objects are located in the $xz$ plane. The time spent on acceleration is considered negligible.
+Let's take a few spacecrafts. For simplicity, they move only along one coordinate axis $x$ and have zero coordinates along the $y$ and $z$ axes. All other objects are located in the $xz$ plane. The time spent on acceleration is considered negligible.
 
 Let IFR be associated with object 3 ($IFR_{o3}$) in Figure 1.
 
@@ -230,12 +230,12 @@ This is a good explanation, but it also has a fundamentally unsolvable problem. 
 
 Thought experiment 3 description:
 
-Let's take a few objects. For simplicity, they move only along one coordinate axis - $x$ and are located on the same $x$ axis. The time spent on accelerations is considered negligible.
+Let's take a few objects. For simplicity, they move only along one coordinate axis $x$ and are located on the same $x$ axis. The time spent on accelerations is considered negligible.
 
 Let IFR be associated with object 2 ($IFR_{o2}$) in Figure 11.
 
 ![[fig17black.jpg]]
-**Figure 11 – Objects in** $IFR_{o2}$ **at the beginning of a thought experiment according to the theory of relativity**
+**Figure 11 – Objects in** $IFR_{o2}$ **at the beginning of a thought experiment**
 
 Objects 3 and 4 are in the same place.
 
@@ -244,7 +244,7 @@ The beginning of the thought experiment 3. Objects 1 and 4 simultaneously emit p
 Let $l=l_{12}=l_{23}=l_{24}=tc$. Then, after a time of $t$, the pattern shown in Figure 12 will be observed. The end of the thought experiment.
 
 ![[fig18black.jpg]]
-**Figure 12 – Objects in** $IFR_{o2}$ **after the expiration of time** $t$ **after the start of a thought experiment according to the theory of relativity**
+**Figure 12 – Objects in** $IFR_{o2}$ **after the expiration of time** $t$ **after the start of a thought experiment**
 
 Figure 13 shows what should be observed in $IFR_{v+}$ at the beginning of a thought experiment according to the theory of relativity (the frame of reference is associated, for example, with object 4).
 
@@ -288,7 +288,7 @@ For many variants of real experiments, the problem described above will also be 
 
 Thought experiment 4 description:
 
-Let's take a light clock. For simplicity, clock move only along one coordinate axis - $x$ and are located on the same $x$ axis. The photon between the plates of the clock travels only along the $x$ axis. 
+Let's take a light clock. For simplicity, clock move only along one coordinate axis $x$ and are located on the same $x$ axis. The photon between the plates of the clock travels only along the $x$ axis. 
 
 In $IFR_{0}$, where the clock is immobile, the full period will be: $T=\frac{2l}{c}$.
 In $IFR_{v+}$, the full period will be: $T'=\frac{l'}{c+v}+\frac{l'}{c-v}=\frac{2cF(v)l}{(c+v)(c-v)}$.
