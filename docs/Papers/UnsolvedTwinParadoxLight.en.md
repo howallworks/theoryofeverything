@@ -3,7 +3,7 @@
 
 The paper presents several types of new advanced thought experiments considered in the framework of the special theory of relativity and the results of their analysis.
 
-The theory of relativity is mathematically beautiful and consistent. However, it is possible to describe many options in which solving the problem by its means will be impossible experimentally in one inertial frame of reference, but real in another inertial frame of reference.
+The theory of relativity is mathematically beautiful and consistent. However, it is possible to describe many variants in which solving the problem by its means will be impossible experimentally in one inertial frame of reference, but real in another inertial frame of reference.
 
 A description of a thought experiment is presented in which objects move at a speed tending to infinity according to the clock of one of the observers, which contradicts the limiting speed of light according to the theory of relativity.
 
@@ -24,7 +24,7 @@ If we consider solutions exclusively within the framework of Einstein's special 
 
 For further description, it is necessary to introduce a new term.
 
-An immobile frame of reference (ImFR) is an inertial reference frame (IFR) associated with an object characterized by zero shift of cosmic microwave background radiation (zero dipole anisotropy). The ImFR can be associated with different objects, but their relative velocity is zero. It should be particularly noted that the ImFR differs from the reference frame associated with the Earth by only a few hundred kilometers per second. This is the main reason why most calculations according to the theory of relativity are close to real experimental results.
+An immobile frame of reference (ImFR) is an inertial frame of reference (IFR) associated with an object characterized by zero shift of cosmic microwave background radiation (zero dipole anisotropy). The ImFR can be associated with different objects, but their relative velocity is zero. It should be particularly noted that the ImFR differs from the reference frame associated with the Earth by only a few hundred kilometers per second. This is the main reason why most calculations according to the theory of relativity are close to real experimental results.
 
 Next, we will need several formulas of the special theory of relativity.
 
@@ -51,7 +51,7 @@ where $c$ is the speed of light, the primed values are measured in the system $K
 
 Thought experiment 1 description:
 
-Let's take two spacecraft with synchronized clocks (or two short-lived particles received at the same time). For simplicity, they move only along one coordinate axis - $x$. The time spent on acceleration is considered negligible.
+Let's take two spacecraft with synchronized clocks (or two short-lived particles received at the same time). For simplicity, they move only along one coordinate axis $x$. The time spent on acceleration is considered negligible.
 
 Let $v$ be the velocity of the spacecraft relative to the ImFR (or with an error relative to the Earth).
 
