@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2023.05.25).pdf](Files/Theory_of_everything.en(2023.05.25).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2024.04.26).pdf](Files/Theory_of_everything.en(2024.04.26).pdf)
 
 ## Cognition of the surrounding universe
 
@@ -310,101 +310,9 @@ The speed of an object strongly affects its dynamics, since the period of all pr
 
 At zero object speed (relative to ImFR), the process period is minimal. Hence we get that when the speed of an object increases (relative to ImFR), then increase its lifetime (relative to ImFR). This is actually confirmed experimentally. When the speed of an unstable particle/object is closer to the speed of light (relative to ImFR), then greater the distance it passes before decaying.
 
-### [Twin paradox](https://en.wikipedia.org/wiki/Twin_paradox)
+### The inequality of inertial reference frames of the universe 
 
-Date of initial publication in Russian: 31.10.2015
-
-Consider experiment No. 1 according to the general theory of relativity ([[GTR.en|GTR]]), presented in Figure 4, relative to object 1 (o1) - $FR_{o1}$ (Figure 4.1) and relative to object 2 (o2) - $FR_{o2}$ (Figure 4.2).
-
-![[pic3.en.png]] 
-
-**Figure 4 – Experiment No. 1**
-
-In $FR_{o1}$: 
-
-- o1 always rests
-- phase 1: o2 is at rest
-- phase 2: o2 accelerates (with acceleration $a$)
-- phase 3: o2 is moving (at speed $v$)
-- phase 4: o2 is slowing down (with acceleration $-a$)
-- phase 5: o2 accelerates (with acceleration $-a$)
-- phase 6: o2 is moving (at speed $-v$)
-- phase 7: o2 is slowing down (with acceleration $a$)
-- phase 8: o2 is at rest
-
-In $FR_{o2}$: 
-
-- o2 always rests
-- phase 1: o1 is at rest
-- phase 2: o1 accelerates (with acceleration $-a$)
-- phase 3: o1 is moving (with velocity $-v$)
-- phase 4: o1 is slowing down (with acceleration $a$)
-- phase 5: o1 accelerates (with acceleration $a$)
-- phase 6: o1 is moving (at a speed of $v$)
-- phase 7: o1 is slowing down (with acceleration $-a$)
-- phase 8: o1 is at rest
-
-We get according to the general theory of relativity:
-
-- in $FR_{o1}$ there will be a time dilation on the o2 clock (compared to the o1 clock);
-- in $FR_{o2}$, there will be a time dilation on the o1 clock (compared to the o2 clock).
-
-In fact:
-
-A shorter time interval will pass on some clocks than on others (although there may be one case when o1 and o2 clocks will show the same time). In fact, one clock shows less time than the other for both observers (each observer is inextricably linked to its object).
-
-The question arises:
-
-Which of the clocks will show a shorter time (shorter time interval)?
-
-Scientists try to explain this paradox in various ways, but such conjectures do not relate to the theory of relativity and its mathematical representation, but use additional information that does not relate to the theory of relativity. The key point is the fact that the theory of relativity and its mathematical formalism are self-sufficient and must work without additions for any cases, including the twins paradox, which does not happen.
-
-Now let's consider another experiment presented in Figure 5, according to the general theory of relativity. It should be noted right away that the acceleration time of objects is much less than the time of movement of objects with constant speeds (this condition is necessary to exclude speculation about the effect of object accelerations on the results). In phase 1, the clocks of all observers are synchronized (they show the same time). $dt$ – the period of time spent by objects in this phase by the clock of the object with which the reference frame is associated.
-
-![[pic4.en.png]] 
-
-**Figure 5 – Experiment No. 2**
-
-It is obvious that in whatever frame of reference the observers are (o1, o2, o3), when directly observing the final readings of the clocks (phase 7), they will all see the same result (this fact is confirmed by all experiments). That is, each observer sees the same readings on the same clock (one physical object, a clock, shows the same time for everyone).
-
-However, according to the general theory of relativity, this will not be the case, each observer should see different readings on the same clock.
-What exactly should observers see according to the general theory of relativity?
-
-Observer o1:
-
-- clock o1: $△T_{o1} =$ $t + t + t + 1.5t = 4.5t$; 
-- clock o2: $△T_{o2} =$ $t + F(v)t + F(v)t + 1.5t =$ $2.5t + 2F(v)t$; 
-- clock o3: $△T_{o3} =$ $F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t =$ $F(\frac{v}{2})t + 3.5F(v)t$; 
-
-$△T_{o1} > △T_{o2} > △T_{o3}$ 
-
-Observer o2: 
-
-- clock o1: $△T_{o1} =$ $t + F(v)t + F(v)t + 1.5t =$ $2.5t + 2F(v)t$; 
-- clock o2: $△T_{o2} =$ $t + t + t + 1.5t = 4.5t$; 
-- clock o3: $△T_{o3} =$ $F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t =$ $t + F(\frac{v}{2})t + 2.5F(v)t$; 
-
-$△T_{o2} > △T_{o1} > △T_{o3}$ 
-
-Observer o3:  
-
-- clock o1: $△T_{o1} =$ $F(v)t + F(v)t + F(\frac{v}{2})t + 1.5F(v)t =$ $F(\frac{v}{2})t + 3.5F(v)t$; 
-- clock o2: $△T_{o2} =$ $F(v)t + t + F(\frac{v}{2})t + 1.5F(v)t =$ $t + F(\frac{v}{2})t + 2.5F(v)t$; 
-- clock o3: $△T_{o3} = t + t + t + 1.5t = 4.5t$; 
-
-$△T_{o3} > △T_{o2} > △T_{o1}$ 
-
-, where $F(v) = \sqrt{1 - \frac{v^2}{c^2}}$, and $△T$ - actually show how much time has passed between the moment of separation (phase 1) and the moment of meeting (phase 7) according to general relativity.
-
-As we can be seen, according to the general theory of relativity, they should observe completely different readings on the same clock, which contradicts reality.
-
-As a result, according to the general theory of relativity, it is impossible to say which of the objects actually moved and, accordingly, which of the clocks will show a shorter time (qualitative factor).
-
-In addition, according to the general theory of relativity, it is also impossible to say how much the clock readings will actually differ (a quantitative factor).
-
-This means that the theory of relativity contradicts reality.
-
-#### The inequality of inertial reference frames of the universe 
+The theory of relativity is mathematically beautiful and consistent. However, it is possible to describe many variants in which the solution of the problem by its means will be real experimentally in one inertial frame of reference, but impossible in practice in another inertial frame of reference. The reason for this is that different inertial frames of reference are unequal and do not reflect reality when trying to describe by the general laws.
 
 [[UnsolvedTwinParadoxLight.en|The inequality of inertial reference frames of the universe]] is described in a separate article.
 ### [General theory of relativity vs gravitational maneuvers and black holes](http://howallworks.github.io/blog/2015/11/obshchaia-teoriia-otnositelnosti-vs-gravitatsionnye-manevry-i-chernye-dyry.html)
