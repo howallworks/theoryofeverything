@@ -295,9 +295,9 @@ In $IFR_{v+}$, the full period will be: $T'=\frac{l'}{c+v}+\frac{l'}{c-v}=\frac{
 
 Let $l=10^{9}$ light-years and $F(v)=10^{-3}$ ($v\approx0.9999995c$), then $T=2\cdot10^9$ years, $T'\approx\frac{2\cdot10^{-3}\cdot10^9}{(1+0.9999995)(1-0.9999995)}\approx2\cdot10^{12}$ years.
 
-Even if we take a small-sized light clock or an ordinary atomic clock with cesium-133 or mechanical or quartz, then, according to the theory of relativity, at $F(v)\to0$ in $IFR_{v+}$, not a single complete period of $T'$ will occur for them during the existence of the universe. This is contradict to reality.
-
 Applying Lorentz transformations according to formulas (3) for this case will give the same result: $T'=2\cdot 10^{12}$ years.
+
+Even if we take a small-sized light clock or an ordinary atomic clock with cesium-133 or mechanical or quartz, then, according to the theory of relativity, at $F(v)\to0$ in $IFR_{v+}$, not a single complete period of $T'$ will occur for them during the existence of the universe. This is contradict to reality.
 
 It can be noticed that although we are exploring the same object - a light clock, but our observers are different and time in their inertial frames of reference goes differently. However, if the light clock is at rest relative to ImFR or at least the Earth ($IFR_{0}$), then the clock in $IFR_{v+}$ is guaranteed to go slower. To be precise, the time dilation coefficient according to the formula (1) will be equal to $F(v)=10^{-3}$. This is confirmed by all experiments, for example, an increase in the lifetime of short-lived particles moving at a speed of $v$ relative ot the Earth. As a result, we get that the observer's clock in $IFR_{v+}$ will go slower and more time should pass according to his clock. We get that for our case in reality $T\cdot F(v)=2\cdot10^6$ years will pass in $IFR_{v+}$, and $T'=2\cdot10^{12}$ years are required according to the theory relativity. Therefore, we get that according to the theory of relativity, not a single complete period will occur during the existence of the Universe, which contradicts reality.
 
