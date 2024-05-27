@@ -58,7 +58,7 @@ The theory of relativity is mathematically beautiful and consistent. However, th
 
 Of course, the assumption that it is the ImFR that is the inertial reference frame, relative to which everything in the universe is correctly calculated, requires careful verification. However, it can be argued that Einstein's theory of relativity is erroneous, since it does not correctly describe the real behavior of objects in the universe qualitatively and quantitatively, but generates only a kind of illusion.
 
-The results also prove that different IFRs are unequal and cannot be described by general laws. This leads to an understanding of the absoluteness of the structure of the universe. In fact, it is assumed that the ImFR is at rest within the framework of the concept of an absolute universe. This is the basis for building the concept of the absolute universe. Based on this, it is the speed relative to the ImFR that is the key parameter determining how much time the clock will show.
+The results also prove that different IFRs are unequal and cannot be described by general laws. This leads to an understanding of the absoluteness of the structure of the universe. In fact, it is assumed that the ImFR is at rest within the framework of an absolute universe. This is the basis for building the concept of the absolute universe. Based on this, it is the speed relative to the ImFR that is the key parameter determining how much time the clock will show.
 
 ### References
 
