@@ -55,11 +55,13 @@ Are the laws invariant in these inertial frames of reference? No, because in the
 What does the observer of the second spacecraft see directly from the point of view of the theory of relativity? Photons from the beginning of the ruler A and from the end of the ruler B must simultaneously enter the detector (the observer's eye). Figure 1 shows the beginning of the experiment, and Figure 2 shows the end of the experiment. In Figures 1 and 2, the distance between the axis of motion of the ruler and the spacecraft is shown only for clarity, but in fact it is zero.
 
 ![[fig01black.jpg]]
+
 **Figure 1 – The beginning of the experiment for the observer of the second spacecraft from the point of view of the theory of relativity**
 
 In Figure 1, the length AB' is the directly visible length of the ruler from the point of view of relativity theory for the observer of the second spacecraft. AB' > AB.
 
 ![[fig02black.jpg]]
+
 **Figure 2 – The end of the experiment for the observer of the second spacecraft from the point of view of relativity theory**
 
 In Figure 2, the length A'B is the directly visible length of the ruler from the point of view of relativity theory for the observer of the second spacecraft. A'B < AB.
