@@ -46,7 +46,7 @@ If we apply special relativity theory with Lorentz transformations to change IFR
 
 $v''=l''/t_2=\frac {(l/\gamma)}{(t_1/\gamma)}=v$. 
 
-However, we know perfectly well that $l''=l/\gamma$ is only the visible or apparent or illusory length of the ruler, and not the real (actual) one. This also means that $v''$ is also some kind of visible or apparent or illusory speed, and not a real (actual) one. As a result, when using the theory of relativity here, we have obtained precisely the visible or apparent or illusory characteristics of objects, and not the real (actual) ones. Here, the time for the flight of photons from the source to the observer is taken into account to some extent, which means that during the flight of these photons, the locations and other real (actual) characteristics of objects will change.
+However, we know perfectly well that $l''=l/\gamma$ is only the visible or apparent or illusory length of the ruler, and not the real (actual) one [14,15]. This also means that $v''$ is also some kind of visible or apparent or illusory speed, and not a real (actual) one. As a result, when using the theory of relativity here, we have obtained precisely the visible or apparent or illusory characteristics of objects, and not the real (actual) ones. Here, the time for the flight of photons from the source to the observer is taken into account to some extent, which means that during the flight of these photons, the locations and other real (actual) characteristics of objects will change.
 We get that if we need to calculate the real characteristics of objects, and not illusory ones, then the theory of relativity cannot be applied.
 
 What does the observer of the second spacecraft see directly from the point of view of the theory of relativity? Photons from the beginning of the ruler A and from the end of the ruler B must simultaneously enter the detector (the observer's eye). Figure 1 shows the beginning of the experiment, and Figure 2 shows the end of the experiment. In Figures 1 and 2, the distance between the axis of motion of the ruler and the spacecraft is shown only for clarity, but in fact it is zero.
@@ -93,4 +93,6 @@ The results also prove that different IFRs are unequal and cannot be described b
 11. Ohanian, H.: Special Relativity: a Modern Introduction. Physics Curriculum and Instruction, Lakeville, MN (2001).
 12. Harris, R.: Modern Physics. Pearson Addison-Wesley, San Francisco, CA (2008).
 13. Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).
+14. Miller, A.I.: Varičak and Einstein. Albert Einstein's special theory of relativity. Emergence (1905) and early interpretation (1905–1911). Addison–Wesley, pp. 249–253 (1981).
+15. Einstein, A.: Zum Ehrenfestschen Paradoxon. Eine Bemerkung zu V. Variĉaks Aufsatz. Physikalische Zeitschrift. 12: 509–510 (1911).
 
