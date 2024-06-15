@@ -49,9 +49,6 @@ $v''=l''/t_2=\frac {(l/\gamma)}{(t_1/\gamma)}=v$.
 However, we know perfectly well that $l''=l/\gamma$ is only the visible or apparent or illusory length of the ruler, and not the real (actual) one. This also means that $v''$ is also some kind of visible or apparent or illusory speed, and not a real (actual) one. As a result, when using the theory of relativity here, we have obtained precisely the visible or apparent or illusory characteristics of objects, and not the real (actual) ones. Here, the time for the flight of photons from the source to the observer is taken into account to some extent, which means that during the flight of these photons, the locations and other real (actual) characteristics of objects will change.
 We get that if we need to calculate the real characteristics of objects, and not illusory ones, then the theory of relativity cannot be applied.
 
-As a result, first we calculated the real (actual) locations, speeds, time, and other characteristics of objects, and after applying special relativity when changing IFR, we calculated the visible or apparent or illusory ones. 
-Are the laws invariant in these inertial frames of reference? No, because in the first case we describe reality, and in the second an illusion. Therefore, when using the theory of relativity, the first postulate is violated.
-
 What does the observer of the second spacecraft see directly from the point of view of the theory of relativity? Photons from the beginning of the ruler A and from the end of the ruler B must simultaneously enter the detector (the observer's eye). Figure 1 shows the beginning of the experiment, and Figure 2 shows the end of the experiment. In Figures 1 and 2, the distance between the axis of motion of the ruler and the spacecraft is shown only for clarity, but in fact it is zero.
 
 ![[fig01black.jpg]]
@@ -67,6 +64,9 @@ In Figure 1, the length AB' is the directly visible length of the ruler from the
 In Figure 2, the length A'B is the directly visible length of the ruler from the point of view of relativity theory for the observer of the second spacecraft. A'B < AB.
 
 As you can see, $l''=l/\gamma$ is not even the directly visible length of the ruler from the point of view of relativity theory, but only a mathematical illusion.
+
+As a result, first we calculated the real (actual) locations, speeds, time, and other characteristics of objects, and after applying special relativity when changing IFR, we calculated the illusory ones. 
+Are the laws invariant in these inertial frames of reference? No, because in the first case we describe reality, and in the second an illusion. Therefore, when using the theory of relativity, the first postulate is violated.
 
 The special theory of relativity describes the behavior of each object mathematically correctly in each specific experiment. The reason is that for this object, the sequence of events and its own time line do not change when the IFR is changed, and the behavior of the surrounding objects adjusts accordingly. However, this mathematical description is just an illusion that does not allow us to understand what is really happening to the objects under explore.
 
