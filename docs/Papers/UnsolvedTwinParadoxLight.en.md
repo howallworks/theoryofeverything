@@ -59,7 +59,7 @@ In Figure 1, the length AB' is the directly visible length of the ruler from the
 
 ![[fig02black.jpg]]
 
-**Figure 2 – The end of the experiment for the observer of the second spacecraft from the point of view of relativity theory**
+**Figure 2 – The end of the experiment for the observer of the second spacecraft from the point of view of the theory of relativity**
 
 In Figure 2, the length A'B is the directly visible length of the ruler from the point of view of relativity theory for the observer of the second spacecraft. A'B < AB.
 
