@@ -114,7 +114,7 @@ plugins:
               Papers: Papers
               #UnsolvedTwinParadox: Unsolved Twin Paradox
               TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
-              UnsolvedTwinParadoxLight: Reality or illusion. What results are calculated in inertial reference frames by means of the theory of relativity? Are the experimental inertial reference frame and the one calculated by means of the theory of relativity equal?
+              UnsolvedTwinParadoxLight:  What we actually calculate by means of the special theory of relativity in the general case. Reality or illusion.
         - locale: ru
           name: Русский
           ######
@@ -146,7 +146,7 @@ plugins:
               Papers: Научные статьи
               #UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
               TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
-              UnsolvedTwinParadoxLight: Реальность или иллюзия. Какие результаты вычисляются в инерциальных системах отсчета средствами теории относительности? Равноправны ли экспериментальная инерциальная система отсчета и рассчитанная средствами теории относительности?
+              UnsolvedTwinParadoxLight: Что в действительности мы вычисляем средствами специальной теории относительности в общем случае? Реальность или иллюзия. 
           
 extra_javascript:
   #- javascripts/mathjax.js
