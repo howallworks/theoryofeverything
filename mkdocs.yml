@@ -114,7 +114,7 @@ plugins:
               Papers: Papers
               #UnsolvedTwinParadox: Unsolved Twin Paradox
               TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
-              UnsolvedTwinParadoxLight:  Two great theories based on a common interpretation of interference. What is wrong with this interpretation and the consequences that follow from it
+              UnsolvedTwinParadoxLight: Two great theories based on a common interpretation of interference. What is wrong with wave-particle duality interpretation and the consequences that follow from it
         - locale: ru
           name: Русский
           ######
@@ -146,7 +146,7 @@ plugins:
               Papers: Научные статьи
               #UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
               TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
-              UnsolvedTwinParadoxLight: Две великие теории, базирующиеся на общей интерпретации интерференции. Что не так с этой интерпретацией и вытекающие из этого последствия 
+              UnsolvedTwinParadoxLight: Две великие теории, базирующиеся на общей интерпретации интерференции. Что не так с интерпретацией корпускулярно-волнового дуализма и вытекающие из этого последствия 
           
 extra_javascript:
   #- javascripts/mathjax.js
