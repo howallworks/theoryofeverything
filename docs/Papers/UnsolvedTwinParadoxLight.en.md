@@ -124,7 +124,7 @@ Is the speed of light constant in any IFR? Does the Michelson-Morley experiment 
 
 #### Interference, diffraction and interpretation of experimental results
 
-Let's move on to the main ***assumption***, which was taken as a basis in the Michelson-Morley experiment, namely, the interpretation of diffraction and interference, that is, to the particle-wave dualism.
+Let's move on to the main ***assumption***, which was taken as a basis in the Michelson-Morley experiment, namely, the interpretation of diffraction and interference, that is, to the wave-particle dualism.
 
 For understanding, consider the experiment with two slits in the theory of wave-particle interpretation shown in Figure 4.
 
@@ -152,7 +152,7 @@ As a result, it does not matter how long the photons traveled along each of the 
 
 In fact, it does not matter to us when the photon arrives back at the half-transparent mirror, but it is important in which direction it will be re-emitted, which depends on the state of the atoms of the half-transparent mirror and the specific place of interaction of the atom with the photon.
 
-As a result, we get that there is no particle-wave dualism, and all that is observed is the corpuscular dynamics of particles, and also that it is impossible to verify the constancy of the speed of light by the Michelson-Morley experiment and similar experiments, for example, with optical resonators.
+As a result, we get that there is no wave-particle dualism, and all that is observed is the corpuscular dynamics of particles, and also that it is impossible to verify the constancy of the speed of light by the Michelson-Morley experiment and similar experiments, for example, with optical resonators.
 
 Additions:
 
