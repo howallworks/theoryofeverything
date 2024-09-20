@@ -148,25 +148,25 @@ Let's figure out what exactly happens with diffraction and interference. Are the
 
 It is also necessary to mention an experiment with three or more polarizers rotated at different angles, which is interpreted as an irrefutable proof of the quantum mechanical nature of the universe. Further, we consider that the polarizers are ideal and pass 50% of photons with a uniform probability distribution of their polarization plane. If you put two polarization filters at an angle of ninety degrees, it is assumed that the light does not pass, since the first one blocks one direction of the wave, and the second one is perpendicular, that is, everything else. And because of this, photons do not pass through. If we take three polarizers $0^o$, $45^o$, $90^o$, then the light partially passes through. Why? The problem is a misinterpretation of the photon and the mechanism of action of the polarizer. 
 
-If a photon passes through a polarizer, it is re-emitted with a cosine distribution of the plane of polarization relative to the axis of this polarizer. Namely: $cos(2x)$, where $x$ is the angle between the axis of the polarizer that re-emits the photon and the plane of polarization of the emitted photon, also $-\pi/4 \leq x \leq \pi/4$. In addition, the polarizer passes only photons with a polarization plane in the range $-\pi/4 \leq x \leq \pi/4$ relative to the axis of this polarizer. It is easy to understand that if the axes of the polarizers coincide, then all photons pass between them. If there is an angle between the axes of the polarizers, for example, $\pi/8\; (22.5\degree)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx \approx1-0.85355\approx0,14645\%$ photons.
+If a photon passes through a polarizer, it is re-emitted with a cosine distribution of the plane of polarization relative to the axis of this polarizer. Namely: $cos(2x)$, where $x$ is the angle between the axis of the polarizer that re-emits the photon and the plane of polarization of the emitted photon, also $-\pi/4 \leq x \leq \pi/4$. In addition, the polarizer passes only photons with a polarization plane in the range $-\pi/4 \leq x \leq \pi/4$ relative to the axis of this polarizer. It is easy to understand that if the axes of the polarizers coincide, then all photons pass between them. If there is an angle between the axes of the polarizers, for example, $\pi/8\; (22.5^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx \approx1-0.85355\approx0,14645\%$ photons.
 
 
-Figure 6 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0\degree$.
+Figure 6 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$.
 
 
 ![[fig06black.jpg]]
 
-**Figure 6 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0\degree$** 
+**Figure 6 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$** 
 
-Figure 7 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5\degree)$.
+Figure 7 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$.
 
 
 ![[fig07black.jpg]]
 
-**Figure 7 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5\degree)$**
+**Figure 7 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$**
 
 
-If there is an angle between the axes of the polarizers, for example, $\pi/6 \; (30\degree)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/6)} cos(2x) \,dx =1-0.75=0,25\%$ photons. We get that it doesn't matter how many polarizers the photon has passed before. It is important that each photon will be re-emitted when passing through the polarizer and will change its own plane of polarization. As a result, the more polarizers deflected by the minimum angles, we put between the $0^o$ polarizer and the $90^o$ polarizer, the more photons will pass. This explains all the observed experimental data and effects without violating locality and realism.
+If there is an angle between the axes of the polarizers, for example, $\pi/6 \; (30^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/6)} cos(2x) \,dx =1-0.75=0,25\%$ photons. We get that it doesn't matter how many polarizers the photon has passed before. It is important that each photon will be re-emitted when passing through the polarizer and will change its own plane of polarization. As a result, the more polarizers deflected by the minimum angles, we put between the $0^o$ polarizer and the $90^o$ polarizer, the more photons will pass. This explains all the observed experimental data and effects without violating locality and realism.
 
 Let's return to the Michelson-Morley experiment. Here we have a half-transparent mirror with re-emitting by sputtered silver atoms, which create a re-emission of photons with the result in the form of an interference pattern. Also assume that one of the mirrors can change the distance to the half-transparent mirror, which shifts the interference pattern. This is due to the fact that even the minimal displacement of the photon trajectory when hitting the sputtered silver atoms affects the process of re-emission. This is the kind of observer effect that affects interference only partially, without breaking it.
 
