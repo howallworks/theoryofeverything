@@ -4,7 +4,20 @@
 ***During the update process***
 ### Introduction
 
-***During the update process***
+#### The twin paradox. The death of a traveling twin
+
+Consider the twin paradox of the special theory of relativity [1-13]. One twin stays on his home planet, and the other gets on a spacecraft. The beginning of a thought experiment. The spacecraft accelerates to the velocity $v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time - $t$. Then it accelerates to travel back to the velocity $-v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time - $t$. Then it accelerates to a speed equal to zero relative to the home planet. The spacecraft is on its home planet. The end of the thought experiment.
+
+It is believed that the "traveling" twin will always be younger than the "stay-at-home" twin. Let's check it out. Let $t$ be one year by the clock on the home planet. Let's choose $v$ in such a way that the time dilation coefficient is equal to 1000.
+
+Let's consider the classic version of the experiment. Let the home planet be Earth. We get that the first twin has aged 2 years, and the second twin has aged 1000 times less. That is, the clock on the spacecraft was 1000 times slower than the clock on the home planet. Nothing interesting.
+
+Let's consider a non-classical version of the experiment. Let the home planet move with a velocity vector $-v$ relative to the Earth. Then, after acceleration, the spacecraft will rest relative to the Earth and, unfortunately, at this stage, the second twin will grow old and die. We get that the first twin has aged 2 years, and the second twin has long died and the spacecraft has completed all the necessary steps on autopilot. That is, the clock on the spacecraft went 1000 times faster than the clock on the home planet at the first "long" wait for the time $t$.
+
+In order to be humane and not waste the life of one of the twins on this experiment, you can do with short-lived particles. Both experiments are easy to reproduce. As a result, we get that in the first case, the second short-lived particle will live longer. In the second case, the first particle will live to the end of the experiment, and the second particle will disintegrate during the first "long" wait and there will be nothing to accelerate at the next stage.
+
+We get that the "traveling" twin will not always be younger than the "stay-at-home" twin.
+As we can see, inertial reference frames (for different variants of resting home planets) are unequal and cannot be described by general laws. Next, let's figure out what the reason for all this is.
 
 ### The general basis for the special theory of relativity and for quantum mechanics. What is interference physically really like
 #### Fundamentals of the special theory of relativity. The inertial frame of reference. The immobile frame of reference
