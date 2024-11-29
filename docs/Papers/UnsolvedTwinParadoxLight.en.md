@@ -6,6 +6,8 @@
 
 #### The twin paradox. The death of a traveling twin
 
+In this section, we will compare a pair of identical variants of an experiment similar to the twin paradox, which differ only in the choice of the basis inertial reference frame. In fact, the first postulate of the special relativity is being tested on the basis of this pair of experiments, that is, the assumption that any physical processes in these inertial reference frames proceed the same way and identical experimental results will be obtained.
+
 Consider the twin paradox of the special theory of relativity [1-13]. One twin stays on his home planet, and the other gets on a spacecraft. The beginning of a thought experiment. The spacecraft accelerates to the velocity $v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time - $t$. Then it accelerates to travel back to the velocity $-v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time - $t$. Then it accelerates to a speed equal to zero relative to the home planet. The spacecraft is on its home planet. The end of the thought experiment.
 
 It is believed that the "traveling" twin will always be younger than the "stay-at-home" twin. Let's check it out. Let $t$ be one year by the clock on the home planet. Let's choose $v$ in such a way that the time dilation coefficient is equal to 1000.
