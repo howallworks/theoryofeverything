@@ -16,7 +16,7 @@
 
 Рассмотрим неклассический вариант эксперимента. Пусть родная планета движется со скоростью $-v$ относительно Земли. Тогда после первого ускорения космический корабль будет покоится относительно Земли и, к сожалению, на данном этапе второй близнец состарится и умрёт. Получаем, что первый близнец постарел на 2 года, а второй близнец давно умер (уже при первом "длительном" ожидании времени $t$) и космический корабль на автопилоте проделал все необходимые этапы. То есть часы на космическом корабле шли в 1000 раз быстрее, чем часы на родной планете при первом "длительном" ожидании времени $t$. При втором "длительном" ожидании времени $t$ часы на космическом корабле шли в 1000 раз медленнее. В данном случае нам важно знать, сколько времени пройдет по часам космического корабля и сколько времени пройдет по часам родной планеты, так как лишь от этого зависит возраст близнецов.
 
-Чтобы быть гуманными и не тратить на этот эксперимент жизнь одного из близнецов, можно обойтись короткоживущими частицами. Оба эксперимента легко воспроизвести. В итоге получим, что в классическом варианте эксперимента дольше проживет вторая короткоживущая частица. В неклассическом варианте эксперимента первая частица доживет до конца эксперимента, а вторая частица распадется уже при первом "длительном" ожидании и ускорять уже будет нечего на следующем этапе.
+Чтобы быть гуманными и не тратить на этот эксперимент жизнь одного из близнецов, можно обойтись короткоживущими частицами, время жизни и замедление времени для которых хорошо известно экспериментально [16-29]. Оба эксперимента легко воспроизвести. В итоге получим, что в классическом варианте эксперимента дольше проживет вторая короткоживущая частица. В неклассическом варианте эксперимента первая частица доживет до конца эксперимента, а вторая частица распадется уже при первом "длительном" ожидании и ускорять уже будет нечего на следующем этапе.
 
 Получаем, что "путешествующий" близнец не всегда будет моложе близнеца "домоседа".
 
@@ -229,3 +229,17 @@ $v''=l''/t_2=\frac {(l/\gamma)}{(t_1/\gamma)}=v$.
 13. Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).
 14. Miller, A.I.: Varičak and Einstein. Albert Einstein's special theory of relativity. Emergence (1905) and early interpretation (1905–1911). Addison–Wesley, pp. 249–253 (1981).
 15. Einstein, A.: Zum Ehrenfestschen Paradoxon. Eine Bemerkung zu V. Variĉaks Aufsatz. Physikalische Zeitschrift. 12: 509–510 (1911).
+16. Nalini Easwar, Douglas A. MacIntire; Study of the effect of relativistic time dilation on cosmic ray muon flux—An undergraduate modern physics experiment. __Am. J. Phys.__ 1 July 1991; 59 (7): 589–592. [https://doi.org/10.1119/1.16841](https://doi.org/10.1119/1.16841)
+17. Thomas Coan, Tiankuan Liu, Jingbo Ye; A compact apparatus for muon lifetime measurement and time dilation demonstration in the undergraduate laboratory. __Am. J. Phys.__ 1 February 2006; 74 (2): 161–164. [https://doi.org/10.1119/1.2135319](https://doi.org/10.1119/1.2135319)
+18. [https://doi.org/10.1103/PhysRev.88.179](https://doi.org/10.1103/PhysRev.88.179)
+19. M. Eckhause, R.J. Harris, W.B. Shuler, R.T. Siegel, R.E. Welsh, A new measurement of the lifetime of the positive pion, Physics Letters, Volume 19, Issue 4, 1965, Pages 348-350, ISSN 0031-9163, https://doi.org/10.1016/0031-9163(65)91016-4
+20. [https://doi.org/10.1103/PhysRevLett.2.117](https://doi.org/10.1103/PhysRevLett.2.117)
+21. [https://doi.org/10.1103/PhysRev.185.1676](https://doi.org/10.1103/PhysRev.185.1676)
+22. [https://doi.org/10.1103/PhysRevLett.34.1244](https://doi.org/10.1103/PhysRevLett.34.1244)
+23. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
+24. J. Bailey, K. Borer, F. Combley, H. Drumm, C. Eck, F.J.M. Farley, J.H. Field, W. Flegel, P.M. Hattersley, F. Krienen, F. Lange, G. Lebée, E. McMillan, G. Petrucci, E. Picasso, O. Rúnolfsson, W. von Rüden, R.W. Williams, S. Wojcicki, Final report on the CERN muon storage ring including the anomalous magnetic moment and the electric dipole moment of the muon, and a direct test of relativistic time dilation, Nuclear Physics B, Volume 150, 1979, Pages 1-75, ISSN 0550-3213, https://doi.org/10.1016/0550-3213(79)90292-X
+25. Roos, C., Marraffino, J., Reucroft, S. _et al._ σ± lifetimes and longitudinal acceleration. _Nature_ **286**, 244–245 (1980). https://doi.org/10.1038/286244a0
+26. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
+27. Laura Holt and Kevin Haglin 2005 _J. Phys. G: Nucl. Part. Phys._ **31** S245 https://doi.org/10.1088/0954-3899/31/4/030
+28. Juliette Alimena _et al_ 2020 _J. Phys. G: Nucl. Part. Phys._ **47** 090501 https://doi.org/10.1088/1361-6471/ab4574
+29. https://dx.doi.org/10.1088/978-0-7503-2444-1

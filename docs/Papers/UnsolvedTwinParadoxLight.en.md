@@ -16,7 +16,7 @@ Let's consider the classic version of the experiment. Let the home planet be Ear
 
 Let's consider a non-classical version of the experiment. Let the home planet move with a velocity vector $-v$ relative to the Earth. Then, after the first acceleration, the spacecraft will rest relative to the Earth and, unfortunately, at this stage, the second twin will grow old and die. We get that the first twin has aged 2 years, and the second twin has long died (already at the first "long" waiting time $t$) and the spacecraft has completed all the necessary steps on autopilot. That is, the clock on the spacecraft ticks 1000 times faster than the clock on the home planet at the first "long" wait for the time $t$. During the second "long" wait for the time $t$, the clock on the spacecraft ticks 1000 times slower than the clock on the home planet. In this case, it is important for us to know how much time will pass by the clock of the spacecraft and how much time will pass by the clock of the home planet, since the age of the twins depends only on this.
 
-In order to be humane and not waste the life of one of the twins on this experiment, you can do with short-lived particles. Both experiments are easy to reproduce. As a result, we get that in the classical version of the experiment, the second short-lived particle will live longer. In the non-classical version of the experiment, the first particle will live to the end of the experiment, and the second particle will disintegrate already at the first "long" wait and there will be nothing to accelerate at the next stage.
+In order to be humane and not waste the life of one of the twins on this experiment, you can do with short-lived particles, the lifetime and time dilation for which is well known experimentally [16-29]. Both experiments are easy to reproduce. As a result, we get that in the classical version of the experiment, the second short-lived particle will live longer. In the non-classical version of the experiment, the first particle will live to the end of the experiment, and the second particle will decay already at the first "long" wait and there will be nothing to accelerate at the next stage.
 
 We get that the "traveling" twin will not always be younger than the "stay-at-home" twin.
 
@@ -231,4 +231,18 @@ Additions:
 13. Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).
 14. Miller, A.I.: Varičak and Einstein. Albert Einstein's special theory of relativity. Emergence (1905) and early interpretation (1905–1911). Addison–Wesley, pp. 249–253 (1981).
 15. Einstein, A.: Zum Ehrenfestschen Paradoxon. Eine Bemerkung zu V. Variĉaks Aufsatz. Physikalische Zeitschrift. 12: 509–510 (1911).
+16. Nalini Easwar, Douglas A. MacIntire; Study of the effect of relativistic time dilation on cosmic ray muon flux—An undergraduate modern physics experiment. __Am. J. Phys.__ 1 July 1991; 59 (7): 589–592. [https://doi.org/10.1119/1.16841](https://doi.org/10.1119/1.16841)
+17. Thomas Coan, Tiankuan Liu, Jingbo Ye; A compact apparatus for muon lifetime measurement and time dilation demonstration in the undergraduate laboratory. __Am. J. Phys.__ 1 February 2006; 74 (2): 161–164. [https://doi.org/10.1119/1.2135319](https://doi.org/10.1119/1.2135319)
+18. [https://doi.org/10.1103/PhysRev.88.179](https://doi.org/10.1103/PhysRev.88.179)
+19. M. Eckhause, R.J. Harris, W.B. Shuler, R.T. Siegel, R.E. Welsh, A new measurement of the lifetime of the positive pion, Physics Letters, Volume 19, Issue 4, 1965, Pages 348-350, ISSN 0031-9163, https://doi.org/10.1016/0031-9163(65)91016-4
+20. [https://doi.org/10.1103/PhysRevLett.2.117](https://doi.org/10.1103/PhysRevLett.2.117)
+21. [https://doi.org/10.1103/PhysRev.185.1676](https://doi.org/10.1103/PhysRev.185.1676)
+22. [https://doi.org/10.1103/PhysRevLett.34.1244](https://doi.org/10.1103/PhysRevLett.34.1244)
+23. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
+24. J. Bailey, K. Borer, F. Combley, H. Drumm, C. Eck, F.J.M. Farley, J.H. Field, W. Flegel, P.M. Hattersley, F. Krienen, F. Lange, G. Lebée, E. McMillan, G. Petrucci, E. Picasso, O. Rúnolfsson, W. von Rüden, R.W. Williams, S. Wojcicki, Final report on the CERN muon storage ring including the anomalous magnetic moment and the electric dipole moment of the muon, and a direct test of relativistic time dilation, Nuclear Physics B, Volume 150, 1979, Pages 1-75, ISSN 0550-3213, https://doi.org/10.1016/0550-3213(79)90292-X
+25. Roos, C., Marraffino, J., Reucroft, S. _et al._ σ± lifetimes and longitudinal acceleration. _Nature_ **286**, 244–245 (1980). https://doi.org/10.1038/286244a0
+26. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
+27. Laura Holt and Kevin Haglin 2005 _J. Phys. G: Nucl. Part. Phys._ **31** S245 https://doi.org/10.1088/0954-3899/31/4/030
+28. Juliette Alimena _et al_ 2020 _J. Phys. G: Nucl. Part. Phys._ **47** 090501 https://doi.org/10.1088/1361-6471/ab4574
+29. https://dx.doi.org/10.1088/978-0-7503-2444-1
 
