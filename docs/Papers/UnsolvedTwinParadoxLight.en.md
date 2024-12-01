@@ -216,13 +216,13 @@ Additions:
 
 ### References
 
-1. Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) https://doi.org/10.1002/andp.19053221004.
+1. Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) [https://doi.org/10.1002/andp.19053221004](https://doi.org/10.1002/andp.19053221004).
 2. Einstein, A.: Die relativit¨ats-theorie. Vierteljahrsschrift der Naturforschenden Gesellschaft in Z¨urich 56, 1–14 (1911).
 3. Resnick, R.: Supplementary Topic B: The Twin Paradox, pp. 201–209. John Wiley and Sons, Inc., New York (1968).
 4. Crowell, B.: The Twin Paradox, pp. 23–24. Light and Matter, Fullerton, California (2000).
 5. Serway, R.A., Moses, C.J., Moyer, C.A.: Modern Physics, pp. 21–22. Thomson Learning, Inc., 10 Davis Drive Belmont, CA 94002 (2004).
-6. D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). https://doi.org/10.1007/978-3-319-22014-7.
-7. Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). https://doi.org/10.1017/CBO9781139003391.
+6. D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). [https://doi.org/10.1007/978-3-319-22014-7](https://doi.org/10.1007/978-3-319-22014-7).
+7. Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). [https://doi.org/10.1017/CBO9781139003391](https://doi.org/10.1017/CBO9781139003391).
 8. Hawley, J.F., Holcomb, K.A.: Foundations of Modern Cosmology, pp. 203–205. Oxford University Press, Great Clarendon St, Oxford (2005).
 9. Laue, M.: The principle of relativity. Yearbooks of Philosophy 1, 99–128 (1913).
 10. Einstein, A.: Dialog about objections against the theory of relativity. Die Naturwissenschaften 48, 697–702 (1918).
@@ -233,16 +233,16 @@ Additions:
 15. Einstein, A.: Zum Ehrenfestschen Paradoxon. Eine Bemerkung zu V. Variĉaks Aufsatz. Physikalische Zeitschrift. 12: 509–510 (1911).
 16. Nalini Easwar, Douglas A. MacIntire; Study of the effect of relativistic time dilation on cosmic ray muon flux—An undergraduate modern physics experiment. __Am. J. Phys.__ 1 July 1991; 59 (7): 589–592. [https://doi.org/10.1119/1.16841](https://doi.org/10.1119/1.16841)
 17. Thomas Coan, Tiankuan Liu, Jingbo Ye; A compact apparatus for muon lifetime measurement and time dilation demonstration in the undergraduate laboratory. __Am. J. Phys.__ 1 February 2006; 74 (2): 161–164. [https://doi.org/10.1119/1.2135319](https://doi.org/10.1119/1.2135319)
-18. [https://doi.org/10.1103/PhysRev.88.179](https://doi.org/10.1103/PhysRev.88.179)
-19. M. Eckhause, R.J. Harris, W.B. Shuler, R.T. Siegel, R.E. Welsh, A new measurement of the lifetime of the positive pion, Physics Letters, Volume 19, Issue 4, 1965, Pages 348-350, ISSN 0031-9163, https://doi.org/10.1016/0031-9163(65)91016-4
-20. [https://doi.org/10.1103/PhysRevLett.2.117](https://doi.org/10.1103/PhysRevLett.2.117)
-21. [https://doi.org/10.1103/PhysRev.185.1676](https://doi.org/10.1103/PhysRev.185.1676)
-22. [https://doi.org/10.1103/PhysRevLett.34.1244](https://doi.org/10.1103/PhysRevLett.34.1244)
-23. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
-24. J. Bailey, K. Borer, F. Combley, H. Drumm, C. Eck, F.J.M. Farley, J.H. Field, W. Flegel, P.M. Hattersley, F. Krienen, F. Lange, G. Lebée, E. McMillan, G. Petrucci, E. Picasso, O. Rúnolfsson, W. von Rüden, R.W. Williams, S. Wojcicki, Final report on the CERN muon storage ring including the anomalous magnetic moment and the electric dipole moment of the muon, and a direct test of relativistic time dilation, Nuclear Physics B, Volume 150, 1979, Pages 1-75, ISSN 0550-3213, https://doi.org/10.1016/0550-3213(79)90292-X
-25. Roos, C., Marraffino, J., Reucroft, S. _et al._ σ± lifetimes and longitudinal acceleration. _Nature_ **286**, 244–245 (1980). https://doi.org/10.1038/286244a0
-26. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). https://doi.org/10.1038/268301a0
-27. Laura Holt and Kevin Haglin 2005 _J. Phys. G: Nucl. Part. Phys._ **31** S245 https://doi.org/10.1088/0954-3899/31/4/030
-28. Juliette Alimena _et al_ 2020 _J. Phys. G: Nucl. Part. Phys._ **47** 090501 https://doi.org/10.1088/1361-6471/ab4574
-29. https://dx.doi.org/10.1088/978-0-7503-2444-1
+18. Durbin, R. P. and Loar, H. H. and Havens, W. W., The Lifetimes of the ${{\pi}}^{+}$ and ${{\pi}}^{{-}}$ Mesons, Phys. Rev., Volume 88, Issue 2, 1952, Pages 179-183 [https://doi.org/10.1103/PhysRev.88.179](https://doi.org/10.1103/PhysRev.88.179)
+19. M. Eckhause, R.J. Harris, W.B. Shuler, R.T. Siegel, R.E. Welsh, A new measurement of the lifetime of the positive pion, Physics Letters, Volume 19, Issue 4, 1965, Pages 348-350, ISSN 0031-9163, [https://doi.org/10.1016/0031-9163(65)91016-4](https://doi.org/10.1016/0031-9163(65)91016-4)
+20. Burrowes, H. C. and Caldwell, D. O. and Frisch, D. H. and Hill, D. A. and Ritson, D. M. and Schluter, R. A., $K$-Meson-Nucleon Total Cross Sections from 0.6 to 2.0 Bev, Phys. Rev. Lett., Volume 2, Issue 3, 1959, Pages 117-119 [https://doi.org/10.1103/PhysRevLett.2.117](https://doi.org/10.1103/PhysRevLett.2.117)
+21. Lobkowicz, F. and Melissinos, A. C. and Nagashima, Y. and Tewksbury, S. and von Briesen, H. and Fox, J. D., Precise Measurement of the $\frac{{K}^{+}}{{K}^{{-}}}$ Lifetime Ratio, Phys. Rev., Volume 185, Issue 5, 1969, Pages 1676-1687 [https://doi.org/10.1103/PhysRev.185.1676](https://doi.org/10.1103/PhysRev.185.1676)
+22. Carithers, W. C. and Modis, T. and Nygren, D. R. and Pun, T. P. and Schwartz, E. L. and Sticker, H. and Christenson, J. H., Measurement of the Phase of the $\mathrm{CP}$-Nonconservation Parameter ${{\eta}}_{+{-}}$ and the ${K}_{S}$ Total Decay Rate, Phys. Rev. Lett., Volume 34, Issue 19, 1975, Pages 1244-1246 [https://doi.org/10.1103/PhysRevLett.34.1244](https://doi.org/10.1103/PhysRevLett.34.1244)
+23. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). [https://doi.org/10.1038/268301a0](https://doi.org/10.1038/268301a0)
+24. J. Bailey, K. Borer, F. Combley, H. Drumm, C. Eck, F.J.M. Farley, J.H. Field, W. Flegel, P.M. Hattersley, F. Krienen, F. Lange, G. Lebée, E. McMillan, G. Petrucci, E. Picasso, O. Rúnolfsson, W. von Rüden, R.W. Williams, S. Wojcicki, Final report on the CERN muon storage ring including the anomalous magnetic moment and the electric dipole moment of the muon, and a direct test of relativistic time dilation, Nuclear Physics B, Volume 150, 1979, Pages 1-75, ISSN 0550-3213, [https://doi.org/10.1016/0550-3213(79)90292-X](https://doi.org/10.1016/0550-3213(79)90292-X)
+25. Roos, C., Marraffino, J., Reucroft, S. _et al._ σ± lifetimes and longitudinal acceleration. _Nature_ **286**, 244–245 (1980). [https://doi.org/10.1038/286244a0](https://doi.org/10.1038/286244a0)
+26. Bailey, J., Borer, K., Combley, F. _et al._ Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. _Nature_ **268**, 301–305 (1977). [https://doi.org/10.1038/268301a0](https://doi.org/10.1038/268301a0)
+27. Laura Holt and Kevin Haglin 2005 _J. Phys. G: Nucl. Part. Phys._ **31** S245 [https://doi.org/10.1088/0954-3899/31/4/030](https://doi.org/10.1088/0954-3899/31/4/030)
+28. Juliette Alimena _et al_ 2020 _J. Phys. G: Nucl. Part. Phys._ **47** 090501 [https://doi.org/10.1088/1361-6471/ab4574](https://doi.org/10.1088/1361-6471/ab4574)
+29. Buckley, A.,White, Ch., White, M.: Practical Collider Physics, IOP Publishing (2021). [https://dx.doi.org/10.1088/978-0-7503-2444-1](https://dx.doi.org/10.1088/978-0-7503-2444-1)
 
