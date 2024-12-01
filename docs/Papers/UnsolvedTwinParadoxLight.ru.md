@@ -214,13 +214,13 @@ $v''=l''/t_2=\frac {(l/\gamma)}{(t_1/\gamma)}=v$.
 
 ### Список литературы
 
-1. Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) https://doi.org/10.1002/andp.19053221004.
+1. Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) [https://doi.org/10.1002/andp.19053221004](https://doi.org/10.1002/andp.19053221004).
 2. Einstein, A.: Die relativit¨ats-theorie. Vierteljahrsschrift der Naturforschenden Gesellschaft in Z¨urich 56, 1–14 (1911).
 3. Resnick, R.: Supplementary Topic B: The Twin Paradox, pp. 201–209. John Wiley and Sons, Inc., New York (1968).
 4. Crowell, B.: The Twin Paradox, pp. 23–24. Light and Matter, Fullerton, California (2000).
 5. Serway, R.A., Moses, C.J., Moyer, C.A.: Modern Physics, pp. 21–22. Thomson Learning, Inc., 10 Davis Drive Belmont, CA 94002 (2004).
-6. D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). https://doi.org/10.1007/978-3-319-22014-7.
-7. Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). https://doi.org/10.1017/CBO9781139003391.
+6. D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). [https://doi.org/10.1007/978-3-319-22014-7](https://doi.org/10.1007/978-3-319-22014-7).
+7. Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). [https://doi.org/10.1017/CBO9781139003391](https://doi.org/10.1017/CBO9781139003391).
 8. Hawley, J.F., Holcomb, K.A.: Foundations of Modern Cosmology, pp. 203–205. Oxford University Press, Great Clarendon St, Oxford (2005).
 9. Laue, M.: The principle of relativity. Yearbooks of Philosophy 1, 99–128 (1913).
 10. Einstein, A.: Dialog about objections against the theory of relativity. Die Naturwissenschaften 48, 697–702 (1918).
