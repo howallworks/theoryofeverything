@@ -6,7 +6,7 @@ This research examines the issue of equality of inertial reference frames, that 
 
 Albert Einstein's special relativity has been well studied and accepted as the basic concept corresponding to the current interpretation of the structure of our universe [1-15]. Currently available experimental data on relativistic time dilation relative to the center of the Earth are in good agreement with the predictions of the special relativity [33-38]. Experimental data on the lifetime of short-lived particles relative to the center of the Earth also agree well with the predictions of the special relativity [16-29], but do these same experimental data prove the equality of any inertial reference frames and, accordingly, the truth of the first postulate of the special relativity? The answer to this question is not as simple as it seems.
 
-#### Experiments with short-lived particles proving the inequality of inertial reference frames
+### Experiments with short-lived particles proving the inequality of inertial reference frames
 
 In this section, we will compare a pair of identical versions of an experiment similar to the twin paradox, which differ only in the choice of the basis inertial reference frame. In fact, the first postulate of the special relativity is being tested on the basis of this pair of experiments, that is, the assumption that any physical processes in these inertial reference frames proceed the same way and identical experimental results will be obtained.
 

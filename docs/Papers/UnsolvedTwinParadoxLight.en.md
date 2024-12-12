@@ -4,7 +4,9 @@
 ***During the update process***
 ### Introduction
 
-#### Experiments with short-lived particles proving the inequality of inertial reference frames
+***During the update process***
+
+### Experiments with short-lived particles proving the inequality of inertial reference frames
 
 In this section, we will compare a pair of identical versions of an experiment similar to the twin paradox, which differ only in the choice of the basis inertial reference frame. In fact, the first postulate of the special relativity is being tested on the basis of this pair of experiments, that is, the assumption that any physical processes in these inertial reference frames proceed the same way and identical experimental results will be obtained.
 
