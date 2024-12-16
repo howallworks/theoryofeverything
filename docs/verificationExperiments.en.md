@@ -1,6 +1,4 @@
 
-## Verification experiments
-
 ### Search for the quantum of graviton
 
 The deflection of light during the annihilation of an electron-positron pair with decay into photons and gravitons.
