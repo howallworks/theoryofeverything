@@ -62,6 +62,7 @@ nav:
   - README: README.md
   - Theoryofeverything: theoryofeverything.md
   - theoryofeverythingPracticalC: theoryofeverythingPracticalC.md
+  - verificationExperiments: verificationExperiments.md
   - ElementaryParticles: 
       - Quantum graviton: ElementaryParticles/Quantum graviton.md 
       - Quantum photon: ElementaryParticles/Quantum photon.md
@@ -107,6 +108,7 @@ plugins:
           nav_translations:
               Theoryofeverything: Theory of everything
               theoryofeverythingPracticalC: Theory of everything. Practical Consequences
+              verificationExperiments: Verification experiments
               README: Foreword
               ElementaryParticles: Elementary particles
               ParticlesOfStandardModel: Particles of Standard Model
@@ -124,6 +126,7 @@ plugins:
           nav_translations:
               Theoryofeverything: Теория всего
               theoryofeverythingPracticalC: Теория всего. Практические последствия
+              verificationExperiments: Проверочные эксперименты
               README: Предисловие
               ElementaryParticles: Элементарные частицы
               ParticlesOfStandardModel: Частицы Стандартной модели
