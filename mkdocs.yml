@@ -85,6 +85,7 @@ nav:
       #- UnsolvedTwinParadox: Papers/UnsolvedTwinParadox.md
       - TermTime: Papers/TermTime.md
       - UnsolvedTwinParadoxLight: Papers/UnsolvedTwinParadoxLight.md
+      - OnTheNon-probabilisticNatureOfTheUniverse: Papers/OnTheNon-probabilisticNatureOfTheUniverse.md
 
 plugins:
   - search:
@@ -117,6 +118,7 @@ plugins:
               #UnsolvedTwinParadox: Unsolved Twin Paradox
               TermTime: How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
               UnsolvedTwinParadoxLight: Two great theories based on a common interpretation of interference. What is wrong with wave-particle duality interpretation and the consequences that follow from it
+              OnTheNon-probabilisticNatureOfTheUniverse: On the non-probabilistic nature of the universe
         - locale: ru
           name: Русский
           ######
@@ -150,7 +152,8 @@ plugins:
               #UnsolvedTwinParadox: Неразрешимый Парадокс Близнецов
               TermTime: Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
               UnsolvedTwinParadoxLight: Две великие теории, базирующиеся на общей интерпретации интерференции. Что не так с интерпретацией корпускулярно-волнового дуализма и вытекающие из этого последствия 
-          
+              OnTheNon-probabilisticNatureOfTheUniverse: О не вероятностной природе Вселенной
+              
 extra_javascript:
   #- javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
