@@ -1,5 +1,4 @@
 
-### On the non-probabilistic nature of the universe
 
 In order to understand whether our universe is predetermined or probabilistic, let's look at the physical basis of probability.
 

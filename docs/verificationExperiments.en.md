@@ -1,5 +1,5 @@
 
-### Search for the quantum of graviton
+### Search for the quantum graviton
 
 The deflection of light during the annihilation of an electron-positron pair with decay into photons and gravitons.
 
