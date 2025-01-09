@@ -12,7 +12,7 @@ In this section, we will compare a pair of identical versions of an experiment s
 
 Consider the twin paradox of the special theory of relativity [1-15]. One twin stays on his home planet, and the other gets on a spacecraft. The beginning of a thought experiment. The spacecraft accelerates to the velocity $v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time $t$. Then it accelerates to travel back to the velocity $-v$, close to the speed of light relative to the home planet in a time tending to zero. Then it moves for a long time $t$. Then it accelerates to a speed equal to zero relative to the home planet. The spacecraft is on its home planet. The end of the thought experiment.
 
-It is believed that the "traveling" twin will always be younger than the "stay-at-home" twin. Let's check it out. Let $t$ be one year by the clock on the home planet. Let's choose $v$ in such a way that the time dilation coefficient $\gamma$ (Lorentz factor) is equal to 1000.
+It is believed that the "traveling" twin will always be younger than the "stay-at-home" twin. Let's check it out. Let $t$ be one year by the clock on the home planet. Let's choose $v$ in such a way that the Lorentz factor $\gamma=\frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$ (time dilation coefficient) is equal to 1000.
 
 Let's consider the classic version of the experiment. Let the home planet be Earth. We get that the first twin has aged $2t$, and the second twin has aged $\gamma$ times less. That is, the clock on the spacecraft ticks $\gamma$ times slower than the clock on the home planet. Nothing interesting.
 
