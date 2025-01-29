@@ -121,9 +121,11 @@ Let's accelerate the first one to the speed of $v$ in a time tending to zero. Wh
 
 ![[fig0_05black_2.jpg]]
 
-**Figure 5 – Two linear arrays of detectors resting in the ImFR. The first one was accelerated to the speed of $v$ in a time tending to zero
-a) experimentally recorded result
-b, c, d) variants predicted by the special theory of relativity, which are not recorded experimentally**
+**Figure 5 – Two linear arrays of detectors resting in the ImFR. The first one was accelerated to the speed of $v$ in a time tending to zero**
+
+**a) experimentally recorded result**
+
+**b, c, d) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
 Again, we get that the method of "measuring" the length is based on clock desynchronization and does not reflect the actual location of the object.
 
