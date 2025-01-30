@@ -122,20 +122,18 @@ Let's accelerate the first one to the speed of $v$ in a time tending to zero. Wh
 ![[fig0_05black_2.jpg]]
 
 **Figure 5 – Two linear arrays of detectors resting in the ImFR. The first one was accelerated to the speed of $v$ in a time tending to zero**
-
 **a) experimentally recorded result**
-
 **b, c, d) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
-Again, we get that the method of "measuring" the length is based on clock desynchronization and does not reflect the actual location of the object.
+Again, we get that the method of measuring the length is based on clock desynchronization and does not reflect the actual location of the object.
 
-Even worse, according to the special theory of relativity, the length contraction of the detector array should be instantaneous/teleportation. That is, even based on the non-zero acceleration time of the detector array, the "compression" speed should be faster than speed of light with the result shown in one of Figures 5b, 5c, 5d, which does not correspond to experimental data and also contradicts the maximum speed limit of the theory of relativity.
+Even worse, according to the special theory of relativity, the length contraction of the detector array should be instantaneous or teleportation. That is, even based on the non-zero acceleration time of the detector array, the compression speed should be faster than speed of light with the result shown in one of Figures 5b, 5c, 5d, which does not correspond to experimental data and also contradicts the maximum speed limit of the theory of relativity.
 
-A similar problem will be observed in $IFR_v$ witch at rest relative to the first detector array after acceleration. Where, with continuous "measurement", a superluminal "stretching" of the first detector array should be observed.
+A similar problem will be observed in $IFR_v$ witch at rest relative to the first detector array after acceleration. Where, with continuous measurement, a superluminal stretching of the first detector array should be observed.
 
 For the skeptics who might say: "right now we can't accelerate the detector array to relativistic speeds". We can take elementary particles that can easily accelerate to relativistic speeds. Make an extended ruler of length $l$ from these particles. Then conduct the experiment described above. Naturally, no teleportation and no superluminal particle movements will be observed.
 
-This is already enough to prove the inconsistency of the theory of relativity with experimental data.
+As a result, the special relativity predicts that immediately after the acceleration of the first array of detectors or elementary particles, the length $l''=l/\gamma$ will be measured, but superluminal compression will not be detected experimentally and the measured length will remain $l$. This is already enough to prove the inconsistency of the theory of relativity with experimental data.
 
 Now let's fall even deeper into the rabbit hole and look at the source of the problems of the theory of relativity.
 
