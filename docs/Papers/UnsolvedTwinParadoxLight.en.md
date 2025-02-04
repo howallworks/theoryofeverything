@@ -135,6 +135,8 @@ For the skeptics who might say: "right now we can't accelerate the detector arra
 
 As a result, the special relativity predicts that immediately after the acceleration of the first array of detectors or elementary particles, the length $l''=l/\gamma$ will be measured, but superluminal compression will not be detected experimentally and the measured length will remain $l$. This is already enough to prove the inconsistency of the theory of relativity with experimental data.
 
+Once again, in simple terms. It turns out that in one tick or period of the clock (let it be one nanosecond), the measured size of the ruler should change from $l$ to $l''$. In fact, no one forbids choosing the length of the detector array $l$, equal to several billion light-years (Figure 4). Then, in a nanosecond, for the resting array of detectors with clocks, the location of the detector array moving at a speed of $v$ should shift by a billion light-years (one of the variants shown in Figures 5b, 5c, 5d). Of course, this does not correspond to experimental data. It should also be noted that in the interpretation of the theory of relativity, different moving detectors must travel different distances in a nanosecond.
+
 Now let's fall even deeper into the rabbit hole and look at the source of the problems of the theory of relativity.
 
 #### The constancy of the speed of light in any IFR. Interpretation of the results of the Michelson-Morley experiment and others like it
