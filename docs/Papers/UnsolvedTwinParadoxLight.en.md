@@ -121,7 +121,7 @@ Let's accelerate the first one to the speed of $v$ in a time tending to zero. Wh
 
 ![[fig0_05black_2.jpg]]
 
-**Figure 5 – Two linear arrays of detectors resting in the ImFR. The first one was accelerated to the speed of $v$ in a time tending to zero**
+**Figure 5 – Two linear arrays of detectors. The first one was accelerated to the speed of $v$ in a time tending to zero**
 **a) experimentally recorded result**
 **b, c, d) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
@@ -135,6 +135,22 @@ As a result, the special relativity predicts that immediately after the accelera
 
 Once again, in simple terms. It turns out that in one tick or period of the clock (let it be one nanosecond), the measured length of the first detector array should change from $l$ to $l''$. In fact, no one forbids choosing the length of the detector array $l$, equal to several billion light-years (Figure 4). Then, in a nanosecond, for the resting detector array with clocks (second detector array), the location of the first detector array should shift by a billion light-years (one of the variants shown in Figures 5b, 5c, 5d). Of course, this does not correspond to experimental data. It should also be noted that in the interpretation of the theory of relativity, different moving detectors must travel different distances in a nanosecond.
 
+Let's say you still trust the theory of relativity. Then we will bring the situation to the point of absurdity. Let's take three arrays of detectors, which in the future we will simultaneously accelerate in a time tending to zero. Let's also take an ultra-long resting array of detectors for measuring lengths. We get the picture shown in Figure 6.
+
+![[fig0_06black.jpg]]
+
+**Figure 6 – Four linear arrays of detectors resting in the ImFR**
+
+Then, after simultaneous acceleration of three arrays of detectors, according to the theory of relativity, the result should be represented by one of the variants in Figure 7.
+
+![[fig0_07_2black.jpg]]
+
+**Figure 7 – Four linear arrays of detectors. The first three accelerated to the speed of $v$ in a time tending to zero**
+**a, b, c) variants predicted by the special theory of relativity, which are not recorded experimentally**
+
+Comparing, for example, Figure 6 and Figure 7c, we can see that the first array of detectors instantly (during acceleration time tending to zero) travelled the empty distance from C to D, which can be equal to a billion light years. Of course, this contradicts any experimental data, and we will not be able to achieve such a result simply by accelerating an object to the speed of $v$ in a time tending to zero.
+As we can see, based on the absurd results in Figure 7, the theory of relativity predicts faster-than-light movement of objects or their parts, which contradicts the speed limit in the theory itself and experimental data. Even worse, the three detector arrays must return to the initial state shown in Figure 6 if we slow them down to zero speed relative to the ultra-long detector array, which is at rest.
+
 Again, we get that the method of measuring the length is based on clock desynchronization and does not reflect the actual location of the object.
 
 Now let's fall even deeper into the rabbit hole and look at the source of the problems of the theory of relativity.
@@ -147,11 +163,11 @@ Is the speed of light constant in any IFR? Does the Michelson-Morley experiment 
 
 Let's move on to the main ***assumption***, which was taken as a basis in the Michelson-Morley experiment, namely, the interpretation of diffraction and interference, that is, to the wave-particle dualism.
 
-For understanding, consider the experiment with two slits in the theory of wave-particle interpretation shown in Figure 6.
+For understanding, consider the experiment with two slits in the theory of wave-particle interpretation shown in Figure 8.
 
 ![[fig04black.jpg]]
 
-**Figure 6 – Interpretation of the double-slit experiment according to the theory of wave-particle dualism**
+**Figure 8 – Interpretation of the double-slit experiment according to the theory of wave-particle dualism**
 
 What is observed is usually interpreted as the superposition of waves from two sources with their amplification in phase or attenuation in antiphase. This was an assumption that agreed well with the experimental data. However, we will get the same result if we assume that there are no waves, and all that is recorded experimentally are particles that, after interacting with the barrier atoms, were re-emitted with the appropriate distribution. In this case, it becomes clear why even single photons generate an interference pattern without any fantastic simultaneous passage through both slits. The observer effect is also understandable, since we physically influence the re-emission system in order to understand which slit the particle passed through.
 
@@ -159,11 +175,11 @@ What is observed is usually interpreted as the superposition of waves from two s
 
 As a result, diffraction, interference, Newton's rings, polarization and all the rest are just the re-emission of particles by barrier atoms with the corresponding distribution of particles along vectors. The key point proving that light is particles, not waves, is the fact that there is no possibility of conducting an experiment in which the waves in the antiphase would extinguish each other. In fact, the theory of wave-particle dualism makes it possible to divide a beam of monochrome coherent photons into two parts that have passed through different paths and hit the detector or screen in antiphase and completely neutralized each other. But this cannot be reproduced experimentally. Moreover, there is not even a drop in intensity, which confirms the concept of re-emission with particle redistribution.
 
-It is also necessary to note the experiment on half-plane diffraction. Its interpretation according to the wave-particle dualism is shown in Figure 7. Here, an obstacle is skirted with the propagation of particles into the area of geometric shadow and stripes with different particle intensities on the screen. There is no superposition of waves from two or more sources, since physically the atomic boundary of the half-plane is one source. However, in the interpretation of the wave-particle dualism, there must be sources of secondary waves in the plane of the half-plane. And secondary sources should be located in an empty space. This contradicts reality, since there is no experimental data proving that the void can become a source of re-emission and, accordingly, secondary waves. As a result, this experiment consists in a simple re-emission by atoms of the edge of the half-plane with an appropriate vector distribution.
+It is also necessary to note the experiment on half-plane diffraction. Its interpretation according to the wave-particle dualism is shown in Figure 9. Here, an obstacle is skirted with the propagation of particles into the area of geometric shadow and stripes with different particle intensities on the screen. There is no superposition of waves from two or more sources, since physically the atomic boundary of the half-plane is one source. However, in the interpretation of the wave-particle dualism, there must be sources of secondary waves in the plane of the half-plane. And secondary sources should be located in an empty space. This contradicts reality, since there is no experimental data proving that the void can become a source of re-emission and, accordingly, secondary waves. As a result, this experiment consists in a simple re-emission by atoms of the edge of the half-plane with an appropriate vector distribution.
 
 ![[fig05black.jpg]]
 
-**Figure 7 – Interpretation of the half-plane diffraction experiment according to the theory of wave-particle dualism** 
+**Figure 9 – Interpretation of the half-plane diffraction experiment according to the theory of wave-particle dualism** 
 
 Let's figure out what exactly happens with diffraction and interference. Are there scientifically proven experimental facts that the direction of photons changes in a vacuum without external influences? No. All photons or any other particles, which are not affected by anything or the effects are compensated, move uniformly and in a straight line. When does the interference or diffraction pattern occur? Only after interacting with the atoms of the obstacles. That is, it is the atoms of the obstacles that are responsible for the deviation of the trajectories of the particles (re-emission) with a specific vector distribution. Let's look at what exactly happens using the example of a photon. It is well known that the energy and, consequently, the frequency of a photon is quantized. Why? Since a photon is a group of quantum photons and their number determines the energy and frequency of the resulting photon. What happens when photons interact with the atoms of an obstacle? Apparently, the electrons of the obstacle interact with photons and re-emit them with an appropriate vector distribution. Moreover, the higher the energy and frequency, that is, the number of quantum photons in a photon, the more difficult it is for an electron to deflect a photon and the smaller the angles of re-emission. The same thing happens in the case of interference or diffraction with other particles. And again, no magic. Everything is simple and clear.
 
@@ -172,19 +188,19 @@ It is also necessary to mention an experiment with three or more polarizers rota
 If a photon passes through a polarizer, it is re-emitted with a cosine distribution of the plane of polarization relative to the axis of this polarizer. Namely: $cos(2x)$, where $x$ is the angle between the axis of the polarizer that re-emits the photon and the plane of polarization of the emitted photon, also $-\pi/4 \leq x \leq \pi/4$. In addition, the polarizer passes only photons with a polarization plane in the range $-\pi/4 \leq x \leq \pi/4$ relative to the axis of this polarizer. It is easy to understand that if the axes of the polarizers coincide, then all photons pass between them. If there is an angle between the axes of the polarizers, for example, $\pi/8\; (22.5^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx \approx$$1-0,85355\approx0,14645\approx$$14,645\%$ photons.
 
 
-Figure 8 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$.
+Figure 10 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$.
 
 
 ![[fig06black.jpg]]
 
-**Figure 8 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$** 
+**Figure 10 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$** 
 
-Figure 9 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$.
+Figure 11 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$.
 
 
 ![[fig07black.jpg]]
 
-**Figure 9 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$**
+**Figure 11 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$**
 
 
 If there is an angle between the axes of the polarizers, for example, $\pi/6 \; (30^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/6)} cos(2x) \,dx =$$1-0,75=0,25=$$25\%$ photons. We get that it doesn't matter how many polarizers the photon has passed before. It is important that each photon will be re-emitted when passing through the polarizer and will change its own plane of polarization. As a result, the more polarizers deflected by the minimum angles, we put between the $0^o$ polarizer and the $90^o$ polarizer, the more photons will pass. This explains all the observed experimental data and effects without violating locality and realism.
