@@ -111,45 +111,43 @@ In fact, the theory of relativity renames the real length into its proper length
 
 #### Relativity and two linear arrays of detectors
 
-Figure 4 shows two linear arrays of detectors resting in the ImFR.
+Figure 4 shows the object under study (a solid object or an array of elementary particles) and a linear array of detectors that rest in an ImFR (specialized inertial reference frame. See above) at the beginning of the experiment. The linear array of detectors always rests in the ImFR.
 
 ![[fig0_04black.jpg]]
 
-**Figure 4 – Two linear arrays of detectors resting in the ImFR**
+**Figure 4 – The object under study and the linear array of detectors at rest in the ImFR**
 
-Let's accelerate the first one to the speed of $v$ in a time tending to zero. What will the detector arrays detect then? Each detector will detect the presence of detectors opposite it (Figure 5a) and there will be no length contraction of $l''=l/\gamma$ (Figures 5b, 5c, 5d).
+Let's accelerate the object under study to the speed of $v$ in a time tending to zero (for example, in a nanosecond) relative to a linear array of detectors. What will the linear array of detectors detect then? Each detector will detect the presence of parts of the object under study opposite it (Figure 5a) and there will be no length contraction of $l''=l/\gamma$ (Figures 5b, 5c, 5d).
 
 ![[fig0_05black_2.jpg]]
 
-**Figure 5 – Two linear arrays of detectors. The first one was accelerated to the speed of $v$ in a time tending to zero**
+**Figure 5 – The object under study and the linear array of detectors. The object under study was accelerated to the speed of $v$ in a time tending to zero**
 **a) experimentally recorded result**
 **b, c, d) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
-Even worse, according to the special theory of relativity, the length contraction of the first detector array should be instantaneous or teleportation. That is, even based on the non-zero acceleration time of the first detector array, the compression speed should be faster than speed of light with the result shown in one of Figures 5b, 5c, 5d, which does not correspond to experimental data and also contradicts the maximum speed limit of the theory of relativity.
+Even worse, according to the special theory of relativity, the length contraction of the object under study should be instantaneous or teleportation. That is, even based on the non-zero acceleration time of the object under study, the compression speed should be faster than speed of light with the result shown in one of Figures 5b, 5c, 5d, which does not correspond to experimental data and also contradicts the maximum speed limit of the theory of relativity.
 
-A similar problem will be observed in $IFR_v$ witch at rest relative to the first detector array after acceleration. Where, with continuous measurement, a superluminal stretching of the first detector array should be observed.
+For skeptics who might say: "right now we can't accelerate the object under study to relativistic speeds". We can take elementary particles that can easily accelerate to relativistic speeds, such as electrons. Make an extended ruler with a length of $l$ from these particles. Then conduct the experiment described above. Naturally, no teleportation or superluminal particle movements will be observed.
 
-For the skeptics who might say: "right now we can't accelerate the first detector array to relativistic speeds". We can take elementary particles that can easily accelerate to relativistic speeds. Make an extended ruler of length $l$ from these particles. Then conduct the experiment described above. Naturally, no teleportation and no superluminal particle movements will be observed.
+As a result, the special relativity predicts that immediately after the acceleration of the object under study or elementary particles, the length $l''=l/\gamma$ will be measured, but superluminal compression will not be detected experimentally and the measured length will remain $l$. This is already enough to prove the inconsistency of the theory of relativity with experimental data.
 
-As a result, the special relativity predicts that immediately after the acceleration of the first detector array or elementary particles, the length $l''=l/\gamma$ will be measured, but superluminal compression will not be detected experimentally and the measured length will remain $l$. This is already enough to prove the inconsistency of the theory of relativity with experimental data.
+Once again, in simple terms. It turns out that in one tick or period of the clock (let it be one nanosecond), the measured length of the object under study should change from $l$ to $l''$. In fact, no one forbids choosing the length of the object under study $l$, equal to several billion light-years (Figure 4). Then, in a nanosecond, for a resting array of detectors with clocks, the location of the object under study should shift by a billion light-years (one of the options shown in Figures 5b, 5c, 5d). Of course, this does not correspond to experimental data. It should also be noted that in the interpretation of the theory of relativity, different parts of the object under study must travel different distances in a nanosecond.
 
-Once again, in simple terms. It turns out that in one tick or period of the clock (let it be one nanosecond), the measured length of the first detector array should change from $l$ to $l''$. In fact, no one forbids choosing the length of the detector array $l$, equal to several billion light-years (Figure 4). Then, in a nanosecond, for the resting detector array with clocks (second detector array), the location of the first detector array should shift by a billion light-years (one of the variants shown in Figures 5b, 5c, 5d). Of course, this does not correspond to experimental data. It should also be noted that in the interpretation of the theory of relativity, different moving detectors must travel different distances in a nanosecond.
-
-Let's say you still trust the theory of relativity. Then we will bring the situation to the point of absurdity. Let's take three arrays of detectors, which in the future we will simultaneously accelerate in a time tending to zero. Let's also take an ultra-long resting array of detectors for measuring lengths. We get the picture shown in Figure 6.
+Let's say you still trust the theory of relativity. Then we will bring the situation to the point of absurdity. Let's take three objects under study, which in the future we will simultaneously accelerate in a time tending to zero. Let's also take an ultra-long resting array of detectors for measuring lengths. We get the picture shown in Figure 6.
 
 ![[fig0_06black.jpg]]
 
-**Figure 6 – Four linear arrays of detectors resting in the ImFR**
+**Figure 6 – Three objects under study and an ultra-long array of detectors at rest in the ImFR**
 
-Then, after simultaneous acceleration of three arrays of detectors, according to the theory of relativity, the result should be represented by one of the variants in Figure 7.
+Then, after simultaneous acceleration of the three studied objects relative to the clocks of resting ultra-long array of detectors, according to the theory of relativity, the measurement result should be represented by one of the variants in Figure 7. It is possible to sort through any other relative positions of the three studied objects with the measured length $l''=l/\gamma$, but it is impossible to eliminate the problem of superluminal movements of their parts.
 
 ![[fig0_07_2black.jpg]]
 
-**Figure 7 – Four linear arrays of detectors. The first three accelerated to the speed of $v$ in a time tending to zero**
+**Figure 7 – Three objects under study and an ultra-long array of detectors. The three studied objects accelerated to the speed of $v$ in a time tending to zero**
 **a, b, c) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
-Comparing, for example, Figure 6 and Figure 7c, we can see that the first array of detectors instantly (during acceleration time tending to zero) travelled the empty distance from C to D, which can be equal to a billion light years. Of course, this contradicts any experimental data, and we will not be able to achieve such a result simply by accelerating an object to the speed of $v$ in a time tending to zero.
-As we can see, based on the absurd results in Figure 7, the theory of relativity predicts faster-than-light movement of objects or their parts, which contradicts the speed limit in the theory itself and experimental data. Even worse, the three detector arrays must return to the initial state shown in Figure 6 if we slow them down to zero speed relative to the ultra-long detector array, which is at rest.
+Comparing, for example, Figure 6 and Figure 7c, we can see that the first object under study instantly (during acceleration time tending to zero. For example, in a nanosecond) travelled the empty space from C to D, which can be equal to a billion light years. Of course, this contradicts any experimental data, and we will not be able to achieve such a result simply by accelerating an object to the speed of $v$ in a time tending to zero.
+As we can see, based on the absurd results in Figure 7, the theory of relativity predicts faster-than-light movement of objects or their parts, which contradicts the speed limit in the theory itself and experimental data. Even worse, the three objects under study must return to the initial state shown in Figure 6 if we slow them down to zero speed relative to the ultra-long detector array, which is at rest.
 
 Again, we get that the method of measuring the length is based on clock desynchronization and does not reflect the actual location of the object.
 
