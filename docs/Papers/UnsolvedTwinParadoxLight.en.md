@@ -147,7 +147,7 @@ Then, after simultaneous acceleration of the three studied objects relative to t
 **a, b, c) variants predicted by the special theory of relativity, which are not recorded experimentally**
 
 Comparing, for example, Figure 6 and Figure 7c, we can see that the first object under study instantly (during acceleration time tending to zero. For example, in a nanosecond) travelled the empty space from C to D, which can be equal to a billion light years. Of course, this contradicts any experimental data, and we will not be able to achieve such a result simply by accelerating an object to the speed of $v$ in a time tending to zero.
-As we can see, based on the absurd results in Figure 7, the theory of relativity predicts faster-than-light movement of objects or their parts, which contradicts the speed limit in the theory itself and experimental data. Even worse, the three objects under study must return to the initial state shown in Figure 6 if we slow them down to zero speed relative to the ultra-long detector array, which is at rest.
+As we can see, based on the absurd results in Figure 7, the theory of relativity predicts faster-than-light movement of objects or their parts, which contradicts the speed limit in the theory itself and experimental data. Even worse, the three objects under study must return to the initial state shown in Figure 6 if we slow them down to zero speed relative to the ultra-long detector array, which is at rest. 
 
 Again, we get that the method of measuring the length is based on clock desynchronization and does not reflect the actual location of the object.
 
