@@ -154,12 +154,6 @@ plugins:
               UnsolvedTwinParadoxLight: Две великие теории, базирующиеся на общей интерпретации интерференции. Что не так с интерпретацией корпускулярно-волнового дуализма и вытекающие из этого последствия 
               OnTheNon-probabilisticNatureOfTheUniverse: О не вероятностной природе Вселенной
 
-extra_css:
-  - javascripts/MathJax_Zero.woff
-  - javascripts/MathJax_Size1-Regular.woff
-  - javascripts/MathJax_Size2-Regular.woff
-  - javascripts/MathJax_Math-Italic.woff
-  - javascripts/MathJax_Main-Regular.woff
               
 extra_javascript:
   #- javascripts/mathjax.js
@@ -169,3 +163,8 @@ extra_javascript:
   ##- https://unpkg.com/mermaid@11.5.0/dist/mermaid.min.js
   - javascripts/tex-mml-chtml.js
   - javascripts/mermaid.min.js
+  - javascripts/MathJax_Zero.woff
+  - javascripts/MathJax_Size1-Regular.woff
+  - javascripts/MathJax_Size2-Regular.woff
+  - javascripts/MathJax_Math-Italic.woff
+  - javascripts/MathJax_Main-Regular.woff
