@@ -173,11 +173,19 @@ What is observed is usually interpreted as the superposition of waves from two s
 
 As a result, diffraction, interference, Newton's rings, polarization and all the rest are just the re-emission of particles by barrier atoms with the corresponding distribution of particles along vectors. The key point proving that light is particles, not waves, is the fact that there is no possibility of conducting an experiment in which the waves in the antiphase would extinguish each other. In fact, the theory of wave-particle dualism makes it possible to divide a beam of monochrome coherent photons into two parts that have passed through different paths and hit the detector or screen in antiphase and completely neutralized each other. But this cannot be reproduced experimentally. Moreover, there is not even a drop in intensity, which confirms the concept of re-emission with particle redistribution.
 
-It is also necessary to note the experiment on half-plane diffraction. Its interpretation according to the wave-particle dualism is shown in Figure 9. Here, an obstacle is skirted with the propagation of particles into the area of geometric shadow and stripes with different particle intensities on the screen. There is no superposition of waves from two or more sources, since physically the atomic boundary of the half-plane is one source. However, in the interpretation of the wave-particle dualism, there must be sources of secondary waves in the plane of the half-plane. And secondary sources should be located in an empty space. This contradicts reality, since there is no experimental data proving that the void can become a source of re-emission and, accordingly, secondary waves. As a result, this experiment consists in a simple re-emission by atoms of the edge of the half-plane with an appropriate vector distribution.
+Special mention should also be made of the half-plane diffraction experiment shown in Figure 9.
+
+![[fig05_0.jpg]]
+
+**Figure 9 – Experiment on diffraction on a half-plane with an image of the intensity distribution of laser radiation**
+
+Its interpretation according to the wave-particle dualism is shown in Figure 10. Here, an obstacle is skirted with the propagation of particles into the area of geometric shadow and stripes with different particle intensities on the screen. There is no superposition of waves from two or more sources, since physically the atomic boundary of the half-plane is one source. However, in the interpretation of the wave-particle dualism, there must be sources of secondary waves in the plane of the half-plane (see Figure 10). And secondary sources should be located in an empty space. This contradicts reality, since there is no experimental data proving that the void can become a source of re-emission and, accordingly, secondary waves. As a result, this experiment consists in a simple re-emission by atoms of the edge of the half-plane with an appropriate vector distribution.
 
 ![[fig05black.jpg]]
 
-**Figure 9 – Interpretation of the half-plane diffraction experiment according to the theory of wave-particle dualism** 
+**Figure 10 – Interpretation of the half-plane diffraction experiment according to the theory of wave-particle dualism** 
+
+As a result, we have two visual types of experiments that prove the absence of wave-particle dualism in our universe and confirm the particles concept of objects in universe. The first type of experiment is that it is impossible to neutralize or even reduce the intensity of waves in antiphase for two parts of a separated monochromatic coherent photon beam. Although this should be implemented experimentally according to the wave concept. The second type of experiment is half-plane diffraction, where the sources of secondary wave re-emission must be certain points of void, which contradicts all available experimental data on the interaction of particles with the void. Photons, like any other particles, cannot be re-emitted by the void - this is an experimental fact. It is well known that if a theory contradicts experimental data, then it is erroneous. Based on this, the theory of wave-particle dualism is erroneous and all observed phenomena and experiments can be explained purely within the framework of particle theory.
 
 Let's figure out what exactly happens with diffraction and interference. Are there scientifically proven experimental facts that the direction of photons changes in a vacuum without external influences? No. All photons or any other particles, which are not affected by anything or the effects are compensated, move uniformly and in a straight line. When does the interference or diffraction pattern occur? Only after interacting with the atoms of the obstacles. That is, it is the atoms of the obstacles that are responsible for the deviation of the trajectories of the particles (re-emission) with a specific vector distribution. Let's look at what exactly happens using the example of a photon. It is well known that the energy and, consequently, the frequency of a photon is quantized. Why? Since a photon is a group of quantum photons and their number determines the energy and frequency of the resulting photon. What happens when photons interact with the atoms of an obstacle? Apparently, the electrons of the obstacle interact with photons and re-emit them with an appropriate vector distribution. Moreover, the higher the energy and frequency, that is, the number of quantum photons in a photon, the more difficult it is for an electron to deflect a photon and the smaller the angles of re-emission. The same thing happens in the case of interference or diffraction with other particles. And again, no magic. Everything is simple and clear.
 
@@ -186,19 +194,19 @@ It is also necessary to mention an experiment with three or more polarizers rota
 If a photon passes through a polarizer, it is re-emitted with a cosine distribution of the plane of polarization relative to the axis of this polarizer. Namely: $cos(2x)$, where $x$ is the angle between the axis of the polarizer that re-emits the photon and the plane of polarization of the emitted photon, also $-\pi/4 \leq x \leq \pi/4$. In addition, the polarizer passes only photons with a polarization plane in the range $-\pi/4 \leq x \leq \pi/4$ relative to the axis of this polarizer. It is easy to understand that if the axes of the polarizers coincide, then all photons pass between them. If there is an angle between the axes of the polarizers, for example, $\pi/8\; (22.5^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx \approx$$1-0,85355\approx0,14645\approx$$14,645\%$ photons.
 
 
-Figure 10 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$.
+Figure 11 shows a picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$.
 
 
 ![[fig06black.jpg]]
 
-**Figure 10 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$** 
+**Figure 11 - Picture of the passage of all photons through the polarizer ($\int_{-\pi/4}^{\pi/4} cos(2x) \,dx$) if the angle between the axes of the polarizers is $0^o$** 
 
-Figure 11 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$.
+Figure 12 shows a picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$.
 
 
 ![[fig07black.jpg]]
 
-**Figure 11 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$**
+**Figure 12 – A picture of photons passing through the polarizer ($\int_{-\pi/4}^{(\pi/4-\pi/8)} cos(2x) \,dx$) if the angle between the axes of the polarizers is $\pi/8 \; (22,5^o)$**
 
 
 If there is an angle between the axes of the polarizers, for example, $\pi/6 \; (30^o)$, then the second polarizer will not pass $\int_{-\pi/4}^{\pi/4} cos(2x) \,dx - \int_{-\pi/4}^{(\pi/4-\pi/6)} cos(2x) \,dx =$$1-0,75=0,25=$$25\%$ photons. We get that it doesn't matter how many polarizers the photon has passed before. It is important that each photon will be re-emitted when passing through the polarizer and will change its own plane of polarization. As a result, the more polarizers deflected by the minimum angles, we put between the $0^o$ polarizer and the $90^o$ polarizer, the more photons will pass. This explains all the observed experimental data and effects without violating locality and realism.
