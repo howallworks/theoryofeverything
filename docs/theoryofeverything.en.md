@@ -103,7 +103,7 @@ When absorbing/joining $q.ph.$ with the opposite [[Helicity.en|helicity]] to the
 Now you need to understand the properties of $q.ph .$ and $q.g.$.
 They are corpuscles, not waves. 
 
-Slit diffraction and other effects are easily explained by the fact that photons/electrons or other particles collide with an obstacle/slit and are re-emitted by particles of this obstacle/slit. This is also true for single photons/particles from the source.
+Slit or half-plane diffraction and other effects are easily explained by the fact that photons/electrons or other particles collide with an obstacle/slit and are re-emitted by particles of this obstacle/slit. This is also true for single photons/particles from the source.
 
 The observer effect is also easily explained by the fact that by "observing" we influence the slit/obstacle and thereby disrupt the natural process of photon/particle re-emission from the source by the slit/obstacle particle system. As a result, although the human eye is an "observer", it does not affect the processes of re-emission of particles, since it does not have an active impact, but only fixes [[Photon.en|photons]] falling into it. On the contrary, if you exert an active influence, the process of re-emission will change. If we influence the system, we get a different result of particle dynamics. No magic.
 
@@ -478,7 +478,7 @@ The world is fully knowable, since it is possible to determine all laws and elem
 
 ### The beginning and the end of our world
 
-The beginning of our world is the Big Bang. The end of our world is a Big freeze and a Big scattering.
+The beginning of our world is the Big Bang without the superluminal inflation of space. The end of our world is a Big freeze and a Big scattering.
 
 The Big Bang is the process of interaction between elementary particles of an ultra–high-density clot in an empty, potentially unlimited space.
 
@@ -506,10 +506,10 @@ Assuming the most far-fetched case. The Big Bang begins. Then the particles of t
 
 Suppose that our galaxy is moving at a speed about speed of light. But this is not the case, since there are no relativistic effects and the picture of the observed universe also does not correspond.
 
-Everything can be explained with a long time of particle dynamics at speeds lower than the speed of light after Big Bang.
+Everything can be explained with a long time of particle dynamics at speeds lower than the speed of light after Big Bang without the superluminal inflation of space.
 The data also tells us that the farther a galaxy is from the center of the universe, the higher its speed. This is typical precisely for the explosion of an ultra-high-density clot in a vacuum. But it doesn't look like the dynamics of particles after the superluminal stretching of space at all (because total speed of movement of forming galaxies would be about zero and, as a result, would tend to the center of the universe. Or galaxies would have formed incomparably much longer than the specified time frame).
 
-The time that has passed since the Big Bang is summed. Time of the particles scattering, of forming and separating standalone galaxies - more than 13.5 billion years. And time for which light reaches us from the most distant galaxies is about 13.5 billion years. In total, more than 27 billion years.
+The time that has passed since the Big Bang without the superluminal inflation of space is summed. Time of the particles scattering, of forming and separating standalone galaxies - more than 13.5 billion years. And time for which light reaches us from the most distant galaxies is about 13.5 billion years. In total, more than 27 billion years.
 
 ### The Limitations of the world
 
