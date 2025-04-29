@@ -873,14 +873,15 @@ Any system will not suit everyone, since everyone has their own goals that may c
 
 # Results
 
--   everything in the world consists of elementary particles (quantum photons and quantum gravitons). Their dynamics are predetermined by the laws of interaction;
+-   everything in the universe consists of elementary particles (quantum photons and quantum gravitons). Their dynamics are predetermined by the laws of interaction;
 -   the speed of elementary particles is the same and constant;
 -   the space of the world is three-dimensional;
 -   space and time are continuous;
--   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that there was a Big Bang that became a reflection of the dynamics of elementary particles;
--   more than 27 billion years have passed since the beginning of the Big Bang;
+-   elementary particles appeared out of nowhere in a very small volume of three-dimensional space of the universe. After that, the Big Bang occurred, without the superluminal inflation of space, which became a reflection of the dynamics of elementary particles;
+-   more than 27 billion years have passed since the beginning of the Big Bang without a superluminal inflation of space;
 -   elementary particles and the laws of the primary world exist initially, but for a limited period of time;
 -   the dynamics of elementary particles is predetermined by fixed laws of their interaction → unambiguity of dynamics → fate;
+-   probabilities are just the consequences of conducting a series of experiments with different initial and external conditions. Our universe does not have a probabilistic nature and obeys fixed laws, and therefore has only one fate;
 -   quantum photons interact only with quantum gravitons;
 -   quantum photons do not interact with each other;
 -   quantum gravitons do not interact with each other;
@@ -893,8 +894,8 @@ Any system will not suit everyone, since everyone has their own goals that may c
 -   there is a redistribution of elementary particles between systems, but there is no transformation of one system into another;
 -   the world is limited by elementary particles and the laws of their interaction;
 -   there is no complete forecast of the future;
--   Immobile frame of reference (ImFR) are equal and can be described by general laws;
--   there is no wave-particle duality, and all the effects are purely corpuscular;
+-   Immobile frame of reference (ImFR) are equal and can be described by general laws. Inertial reference frames are in general unequal and our universe has an absolute reference frame - ImFR;
+-   there is no wave-particle dualism, and all effects are caused purely by particle dynamics;
 -   active observation of elementary particles/systems changes their state, while passive observation does not. Interact an elementary particle/system with other elementary particles/systems → change the dynamics of an elementary particle/elementary particles entering the system. The so-called "quantum effects" are solely a consequence of intervention in/impact on the dynamics of elementary particle systems. Consciousness/passive observation does not affect the dynamics of elementary particle systems. Interference, diffraction, polarization and other sources of "quantum effects" are the result of the re-emission (with a change in the characteristics and directions of motion) by atoms of slits/glasses/mirrors/polarizers of passing/interacting with them by particles. Therefore, violations of Bell's inequality are easily explained classically without violating locality/realism;
 -   there are no stable systems of elementary particles;
 -   quantum gravitons may be emit not uniformly to all sides of three-dimensional space, for example, functioning of [[SMBH.en|SMBH]] with [[Relativistic jet.en|relativistic jets]] - [[Blazar.en|blazars]];
@@ -911,7 +912,7 @@ Any system will not suit everyone, since everyone has their own goals that may c
 - it is possible to create artificial intelligence;
 - there are no parallel worlds.
 
-Our world is completely determined by elementary particles moving at the same speed, the laws of their interaction, three-dimensional continuous space, as well as global laws that determine its beginning.
+Our universe is completely determined by elementary particles moving at the same speed relative to an absolute frame of reference, the laws of their interaction, three-dimensional continuous space, as well as global laws that determine its beginning.
 
 All other conclusions are consequences. 
 
