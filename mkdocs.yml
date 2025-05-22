@@ -60,6 +60,7 @@ markdown_extensions:
 
 nav:
   - README: README.md
+  - FundamentalProblemsOfModernPhysics: FundamentalProblemsOfModernPhysics.md
   - Theoryofeverything: theoryofeverything.md
   - theoryofeverythingPracticalC: theoryofeverythingPracticalC.md
   - verificationExperiments: verificationExperiments.md
@@ -107,6 +108,7 @@ plugins:
           build: true
           site_name: Theory of everything
           nav_translations:
+              FundamentalProblemsOfModernPhysics: Fundamental problems of modern physics
               Theoryofeverything: Theory of everything
               theoryofeverythingPracticalC: Theory of everything. Practical Consequences
               verificationExperiments: Verification experiments
@@ -126,6 +128,7 @@ plugins:
           ######
           site_name: Теория всего
           nav_translations:
+              FundamentalProblemsOfModernPhysics: Фундаментальные проблемы современной физики
               Theoryofeverything: Теория всего
               theoryofeverythingPracticalC: Теория всего. Практические последствия
               verificationExperiments: Проверочные эксперименты
