@@ -1,7 +1,7 @@
 
 ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).
 
-Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2024.04.26).pdf](Files/Theory_of_everything.en(2024.04.26).pdf)
+Latest Pdf version of the Theory of everything: [Theory_of_everything.en(2025.06.03).pdf](Files/Theory_of_everything.en(2025.06.03).pdf)
 
 ## Cognition of the surrounding universe
 
