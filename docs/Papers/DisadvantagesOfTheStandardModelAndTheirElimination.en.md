@@ -1,3 +1,12 @@
 
+Let's consider typical transformations of particles of the Standard Model. For example, the typical annihilation of the electron-positron pair $e^+ + e^- → \gamma + \gamma$ shown in Figure 1.
 
--
+![[e+e-black.jpg]]
+
+**Figure 1 – Feynman diagram for the electron-positron annihilation process or the Breit-Wheeler process (transformation of two high-energy photons into an electron-positron pair)**
+
+Based on the Feynman diagram in Figure 1, the transformation of $\gamma + \gamma → e^+ + e^-$ should also be typical, but it's not like that. To obtain an electron-positron pair from a pair of photons, specific conditions are needed, and such transformations are not observed experimentally in a vacuum.
+
+There are an unimaginable number of high-energy photons in outer space, and they must interact both inside galaxies and in intergalactic space. Pairs of photons should transform into electron-positron pairs. Other photons must interact with electrons and positrons. Some electrons and positrons must interact with other electrons and positrons, which leads to secondary annihilation with other trajectories of the generated photons $\gamma + \gamma → e^+ + e^- → \gamma + \gamma$. All this combined should make a lot of "noise" throughout outer space, making it opaque to photons. However, this is not observed experimentally, and therefore the transformation $\gamma + \gamma → e^+ + e^-$ not the reverse of transformation $e^+ + e^- → \gamma + \gamma$. Why? The reason is that during annihilation $e^+ + e^- → \gamma + \gamma$ in addition to photons, there are also quantum gravitons, which are sufficient in atoms, atomic nuclei, electrons and other particles with mass, but not enough in outer space. And it is precisely because of this that transformation $\gamma + \gamma → e^+ + e^-$ is not observed in an absolute vacuum or even in outer space.
+
+As a result of the transformation $\gamma + \gamma → e^+ + e^-$ and $e^+ + e^- → \gamma + \gamma$ with the corresponding Feynman diagram shown in Figure 1 do not reflect the physics of the processes taking place. This proves that the Standard Model does not describe the experimental data about the universe well enough and indicates the incompleteness of the model and the non-elementary nature of the particles of the Standard Model.
