@@ -1,0 +1,708 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../../../Papers/OnTheInequalityOfInertialReferenceFrames/" hreflang="en" rel="alternate"/>
+<link href="./" hreflang="ru" rel="alternate"/>
+<link href="../../../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-9.7.1" name="generator"/>
+<title>OnTheInequalityOfInertialReferenceFrames - Теория всего</title>
+<link href="../../../assets/stylesheets/main.484c7ddc.min.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/palette.ab4e12ef.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="orange" data-md-color-scheme="slate" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#_1">
+          Перейти к содержанию
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Верхний колонтитул" class="md-header__inner md-grid">
+<a aria-label="Теория всего" class="md-header__button md-logo" data-md-component="logo" href="../../" title="Теория всего">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Теория всего
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              OnTheInequalityOfInertialReferenceFrames
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="orange" data-md-color-scheme="slate" id="__palette_0" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+</label>
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="orange" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+</label>
+</form>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Выберите язык" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="../../../Papers/OnTheInequalityOfInertialReferenceFrames/" hreflang="en">
+              English
+            </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="ru">
+              Русский
+            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Поиск" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Поиск" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+</label>
+<nav aria-label="Поиск" class="md-search__options">
+<button aria-label="Очистить" class="md-search__icon md-icon" tabindex="-1" title="Очистить" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Инициализация поиска
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Навигация" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Теория всего" class="md-nav__button md-logo" data-md-component="logo" href="../../" title="Теория всего">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+    Теория всего
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../">
+<span class="md-ellipsis">
+    
+  
+    Предисловие
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../FundamentalProblemsOfModernPhysics/">
+<span class="md-ellipsis">
+    
+  
+    Фундаментальные проблемы современной физики
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverything/">
+<span class="md-ellipsis">
+    
+  
+    Теория всего
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverythingPracticalC/">
+<span class="md-ellipsis">
+    
+  
+    Теория всего. Практические последствия
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../verificationExperiments/">
+<span class="md-ellipsis">
+    
+  
+    Проверочные эксперименты
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Элементарные частицы
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Элементарные частицы
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20graviton/">
+<span class="md-ellipsis">
+    
+  
+    Квант гравитон
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20photon/">
+<span class="md-ellipsis">
+    
+  
+    Квант фотон
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Частицы Стандартной модели
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Частицы Стандартной модели
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ParticlesOfStandardModel/Photon/">
+<span class="md-ellipsis">
+    
+  
+    Фотон
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Термины или сокращения
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_8_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Термины или сокращения
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Accretion%20disk/">
+<span class="md-ellipsis">
+    
+  
+    Аккрецио́нный диск
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Albert%20Einstein/">
+<span class="md-ellipsis">
+    
+  
+    Альбе́рт Эйнште́йн
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blazar/">
+<span class="md-ellipsis">
+    
+  
+    Блаза́р
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Elementary%20particle/">
+<span class="md-ellipsis">
+    
+  
+    Элементарная частица
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/GTR/">
+<span class="md-ellipsis">
+    
+  
+    ОТО
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Helicity/">
+<span class="md-ellipsis">
+    
+  
+    Спиральность
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Relativistic%20jet/">
+<span class="md-ellipsis">
+    
+  
+    Релятиви́стская струя
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/SMBH/">
+<span class="md-ellipsis">
+    
+  
+    СМЧД
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Standard%20Model/">
+<span class="md-ellipsis">
+    
+  
+    Стандартная модель
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blandford%E2%80%93Znajek%20process/">
+<span class="md-ellipsis">
+    
+  
+    Процесс Блэнфорда — Знаека
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Penrose%20process/">
+<span class="md-ellipsis">
+    
+  
+    процесс Пенроуза
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Hafele%E2%80%93Keating%20experiment/">
+<span class="md-ellipsis">
+    
+  
+    Эксперимент Хафеле — Китинга
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Научные статьи
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_9_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Научные статьи
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermTime/">
+<span class="md-ellipsis">
+    
+  
+    Как дать определение термину «Секунда», чтобы создать теорию относительности. Концепция абсолютного времени и вселенной в целом
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../UnsolvedTwinParadoxLight/">
+<span class="md-ellipsis">
+    
+  
+    Две великие теории, базирующиеся на общей интерпретации интерференции. Что не так с интерпретацией корпускулярно-волнового дуализма и вытекающие из этого последствия
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../OnTheNon-probabilisticNatureOfTheUniverse/">
+<span class="md-ellipsis">
+    
+  
+    О не вероятностной природе Вселенной
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DisadvantagesOfTheStandardModelAndTheirElimination/">
+<span class="md-ellipsis">
+    
+  
+    Недостатки Стандартной Модели и их устранение
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TheDarkMatterHypothesis/">
+<span class="md-ellipsis">
+    
+  
+    Гипотеза о темной материи
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Содержание" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Содержание
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_1">
+<span class="md-ellipsis">
+      
+        Аннотация
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+<span class="md-ellipsis">
+      
+        Введение
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+<span class="md-ellipsis">
+      
+        Эксперименты с короткоживущими частицами доказывающие неравноправие инерциальных систем отсчета
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+<span class="md-ellipsis">
+      
+        Предположение о наличии абсолютной инерциальной системы отсчета
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+<span class="md-ellipsis">
+      
+        Заключение
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_6">
+<span class="md-ellipsis">
+      
+        Список литературы
+      
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>OnTheInequalityOfInertialReferenceFrames</h1>
+<h3 id="_1">Аннотация<a class="headerlink" href="#_1" title="Permanent link">¶</a></h3>
+<p>В данном исследовании рассматривается вопрос равноправия инерциальных систем отсчета, то есть предположения специальной теории относительности о том, что проводя идентичные эксперименты в любых инерциальных системах отсчета, будут получены идентичные результаты. Предсказания специальной теории относительности хорошо согласуются с имеющимися экспериментальными данными при рассмотрении относительно центра Земли. Однако экспериментальные данные о времени жизни короткоживущих частиц доказывают, что идентичные эксперименты в разных инерциальных системах отсчета приводят к разным результатам. Это приводит к выводу об ошибочности первого постулата специальной теории относительности и неравноправию инерциальных систем отсчета. Исходя из этого, сделано предположение о том, что нулевой уровень дипольной анизотропии микроволнового фонового излучения является абсолютной инерциальной системой отсчета, относительно которой верно рассчитывать все релятивистские процессы любых объектов.</p>
+<h3 id="_2">Введение<a class="headerlink" href="#_2" title="Permanent link">¶</a></h3>
+<p>Специальная теория относительности Альберта Эйнштейна прекрасно изучена и принята за основную концепцию, соответствующую текущей интерпретации устройства нашей вселенной [1-15]. Имеющиеся на данный момент экспериментальные данные о релятивистском замедлении времени относительно центра Земли хорошо согласуются с предсказаниями специальной теории относительности [33-38]. Экспериментальные данные о времени жизни короткоживущих частиц также хорошо согласуются с предсказаниями специальной теории относительности относительно центра Земли [16-29], но доказывают ли эти же экспериментальные данные равноправие любых инерциальных систем отсчета и, соответственно, истинности первого постулата специальной теории относительности? Ответ на этот вопрос не так прост, как кажется.</p>
+<h3 id="_3">Эксперименты с короткоживущими частицами доказывающие неравноправие инерциальных систем отсчета<a class="headerlink" href="#_3" title="Permanent link">¶</a></h3>
+<p>В данном разделе будет сравниваться пара идентичных вариантов эксперимента, подобного парадоксу близнецов, которые отличаются лишь выбором базовой инерциальной системы отчета. Фактически проверяется первый постулат специальной теории относительности на базе этой пары экспериментов, то есть предположение о том, что любые физические процессы в этих инерциальных системах отсчета протекают одинаково и будут получены идентичные результаты экспериментов.</p>
+<p>Рассмотрим парадокс близнецов специальной теории относительности [1-15]. Один близнец остается на своей родной планете, а второй садится в космический корабль. Начало мысленного эксперимента. Космический корабль ускоряется до скорости <span class="arithmatex">\(v\)</span>, близкой к скорости света относительно родной планеты за время, стремящееся к нулю. Затем движется длительное время <span class="arithmatex">\(t\)</span>. Затем ускоряется для путешествия обратно до скорости <span class="arithmatex">\(-v\)</span>, близкой к скорости света относительно родной планеты за время, стремящееся к нулю. Затем движется длительное время <span class="arithmatex">\(t\)</span>. Затем ускоряется до скорости, равной нулю относительно родной планеты. Космический корабль находится на родной планете. Конец мысленного эксперимента.</p>
+<p>Считается, что "путешествующий" близнец всегда будет моложе близнеца "домоседа". 
+Давайте это проверим. Пусть <span class="arithmatex">\(t\)</span>  - один год по часам на родной планете. Выберем <span class="arithmatex">\(v\)</span> таким образом, чтобы Лоренц-фактор <span class="arithmatex">\(\gamma=\frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}\)</span> (коэффициент замедления времени) был равен 1000.</p>
+<p>Рассмотрим классический вариант эксперимента. Пусть родная планета - это Земля. Получаем, что первый близнец постарел на <span class="arithmatex">\(2t\)</span>, а второй близнец постарел в <span class="arithmatex">\(\gamma\)</span> раз меньше. То есть часы на космическом корабле шли в <span class="arithmatex">\(\gamma\)</span> раз медленнее, чем часы на родной планете. Ничего интересного.</p>
+<p>Рассмотрим неклассический вариант эксперимента. Пусть родная планета движется со скоростью <span class="arithmatex">\(-v\)</span> относительно Земли. Тогда после первого ускорения космический корабль будет покоится относительно Земли и, к сожалению, на данном этапе второй близнец состарится и умрёт (в соответствии с экспериментальными данными о релятивистской динамике короткоживущих частиц [17-26]). Получаем, что первый близнец постарел на <span class="arithmatex">\(2t\)</span>, а второй близнец давно умер (уже при первом "длительном" ожидании времени <span class="arithmatex">\(t\)</span>) и космический корабль на автопилоте проделал все необходимые этапы. То есть часы на космическом корабле шли в <span class="arithmatex">\(\gamma\)</span> раз быстрее, чем часы на родной планете при первом "длительном" ожидании времени <span class="arithmatex">\(t\)</span>. Именно здесь мы получаем противоречие между предсказаниями специальной теории относительности, утверждающей, что часы на космическом корабле будут тикать в <span class="arithmatex">\(\gamma\)</span> раз медленнее, чем часы на родной планете, и экспериментальными данными о релятивистской динамике короткоживущих частиц, доказывающими, что часы на космическом корабле будут тикать в <span class="arithmatex">\(\gamma\)</span> раз быстрее. При втором "длительном" ожидании времени <span class="arithmatex">\(t\)</span> часы на космическом корабле шли в <span class="arithmatex">\(\gamma\)</span> раз медленнее. В данном случае нам важно знать, сколько времени пройдет по часам космического корабля и сколько времени пройдет по часам родной планеты, так как лишь от этого зависит возраст близнецов.</p>
+<p>Чтобы быть гуманными и не тратить на этот эксперимент жизнь одного из близнецов, можно обойтись короткоживущими частицами, время жизни и замедление времени для которых хорошо известно экспериментально [16-29]. Оба эксперимента легко воспроизвести. Если время жизни частиц равно <span class="arithmatex">\(10t\)</span>, то согласно специальной теории относительности в конце обоих вариантов экспериментов должен быть один и тот же результат. Оставшееся время жизни первой частицы будет равно <span class="arithmatex">\(10t-2t=8t\)</span>, а второй частицы будет равно <span class="arithmatex">\(10t-2t/\gamma=10t-0.002t=9.998t\)</span> из-за эффекта замедления времени. Однако, согласно экспериментальным данным о времени жизни короткоживущих частиц [16-29], в неклассическом варианте эксперимента еще при первом длительном ожидании для первой частицы пройдет время, равное <span class="arithmatex">\(t\)</span> (частица двигается с коэффициентом замедления времени, равным <span class="arithmatex">\(\gamma\)</span> относительно Земли), а для второй частицы - время, равное <span class="arithmatex">\(\gamma t\)</span> (частица двигается без замедления времени относительно Земли). Поэтому экспериментально вторая частица распадется почти в самом начале первого длительного ожидания. Противоречие предсказания специальной теории относительности экспериментальным данным очевидно. </p>
+<p>Чтобы было проще понять произошедшее в этих двух экспериментах, рассмотрим максимальное расстояние, на которое удаляются частицы друг от друга. В обоих экспериментах расстояние будет равно <span class="arithmatex">\(vt\)</span> в инерциальной системе отсчета, связанной с первой частицей. Однако относительно Земли будут получены разные расстояния. В классическом варианте эксперимента расстояние будет равно <span class="arithmatex">\(vt\)</span> из-за того, что инерциальная система отсчета совпадает с Землей. Но в неклассическом варианте эксперимента Земля, пространство и прочие объекты, имеющие релятивистские скорости <span class="arithmatex">\(v\)</span> относительно первой частицы (наблюдателя) будут сжаты в <span class="arithmatex">\(\gamma\)</span> раз (из-за релятивистского сжатия) и, соответственно, с точки зрения Земли (наблюдателя на ней) максимальное расстояние между частицами будет разжато и равно <span class="arithmatex">\(\gamma vt\)</span>. Отсюда мы снова получаем, что при первом длительном ожидании для второй частицы пройдет время, равное <span class="arithmatex">\(\gamma t\)</span>, так как скорость, с которой первая частица будет удаляться от второй частицы или от Земли, будет равна <span class="arithmatex">\(v\)</span>. Значит, экспериментально вторая частица распадется почти в самом начале первого длительного ожидания. </p>
+<p>Еще раз посмотрим на четкие и абсолютно понятные аргументы, которые мы имеем относительно Земли благодаря экспериментальным данным [16-29]. Рассматриваем лишь первое длительное ожидание для простоты.</p>
+<p>В классическом варианте эксперимента вторая частица преодолеет расстояние равное <span class="arithmatex">\(vt\)</span> относительно наблюдателя на Земле. При этом вторая частица все время испытывает эффект замедления времени с коэффициентом равным <span class="arithmatex">\(\gamma\)</span>. Получаем, что за первое длительное ожидание для второй частицы прошло время <span class="arithmatex">\(t/\gamma\)</span>. Как результат, вторая частица не распадется до конца эксперимента. </p>
+<p>В неклассическом варианте эксперимента вторая частица будет покоится, пока первая частица преодолеет расстояние равное <span class="arithmatex">\(\gamma vt\)</span> относительно наблюдателя на Земле. При этом вторая частица не испытывает замедления времени относительно Земли. Получаем, что за первое длительное ожидание для второй частицы прошло время <span class="arithmatex">\(\gamma t\)</span>, но специальная теория относительности ошибочно предсказывала время равное <span class="arithmatex">\(t/\gamma\)</span>. Как результат, вторая частица распадется почти в самом начале первого длительного ожидания. </p>
+<p>Получается, что хотя мы проводим идентичные эксперименты с точки зрения инерциальных систем отсчета, связанных с первыми частицами, но для вторых частиц проходит разное собственное время, и именно из-за этого мы получаем разные экспериментальные результаты. Это нарушает предположение первого постулата специальной теории относительности о том, что любые физические процессы в инерциальных системах отсчета протекают одинаково, и будут получены идентичные результаты экспериментов.</p>
+<p>В итоге получим, что в классическом варианте эксперимента дольше проживет вторая короткоживущая частица. В неклассическом варианте эксперимента первая частица доживет до конца эксперимента, а вторая частица распадется уже при первом длительном ожидании и ускорять уже будет нечего на следующем этапе.</p>
+<p>Получаем, что "путешествующий" близнец не всегда будет моложе близнеца "домоседа".</p>
+<p>Необходимо особо отметить, что классический и неклассический варианты экспериментов отличаются лишь выбором базовой инерциальной системы отсчета - родной планетой или короткоживущей частицей, а всё прочее идентично. То есть разница исключительно в том, что относительная скорость между выбранными родными планетами или короткоживущими частицами - <span class="arithmatex">\(v\)</span>. Все прочие действия с космическими кораблями или короткоживущими частицами идентичны: ускорения, скорости, время по часам инерциальной системы отсчета. </p>
+<p>В итоге, мы провели два идентичных эксперимента в разных инерциальных системах отсчета. Исходя из первого постулата специальной теории относительности, результат должен быть одинаков, так как предполагается, что инерциальные системы отсчета равноправны (то есть любые физические процессы в этих системах отсчета протекают одинаково) и могут быть описаны общими законами. Однако практика показывает, что это предположение не соответствует действительности, так как для разных инерциальных систем отсчета получаются абсолютно противоположные результаты. В классическом варианте эксперимента дольше проживет вторая короткоживущая частица, а в неклассическом варианте эксперимента дольше проживет первая короткоживущая частица. Как видим, инерциальные системы отсчета (для разных вариантов покоящихся родных планет или короткоживущих частиц) неравноправны и не могут быть описаны общими законами. </p>
+<p>Далее давайте разбираться, в чем же кроется причина всего этого.</p>
+<h3 id="_4">Предположение о наличии абсолютной инерциальной системы отсчета<a class="headerlink" href="#_4" title="Permanent link">¶</a></h3>
+<p>Фактически эффект замедления времени заключается в увеличении длительности процессов в часах. Количество этих процессов, исходя из определения термина секунда, принимается за единицу времени. Получается, исходя из экспериментальных данных о динамике короткоживущих частиц, время зависит от скорости движения относительно одной специализированной инерциальной системы отсчета - нулевой дипольной анизотропии реликтового фонового излучения [30-32]. Из-за того, что скорость Солнца относительно нулевой дипольной анизотропии почти отсутствует по меркам релятивистики (370 км/с), то относительно Земли короткоживущие частицы, движущиеся со скоростями, близкими к скорости света, живут дольше (классический вариант эксперимента). Однако в неклассическом варианте эксперимента была выбрана за инерциальную систему отсчета первая короткоживущая частица, которая уже движется со скоростью, близкой к скорости света относительно нулевой дипольной анизотропии реликтового фонового излучения и, следовательно, испытывает сильное замедление времени (был выбран коэффициент <span class="arithmatex">\(\gamma\)</span> равный 1000). При этом, впервые ускорив вторую короткоживущую частицу до скорости <span class="arithmatex">\(v\)</span> относительно первой короткоживущей частицы, фактически мы затормозили вторую частицу почти до нуля относительно нулевой дипольной анизотропии реликтового фонового излучения и, следовательно, она перестала испытывать эффект замедления времени и быстро распалась.</p>
+<h3 id="_5">Заключение<a class="headerlink" href="#_5" title="Permanent link">¶</a></h3>
+<p>Экспериментальные данные о динамике и времени жизни короткоживущих частиц доказывают, что инерциальные системы отсчета неравноправны и, проводя в них идентичные эксперименты, мы получаем разные результаты [16-29]. В следствии ошибочности первого постулата специальной теории относительности сделано предположение о том, что релятивистские эффекты корректно рассчитывать относительно единственной абсолютной инерциальной системы отсчета - нулевой дипольной анизотропии микроволнового фонового излучения.</p>
+<h3 id="_6">Список литературы<a class="headerlink" href="#_6" title="Permanent link">¶</a></h3>
+<ol>
+<li>Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) <a href="https://doi.org/10.1002/andp.19053221004">https://doi.org/10.1002/andp.19053221004</a>.</li>
+<li>Einstein, A.: Die relativit¨ats-theorie. Vierteljahrsschrift der Naturforschenden Gesellschaft in Z¨urich 56, 1–14 (1911).</li>
+<li>Resnick, R.: Supplementary Topic B: The Twin Paradox, pp. 201–209. John Wiley and Sons, Inc., New York (1968).</li>
+<li>Crowell, B.: The Twin Paradox, pp. 23–24. Light and Matter, Fullerton, California (2000).</li>
+<li>Serway, R.A., Moses, C.J., Moyer, C.A.: Modern Physics, pp. 21–22. Thomson Learning, Inc., 10 Davis Drive Belmont, CA 94002 (2004).</li>
+<li>D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). <a href="https://doi.org/10.1007/978-3-319-22014-7">https://doi.org/10.1007/978-3-319-22014-7</a>.</li>
+<li>Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). <a href="https://doi.org/10.1017/CBO9781139003391">https://doi.org/10.1017/CBO9781139003391</a>.</li>
+<li>Hawley, J.F., Holcomb, K.A.: Foundations of Modern Cosmology, pp. 203–205. Oxford University Press, Great Clarendon St, Oxford (2005).</li>
+<li>Laue, M.: The principle of relativity. Yearbooks of Philosophy 1, 99–128 (1913).</li>
+<li>Einstein, A.: Dialog about objections against the theory of relativity. Die Naturwissenschaften 48, 697–702 (1918).</li>
+<li>Ohanian, H.: Special Relativity: a Modern Introduction. Physics Curriculum and Instruction, Lakeville, MN (2001).</li>
+<li>Harris, R.: Modern Physics. Pearson Addison-Wesley, San Francisco, CA (2008).</li>
+<li>Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).</li>
+<li>Miller, A.I.: Varičak and Einstein. Albert Einstein's special theory of relativity. Emergence (1905) and early interpretation (1905–1911). Addison–Wesley, pp. 249–253 (1981).</li>
+<li>Einstein, A.: Zum Ehrenfestschen Paradoxon. Eine Bemerkung zu V. Variĉaks Aufsatz. Physikalische Zeitschrift. 12: 509–510 (1911).</li>
+<li>Nalini Easwar, Douglas A. MacIntire; Study of the effect of relativistic time dilation on cosmic ray muon flux—An undergraduate modern physics experiment. <strong>Am. J. Phys.</strong> 1 July 1991; 59 (7): 589–592. <a href="https://doi.org/10.1119/1.16841">https://doi.org/10.1119/1.16841</a></li>
+<li>Thomas Coan, Tiankuan Liu, Jingbo Ye; A compact apparatus for muon lifetime measurement and time dilation demonstration in the undergraduate laboratory. <strong>Am. J. Phys.</strong> 1 February 2006; 74 (2): 161–164. <a href="https://doi.org/10.1119/1.2135319">https://doi.org/10.1119/1.2135319</a></li>
+<li>Durbin, R. P. and Loar, H. H. and Havens, W. W., The Lifetimes of the <span class="arithmatex">\({{\pi}}^{+}\)</span> and <span class="arithmatex">\({{\pi}}^{{-}}\)</span> Mesons, Phys. Rev., Volume 88, Issue 2, 1952, Pages 179-183 <a href="https://doi.org/10.1103/PhysRev.88.179">https://doi.org/10.1103/PhysRev.88.179</a></li>
+<li>M. Eckhause, R.J. Harris, W.B. Shuler, R.T. Siegel, R.E. Welsh, A new measurement of the lifetime of the positive pion, Physics Letters, Volume 19, Issue 4, 1965, Pages 348-350, ISSN 0031-9163, <a href="https://doi.org/10.1016/0031-9163(65)91016-4">https://doi.org/10.1016/0031-9163(65)91016-4</a></li>
+<li>Burrowes, H. C. and Caldwell, D. O. and Frisch, D. H. and Hill, D. A. and Ritson, D. M. and Schluter, R. A., <span class="arithmatex">\(K\)</span>-Meson-Nucleon Total Cross Sections from 0.6 to 2.0 Bev, Phys. Rev. Lett., Volume 2, Issue 3, 1959, Pages 117-119 <a href="https://doi.org/10.1103/PhysRevLett.2.117">https://doi.org/10.1103/PhysRevLett.2.117</a></li>
+<li>Lobkowicz, F. and Melissinos, A. C. and Nagashima, Y. and Tewksbury, S. and von Briesen, H. and Fox, J. D., Precise Measurement of the <span class="arithmatex">\(\frac{{K}^{+}}{{K}^{{-}}}\)</span> Lifetime Ratio, Phys. Rev., Volume 185, Issue 5, 1969, Pages 1676-1687 <a href="https://doi.org/10.1103/PhysRev.185.1676">https://doi.org/10.1103/PhysRev.185.1676</a></li>
+<li>Carithers, W. C. and Modis, T. and Nygren, D. R. and Pun, T. P. and Schwartz, E. L. and Sticker, H. and Christenson, J. H., Measurement of the Phase of the <span class="arithmatex">\(\mathrm{CP}\)</span>-Nonconservation Parameter <span class="arithmatex">\({{\eta}}_{+{-}}\)</span> and the <span class="arithmatex">\({K}_{S}\)</span> Total Decay Rate, Phys. Rev. Lett., Volume 34, Issue 19, 1975, Pages 1244-1246 <a href="https://doi.org/10.1103/PhysRevLett.34.1244">https://doi.org/10.1103/PhysRevLett.34.1244</a></li>
+<li>Bailey, J., Borer, K., Combley, F. <em>et al.</em> Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. <em>Nature</em> <strong>268</strong>, 301–305 (1977). <a href="https://doi.org/10.1038/268301a0">https://doi.org/10.1038/268301a0</a></li>
+<li>J. Bailey, K. Borer, F. Combley, H. Drumm, C. Eck, F.J.M. Farley, J.H. Field, W. Flegel, P.M. Hattersley, F. Krienen, F. Lange, G. Lebée, E. McMillan, G. Petrucci, E. Picasso, O. Rúnolfsson, W. von Rüden, R.W. Williams, S. Wojcicki, Final report on the CERN muon storage ring including the anomalous magnetic moment and the electric dipole moment of the muon, and a direct test of relativistic time dilation, Nuclear Physics B, Volume 150, 1979, Pages 1-75, ISSN 0550-3213, <a href="https://doi.org/10.1016/0550-3213(79)90292-X">https://doi.org/10.1016/0550-3213(79)90292-X</a></li>
+<li>Roos, C., Marraffino, J., Reucroft, S. <em>et al.</em> σ± lifetimes and longitudinal acceleration. <em>Nature</em> <strong>286</strong>, 244–245 (1980). <a href="https://doi.org/10.1038/286244a0">https://doi.org/10.1038/286244a0</a></li>
+<li>Bailey, J., Borer, K., Combley, F. <em>et al.</em> Measurements of relativistic time dilatation for positive and negative muons in a circular orbit. <em>Nature</em> <strong>268</strong>, 301–305 (1977). <a href="https://doi.org/10.1038/268301a0">https://doi.org/10.1038/268301a0</a></li>
+<li>Laura Holt and Kevin Haglin 2005 <em>J. Phys. G: Nucl. Part. Phys.</em> <strong>31</strong> S245 <a href="https://doi.org/10.1088/0954-3899/31/4/030">https://doi.org/10.1088/0954-3899/31/4/030</a></li>
+<li>Juliette Alimena <em>et al</em> 2020 <em>J. Phys. G: Nucl. Part. Phys.</em> <strong>47</strong> 090501 <a href="https://doi.org/10.1088/1361-6471/ab4574">https://doi.org/10.1088/1361-6471/ab4574</a></li>
+<li>Buckley, A.,White, Ch., White, M.: Practical Collider Physics, IOP Publishing (2021). <a href="https://dx.doi.org/10.1088/978-0-7503-2444-1">https://dx.doi.org/10.1088/978-0-7503-2444-1</a></li>
+<li>P.A. Zyla et al. (Particle Data Group) (2020). Review of Particle Physics <em>Progress of Theoretical and Experimental Physics</em>. <strong>2020</strong> (8): 083C01. <a href="https://doi.org/10.1093/ptep/ptaa104">https://doi.org/10.1093/ptep/ptaa104</a>. Cosmic Microwave Background review by Scott and Smoot.</li>
+<li>Shamik Ghosh and Rahul Kothari and Pankaj Jain and Pranati K. Rath, Dipole modulation of cosmic microwave background temperature and polarization, Journal of Cosmology and Astroparticle Physics, Volume 2016, 2016, Pages 046, IOP Publishing <a href="https://doi.org/10.1088/1475-7516/2016/01/046">https://doi.org/10.1088/1475-7516/2016/01/046</a></li>
+<li>Bennett, C.L. and Smoot, G.F. and Janssen, M. and Gulkis, S. and Kogut, A. and Hinshaw, G. and Backus, C. and Hauser, M.G. and Mather, J.C. and Rokke, L. and Tenorio, L. and Weiss, R. and Wilkinson, D.T. and Wright, E.L. and de Amici, G. and Boggess, N.W. and Cheng, E.S. and Jackson, P.D. and Keegstra, P. and Kelsall, T. and Kummerer, R. and Lineweaver, C. and Moseley, S.H. and Murdock, T.L. and Santana, J. and Shafer, R.A. and Silverberg, R.F.. COBE Differential Microwave Radiometers: Calibration Techniques. 1992 (391).<a href="https://doi.org/10.1086/171363">https://doi.org/10.1086/171363</a>. </li>
+<li>Griffiths, D. J. (2023). <em>Introduction to Electrodynamics</em> (5th ed.). Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017%2F9781009397735">https://doi.org/10.1017%2F9781009397735</a></li>
+<li>J. D. Jackson, Ronald F. Fox; <em>Classical Electrodynamics, 3rd ed</em>.. <strong>Am. J. Phys.</strong> 1 September 1999; 67 (9): 841–842. <a href="https://doi.org/10.1119/1.19136">https://doi.org/10.1119/1.19136</a></li>
+<li>D. J. Miller; A constructive approach to the special theory of relativity. <strong>Am. J. Phys.</strong> 1 June 2010; 78 (6): 633–638. <a href="https://doi.org/10.1119/1.3298908">https://doi.org/10.1119/1.3298908</a></li>
+<li>Ashby, N. Relativity in the Global Positioning System. <em>Living Rev. Relativ.</em> <strong>6</strong>, 1 (2003). <a href="https://doi.org/10.12942/lrr-2003-1">https://doi.org/10.12942/lrr-2003-1</a></li>
+<li>Talal A. Debs, Michael L. G. Redhead; The twin ‘‘paradox’’ and the conventionality of simultaneity. <strong>Am. J. Phys.</strong> 1 April 1996; 64 (4): 384–392. <a href="https://doi.org/10.1119/1.18252">https://doi.org/10.1119/1.18252</a></li>
+<li>Norton, J. Einstein’s Investigations of Galilean Covariant Electrodynamics Prior to 1905. <em>Arch. Hist. Exact Sci.</em> <strong>59</strong>, 45–105 (2004). <a href="https://doi.org/10.1007/s00407-004-0085-6">https://doi.org/10.1007/s00407-004-0085-6</a></li>
+</ol>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0432 \u0431\u0443\u0444\u0435\u0440", "clipboard.copy": "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0432 \u0431\u0443\u0444\u0435\u0440", "search.result.more.one": "\u0415\u0449\u0451 1 \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.more.other": "\u0415\u0449\u0451 # \u043d\u0430 \u044d\u0442\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435", "search.result.none": "\u0421\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439 \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e", "search.result.one": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e 1 \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435", "search.result.other": "\u041d\u0430\u0439\u0434\u0435\u043d\u043e \u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0439: #", "search.result.placeholder": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u043f\u0435\u0447\u0430\u0442\u0430\u0442\u044c \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430", "search.result.term.missing": "\u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442", "select.version": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u0432\u0435\u0440\u0441\u0438\u044e"}, "version": null}</script>
+<script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="../../../javascripts/mermaid.min.js"></script>
+</body>
+</html>
