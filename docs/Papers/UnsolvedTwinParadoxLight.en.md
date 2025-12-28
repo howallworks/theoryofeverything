@@ -159,6 +159,8 @@ Is the speed of light constant in any IFR? Does the Michelson-Morley experiment 
 
 #### Interference, diffraction and interpretation of experimental results
 
+It is further necessary to understand the basis of probability in the macrocosm and at the quantum level: [[OnTheNon-probabilisticNatureOfTheUniverse.en|On the non-probabilistic nature of the universe]].
+
 Let's move on to the main ***assumption***, which was taken as a basis in the Michelson-Morley experiment, namely, the interpretation of diffraction and interference, that is, to the wave-particle dualism.
 
 For understanding, consider the experiment with two slits in the theory of wave-particle interpretation shown in Figure 8.
