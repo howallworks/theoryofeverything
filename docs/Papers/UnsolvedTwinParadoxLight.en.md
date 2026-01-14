@@ -153,6 +153,16 @@ This kind of experiment is easily feasible with our current technologies. For ex
 
 Again, we get that the method of measuring the length is based on clock desynchronization and does not reflect the actual location of the object.
 
+If you try to achieve a length equal to $l''$ by any means, then of course you can accelerate the electrons asynchronously with the required time interval. But then the proper length of the ruler between a pair of electrons will also change and become equal to $l''$. This violates the first postulate of the theory of relativity, which is unacceptable.
+
+As a result, if we accelerate the electrons synchronously in ImFR, then in ImFR the length of the ruler at rest will be equal to $l$, and the length of the ruler moving at a speed of $v$ will also be equal to $l$. In this case, in IFRv (IFR moving relative to ImFR at a speed of $v$), the length of the ruler moving at a speed of $-v$ will be equal to $l''$, and the length of the ruler at rest will be equal to $l$.
+
+If we perform asynchronous acceleration with the required time interval in ImFR, then in ImFR the length of the ruler at rest will be equal to $l$, and the length of the ruler moving at a speed of $v$ will be equal to $l''$. In this case, in IFRv (IFR moving relative to ImFR at a speed of $v$), the length of the ruler moving at a speed of $-v$ will be equal to $l''$, and the length of the ruler at rest will also be equal to $l''$.
+
+These examples clearly prove that IFRs are unequal and that a problem similar to the twin paradox exists in all IFRs, experimentally violating the first postulate of the theory of relativity.
+
+In fact, the Lorentz contraction is fixed only in IFRs that move relative to the ImFR. Moreover, this is caused purely by the desynchronization of the clock and the movement of the measured object relative to this IFR. Moreover, at the same time, the object of study, which is not affected by acceleration, remains in the same state in all IFRs, and the methods used to measurement and clock desynchronization in theory of relativity create only an illusion that does not describe the object's proper state.
+
 Now let's fall even deeper into the rabbit hole and look at the source of the problems of the theory of relativity.
 
 #### The constancy of the speed of light in any IFR. Interpretation of the results of the Michelson-Morley experiment and others like it
