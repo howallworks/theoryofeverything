@@ -1,0 +1,715 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="./" hreflang="en" rel="alternate"/>
+<link href="../../ru/Papers/UnsolvedTwinParadox/" hreflang="ru" rel="alternate"/>
+<link href="../../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-9.7.1" name="generator"/>
+<title>UnsolvedTwinParadox - Theory of everything</title>
+<link href="../../assets/stylesheets/main.484c7ddc.min.css" rel="stylesheet"/>
+<link href="../../assets/stylesheets/palette.ab4e12ef.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="orange" data-md-color-scheme="slate" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#annotation">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Theory of everything" class="md-header__button md-logo" data-md-component="logo" href="../.." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Theory of everything
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              UnsolvedTwinParadox
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="orange" data-md-color-scheme="slate" id="__palette_0" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+</label>
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="orange" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+</label>
+</form>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Select language" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="en">
+              English
+            </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="../../ru/Papers/UnsolvedTwinParadox/" hreflang="ru">
+              Русский
+            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Theory of everything" class="md-nav__button md-logo" data-md-component="logo" href="../.." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+    Theory of everything
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../..">
+<span class="md-ellipsis">
+    
+  
+    Foreword
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../FundamentalProblemsOfModernPhysics/">
+<span class="md-ellipsis">
+    
+  
+    Fundamental problems of modern physics
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverything/">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverythingPracticalC/">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything. Practical Consequences
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../verificationExperiments/">
+<span class="md-ellipsis">
+    
+  
+    Verification experiments
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Elementary particles
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Elementary particles
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20graviton/">
+<span class="md-ellipsis">
+    
+  
+    Quantum graviton
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20photon/">
+<span class="md-ellipsis">
+    
+  
+    Quantum photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Particles of Standard Model
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Particles of Standard Model
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ParticlesOfStandardModel/Photon/">
+<span class="md-ellipsis">
+    
+  
+    Photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Terms or abbreviations
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_8_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Terms or abbreviations
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Accretion%20disk/">
+<span class="md-ellipsis">
+    
+  
+    Accretion disk
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Albert%20Einstein/">
+<span class="md-ellipsis">
+    
+  
+    Albert Einstein
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blazar/">
+<span class="md-ellipsis">
+    
+  
+    Blazar
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Elementary%20particle/">
+<span class="md-ellipsis">
+    
+  
+    Elementary particle
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/GTR/">
+<span class="md-ellipsis">
+    
+  
+    GTR
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Helicity/">
+<span class="md-ellipsis">
+    
+  
+    Helicity
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Relativistic%20jet/">
+<span class="md-ellipsis">
+    
+  
+    Relativistic jet
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/SMBH/">
+<span class="md-ellipsis">
+    
+  
+    SMBH
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Standard%20Model/">
+<span class="md-ellipsis">
+    
+  
+    Standard Model
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Blandford%E2%80%93Znajek%20process/">
+<span class="md-ellipsis">
+    
+  
+    Blandford–Znajek process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Penrose%20process/">
+<span class="md-ellipsis">
+    
+  
+    Penrose process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../TermsOrAbbreviations/Hafele%E2%80%93Keating%20experiment/">
+<span class="md-ellipsis">
+    
+  
+    Hafele–Keating experiment
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Papers
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_9_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Papers
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermTime/">
+<span class="md-ellipsis">
+    
+  
+    How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../UnsolvedTwinParadoxLight/">
+<span class="md-ellipsis">
+    
+  
+    Two great theories based on a common interpretation of interference. What is wrong with wave-particle duality interpretation and the consequences that follow from it
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../OnTheNon-probabilisticNatureOfTheUniverse/">
+<span class="md-ellipsis">
+    
+  
+    On the non-probabilistic nature of the universe
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DisadvantagesOfTheStandardModelAndTheirElimination/">
+<span class="md-ellipsis">
+    
+  
+    Disadvantages of the Standard Model and their elimination
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TheDarkMatterHypothesis/">
+<span class="md-ellipsis">
+    
+  
+    The dark matter hypothesis
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#annotation">
+<span class="md-ellipsis">
+      
+        Annotation
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#introduction">
+<span class="md-ellipsis">
+      
+        Introduction
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#thought-experiments-of-the-twin-paradox-unsolvable-within-the-framework-of-einsteins-special-theory-of-relativity">
+<span class="md-ellipsis">
+      
+        Thought experiments of the twin paradox, unsolvable within the framework of Einstein's special theory of relativity
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#conclusion">
+<span class="md-ellipsis">
+      
+        Conclusion
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#references">
+<span class="md-ellipsis">
+      
+        References
+      
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>UnsolvedTwinParadox</h1>
+<h3 id="annotation">Annotation<a class="headerlink" href="#annotation" title="Permanent link">¶</a></h3>
+<p>At the moment, it is considered that the twin paradox contains only apparent contradictions within the framework of Einstein's special theory of relativity. Several methods have been created to explain what is happening in this thought experiment (although these methods use additional means unrelated to special relativity).
+The paper reveals that Einstein's theory of relativity does not allow solving all variants of the twin paradox using exclusively its own methods and mathematical framework. Moreover, it demonstrates that it is possible to conduct a series of experiments between which there will be no difference qualitatively and quantitatively from the point of view of the theory of relativity. However, different results will be obtained for these experiments in reality.
+As a result, the inability to solve the twin paradox within the framework of Einstein's theory of relativity confirms its fallacy and mistaken of concept of relativity of the universe as a whole. This indicates the absolute structure of the universe.</p>
+<h3 id="introduction">Introduction<a class="headerlink" href="#introduction" title="Permanent link">¶</a></h3>
+<p>The twin paradox is the thought experiment which was invented after Einstein formulated the special theory of relativity (STR). In this experiment, it is not clear which object is experiencing time dilation [1,2,3,4,5,6,7]. Then scientists who consider STR to be correct pointed out that there is no paradox. They have come up with a several methods to explain what is happening in this thought experiment (although these methods use additional framework not related to special relativity) [8,9,10,11,12,13]. However, the proposed solutions actually consisted in fitting to a previously known answer and using additional information unrelated to the STR. If we consider solutions exclusively within the framework of Einstein's special theory of relativity, then they are valid only for a narrow range of cases and in general incorrect. Let's conduct a thought experiment to prove it.</p>
+<h3 id="thought-experiments-of-the-twin-paradox-unsolvable-within-the-framework-of-einsteins-special-theory-of-relativity">Thought experiments of the twin paradox, unsolvable within the framework of Einstein's special theory of relativity<a class="headerlink" href="#thought-experiments-of-the-twin-paradox-unsolvable-within-the-framework-of-einsteins-special-theory-of-relativity" title="Permanent link">¶</a></h3>
+<p>For all thought experiments, let's take two short-lived particles obtained at the same time (starships with synchronised clocks will also work). They move only along one coordinate axis for simplicity. Let <span class="arithmatex">\(v\)</span> is their velocity relative to an immobile frame of reference (ImFR) (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error). The time spent on acceleration is considered negligible.</p>
+<p>Experiment 1 description:</p>
+<ol>
+<li>Begin with both objects flying together at velocity <span class="arithmatex">\(v=0\)</span>. </li>
+<li>Let's accelerate them up to <span class="arithmatex">\(0.5c\)</span>. </li>
+<li>Accelerate the first one to a velocity close to the speed of light, and the second one to 0. </li>
+<li>Wait for a significant amount of time <span class="arithmatex">\(t\)</span>. </li>
+<li>Accelerate both of them back to <span class="arithmatex">\(0.5c\)</span>. </li>
+<li>Accelerate both of them to 0. </li>
+<li>Accelerate both of them to <span class="arithmatex">\(-0.5c\)</span>. </li>
+<li>Accelerate the first one to a velocity close to <span class="arithmatex">\(-c\)</span>, and the second one to 0. </li>
+<li>Wait for a significant amount of time <span class="arithmatex">\(t\)</span>. </li>
+<li>Accelerate both of them to <span class="arithmatex">\(-0.5c\)</span>. </li>
+<li>Accelerate both of them to 0. </li>
+<li>End of the experiment with both objects flying together.</li>
+</ol>
+<p>Let's analyze experiment 1 from the point of view of Einstein's theory of relativity.
+The measured speeds and accelerations are the same relative to each other from the point of view of each of the particles (you can also check with starships). This is the essence of the true twin paradox. The other particle was moving faster and the accelerations were the same from the point of view of each of the particles. And here the special theory of relativity is powerless to solve the problem by its own methods (without the introduction of outside observers). Moreover, if an external observer moves at a speed close to the speed of light relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), he will make an erroneous assumption about which particle will decay first.</p>
+<p>Suppose that then you will argue that the second particle, although accelerated as well, but then slowed down and only then moved for a long time <span class="arithmatex">\(t\)</span>. And therefore its "clock" will show a greater amount of time and it will decay first. Let's show that this is in general a misconception.</p>
+<p>Experiment 2a description:</p>
+<ol>
+<li>Begin with both objects flying together at velocity <span class="arithmatex">\(v=0.5c\)</span>. </li>
+<li>Let's accelerate the first one to 0, and the second one to <span class="arithmatex">\(c\)</span>. </li>
+<li>Wait a significant amount of time <span class="arithmatex">\(t\)</span>. </li>
+<li>Accelerate both back up to <span class="arithmatex">\(0.5c\)</span>. </li>
+<li>Then accelerate the first to <span class="arithmatex">\(0.6c\)</span>, and the second to <span class="arithmatex">\(0.4c\)</span>. </li>
+<li>Wait a significant amount of time for <span class="arithmatex">\(5t\)</span>. </li>
+<li>Accelerate them both up to <span class="arithmatex">\(0.5c\)</span>. </li>
+<li>End of the experiment with both objects flying together.</li>
+</ol>
+<p>In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): </p>
+<ul>
+<li>object 1: <span class="arithmatex">\(t_1=F(0)t+F(0.6c)(5t)=t+4t=5t\)</span>; </li>
+<li>object 2: <span class="arithmatex">\(t_2=F(c)t+F(0.4c)(5t)\approx0+4.58t\approx4.58t\)</span>; 
+, where <span class="arithmatex">\(F(v) = \sqrt{1 - \frac{v^2}{c^2}}\)</span>. </li>
+</ul>
+<p>Experiment 2b description:</p>
+<ol>
+<li>Begin with both objects flying together at velocity <span class="arithmatex">\(v=-0.5c\)</span>. </li>
+<li>Let's accelerate the first one to <span class="arithmatex">\(-c\)</span>, and the second one to 0. </li>
+<li>Wait a significant amount of time <span class="arithmatex">\(t\)</span>. </li>
+<li>Accelerate both back up to <span class="arithmatex">\(-0.5c\)</span>. </li>
+<li>Then accelerate the first to <span class="arithmatex">\(-0.4c\)</span>, and the second to <span class="arithmatex">\(-0.6c\)</span>. </li>
+<li>Wait a significant amount of time for <span class="arithmatex">\(5t\)</span>.  </li>
+<li>Accelerate them both up to <span class="arithmatex">\(-0.5c\)</span>. </li>
+<li>End of the experiment with both objects flying together. </li>
+</ol>
+<p>In fact, the following results will be obtained (the reference frame is associated with the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error)): </p>
+<ul>
+<li>object 1: <span class="arithmatex">\(t_1=F(-c)t+F(-0.4c)(5t)\approx0+4.58t\approx4.58t\)</span>; </li>
+<li>object 2: <span class="arithmatex">\(t_2=F(0)t+F(-0.6c)(5t)=t+4t=5t\)</span>; 
+, where <span class="arithmatex">\(F(v) = \sqrt{1 - \frac{v^2}{c^2}}\)</span>. </li>
+</ul>
+<p>The analysis of both experiments 2a and 2b from the point of view of Einstein's theory of relativity is identical.
+From the point of view of each particle/spacecraft, it was at rest. The other particle/spacecraft first rested, then moved, then rested. The accelerations of each particle/spacecraft in the pair were the same in magnitude. As a result, from the point of view of Einstein's theory of relativity, less time should pass for another particle. We get an unsolvable twin paradox. As a result, it is unknown qualitatively and quantitatively what time will pass for another particle/spacecraft.</p>
+<p>In fact, for the last two cases (experiments 2a and 2b), exactly the same thing happened with objects, but due to the different initial velocity relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error), the opposite results were obtained. However, from the point of view of the theory of relativity, there is absolutely no difference. The theory of relativity for these experiments can't answer which clock will show the shorter time and exactly how much the clock will show.</p>
+<p>With other initial velocities relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) and acceleration variations other variants of the results will be obtained. But the essence is the same - Einstein's theory of relativity can't correctly solve the twin paradox.</p>
+<h3 id="conclusion">Conclusion<a class="headerlink" href="#conclusion" title="Permanent link">¶</a></h3>
+<p>Einstein's theory of relativity doesn't use and doesn't give an understanding about of the absolute characteristics, namely the initial velocities of the studied pair of particles/starships. In addition, it also doesn't give an understanding of whether an object is accelerating or decelerating, since only relative velocities and accelerations between objects are important in it. That is the essence of this theory. </p>
+<p>As a result, the twin paradox points to the fallacy of Einstein's theory of relativity and the concept of relativity of the universe. This leads to an understanding of the absolute structure of the universe. Apparently, it is the object with zero shift in cosmic microwave background radiation (zero dipole anisotropy) that is ImFR. This is the basis for building an absolute concept of the universe. Based on this, it is the speed relative to the ImFR (or zero shift of cosmic microwave background radiation (zero dipole anisotropy) or the Earth with an error) that is the key parameter determining how much time the clock will show.</p>
+<h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">¶</a></h3>
+<ol>
+<li>Einstein, A.: On the electrodynamics of moving bodies. Annalen der Physik 322(10), 891–921 (1905) https://doi.org/10.1002/andp.19053221004.</li>
+<li>Einstein, A.: Die relativit¨ats-theorie. Vierteljahrsschrift der Naturforschenden Gesellschaft in Z¨urich 56, 1–14 (1911).</li>
+<li>Resnick, R.: Supplementary Topic B: The Twin Paradox, pp. 201–209. John Wiley and Sons, Inc., New York (1968).</li>
+<li>Crowell, B.: The Twin Paradox, pp. 23–24. Light and Matter, Fullerton, California (2000).</li>
+<li>Serway, R.A., Moses, C.J., Moyer, C.A.: Modern Physics, pp. 21–22. Thomson Learning, Inc., 10 Davis Drive Belmont, CA 94002 (2004).</li>
+<li>D’Auria, R., Trigiante, M.: From Special Relativity to Feynman Diagrams: A Course of Theoretical Particle Physics for Beginners, pp. 541–544. Springer, Switzerland (2011). https://doi.org/10.1007/978-3-319-22014-7.</li>
+<li>Ohanian, H.C., Ruffini, R.: Gravitation and Spacetime. Cambridge University Press, 32 Avenue of the Americans, New York (2013). https://doi.org/10.1017/CBO9781139003391.</li>
+<li>Hawley, J.F., Holcomb, K.A.: Foundations of Modern Cosmology, pp. 203–205. Oxford University Press, Great Clarendon St, Oxford (2005).</li>
+<li>Laue, M.: The principle of relativity. Yearbooks of Philosophy 1, 99–128 (1913).</li>
+<li>Einstein, A.: Dialog about objections against the theory of relativity. Die Naturwissenschaften 48, 697–702 (1918).</li>
+<li>Ohanian, H.: Special Relativity: a Modern Introduction. Physics Curriculum and Instruction, Lakeville, MN (2001).</li>
+<li>Harris, R.: Modern Physics. Pearson Addison-Wesley, San Francisco, CA (2008).</li>
+<li>Rindler, W.: Introduction to Special Relativity. Oxford University Press, Oxford, UK (1982).</li>
+</ol>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+<script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="../../javascripts/mermaid.min.js"></script>
+</body>
+</html>
