@@ -1,0 +1,586 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../Elementary%20particle/" rel="prev"/>
+<link href="../Helicity/" rel="next"/>
+<link href="./" hreflang="en" rel="alternate"/>
+<link href="../../ru/TermsOrAbbreviations/GTR/" hreflang="ru" rel="alternate"/>
+<link href="../../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-9.7.1" name="generator"/>
+<title>GTR - Theory of everything</title>
+<link href="../../assets/stylesheets/main.484c7ddc.min.css" rel="stylesheet"/>
+<link href="../../assets/stylesheets/palette.ab4e12ef.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="orange" data-md-color-scheme="slate" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Theory of everything" class="md-header__button md-logo" data-md-component="logo" href="../.." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Theory of everything
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              GTR
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="orange" data-md-color-scheme="slate" id="__palette_0" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+</label>
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="orange" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+</label>
+</form>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Select language" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="en">
+              English
+            </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="../../ru/TermsOrAbbreviations/GTR/" hreflang="ru">
+              Русский
+            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Theory of everything" class="md-nav__button md-logo" data-md-component="logo" href="../.." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+    Theory of everything
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../..">
+<span class="md-ellipsis">
+    
+  
+    Foreword
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../FundamentalProblemsOfModernPhysics/">
+<span class="md-ellipsis">
+    
+  
+    Fundamental problems of modern physics
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverything/">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../theoryofeverythingPracticalC/">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything. Practical Consequences
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../verificationExperiments/">
+<span class="md-ellipsis">
+    
+  
+    Verification experiments
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Elementary particles
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Elementary particles
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20graviton/">
+<span class="md-ellipsis">
+    
+  
+    Quantum graviton
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ElementaryParticles/Quantum%20photon/">
+<span class="md-ellipsis">
+    
+  
+    Quantum photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Particles of Standard Model
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Particles of Standard Model
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ParticlesOfStandardModel/Photon/">
+<span class="md-ellipsis">
+    
+  
+    Photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Terms or abbreviations
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_8_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Terms or abbreviations
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Accretion%20disk/">
+<span class="md-ellipsis">
+    
+  
+    Accretion disk
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Albert%20Einstein/">
+<span class="md-ellipsis">
+    
+  
+    Albert Einstein
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Blazar/">
+<span class="md-ellipsis">
+    
+  
+    Blazar
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Elementary%20particle/">
+<span class="md-ellipsis">
+    
+  
+    Elementary particle
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<a class="md-nav__link md-nav__link--active" href="./">
+<span class="md-ellipsis">
+    
+  
+    GTR
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Helicity/">
+<span class="md-ellipsis">
+    
+  
+    Helicity
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Relativistic%20jet/">
+<span class="md-ellipsis">
+    
+  
+    Relativistic jet
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../SMBH/">
+<span class="md-ellipsis">
+    
+  
+    SMBH
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Standard%20Model/">
+<span class="md-ellipsis">
+    
+  
+    Standard Model
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Blandford%E2%80%93Znajek%20process/">
+<span class="md-ellipsis">
+    
+  
+    Blandford–Znajek process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Penrose%20process/">
+<span class="md-ellipsis">
+    
+  
+    Penrose process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Hafele%E2%80%93Keating%20experiment/">
+<span class="md-ellipsis">
+    
+  
+    Hafele–Keating experiment
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Papers
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_9_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Papers
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Papers/TermTime/">
+<span class="md-ellipsis">
+    
+  
+    How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Papers/UnsolvedTwinParadoxLight/">
+<span class="md-ellipsis">
+    
+  
+    Two great theories based on a common interpretation of interference. What is wrong with wave-particle duality interpretation and the consequences that follow from it
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Papers/OnTheNon-probabilisticNatureOfTheUniverse/">
+<span class="md-ellipsis">
+    
+  
+    On the non-probabilistic nature of the universe
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Papers/DisadvantagesOfTheStandardModelAndTheirElimination/">
+<span class="md-ellipsis">
+    
+  
+    Disadvantages of the Standard Model and their elimination
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../Papers/TheDarkMatterHypothesis/">
+<span class="md-ellipsis">
+    
+  
+    The dark matter hypothesis
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>GTR</h1>
+<p><a href="https://en.wikipedia.org/wiki/General_relativity"><strong>General relativity</strong></a>, also known as the <strong>general theory of relativity(GTR)</strong> and <strong>Einstein's theory of gravity</strong>, is the <a href="https://en.wikipedia.org/wiki/Differential_geometry" title="Differential geometry">geometric</a> <a href="https://en.wikipedia.org/wiki/Scientific_theory" title="Scientific theory">theory</a> of <a href="https://en.wikipedia.org/wiki/Gravitation" title="Gravitation">gravitation</a> published by <a href="https://en.wikipedia.org/wiki/Albert_Einstein" title="Albert Einstein">Albert Einstein</a> in 1915 and is the current description of gravitation in <a href="https://en.wikipedia.org/wiki/Modern_physics" title="Modern physics">modern physics</a>. General <a href="https://en.wikipedia.org/wiki/Theory_of_relativity" title="Theory of relativity">relativity</a> generalizes <a href="https://en.wikipedia.org/wiki/Special_relativity" title="Special relativity">special relativity</a> and refines <a href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a>, providing a unified description of gravity as a geometric property of <a href="https://en.wikipedia.org/wiki/Space" title="Space">space</a> and <a href="https://en.wikipedia.org/wiki/Time_in_physics" title="Time in physics">time</a> or <a href="https://en.wikipedia.org/wiki/Four-dimensional_space" title="Four-dimensional space">four-dimensional</a> <a href="https://en.wikipedia.org/wiki/Spacetime" title="Spacetime">spacetime</a>. In particular, the <em><a href="https://en.wikipedia.org/wiki/Curvature" title="Curvature">curvature</a> of spacetime</em> is directly related to the <a href="https://en.wikipedia.org/wiki/Energy" title="Energy">energy</a> and <a href="https://en.wikipedia.org/wiki/Momentum" title="Momentum">momentum</a> of whatever <a href="https://en.wikipedia.org/wiki/Matter" title="Matter">matter</a> and <a href="https://en.wikipedia.org/wiki/Radiation" title="Radiation">radiation</a> are present. The relation is specified by the <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" title="Einstein field equations">Einstein field equations</a>, a system of second order <a href="https://en.wikipedia.org/wiki/Partial_differential_equation" title="Partial differential equation">partial differential equations</a>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a>, which describes classical gravity, can be seen as a prediction of general relativity for the almost flat spacetime geometry around stationary mass distributions. Some predictions of general relativity, however, are beyond <a href="https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a> in <a href="https://en.wikipedia.org/wiki/Classical_physics" title="Classical physics">classical physics</a>. These predictions concern the passage of time, the <a href="https://en.wikipedia.org/wiki/Geometry" title="Geometry">geometry</a> of space, the motion of bodies in <a href="https://en.wikipedia.org/wiki/Free_fall" title="Free fall">free fall</a>, and the propagation of light, and include <a href="https://en.wikipedia.org/wiki/Gravitational_time_dilation" title="Gravitational time dilation">gravitational time dilation</a>, <a href="https://en.wikipedia.org/wiki/Gravitational_lens" title="Gravitational lens">gravitational lensing</a>, the <a href="https://en.wikipedia.org/wiki/Gravitational_redshift" title="Gravitational redshift">gravitational redshift</a> of light, the <a href="https://en.wikipedia.org/wiki/Shapiro_time_delay" title="Shapiro time delay">Shapiro time delay</a> and <a href="https://en.wikipedia.org/wiki/Gravitational_singularity" title="Gravitational singularity">singularities</a>/<a href="https://en.wikipedia.org/wiki/Black_holes" title="Black holes">black holes</a>. So far, all <a href="https://en.wikipedia.org/wiki/Tests_of_general_relativity" title="Tests of general relativity">tests of general relativity</a> have been shown to be in agreement with the theory. The time dependent solutions of general relativity enable us to talk about the history of the universe and have provided the modern framework for <a href="https://en.wikipedia.org/wiki/Cosmology" title="Cosmology">cosmology</a>, thus leading to the discovery of the <a href="https://en.wikipedia.org/wiki/Big_Bang" title="Big Bang">Big Bang</a> and <a href="https://en.wikipedia.org/wiki/Cosmic_microwave_background" title="Cosmic microwave background">cosmic microwave background</a> radiation. </p>
+<p>Reconciliation of general relativity with the laws of <a href="https://en.wikipedia.org/wiki/Quantum_mechanics" title="Quantum mechanics">quantum physics</a> remains a problem, however, as there is a lack of a self-consistent theory of <a href="https://en.wikipedia.org/wiki/Quantum_gravity" title="Quantum gravity">quantum gravity</a>. It is not yet known how gravity can be <a href="https://en.wikipedia.org/wiki/Theory_of_everything" title="Theory of everything">unified</a> with the three non-gravitational forces: <a href="https://en.wikipedia.org/wiki/Strong_interaction" title="Strong interaction">strong</a>, <a href="https://en.wikipedia.org/wiki/Weak_interaction" title="Weak interaction">weak</a> and <a href="https://en.wikipedia.org/wiki/Electromagnetism" title="Electromagnetism">electromagnetic</a>.</p>
+<p>Einstein's theory has <a href="https://en.wikipedia.org/wiki/Astrophysical" title="Astrophysical">astrophysical</a> implications, including the prediction of <a href="https://en.wikipedia.org/wiki/Black_holes" title="Black holes">black holes</a>—regions of space in which space and time are distorted in such a way that nothing, not even <a href="https://en.wikipedia.org/wiki/Photon" title="Photon">light</a>, can escape from them. Black holes are the end-state for <a href="https://en.wikipedia.org/wiki/Massive_star" title="Massive star">massive stars</a>. <a href="https://en.wikipedia.org/wiki/Microquasar" title="Microquasar">Microquasars</a> and <a href="https://en.wikipedia.org/wiki/Active_galactic_nucleus" title="Active galactic nucleus">active galactic nuclei</a> are believed to be <a href="https://en.wikipedia.org/wiki/Stellar_black_hole" title="Stellar black hole">stellar black holes</a> and <a href="https://en.wikipedia.org/wiki/Supermassive_black_hole" title="Supermassive black hole">supermassive black holes</a>. It also predicts <a href="https://en.wikipedia.org/wiki/Gravitational_lensing" title="Gravitational lensing">gravitational lensing</a>, where the bending of light results in multiple images of the same distant astronomical phenomenon. Other predictions include the existence of <a href="https://en.wikipedia.org/wiki/Gravitational_wave" title="Gravitational wave">gravitational waves</a>, which have been <a href="https://en.wikipedia.org/wiki/List_of_gravitational_wave_observations" title="List of gravitational wave observations">observed directly</a> by the physics collaboration <a href="https://en.wikipedia.org/wiki/LIGO" title="LIGO">LIGO</a> and other observatories. In addition, general relativity has provided the base of <a href="https://en.wikipedia.org/wiki/Physical_cosmology" title="Physical cosmology">cosmological</a> models of an <a href="https://en.wikipedia.org/wiki/Metric_expansion_of_space" title="Metric expansion of space">expanding universe</a>.</p>
+<p>Widely acknowledged as a theory of extraordinary <a href="https://en.wikipedia.org/wiki/Mathematical_beauty" title="Mathematical beauty">beauty</a>, general relativity has often been described as the most beautiful of all existing physical theories.[<a href="https://en.wikipedia.org/wiki/General_relativity#cite_note-:0-2">2</a>]</p>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+<script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="../../javascripts/mermaid.min.js"></script>
+</body>
+</html>

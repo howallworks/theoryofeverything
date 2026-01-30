@@ -1,0 +1,875 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<link href="../theoryofeverything/" rel="prev"/>
+<link href="../verificationExperiments/" rel="next"/>
+<link href="./" hreflang="en" rel="alternate"/>
+<link href="../ru/theoryofeverythingPracticalC/" hreflang="ru" rel="alternate"/>
+<link href="../assets/images/favicon.png" rel="icon"/>
+<meta content="mkdocs-1.6.1, mkdocs-material-9.7.1" name="generator"/>
+<title>Theory of everything. Practical Consequences - Theory of everything</title>
+<link href="../assets/stylesheets/main.484c7ddc.min.css" rel="stylesheet"/>
+<link href="../assets/stylesheets/palette.ab4e12ef.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+</head>
+<body data-md-color-accent="indigo" data-md-color-primary="orange" data-md-color-scheme="slate" dir="ltr">
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#practical-consequences-of-theory-of-everything">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+</div>
+<header class="md-header md-header--shadow" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Theory of everything" class="md-header__button md-logo" data-md-component="logo" href=".." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Theory of everything
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              Theory of everything. Practical Consequences
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-label="Switch to light mode" class="md-option" data-md-color-accent="indigo" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-primary="orange" data-md-color-scheme="slate" id="__palette_0" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_1" hidden="" title="Switch to light mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+</label>
+<input aria-label="Switch to dark mode" class="md-option" data-md-color-accent="blue" data-md-color-media="(prefers-color-scheme: light)" data-md-color-primary="orange" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+<label class="md-header__button md-icon" for="__palette_0" hidden="" title="Switch to dark mode">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+</label>
+</form>
+<script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+<div class="md-header__option">
+<div class="md-select">
+<button aria-label="Select language" class="md-header__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"></path></svg>
+</button>
+<div class="md-select__inner">
+<ul class="md-select__list">
+<li class="md-select__item">
+<a class="md-select__link" href="./" hreflang="en">
+              English
+            </a>
+</li>
+<li class="md-select__item">
+<a class="md-select__link" href="../ru/theoryofeverythingPracticalC/" hreflang="ru">
+              Русский
+            </a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="" tabindex="0">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Theory of everything" class="md-nav__button md-logo" data-md-component="logo" href=".." title="Theory of everything">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"></path></svg>
+</a>
+    Theory of everything
+  </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="..">
+<span class="md-ellipsis">
+    
+  
+    Foreword
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../FundamentalProblemsOfModernPhysics/">
+<span class="md-ellipsis">
+    
+  
+    Fundamental problems of modern physics
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../theoryofeverything/">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything. Practical Consequences
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+<span class="md-ellipsis">
+    
+  
+    Theory of everything. Practical Consequences
+  
+
+    
+  </span>
+</a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#practical-consequences-of-theory-of-everything">
+<span class="md-ellipsis">
+      
+        Practical Consequences of Theory of everything
+      
+    </span>
+</a>
+<nav aria-label="Practical Consequences of Theory of everything" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#speed-limit">
+<span class="md-ellipsis">
+      
+        Speed limit
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#slowing-down-the-speed-of-processes-in-elementary-particle-systems">
+<span class="md-ellipsis">
+      
+        Slowing down the speed of processes in elementary particle systems
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#adaptive-matter">
+<span class="md-ellipsis">
+      
+        Adaptive matter
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#robotization-terraformers-colonizers">
+<span class="md-ellipsis">
+      
+        Robotization terraformers - colonizers
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#problems-of-intergalactic-travel">
+<span class="md-ellipsis">
+      
+        Problems of intergalactic travel
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#problems-of-traveling-at-near-light-speeds">
+<span class="md-ellipsis">
+      
+        Problems of traveling at near-light speeds
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#immortality">
+<span class="md-ellipsis">
+      
+        Immortality
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#cloning-and-teleportation">
+<span class="md-ellipsis">
+      
+        Cloning and teleportation
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#black-hole-explosions">
+<span class="md-ellipsis">
+      
+        Black Hole explosions
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#impossible">
+<span class="md-ellipsis">
+      
+        Impossible
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#reaching-a-speed-close-to-the-speed-of-light">
+<span class="md-ellipsis">
+      
+        Reaching a speed close to the speed of light
+      
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../verificationExperiments/">
+<span class="md-ellipsis">
+    
+  
+    Verification experiments
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Elementary particles
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_6_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_6">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Elementary particles
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ElementaryParticles/Quantum%20graviton/">
+<span class="md-ellipsis">
+    
+  
+    Quantum graviton
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ElementaryParticles/Quantum%20photon/">
+<span class="md-ellipsis">
+    
+  
+    Quantum photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Particles of Standard Model
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_7_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_7">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Particles of Standard Model
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ParticlesOfStandardModel/Photon/">
+<span class="md-ellipsis">
+    
+  
+    Photon
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Terms or abbreviations
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_8_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_8">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Terms or abbreviations
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Accretion%20disk/">
+<span class="md-ellipsis">
+    
+  
+    Accretion disk
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Albert%20Einstein/">
+<span class="md-ellipsis">
+    
+  
+    Albert Einstein
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Blazar/">
+<span class="md-ellipsis">
+    
+  
+    Blazar
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Elementary%20particle/">
+<span class="md-ellipsis">
+    
+  
+    Elementary particle
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/GTR/">
+<span class="md-ellipsis">
+    
+  
+    GTR
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Helicity/">
+<span class="md-ellipsis">
+    
+  
+    Helicity
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Relativistic%20jet/">
+<span class="md-ellipsis">
+    
+  
+    Relativistic jet
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/SMBH/">
+<span class="md-ellipsis">
+    
+  
+    SMBH
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Standard%20Model/">
+<span class="md-ellipsis">
+    
+  
+    Standard Model
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Blandford%E2%80%93Znajek%20process/">
+<span class="md-ellipsis">
+    
+  
+    Blandford–Znajek process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Penrose%20process/">
+<span class="md-ellipsis">
+    
+  
+    Penrose process
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../TermsOrAbbreviations/Hafele%E2%80%93Keating%20experiment/">
+<span class="md-ellipsis">
+    
+  
+    Hafele–Keating experiment
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+<span class="md-ellipsis">
+    
+  
+    Papers
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_9_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_9">
+<span class="md-nav__icon md-icon"></span>
+            
+  
+    Papers
+  
+
+          </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Papers/TermTime/">
+<span class="md-ellipsis">
+    
+  
+    How to define the term "Second" to create a theory of relativity. The concept of absolute time and the universe in general
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Papers/UnsolvedTwinParadoxLight/">
+<span class="md-ellipsis">
+    
+  
+    Two great theories based on a common interpretation of interference. What is wrong with wave-particle duality interpretation and the consequences that follow from it
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Papers/OnTheNon-probabilisticNatureOfTheUniverse/">
+<span class="md-ellipsis">
+    
+  
+    On the non-probabilistic nature of the universe
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Papers/DisadvantagesOfTheStandardModelAndTheirElimination/">
+<span class="md-ellipsis">
+    
+  
+    Disadvantages of the Standard Model and their elimination
+  
+
+    
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Papers/TheDarkMatterHypothesis/">
+<span class="md-ellipsis">
+    
+  
+    The dark matter hypothesis
+  
+
+    
+  </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#practical-consequences-of-theory-of-everything">
+<span class="md-ellipsis">
+      
+        Practical Consequences of Theory of everything
+      
+    </span>
+</a>
+<nav aria-label="Practical Consequences of Theory of everything" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#speed-limit">
+<span class="md-ellipsis">
+      
+        Speed limit
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#slowing-down-the-speed-of-processes-in-elementary-particle-systems">
+<span class="md-ellipsis">
+      
+        Slowing down the speed of processes in elementary particle systems
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#adaptive-matter">
+<span class="md-ellipsis">
+      
+        Adaptive matter
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#robotization-terraformers-colonizers">
+<span class="md-ellipsis">
+      
+        Robotization terraformers - colonizers
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#problems-of-intergalactic-travel">
+<span class="md-ellipsis">
+      
+        Problems of intergalactic travel
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#problems-of-traveling-at-near-light-speeds">
+<span class="md-ellipsis">
+      
+        Problems of traveling at near-light speeds
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#immortality">
+<span class="md-ellipsis">
+      
+        Immortality
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#cloning-and-teleportation">
+<span class="md-ellipsis">
+      
+        Cloning and teleportation
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#black-hole-explosions">
+<span class="md-ellipsis">
+      
+        Black Hole explosions
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#impossible">
+<span class="md-ellipsis">
+      
+        Impossible
+      
+    </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#reaching-a-speed-close-to-the-speed-of-light">
+<span class="md-ellipsis">
+      
+        Reaching a speed close to the speed of light
+      
+    </span>
+</a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<h1>Theory of everything. Practical Consequences</h1>
+<p>ATTENTION! If the formula display is broken, then reload the page. The search works only in the full browser version (it does not work in the mobile version).</p>
+<p>Latest Pdf version of practical consequences of the Theory of everything: <a href="../Files/Theory_of_everything_practical_consequences.en%282023.01.31%29.pdf">Theory of everything. Practical consequences.en(2023.01.31).pdf</a></p>
+<h2 id="practical-consequences-of-theory-of-everything">Practical Consequences of Theory of everything<a class="headerlink" href="#practical-consequences-of-theory-of-everything" title="Permanent link">¶</a></h2>
+<h3 id="speed-limit">Speed limit<a class="headerlink" href="#speed-limit" title="Permanent link">¶</a></h3>
+<p>The ultimate speed of travel is the speed of light.</p>
+<h3 id="slowing-down-the-speed-of-processes-in-elementary-particle-systems">Slowing down the speed of processes in elementary particle systems<a class="headerlink" href="#slowing-down-the-speed-of-processes-in-elementary-particle-systems" title="Permanent link">¶</a></h3>
+<p>The speed of any processes in elementary particle systems can be slowed down to almost zero (the period tends to infinity). The absolute velocity of elementary particles does not change and remains equal to the speed of light. The relative velocity between the elementary particles of the system changes.</p>
+<p>However, this is only possible for individual objects, and not for the entire universe.</p>
+<h3 id="adaptive-matter">Adaptive matter<a class="headerlink" href="#adaptive-matter" title="Permanent link">¶</a></h3>
+<p>Any other matter/antimatter can be synthesized from any matter/antimatter.</p>
+<p>Stones can be converted into gold and vice versa.</p>
+<p>Theoretically, it is possible to dynamically rearrange the shape, structure and composition of levels higher than elementary (quantum photons and quantum gravitons). It is possible to make adaptive matter that adapts to any requirements within the laws of physics. This is extremely difficult, but theoretically possible.</p>
+<h3 id="robotization-terraformers-colonizers">Robotization terraformers - colonizers<a class="headerlink" href="#robotization-terraformers-colonizers" title="Permanent link">¶</a></h3>
+<p>It is possible to send special terraformer robots to other planets that will adjust the ecosystem to the necessary requirements and even grow and train the first colonists themselves.</p>
+<h3 id="problems-of-intergalactic-travel">Problems of intergalactic travel<a class="headerlink" href="#problems-of-intergalactic-travel" title="Permanent link">¶</a></h3>
+<p>The possibility of intergalactic travel may be severely limited due to the impossibility of replenishing the stock of lost elementary particles in an almost complete vacuum (there are almost no external sources of elementary particles).</p>
+<h3 id="problems-of-traveling-at-near-light-speeds">Problems of traveling at near-light speeds<a class="headerlink" href="#problems-of-traveling-at-near-light-speeds" title="Permanent link">¶</a></h3>
+<p>The journey of living beings through the universe makes sense only at a speed close to the speed of light. But at the same time it is very difficult to detect objects so as not to crash into them. It is necessary to send special detecting pulses from photons (the principle of echolocation / sonar) and even this does not guarantee the detection of small objects. In addition, it is also extremely problematic to quickly change the trajectory at near-light speeds. Because of this, the ship must be modular with many duplications of functions and good front protection.</p>
+<h3 id="immortality">Immortality<a class="headerlink" href="#immortality" title="Permanent link">¶</a></h3>
+<p>It is possible to develop conditional immortality, for example, restoring the ideal state of cells and the body as a whole.</p>
+<h3 id="cloning-and-teleportation">Cloning and teleportation<a class="headerlink" href="#cloning-and-teleportation" title="Permanent link">¶</a></h3>
+<p>Complete cloning is possible and, accordingly, teleportation (with special devices at both ends). It can also be an alternative to long and dangerous space travel.</p>
+<h3 id="black-hole-explosions">Black Hole explosions<a class="headerlink" href="#black-hole-explosions" title="Permanent link">¶</a></h3>
+<p>Black holes without quantum gravitons must lose stability and explode when there is a critical shortage of quantum gravitons in their composition.</p>
+<h3 id="impossible">Impossible<a class="headerlink" href="#impossible" title="Permanent link">¶</a></h3>
+<ul>
+<li>time travel</li>
+<li>traveling faster than the speed of light</li>
+<li>wormholes</li>
+<li>parallel universes</li>
+<li>singularity</li>
+<li>probability and choice options as such</li>
+</ul>
+<h3 id="reaching-a-speed-close-to-the-speed-of-light">Reaching a speed close to the speed of light<a class="headerlink" href="#reaching-a-speed-close-to-the-speed-of-light" title="Permanent link">¶</a></h3>
+<p>An important practically necessary moment is the acceleration of spacecraft / probes to speeds close to the speed of light. One of the interesting options may be a space rail accelerator (railgun) located in space. With sufficient length and energy, it can accelerate a capsule with a payload to high speeds.</p>
+<p>However, the most promising options are the photon sail and photon engine.</p>
+<p>The photon sail is a passive engine. In fact, a co-directional stream of photons should get into it, which will accelerate the spacecraft / probe to speeds close to the speed of light.</p>
+<p>The photon engine is active. It is installed on a spacecraft and emits photons in one direction, which is opposite to the direction of the required acceleration. The photon engine involves the installation of a nuclear or hydrogen reactor on a spacecraft. It will be quite difficult to create a photon engine that quickly changes the speed of a spacecraft. However, this is compensated by the possibility of constant operation and the same output power.</p>
+<p>Photonic variants are extremely energy efficient.</p>
+<p>Theoretically, it is possible to develop devices based on gravitational acceleration. Blazars show us that it is possible to create a device that maximally emits gravitons in one plane, which means that spaceships can be accelerated by gravitons when they are in this plane. It is still difficult to understand how to organize a directed beam of gravitons. However, its generation is also theoretically possible, which will increase energy efficiency. In order to develop gravitational accelerators, it is necessary to better understand the processes of interaction of quantum photons with quantum gravitons both in vacuum and inside their clots of what the elements of the Standard Model actually consist of. Gravitational accelerators are the safest for travelers, since the uniform irradiation of quantum gravitons equally accelerates a spacecraft or other objects.</p>
+<p>The most effective way to achieve the speed of a spacecraft /object close to the speed of light is to directly make the direction of motion of all elementary particles almost co-directional. However, it is currently difficult to say whether it is practically feasible or not.</p>
+<p>Photonic engines/accelerators, graviton engines/accelerators, adaptive matter are the ultimate technologies that will be almost impossible to create better.</p>
+</article>
+</div>
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+<script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="../javascripts/mermaid.min.js"></script>
+</body>
+</html>
