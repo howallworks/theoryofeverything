@@ -1,2 +1,21 @@
 
 The reason for the misunderstanding of the violation of Bell's inequality. Polarizer. 
+
+The main reason for the misunderstanding is [[OnTheNon-probabilisticNatureOfTheUniverse.en|the basis of the occurrence of probabilities]], but an erroneous interpretation of the principle of operation of polarizers is also extremely important.
+
+Let's consider the currently generally accepted definition of the term polarizer. A polarizer is an optical device that converts natural (unpolarized) light, oscillating in all directions, into plane polarized light that passing waves with only a certain orientation of the oscillation vector.
+
+However, polarizers are not devices that filter out part of the light wave, leaving only the polarized part. This is proved to us by experimental data on the passage of a multitude of polarizers deflected at small angles. For example, light is absolutely unable to pass through three consecutive polarizers positioned at angles of $0^o$, $45^o$, $90^o$ (between the axes of the polarizers) based on the generally accepted definition of the term polarizer. But experimentally, their light partially passes through. Why?
+
+The reason is that polarizers are devices that non-linearly absorb, pass or not pass through themselves and re-emit photons. All this depends on the orientation of the photons in space, that is, their polarization, and on the atoms of the polarizers with which the photons interact.
+
+We know perfectly well that the electrons in atoms are not static and revolve around the nuclei. Also, the nuclei of atoms themselves are not static. The sizes, energies, locations, and other characteristics of electrons and other particles in atoms are comparable to those of photons, which in each particular experiment changes the result of the interaction of a photon with a polarizer. All this leads to different results in a series of interactions of each of the photons with the polarizer. This introduces an additional change in "probability" (alters and distorts statistics). The polarizer changes the value of the "message" in a pair of entangled photons. This is unacceptable, based on the conditions of the experiment to verify the violation of Bell's inequality, since polarizers should not change the "probabilities" (change the value of the "message" in a pair of entangled photons).
+
+In fact, polarizers change the polarization of photons during their nonlinear absorption and re-emission. Absorption occurs according to the law of $cos^2(\alpha)$. Where $\alpha$ is the angle between the transmission axis of the polarizer and the polarization axis of the absorbed photon. And due to the fact that in experiments to verify Bell's inequality we set an additional angle between the axes of polarization for a pair of polarizers, then for one polarizer we get the law $cos^2(\gamma)$, and for the second $cos^2(\gamma+\beta)$. Where $\beta$ is the angle between the transmission axes of a pair of polarizers from the experiment. Even worse, our polarizers are different and the states of the atoms are also different. Therefore, each polarizer will change the value of the "message" in a pair of entangled photons in different ways for each specific experiment from a series of experiments. This is unacceptable, based on the conditions of the experiment to verify the violation of Bell's inequality.
+
+Unfortunately, we cannot avoid statistics now due to the imperfection of technical means that would allow us to know the locations and other characteristics of the elementary particles of the polarizers.
+Having this information for each specific photon interacting with the polarizer, we could predict its further behavior.
+
+As a result, due to an erroneous interpretation of the functioning of polarizers, all conclusions about the violation of Bell's inequality are also erroneous.
+
+Addition: [[UnsolvedTwinParadoxLight.en#Interference, diffraction and interpretation of experimental results|Interference, diffraction and interpretation of experimental results]]
