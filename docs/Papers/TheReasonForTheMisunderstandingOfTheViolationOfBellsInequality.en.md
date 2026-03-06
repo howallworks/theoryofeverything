@@ -1,6 +1,4 @@
 
-The reason for the misunderstanding of the violation of Bell's inequality. Polarizer. 
-
 The main reason for the misunderstanding is [[OnTheNon-probabilisticNatureOfTheUniverse.en|the basis of the occurrence of probabilities]], but an erroneous interpretation of the principle of operation of polarizers is also extremely important.
 
 Let's consider the currently generally accepted definition of the term polarizer. A polarizer is an optical device that converts natural (unpolarized) light, oscillating in all directions, into plane polarized light that passing waves with only a certain orientation of the oscillation vector.
