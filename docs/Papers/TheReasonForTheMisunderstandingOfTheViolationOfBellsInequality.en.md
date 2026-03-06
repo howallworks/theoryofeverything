@@ -3,7 +3,7 @@ The main reason for the misunderstanding is [[OnTheNon-probabilisticNatureOfTheU
 
 Let's consider the currently generally accepted definition of the term polarizer. A polarizer is an optical device that converts natural (unpolarized) light, oscillating in all directions, into plane polarized light that passing waves with only a certain orientation of the oscillation vector.
 
-However, polarizers are not devices that filter out part of the light wave, leaving only the polarized part. This is proved to us by experimental data on the passage of a multitude of polarizers deflected at small angles. For example, light is absolutely unable to pass through three consecutive polarizers positioned at angles of $0^o$, $45^o$, $90^o$ (between the axes of the polarizers) based on the generally accepted definition of the term polarizer. But experimentally, their light partially passes through. Why?
+However, polarizers are not devices that filter out part of the light wave, leaving only the polarized part. This is proved to us by experimental data on the passage of a multitude of polarizers deflected at small angles. For example, light is absolutely unable to pass through three consecutive polarizers positioned at angles of $0^o$, $45^o$, $90^o$ (between the axes of the polarizers) based on the generally accepted definition of the term polarizer. However, experimental studies show that light partially passes through them. Why?
 
 The reason is that polarizers are devices that non-linearly absorb, pass or not pass through themselves and re-emit photons. All this depends on the orientation of the photons in space, that is, their polarization, and on the atoms of the polarizers with which the photons interact.
 
